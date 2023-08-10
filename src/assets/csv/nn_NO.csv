@@ -65,7 +65,7 @@ harlot,Tøyte,"Kvar natt*, vel ein levande spelar: om dei seier seg einig, lær 
 harpy,Harpy,"Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or both might die.","Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to.","Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to.",,"Mad, 2nd"
 hellslibrarian,Hysj!,Noko ugreitt kan hende spelarar som snakkar når Forteljaren har bedd om ro.,,,,Noko ugreitt
 heretic,Kjettar,"Kven enn som vinn, tapar & kven enn som tapar, vinn, sjølv om du er daud.",,,,
-highpriestess,High Priestess,"Each night, learn which player the Storyteller believes you should talk to most.",Point to a player.,Point to a player.,,
+highpriestess,Øvsteprestinne,"Kvar natt, lær kva spelar Forteljaren tykkjer du bør snakke med mest.",Peik mot ein spelar.,Peik mot ein spelar.,,
 huntsman,Ferdamann,"Éin gong i løpet av spelet, om natta, vel ein levande spelar: Prinsessa, om vald, vert til ein Borgar ikkje i spel. [+ Prinsessa]","Ferdamannen anten ristar på hovudet for ""nei"", eller peikar mot ein spelar. Om dei peikar mot Prinsessa, vekk spelaren, vis dei ""Du er""-kortet og rollebrikka til ei rolle ikkje i spel.","Ferdamannen anten ristar på hovudet for ""nei"", eller peikar mot ein spelar. Om dei peikar mot Prinsessa, vekk spelaren, vis dei ""Du er""-kortet og rollebrikka til ei rolle ikkje i spel.",,Evnelaus
 imp,Imp,"Kvar natt*, vel ein spelar: dei døyr. Om du drep deg sjølv slik, vert ein Lakei til Impen.",,"Impen peikar mot ein spelar. Spelaren døyr. Om Impen vel seg sjølv, byt ut rollebrikka til ein levande Lakei med ei ekstra Imp-brikke.",,Daud
 innkeeper,Krovert,"Kvar natt*, vel 2 spelarar: dei kan ikkje døy i natt, men 1 er full til daggry.",,"Spelarane som før var full og/eller verja misser markørane sine. Korverten peikar mot to spelarar. Båe spelarane er verja, éin av dei er full.",,"Verja,Full"
@@ -74,7 +74,7 @@ judge,Domar,"Éin gong i løpet av spelet, om ein annan spelar nominerte, kan du
 juggler,Sjonglør,"På den fyrste dagen din, giss offentleg rolla til opp mot 5 spelarar. Om natta, lær kor mange du fekk rett i.",,"Om i dag var den fyrste dagen til Sjongløren: Hald fram eit tal fingrar (0, 1, 2, …) tilsvarande ""Rett""-markørar. Fjern markørane.",,Rett
 king,Konge,"Kvar natt, om det er fleire daude enn levande spelarar, lær 1 levande rolle. Demonen veit kven du er.","Vekk Demonen, vis dei ""Denne rolla valde deg""-kortet, vis Konge-brikka og peik mot spelaren som er Kongen.","Om det er fleire daude spelarar enn levande, vis Kongen rollebrikka til ein levande spelar.",,
 klutz,Kløne,"Når du får vite du har døydd, vel offentleg 1 levande spelar: om dei er vond, tapar laget ditt.",,,,
-knight,Knight,You start knowing 2 players that are not the Demon.,Point to 2 non-Demon players.,,,"Know, Know"
+knight,Riddar,Du veit frå byrjinga av spelet 2 spelarar som ikkje er Demonen.,Peik mot to spelarar som ikkje er Demonar.,,,"Veit,Veit"
 legion,Ordenen,Kvar natt* kan det hende at ein spelar døyr. Avrettingar mislykkast om berre vondt røysta for. Du vert også tydd som Lakei. [Dei fleste spelarane er del av Ordenen],,Vel ein spelar. Spelaren døyr.,,"Daud,I ferd med å døy"
 leviathan,Leviatan,"Om fleire enn 1 god spelar vert avretta, vinn vondt. Alle spelarane veit du er i spel. Vondt vinn etter 5 dagar.","Plasser Leviatan sin ""Dag 1""-markør. Kunngjer ""Leviatan er i spel; dette er dag 1"".","Byt ut ""Dag""-påminninga for neste dag.",,"Dag 1,Dag 2,Dag 3,Dag 4,Dag 5,God spelar avretta"
 librarian,Bibliotekar,"Du veit frå byrjinga av spelet at 1 av 2 gjevne spelarar er ein bestemd Einstøing, eller at ingen Einstøingar er i spel.","Vis rollebrikka til ein Einstøing som er i spel. Peik mot to spelarar, kor ein av dei har den rolla. Om ingen Einstøingar er i spel, rist på hovudet for ""nei"".",,,"Einstøing,Feil"
@@ -97,7 +97,7 @@ nightwatchman,Nattevaktar,"Éin gong i løpet av spelet, om natta, vel ein spela
 noble,Adelsmann,"Du veit frå byrjinga av spelet 3 spelarar, nøyaktig 1 av dei er vond.","Peik mot tre spelarar, inkludert nøyaktig éin vond spelar, i ei vilkårleg rekkjefylgd.",,,Sett
 nodashii,Kraka Ski,Kvar natt* vel ein spelar: dei døyr. Dei 2 Borgar-naboane dine er forgifta.,,Kraka Ski peikar mot ein spelar. Spelaren døyr.,,"Daud,Forgifta"
 oracle,Orakel,"Kvar natt*, lær kor mange daude spelarar er vonde.",,"Hald fram eit tal fingrar (0, 1, 2, …) tilsvarande daude vonde spelarar.",,
-organgrinder,Organ Grinder,All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.,,,,About to die
+organgrinder,Veivspelar,Alle spelarar lukkar augo under avrøystingar & talet røyster vert halde løynleg. Røyster for deg tel berre om du også røystar for.,,,,I ferd med å døy
 pacifist,Pasifist,Det kan hende at gode spelarar som vert avretta ikkje døyr.,,,,
 philosopher,Filosof,"Éin gong i løpet av spelet, om natta, vel ei god rolle: tileign deg den evna. Om rolla allereie er i spel, er dei no full.","Filosofen anten ristar på hovudet for ""nei"", eller peikar på ei god rolle på rollearket. Om dei vel rolle: Byt ut Filosof-brikka med den valde rolla, og marker rolla med ""Er Filosofen"". Om rolla allereie er i spel, marker spelaren som har rolla med ""Full"".","Om Filosofen enno ikkje har nytta evna si: Filosofen anten ristar på hovudet for ""nei"", eller peikar på ei god rolle på rollearket. Om dei vel rolle: Byt ut Filosof-brikka med den valde rolla, og marker rolla med ""Er Filosofen"". Om rolla allereie er i spel, marker spelaren som har rolla med ""Full"".","Full,Er Filosofen",
 pithag,Markkjerring,"Kvar natt*, vel ein spelar & ei rolle dei vert til (om ikkje i spel). Om ein Demon vert til, er dødsfall i natt vilkårlege.",,"Markkjerringa peikar mot ein spelar og på ei rolle på rollearket. Om rolla ikkje er i spel, vekk spelaren og vis dei ""Du er""-kortet, og så den relevante rollebrikka. Om rolla allereie er i spel, hender ingenting.",,
@@ -130,7 +130,7 @@ snitch,Tystar,Lakeiar veit frå byrjinga av spelet 3 roller ikkje i spel.,"Etter
 soldier,Soldat,Du er trygg frå Demonen.,,,,
 spiritofivory,Kvite Elefanten,Det kan ikkje vere meir enn 1 ekstra vond spelar.,,,,Ingen ekstra vond
 spy,Spion,"Kvar natt, sjå inn i Boka. Du kan verte tydd som god & som ein Borgar eller Einstøing, sjølv i dauden.",La Spionen sjå inn i Boka for så lenge dei treng.,La Spionen sjå inn i Boka for så lenge dei treng.,,
-steward,Steward,You start knowing 1 good player.,Point to 1 good player.,,,Know
+steward,Vasall,Du veit frå byrjinga av spelet 1 god spelar.,Peik mot ein god spelar.,,,Veit
 stormcatcher,Utpeika,"Sei ei god rolle. Om ho er i spel, kan rolla berre døy ved avretting, men vonde spelarar lærer kven som har ho.","Marker ein god spelar ""Trygg"". Vekk kvar av dei vonde spelarane og vis dei den markerte spelaren.",,,Trygg
 sweetheart,Søtnos,Når du døyr vert 1 spelar full.,,Vel kven du gjer full.,,Full
 tealady,Tedame,"Dei 2 levande naboane dine kan ikkje døy, om dei båe er gode.",,,,Kan ikkje døy
@@ -141,7 +141,7 @@ toymaker,Handverkar,Demonen kan velje å ikkje åtake & må gjere dette minst é
 undertaker,Gravar,"Kvar natt*, lær kva rolle døydde ved avretting i dag.",,"Om ein spelar døydde ved avretting i dag, vis rollebrikka deira.",,Avretta
 vigormortis,Vigmort,"Kvar natt*, vel ein spelar: dei døyr. Lakeiar du drep beheld evna si & forgiftar 1 Borgar-nabo. [-1 Einstøing]",,"Vigmorten peikar mot ein spelar. Spelaren døyr. Om spelaren er ein Lakei, beheld dei evna si og forgiftar ein av Borgar-naboane sine.",,"Daud,Har evne,Forgifta"
 virgin,Jomfru,Den fyrste som nominerer deg vert avretta med det same om dei er ein Borgar.,,,,Evnelaus
-vizier,Vizier,"All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",Announce 'The Vizier is in play' and state which player they are.,,,
+vizier,Vesir,"Alle spelarar veit kven du er. Du kan ikkje døy om dagen. Om godt røysta for, kan du velje å avrette med det same.",,,,
 vortox,Kvervelbeist,"Kvar natt, vel ein spelar: dei døyr. Borgar-evner gjev galen kunnskap. Kvar dag, om ingen vert avretta, vinn vondt.",,Kvervelbeistet peikar mot ein spelar. Spelaren døyr.,,Daud
 voudon,Åndemanar,Berre du og daude spelarar kan røyste. Dei treng ikkje ei dauderøyst for å gjere det. Eit fleirtal (50%) av røystene er ikkje lenger eit krav.,,,,
 washerwoman,Vaskekone,Du veit frå byrjinga av spelet at 1 av 2 gjevne spelarar er ein bestemd Borgar.,"Vis rollebrikka til ein Borgar som er i spel. Peik mot to spelarar, kor ein av dei har den rolla.",,,"Borgar,Feil"
