@@ -4,14 +4,15 @@
     import SelectLocale from './SelectLocale.vue'
     import { translate } from "../translate";
     import { useScriptStore } from '../stores/script';
-    import download from 'downloadjs'
+    import { saveAs } from 'file-saver';
 
     const store = useScriptStore();
 
     function translateScript(){
         translate(toRaw(store.script), store.locale).then(function(translatedScript){
             const outName = `${store.name} - ${store.locale}.json`;
-            download(JSON.stringify(translatedScript), outName, "text/plain");
+            const scriptBlob = new Blob([JSON.stringify(translatedScript)]);
+            saveAs(scriptBlob, outName);
         });
     }
 </script>
