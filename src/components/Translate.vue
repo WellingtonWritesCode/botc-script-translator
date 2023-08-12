@@ -11,7 +11,7 @@
     function translateScript(){
         translate(toRaw(store.script), store.locale).then(function(translatedScript){
             const outName = `${store.name} - ${store.locale}.json`;
-            const scriptBlob = new Blob([JSON.stringify(translatedScript)], {type:"text/plain"});
+            const scriptBlob = new Blob([JSON.stringify(translatedScript)]);
             saveAs(scriptBlob, outName);
         });
     }
