@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "papaparse": "^5.4.1",
+    "pinia": "^2.1.6",
     "vue": "^3.3.4"
   },
   "devDependencies": {
