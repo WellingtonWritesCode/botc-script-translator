@@ -4,7 +4,7 @@
     import SelectLocale from './SelectLocale.vue'
     import { translate } from "../translate";
     import { useScriptStore } from '../stores/script';
-    import * as download from 'downloadjs'
+    import download from 'downloadjs'
 
     const store = useScriptStore();
 
