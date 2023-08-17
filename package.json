@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "vitest"
+    "test": "vitest",
+    "deploy": "node scripts/gh-pages-deploy.mjs"
   },
   "dependencies": {
     "file-saver": "^2.0.5",
@@ -16,6 +17,8 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
+    "execa": "^7.2.0",
+    "rimraf": "^5.0.1",
     "vite": "^4.4.6",
     "vitest": "^0.34.1"
   }
