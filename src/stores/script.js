@@ -18,6 +18,9 @@ export const useScriptStore = defineStore('script', {
         },
         setName(name){
             this.name = name;
+        },
+        setLocale(locale){
+            this.locale = locale;
         }
     }
 });

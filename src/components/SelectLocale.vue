@@ -1,48 +1,99 @@
-<script setup>
-    import { ref } from 'vue';
+<script>
     import { useScriptStore } from '../stores/script';
-    import { storeToRefs } from 'pinia';
 
-    const store = useScriptStore();
-    const { locale } = storeToRefs(store);
-    const options = ref([
-    "en_GB",
-    "nn_NO",
-    "nb_NO",
-    "ar_AR",
-    "es_AR",
-    "fi_FI",
-    "hu_HU",
-    "nl_NL",
-    "tr_TR",
-    "it_IT",
-    "kw_KW",
-    "fa_IR",
-    "fr_FR",
-    "sv_SE",
-    "es_ES",
-    "ru_RU",
-    "pt_BR",
-    "de_DE",
-    "pt_PT",
-    "pl_PL",
-    "zh_TW",
-    "ja_JA",
-    "fil_PH",
-    "zh_CN",
-    "zh_CN (Anlijie)",
-    "he_IL",
-    "vi_VI"
-    ]);
+    export default{
+        setup() {
+            const store = useScriptStore();
+            const options = [
+                "en_GB",
+                "nn_NO",
+                "nb_NO",
+                "ar_AR",
+                "es_AR",
+                "fi_FI",
+                "hu_HU",
+                "nl_NL",
+                "tr_TR",
+                "it_IT",
+                "kw_KW",
+                "fa_IR",
+                "fr_FR",
+                "sv_SE",
+                "es_ES",
+                "ru_RU",
+                "pt_BR",
+                "de_DE",
+                "pt_PT",
+                "pl_PL",
+                "zh_TW",
+                "ja_JA",
+                "fil_PH",
+                "zh_CN",
+                "zh_CN (Anlijie)",
+                "he_IL",
+                "vi_VI"
+            ];
+            return {
+                store,
+                options
+            }
+        },
+        data(){
+            return {
+                active: false,
+                firstCall: true
+            }
+        },
+        methods: {
+            toggle() {
+                this.firstCall = false;
+                this.active = !this.active;
+            }
+        },
+        props: {
+            label: String,
+            width: {
+                type: String,
+                default: "15rem"
+            }
+        },
+        computed: {
+            cssProps(){
+                return {
+                    "--width": this.width
+                };
+            },
+            arrowCssProps(){
+                if(this.firstCall) {
+                    return {
+                        "--flip": "none"
+                    }
+                }
+                return {
+                    "--flip": this.active? "flip":"unflip"
+                }
+            }
+        }
+    }
 </script>
 
 <template>
-    <select v-model="locale">
-        <option disabled value="Select a locale">Select a locale</option>
-        <option v-for="option in options" :key="option" :value="option">
-        {{option}}
-        </option>
-    </select>
+    <div class="v-select">
+        <button class="v-button" :style="cssProps" @click="toggle">
+            <div class="text">
+                {{ label }} <span class="arrow" :style="arrowCssProps">▼</span>
+            </div>
+        </button>
+        <div class="v-select--dropdown" :style="cssProps" v-if="active">
+            <div class="v-select__inner">
+                <div
+                    v-for="option in options"
+                    class="v-button v-select__item"
+                    @click="store.setLocale(option)"
+                >
+                    {{option}}
+                </div>
+            </div>
+        </div>
+    </div>
 </template>
-<style>
-</style>
