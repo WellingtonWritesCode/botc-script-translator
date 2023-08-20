@@ -89,7 +89,7 @@
                 <div
                     v-for="option in options"
                     class="v-button v-select__item"
-                    @click="store.setLocale(option)"
+                    @click="store.setLocale(option), this.toggle()"
                 >
                     {{option}}
                 </div>
