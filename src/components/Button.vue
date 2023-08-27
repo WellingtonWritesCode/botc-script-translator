@@ -15,7 +15,7 @@
         props: {
             width: {
                 type: String,
-                default: "7.5rem"
+                default: "auto"
             },
             enabled: {
                 type: Boolean,

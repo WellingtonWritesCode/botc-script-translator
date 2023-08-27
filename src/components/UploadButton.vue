@@ -2,42 +2,40 @@
     <input
         type="file"
         ref="upload"
-        accept="application/json"
+        :accept="accepts"
         @change="handleUpload"
     />
-    <Button @click="uploadFile">Upload Script</Button>
+    <Button :width="width" @click="uploadFile"><slot /></Button>
 </template>
 
 <script>
-import { useScriptStore } from '../stores/script';
 import Button from './Button.vue';
 
 export default {
+    props: {
+        accepts: String,
+        width: {
+            type: String,
+            default: "auto"
+        }
+    },
     methods: {
         uploadFile() {
             this.$refs.upload.click();
         },
         handleUpload() {
-            const store = useScriptStore();
             const file = this.$refs.upload.files[0];
-            store.setName(this.$refs.upload.files[0].name.slice(0, -5));
             if (file && file.size) {
                 const reader = new FileReader();
                 reader.addEventListener("load", () => {
-                    try {
-                        const roles = JSON.parse(reader.result);
-                        store.set(roles);
-                    }
-                    catch (e) {
-                        store.set(null);
-                        alert(`Unable to read script:  ${e.message}`);
-                    }
+                    this.$emit('handleFile', reader.result, this.$refs.upload.files[0].name);
                 });
                 reader.readAsText(file);
             }
         }
     },
-    components: { Button }
+    components: { Button },
+    emits: ['handleFile']
 }
 </script>
 

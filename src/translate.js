@@ -49,3 +49,18 @@ export function translate(script, locale){
         return translation;
     });
 };
+
+export function translateCustomLocale(script, locale, localeName){
+    const translationJson = locale;
+    const translationJsonById = new Map(translationJson.map((character) => [character.id, character]));
+    const ids = getIds(script);
+
+    let translation = JSON.parse(JSON.stringify(charactersJson.filter((character) => ids.includes(character.id))));
+
+    translation.forEach(character => {
+        let newId = `${localeName}_${character.id}`;
+        translateCharacter(character, translationJsonById.get(character.id), newId);
+    });
+
+    return translation;
+}

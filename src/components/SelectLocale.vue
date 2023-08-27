@@ -54,7 +54,7 @@
             label: String,
             width: {
                 type: String,
-                default: "15rem"
+                default: "auto"
             }
         },
         computed: {

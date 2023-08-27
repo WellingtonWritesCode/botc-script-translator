@@ -23,12 +23,27 @@
     z-index: -1;
 }
 
+.v-toggle{
+    width: var(--width);
+    height: 2.5rem;
+    background-color: var(--base-color);
+    border: solid .2rem var(--border-color);
+    border-radius: .25rem;
+    transition: background-color .25s, color .25s, opacity .5s;
+    font-family: var(--font);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+}
+
 .v-button--disabled{
     pointer-events: none;
     opacity: .5;
 }
 
-button:hover,
+.v-toggle:hover,
+.v-button:hover,
 .v-select__item:hover{
     background-color: var(--border-color);
     color: var(--base-color);

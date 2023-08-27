@@ -1,37 +1,68 @@
 <script setup>
     import { toRaw } from 'vue';
-    import { translate } from "../translate";
+    import { translate, translateCustomLocale } from "../translate";
     import { useScriptStore } from '../stores/script';
     import { saveAs } from 'file-saver';
     import Button from './Button.vue';
     import UploadButton from './UploadButton.vue';
     import SelectLocale from './SelectLocale.vue';
+    import Toggle from './Toggle.vue';
+    import Papa from 'papaparse';
 
     const store = useScriptStore();
 
     function translateScript(){
         if(store.isNull || !store.isValidLocale) return;
-        translate(toRaw(store.script), store.locale).then(function(translatedScript){
-            const outName = `${store.name} - ${store.locale}.json`;
+        if(!store.useCustomLocale) {
+            translate(toRaw(store.script), store.locale).then(function(translatedScript){
+                const outName = `${store.name} - ${store.locale}.json`;
+                const scriptBlob = new Blob([JSON.stringify(translatedScript)]);
+                saveAs(scriptBlob, outName);
+            });
+        } else {
+            const translatedScript = translateCustomLocale(toRaw(store.script), toRaw(store.customLocale), store.customLocaleName);
+            const outName = `${store.name} - ${store.customLocaleName}.json`;
             const scriptBlob = new Blob([JSON.stringify(translatedScript)]);
             saveAs(scriptBlob, outName);
-        });
+        }
     }
 
     function localeLabel(){
         return `Locale: ${store.locale}`;
+    }
+
+    function setScript(rawRoles, fileName) {
+        try {
+            const roles = JSON.parse(rawRoles);
+            store.set(roles);
+            store.setName(fileName.slice(0, -5));
+        }
+        catch (e) {
+            store.set(null);
+            alert(`Unable to read script:  ${e.message}`);
+        }
+    }
+
+    function parseCustomLocale(file, fileName){
+        const roles = Papa.parse(file, {header:true}).data;
+        store.setCustomLocale(roles, fileName.slice(0, -4));
     }
 </script>
 
 <template>
     <div class="container">
         <div>
-            <div>
-                <SelectLocale :label="localeLabel()" />
+            <div style="display: flex;">
+                <a><UploadButton width="7.5rem" accepts="application/json" @handle-file="setScript">Upload Script</UploadButton></a>
+                <a>
+                    <UploadButton v-if="store.useCustomLocale" width="12.5rem" accepts="text/csv" @handle-file="parseCustomLocale">Upload Custom Locale</UploadButton>
+                    <SelectLocale v-else width="12.5rem" :label="localeLabel()" />
+                </a>
             </div>
             <div style="display: flex;">
-                <a><UploadButton /></a>
-                <a><Button :enabled="!store.isNull && store.isValidLocale" @click="translateScript">Translate</Button></a>
+                <a><Button width="7.5rem" :enabled="!store.isNull && store.isValidLocale" @click="translateScript">Translate</Button></a>
+                <a><Toggle label="Use custom locale" width="12.5rem" @toggled="store.toggle">Temp</Toggle></a>
+                <a></a>
             </div>
         </div>
     </div>
