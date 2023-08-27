@@ -2303,5 +2303,16 @@
         "name": "Harpy",
         "team": "minion",
         "ability": "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or both might die."
+    },
+    {
+        "id": "plaguedoctor",
+        "image": "https://github.com/WellingtonWritesCode/botc-script-translator/blob/main/src/assets/icons/plaguedoctor.png?raw=true",
+        "reminders": [
+            "Storyteller Ability"
+        ],
+        "setup": false,
+        "name": "Plague Doctor",
+        "team": "outsider",
+        "ability": "If you die, the Storyteller gains a not-in-play Minion ability."
     }
 ]
