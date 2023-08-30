@@ -46,7 +46,7 @@
 
 <template>
     <button 
-        class="v-toggle"
+        class="v-toggle v-button-hover"
         :style="cssProps"
         @click="toggle"
     >

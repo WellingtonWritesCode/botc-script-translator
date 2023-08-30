@@ -3,6 +3,11 @@
     --font: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     --base-color: #cdcdcd;
     --border-color: #262626;
+    --text: #f6f4f4;
+    --background: #b4082e;
+    --primary: #d4deba;
+    --secondary: #122622;
+    --accent: #718476;
 }
 
 .text{
@@ -12,8 +17,8 @@
 .v-button{
     width: var(--width);
     height: 2.5rem;
-    background-color: var(--base-color);
-    border: solid .2rem var(--border-color);
+    background-color: var(--primary);
+    border: solid .2rem var(--secondary);
     border-radius: .25rem;
     transition: background-color .25s, color .25s, opacity .5s;
     font-family: var(--font);
@@ -26,8 +31,8 @@
 .v-toggle{
     width: var(--width);
     height: 2.5rem;
-    background-color: var(--base-color);
-    border: solid .2rem var(--border-color);
+    background-color: var(--primary);
+    border: solid .2rem var(--secondary);
     border-radius: .25rem;
     transition: background-color .25s, color .25s, opacity .5s;
     font-family: var(--font);
@@ -39,14 +44,24 @@
 
 .v-button--disabled{
     pointer-events: none;
-    opacity: .5;
+    background-color: var(--accent);
+    opacity: .85;
+}
+
+.v-button-hover{
+    z-index: 5;
+    cursor: pointer;
+}
+
+.v-button-hover--disabled{
+    cursor: not-allowed;
 }
 
 .v-toggle:hover,
 .v-button:hover,
 .v-select__item:hover{
-    background-color: var(--border-color);
-    color: var(--base-color);
+    background-color: var(--secondary);
+    color: var(--text);
 }
 
 .arrow{
@@ -68,7 +83,7 @@
 
 .v-select--dropdown{
     overflow: hidden;
-    background-color: var(--base-color);
+    background-color: var(--primary);
     border-radius: .25rem;
     width: var(--width);
     position: absolute;
@@ -77,11 +92,11 @@
 }
 
 .v-select__inner{
-    border: solid .2rem var(--border-color);
+    border: solid .2rem var(--secondary);
     overflow-y: auto;
     flex-direction: column;
     max-height: 40vh;
-    scrollbar-color: var(--border-color) var(--base-color);
+    scrollbar-color: var(--secondary) var(--primary);
     scrollbar-width: thin;
     width: auto;
 }
@@ -97,16 +112,18 @@
 .v-select__item{
     border-left: 0;
     border-radius: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: auto;
+    width: 100%;
 }
 
-.container{
-    height: 98vh;
+.buttons--container{
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    position: relative;
+}
+
+body{
+    height:100%;
+    margin: 0;
+    background-image: url("./assets/nnnoise.svg");
 }

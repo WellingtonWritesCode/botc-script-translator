@@ -79,20 +79,20 @@
 
 <template>
     <div class="v-select">
-        <button class="v-button" :style="cssProps" @click="toggle">
+        <button class="v-button v-button-hover" :style="cssProps" @click="toggle">
             <div class="text">
                 {{ label }} <span class="arrow" :style="arrowCssProps">▼</span>
             </div>
         </button>
         <div class="v-select--dropdown" :style="cssProps" v-if="active">
             <div class="v-select__inner">
-                <div
+                <button
                     v-for="option in options"
-                    class="v-button v-select__item"
+                    class="v-button v-select__item v-button-hover text"
                     @click="store.setLocale(option), this.toggle()"
                 >
-                    {{option}}
-                </div>
+                    {{ option }}
+                </button>
             </div>
         </div>
     </div>

@@ -50,18 +50,18 @@
 </script>
 
 <template>
-    <div class="container">
-        <div>
-            <div style="display: flex;">
+    <div class="buttons--container">
+        <div style="display:flex; flex-direction: column; gap: 2rem;">
+            <div style="display: flex; gap: 4rem;">
                 <a><UploadButton width="7.5rem" accepts="application/json" @handle-file="setScript">Upload Script</UploadButton></a>
                 <a>
                     <UploadButton v-if="store.useCustomLocale" width="12.5rem" accepts="text/csv" @handle-file="parseCustomLocale">Upload Custom Locale</UploadButton>
                     <SelectLocale v-else width="12.5rem" :label="localeLabel()" />
                 </a>
             </div>
-            <div style="display: flex;">
+            <div style="display: flex; gap: 4rem;">
                 <a><Button width="7.5rem" :enabled="!store.isNull && store.isValidLocale" @click="translateScript">Translate</Button></a>
-                <a><Toggle label="Use custom locale" width="12.5rem" @toggled="store.toggle">Temp</Toggle></a>
+                <a><Toggle label="Use custom locale" width="12.5rem" on="Yes" off="No" @toggled="store.toggle">Temp</Toggle></a>
                 <a></a>
             </div>
         </div>

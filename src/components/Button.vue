@@ -1,13 +1,15 @@
 <template>
-    <button 
-        class="v-button"
-        :class="classObject"
-        :style="cssProps"
-    >
-        <div class="text">
-            <slot />
-        </div>
-    </button>
+    <div :class="pointerClassObject">
+        <button 
+            class="v-button v-button-hover"
+            :class="classObject"
+            :style="cssProps"
+        >
+            <div class="text">
+                <slot />
+            </div>
+        </button>
+    </div>
 </template>
 
 <script>
@@ -31,6 +33,11 @@
             cssProps(){
                 return {
                     "--width": this.width
+                }
+            },
+            pointerClassObject(){
+                return {
+                    "v-button-hover--disabled": !this.enabled
                 }
             }
         }
