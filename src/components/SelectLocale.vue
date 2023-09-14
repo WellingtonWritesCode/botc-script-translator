@@ -31,7 +31,8 @@
                 "zh_CN",
                 "zh_CN (Anlijie)",
                 "he_IL",
-                "vi_VI"
+                "vi_VI",
+                "slv_SLV",
             ];
             return {
                 store,
