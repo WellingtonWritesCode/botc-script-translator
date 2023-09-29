@@ -2314,5 +2314,16 @@
         "name": "Plague Doctor",
         "team": "outsider",
         "ability": "If you die, the Storyteller gains a not-in-play Minion ability."
+    },
+    {
+        "id": "shugenja",
+        "image": "https://github.com/WellingtonWritesCode/botc-script-translator/blob/main/src/assets/icons/shugenja.png?raw=true",
+        "firstNight": 33.4,
+        "firstNightReminder": "Wake the Shugenja; point horizontally in the direction of the closest evil player. If the two closest evil players are equidistant, point your finger horizontally in either direction.",
+        "otherNight": 0,
+        "setup": false,
+        "name": "Shugenja",
+        "team": "townsfolk",
+        "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary."
     }
 ]
