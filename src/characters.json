@@ -2325,5 +2325,16 @@
         "name": "Shugenja",
         "team": "townsfolk",
         "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary."
+    },
+    {
+        "id": "ojo",
+        "image": "https://github.com/WellingtonWritesCode/botc-script-translator/blob/main/src/assets/icons/ojo.png?raw=true",
+        "firstNight": 0,
+        "otherNight": 32.2,
+        "otherNightReminder": "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead.",
+        "reminders": ["Dead"],
+        "name": "Ojo",
+        "team": "demon",
+        "ability": "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies."
     }
 ]
