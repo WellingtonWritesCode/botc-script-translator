@@ -178,6 +178,17 @@
         "image": "https://github.com/WellingtonWritesCode/botc-script-translator/blob/main/src/assets/icons/deusexfiasco.png?raw=true"
     },
     {
+        "id": "bootlegger",
+        "edition": "custom",
+        "firstNight": 1.2,
+        "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game. ",
+        "setup": false,
+        "name": "Bootlegger",
+        "team": "fabled",
+        "ability": "This script has homebrew characters or rules.",
+        "image": "https://github.com/WellingtonWritesCode/botc-script-translator/blob/main/src/assets/icons/bootlegger.png?raw=true"
+    },
+    {
         "id": "washerwoman",
         "name": "Washerwoman",
         "edition": "tb",
