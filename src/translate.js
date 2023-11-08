@@ -4,11 +4,7 @@ import Papa from 'papaparse';
 const clean = id => id.toLocaleLowerCase().replace(/[^a-z0-9]/g, "");
 
 function getIds(script){
-    let ids = [];
-    script.forEach(character => {
-        ids.push(clean(character.id));
-    });
-    return ids;
+    return script.map(character => typeof character === "string"? clean(character) : clean(character.id));
 };
 
 function stringToArray(string){
