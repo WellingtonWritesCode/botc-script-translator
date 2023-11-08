@@ -33,27 +33,16 @@ function translateCharacter(character, translation, newId){
     character.id = newId;
 };
 
-export function translate(script, locale){
-    return import(`./assets/json/${locale}.json`).then(function(result){
-        const translationJson = result.default;
-        const translationJsonById = new Map(translationJson.map((character) => [character.id, character]));
-        const ids = getIds(script);
-
-        let translation = JSON.parse(JSON.stringify(charactersJson.filter((character) => ids.includes(character.id))));
-
-        translation.forEach(character => {
-            let newId = `${locale}_${character.id}`;
-            translateCharacter(character, translationJsonById.get(character.id), newId);
-        });
-
-        return translation;
-    });
-};
-
-export function translateCustomLocale(script, locale, localeName){
+function handleTranslation(script, locale, localeName){
     const translationJson = locale;
     const translationJsonById = new Map(translationJson.map((character) => [character.id, character]));
     const ids = getIds(script);
+    let meta;
+    if(ids.includes("meta")){
+        meta = script.filter(obj => obj.id === "_meta")[0];
+    } else {
+        meta = {"id":"_meta","author":"","name":""};
+    }
 
     let translation = JSON.parse(JSON.stringify(charactersJson.filter((character) => ids.includes(character.id))));
 
@@ -62,5 +51,17 @@ export function translateCustomLocale(script, locale, localeName){
         translateCharacter(character, translationJsonById.get(character.id), newId);
     });
 
+    translation.unshift(meta);
+
     return translation;
+}
+
+export function translate(script, localeName){
+    return import(`./assets/json/${localeName}.json`).then(function(result){
+        return handleTranslation(script, result.default, localeName);
+    });
+};
+
+export function translateCustomLocale(script, locale, localeName){
+    return handleTranslation(script, locale, localeName);
 }
