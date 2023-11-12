@@ -1,1 +1,1370 @@
-[{"id":"acrobat","name":"Ngh\u1ec7 s\u0129 xi\u1ebfc","ability":"M\u1ed7i \u0111\u00eam*, n\u1ebfu b\u1ea5t k\u00ec h\u00e0ng x\u00f3m t\u1ed1t c\u1ee7a b\u1ea1n b\u1ecb tr\u00fang \u0111\u1ed9c ho\u1eb7c b\u1ecb say, b\u1ea1n ch\u1ebft","firstNightReminder":null,"otherNightReminder":"N\u1ebfu b\u1ea5t k\u00ec h\u00e0ng x\u00f3m t\u1ed1t c\u1ee7a h\u1ecd tr\u00fang \u0111\u1ed9c ho\u1eb7c b\u1ecb say, Ngh\u1ec7 s\u0129 xi\u1ebfc ch\u1ebft","remindersGlobal":null,"reminders":"Ch\u1ebft"},{"id":"alchemist","name":"Nh\u00e0 gi\u1ea3 kim","ability":"B\u1ea1n c\u00f3 ch\u1ee9c n\u0103ng c\u1ee7a Tay sai ngo\u00e0i cu\u1ed9c.","firstNightReminder":"Cho Nh\u00e0 gi\u1ea3 kim th\u1ea5y th\u1ebb c\u1ee7a tay sai ngo\u00e0i cu\u1ed9c","otherNightReminder":null,"remindersGlobal":"l\u00e0 Nh\u00e0 gi\u1ea3 kim","reminders":null},{"id":"alhadikhia","name":"Al-Hadikhia","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 3 ng\u01b0\u1eddi (m\u1ecdi ng\u01b0\u1eddi bi\u1ebft l\u00e0 ai): m\u1ed7i ng\u01b0\u1eddi b\u00ed m\u1eadt ch\u1ecdn \u0111\u01b0\u1ee3c s\u1ed1ng ho\u1eb7c ch\u1ebft, n\u1ebfu t\u1ea5t c\u1ea3 ch\u1ecdn s\u1ed1ng, h\u1ecd c\u00f9ng ch\u1ebft","firstNightReminder":null,"otherNightReminder":"Al-Hadikhia ch\u1ecdn 3 ng\u01b0\u1eddi. Th\u00f4ng b\u00e1o ng\u01b0\u1eddi \u0111\u1ea7u ti\u00ean, g\u1ecdi h\u1ecd d\u1eady \u0111\u1ec3 g\u1eadt \u0111\u1ea7u c\u00f3 \u0111\u1ec3 s\u1ed1ng, l\u1eafc \u0111\u1ea7u kh\u00f4ng \u0111\u1ec3 ch\u1ebft, gi\u1ebft ho\u1eb7c h\u1ed3i sinh ph\u00f9 h\u1ee3p, r\u1ed3i cho h\u1ecd \u0111i ng\u1ee7 v\u00e0 th\u00f4ng b\u00e1o ng\u01b0\u1eddi ti\u1ebfp theo. n\u1ebfu c\u1ea3 3 c\u00f9ng s\u1ed1ng sau n\u00e0y, h\u1ecd c\u00f9ng ch\u1ebft.","remindersGlobal":null,"reminders":"1,2,3,Ch\u1ecdn ch\u1ebft,Ch\u1ecdn s\u1ed1ng"},{"id":"amnesiac","name":"M\u1ea5t tr\u00ed nh\u1edb","ability":"B\u1ea1n kh\u00f4ng bi\u1ebft b\u1ea1n c\u00f3 ch\u1ee9c n\u0103ng g\u00ec. M\u1ed7i ng\u00e0y, \u0111o\u00e1n n\u00f3 l\u00e0 g\u00ec: b\u1ea1n bi\u1ebft \u0111\u1ed9 ch\u00ednh x\u00e1c c\u1ee7a d\u1ef1 \u0111\u00f4\u00e1n.","firstNightReminder":"Quy\u1ebft \u0111\u1ecbnh ch\u1ee9c n\u0103ng c\u1ee7a M\u1ea5t tr\u00ed nh\u1edb. N\u1ebfu ch\u1ee9c n\u0103ng c\u1ee7a h\u1ecd c\u1ea7n h\u1ecd ph\u1ea3i d\u1eady trong \u0111\u00eam nay: G\u1ecdi M\u1ea5t tr\u00ed nh\u1edb d\u1eady v\u00e0 th\u1ef1c hi\u1ec7n ch\u1ee9c n\u0103ng.","otherNightReminder":"N\u1ebfu ch\u1ee9c n\u0103ng c\u1ee7a M\u1ea5t tr\u00ed nh\u1edb c\u1ea7n h\u1ecd ph\u1ea3i d\u1eady trong \u0111\u00eam nay: G\u1ecdi M\u1ea5t tr\u00ed nh\u1edb d\u1eady v\u00e0 th\u1ef1c hi\u1ec7n ch\u1ee9c n\u0103ng.","remindersGlobal":null,"reminders":"?"},{"id":"angel","name":"Thi\u00ean th\u1ea7n","ability":"N\u1ebfu ng\u01b0\u1eddi ch\u01a1i m\u1edbi b\u1ecb ch\u1ebft, ai c\u00f3 tr\u00e1ch nhi\u1ec7m nhi\u1ec1u nh\u1ea5t c\u00f3 th\u1ec3 s\u1ebd b\u1ecb g\u1eb7p \u0111i\u1ec1u x\u1ea5u.  ","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"B\u1ea3o v\u1ec7,\u0110i\u1ec1u x\u1ea5u"},{"id":"apprentice","name":"T\u1eadp s\u1ef1","ability":"V\u00e0o \u0111\u00eam \u0111\u00e2u ti\u00ean c\u1ee7a b\u1ea1n, b\u1ea1n c\u00f3 ch\u1ee9c n\u0103ng c\u1ee7a D\u00e2n l\u00e0ng (n\u1ebfu l\u00e0 t\u1ed1t), ho\u1eb7c c\u1ee7a Tay sai (n\u1ebfu l\u00e0 x\u1ea5u).","firstNightReminder":"Cho t\u1eadp s\u1ef1 th\u1ea5y l\u00e1 'B\u1ea1n l\u00e0', v\u00e0 th\u1ebb D\u00e2n l\u00e0ng ho\u1eb7c Tay sai. Trong Grimoire, thay th\u1ebb T\u1eadp s\u1ef1 v\u1edbi th\u1ebb nh\u00e2n v\u1eadt \u0111\u00f3, v\u00e0 \u0111\u1eb7t \u0111\u00e1nh d\u1ea5u \"l\u00e0 T\u1eadp s\u1ee5\" c\u1ee7a T\u1eadp s\u1ef1 b\u00ean c\u1ea1nh th\u1ebb \u0111\u00f3","otherNightReminder":null,"remindersGlobal":null,"reminders":"l\u00e0 T\u1eadp s\u1ef1"},{"id":"artist","name":"H\u1ecda s\u0129","ability":"M\u1ed9t l\u1ea7n trong game, trong ng\u00e0y, b\u00ed m\u1eadt h\u1ecfi Ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n b\u1ea5t k\u1ef3 c\u00e2u h\u1ecfi \u0111\u00fang sai.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"assassin","name":"S\u00e1t th\u1ee7","ability":"M\u1ed9t l\u1ea7n trong game, trong \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd ch\u1ebft, ngay c\u1ea3 b\u1eb1ng l\u00fd do \u0111\u00f3 m\u00e0 h\u1ecd kh\u00f4ng th\u1ec3","firstNightReminder":null,"otherNightReminder":"N\u1ebfu S\u00e1t th\u1ee7 ch\u01b0a d\u00f9ng ch\u1ee9c n\u0103ng: S\u00e1t th\u1ee7 c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u, ho\u1eb7c ch\u1ec9 m\u1ed9t ng\u01b0\u1eddi. Ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft,H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"atheist","name":"V\u00f4 th\u1ea7n","ability":"Ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n c\u00f3 th\u1ec3 ph\u00e1 lu\u1eadt & n\u1ebfu b\u1ecb h\u00e0nh quy\u1ebft, phe t\u1ed1t th\u1eafng, ngay c\u1ea3 khi b\u1ea1n ch\u1ebft [Kh\u00f4ng c\u00f3 nh\u00e2n v\u1eadt x\u1ea5u]","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"balloonist","name":"Khinh kh\u00ed c\u1ea7u gia","ability":"M\u1ed7i \u0111\u00eam, b\u1ea1n bi\u1ebft 1 ng\u01b0\u1eddi thu\u1ed9c v\u1ec1 m\u1ed7i lo\u1ea1i nh\u00e2n v\u1eadt cho \u0111\u1ebfn khi h\u1ebft lo\u1ea1i nh\u00e2n v\u1eadt. [+1 L\u1eef kh\u00e1ch]","firstNightReminder":"Ch\u1ecdn 1 lo\u1ea1i nh\u00e2n v\u1eadt. Ch\u1ec9 ng\u01b0\u1eddi thu\u1ed9c v\u1ec1 lo\u1ea1i nh\u00e2n v\u1eadt \u0111\u00f3. \u0110\u1eb7t \u0111\u00e1nh d\u1ea5u \u0110\u00e3 bi\u1ebft c\u1ee7a Khinh kh\u00ed c\u1ea7u gia c\u1ea1nh nh\u00e2n v\u1eadt \u0111\u00f3.","otherNightReminder":"Ch\u1ecdn 1 lo\u1ea1i nh\u00e2n v\u1eadt ch\u01b0a c\u00f3 th\u1ebb \u0111\u00e1nh d\u1ea5u \u0110\u00e3 bi\u1ebft c\u1ea1nh nh\u00e2n v\u1eadt. Ch\u1ec9 1 ng\u01b0\u1eddi c\u00f3 nh\u00e2n v\u1eadt thu\u1ed9c lo\u1ea1i \u0111\u00f3, n\u1ebfu c\u00f2n. \u0110\u1eb7t \u0111\u00e1nh d\u1ea5u \u0110\u00e3 bi\u1ebft c\u1ee7a Khinh kh\u00ed c\u1ea7u gia c\u1ea1nh nh\u00e2n v\u1eadt \u0111\u00f3.","remindersGlobal":null,"reminders":"D\u00e2n l\u00e0ng \u0111\u00e3 bi\u1ebft,L\u1eef kh\u00e1ch \u0111\u00e3 bi\u1ebft,Tay sai \u0111\u00e3 bi\u1ebft,Qu\u1ef7 \u0111\u00e3 bi\u1ebft,Du kh\u00e1ch \u0111\u00e3 bi\u1ebft"},{"id":"barber","name":"Th\u1ee3 c\u1eaft t\u00f3c","ability":"N\u1ebfu b\u1ea1n ch\u1ebft h\u00f4m nay, trong \u0111\u00eam Qu\u1ef7 c\u00f3 th\u1ec3 ch\u1ecdn 2 ng\u01b0\u1eddi (kh\u00f4ng ph\u1ea3i Qu\u1ef7 kh\u00e1c) \u0111\u1ec3 tr\u00e1o nh\u00e2n v\u1eadt.","firstNightReminder":null,"otherNightReminder":"N\u1ebfu Th\u1ee3 c\u1eaft t\u00f3c ch\u1ebft h\u00f4m nay: G\u1ecdi Qu\u1ef7 d\u1eady. Cho xem l\u00e0 'Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n' v\u00e0 th\u1ebb Th\u1ee3 c\u1eaft t\u00f3c. Qu\u1ef7 c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u, ho\u1eb7c ch\u1ec9 2 ng\u01b0\u1eddi. N\u1ebfu h\u1ecd ch\u1ecdn ng\u01b0\u1eddi: Tr\u00e1o th\u1ebb nh\u00e2n v\u1eadt. G\u1ecdi m\u1ed7i ng\u01b0\u1eddi. Cho xem 'B\u1ea1n l\u00e0', v\u00e0 th\u1ebb nh\u00e2n v\u1eadt m\u1edbi.","remindersGlobal":null,"reminders":"C\u1eaft t\u00f3c \u0111\u00eam nay"},{"id":"barista","name":"Th\u1ee3 pha c\u00e0 ph\u00ea","ability":"M\u1ed7i \u0111\u00eam, \u0111\u1ebfn ho\u00e0ng h\u00f4n, 1) 1 ng\u01b0\u1eddi s\u1ebd t\u1ec9nh, kh\u1ecfe m\u1ea1nh v\u00e0 nh\u1eadn th\u00f4ng tin \u0111\u00fang, ho\u1eb7c 2) ch\u1ee9c n\u0103ng c\u1ee7a h\u1ecd \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng 2 l\u1ea7n. H\u1ecd bi\u1ebft n\u00f3 l\u00e0 g\u00ec.","firstNightReminder":"Ch\u1ecdn 1 ng\u01b0\u1eddi, g\u1ecdi h\u1ecd d\u1eady v\u00e0 th\u00f4ng b\u00e1o cho h\u1ecd ch\u1ee9c n\u0103ng t\u00e1c \u0111\u1ed9ng l\u00ean h\u1ecd. S\u1eed d\u1ee5ng ph\u00f9 h\u1ee3p ch\u1ee9c n\u0103ng (th\u00f4ng tin t\u1ec9nh\/kh\u1ecfe\/\u0111\u00fang ho\u1eb7c s\u1eed d\u1ee5ng ch\u1ee9c n\u0103ng 2 l\u1ea7n).","otherNightReminder":"Ch\u1ecdn 1 ng\u01b0\u1eddi, g\u1ecdi h\u1ecd d\u1eady v\u00e0 th\u00f4ng b\u00e1o cho h\u1ecd ch\u1ee9c n\u0103ng t\u00e1c \u0111\u1ed9ng l\u00ean h\u1ecd. S\u1eed d\u1ee5ng ph\u00f9 h\u1ee3p ch\u1ee9c n\u0103ng (th\u00f4ng tin t\u1ec9nh\/kh\u1ecfe\/\u0111\u00fang ho\u1eb7c s\u1eed d\u1ee5ng ch\u1ee9c n\u0103ng 2 l\u1ea7n).","remindersGlobal":null,"reminders":"T\u1ec9nh & Kh\u1ecfe,Nh\u00e2n \u0111\u00f4i ch\u1ee9c n\u0103ng"},{"id":"baron","name":"Nam t\u01b0\u1edbc","ability":"C\u00f3 th\u00eam L\u1eef kh\u00e1ch trong game. [+2 L\u1eef kh\u00e1ch]","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"beggar","name":"\u0102n xin","ability":"B\u1ea1n ph\u1ea3i c\u00f3 th\u1ebb phi\u1ec3u \u0111\u1ec3 b\u1ecf phi\u1ebfu. Ng\u01b0\u1eddi ch\u1ebft c\u00f3 th\u1ec3 \u0111\u01b0a th\u1ebb c\u1ee7a h\u1ecd. N\u1ebfu v\u1eady, b\u1ea1n bi\u1ebft phe c\u1ee7a h\u1ecd. B\u1ea1n t\u1ec9nh & kh\u1ecfe m\u1ea1nh.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"bishop","name":"Gi\u00e1m m\u1ee5c","ability":"Ch\u1ec9 c\u00f3 Ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n \u0111\u01b0\u1ee3c bi\u1ec3u quy\u1ebft. M\u1ed7i ng\u00e0y, \u00edt nh\u1ea5t 1 ng\u01b0\u1eddi kh\u00e1c phe \u0111\u01b0\u1ee3c bi\u1ec3u quy\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Bi\u1ec3u quy\u1ebft t\u1ed1t,Bi\u1ec3u quy\u1ebft x\u1ea5u"},{"id":"bonecollector","name":"Nh\u00e0 s\u01b0u t\u1ea7m x\u01b0\u01a1ng","ability":"M\u1ed9t l\u1ea7n trong game, v\u00e0o bu\u1ed5i \u0111\u00eam, ch\u1ecdn ng\u01b0\u1eddi ch\u1ebft: h\u1ecd l\u1ea5y l\u1ea1i ch\u1ee9c n\u0103ng \u0111\u1ebfn ho\u00e0ng h\u00f4n.","firstNightReminder":null,"otherNightReminder":"Nh\u00e0 s\u01b0u t\u1ea7m x\u01b0\u01a1ng c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u ho\u1eb7c ch\u1ecdn 1 ng\u01b0\u1eddi. N\u1ebfu h\u1ecd ch\u1ec9 ng\u01b0\u1eddi ch\u1ebft, \u0111\u1eb7t \u0111\u00e1nh d\u1ea5u 'C\u00f3 ch\u1ee9c n\u0103ng' c\u1ee7a Nh\u00e0 s\u01b0u t\u1ea7m x\u01b0\u01a1ng c\u1ea1nh th\u1ebb nh\u00e2n v\u1eadt \u0111\u01b0\u1ee3c ch\u1ecdn. (H\u1ecd c\u00f3 th\u1ec3 ph\u1ea3i th\u1ee9c d\u1eady trong \u0111\u00eam \u0111\u1ec3 d\u00f9ng n\u00f3.)","remindersGlobal":null,"reminders":"H\u1ebft ch\u1ee9c n\u0103ng,C\u00f3 ch\u1ee9c n\u0103ng"},{"id":"boomdandy","name":"K\u1ebb gi\u1eef bom","ability":"N\u1ebfu b\u1ea1n b\u1ecb h\u00e0nh quy\u1ebft, t\u1ea5t c\u1ea3 tr\u1eeb 3 ng\u01b0\u1eddi ch\u1ebft. 1 ph\u00fat sau, ng\u01b0\u1eddi c\u00f3 nhi\u1ec1u ng\u01b0\u1eddi ch\u1ec9 nh\u1ea5t ch\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"bountyhunter","name":"Th\u1ee3 s\u0103n ti\u1ec1n th\u01b0\u1edfng","ability":"B\u1ea1n bi\u1ebft 1 ng\u01b0\u1eddi x\u1ea5u \u0111\u1ea7u game. N\u1ebfu ng\u01b0\u1eddi b\u1ea1n bi\u1ebft ch\u1ebft, b\u1ea1n bi\u1ebft 1 ng\u01b0\u1eddi x\u1ea5u kh\u00e1c t\u1ed1i nay. [1 D\u00e2n l\u00e0ng l\u00e0 x\u1ea5u]","firstNightReminder":"Ch\u1ec9 1 ng\u01b0\u1eddi x\u1ea5u. G\u1ecdi d\u00e2n l\u00e0ng x\u1ea5u d\u1eady v\u00e0 cho h\u1ecd th\u1ea5y l\u00e1 'B\u1ea1n l\u00e0' v\u00e0 gi\u01a1 ng\u00f3n c\u00e1i xu\u1ed1ng th\u1ec3 hi\u1ec7n x\u1ea5u.","otherNightReminder":"N\u1ebfu ng\u01b0\u1eddi x\u1ea5u \u0111\u00e3 bi\u1ebft ch\u1ebft, ch\u1ec9 ng\u01b0\u1eddi x\u1ea5u kh\u00e1c. ","remindersGlobal":null,"reminders":"\u0110\u01b0\u1ee3c bi\u1ebft"},{"id":"buddhist","name":"Ph\u1eadt t\u1eed","ability":"Trong 2 ph\u00fat \u0111\u1ea7u ti\u00ean m\u1ed7i ng\u00e0y, ng\u01b0\u1eddi k\u1ef3 c\u1ef1u kh\u00f4ng \u0111\u01b0\u1ee3c n\u00f3i.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"bureaucrat","name":"C\u00f4ng ch\u1ee9c","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi (kh\u00f4ng ph\u1ea3i b\u1ea1n): phi\u1ebfu c\u1ee7a h\u1ecd \u0111\u01b0\u1ee3c t\u00ednh l\u00e0 3 phi\u1ebfu v\u00e0o ng\u00e0y mai.","firstNightReminder":"C\u00f4ng ch\u1ee9c ch\u1ec9 1 ng\u01b0\u1eddi. \u0110\u1eb7t \u0111\u00e1nh d\u1ea5u '3 phi\u1ebfu' c\u1ee7a C\u00f4ng ch\u1ee9c c\u1ea1nh th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a ng\u01b0\u1eddi \u0111\u01b0\u1ee3c ch\u1ecdn.","otherNightReminder":"C\u00f4ng ch\u1ee9c ch\u1ec9 1 ng\u01b0\u1eddi. \u0110\u1eb7t \u0111\u00e1nh d\u1ea5u '3 phi\u1ebfu' c\u1ee7a C\u00f4ng ch\u1ee9c c\u1ea1nh th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a ng\u01b0\u1eddi \u0111\u01b0\u1ee3c ch\u1ecdn.","remindersGlobal":null,"reminders":"3 phi\u1ebfu"},{"id":"butcher","name":"H\u00e0ng th\u1ecbt","ability":"M\u1ed7i ng\u00e0y, sau h\u00e0nh quy\u1ebft \u0111\u1ea7u ti\u00ean, b\u1ea1n c\u00f3 th\u1ec3 bi\u1ec3u quy\u1ebft l\u1ea1i.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"butler","name":"Qu\u1ea3n gia","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi (kh\u00f4ng ph\u1ea3i b\u1ea1n). Ng\u00e0y h\u00f4m sau, ch\u1ec9 \u0111c b\u1ecf phi\u1ebfu H\u00e0nh Quy\u1ebft n\u1ebfu ng\u01b0\u1eddi \u0111\u00f3 b\u1ecf phi\u1ebfu.","firstNightReminder":"Qu\u1ea3n gia ch\u1ec9 1 ng\u01b0\u1eddi. \u0110\u00e1nh d\u1ea5u ng\u01b0\u1eddi \u0111\u00f3 l\u00e0 'Ch\u1ee7 nh\u00e2n'.","otherNightReminder":"Qu\u1ea3n gia ch\u1ec9 1 ng\u01b0\u1eddi. \u0110\u00e1nh d\u1ea5u ng\u01b0\u1eddi \u0111\u00f3 l\u00e0 'Ch\u1ee7 nh\u00e2n'.","remindersGlobal":null,"reminders":"Ch\u1ee7 nh\u00e2n"},{"id":"cannibal","name":"\u0102n th\u1ecbt ng\u01b0\u1eddi","ability":"B\u1ea1n c\u00f3 ch\u1ee9c n\u0103ng c\u1ee7a ng\u01b0\u1eddi ch\u1ebft v\u00ec h\u00e0nh quy\u1ebft g\u1ea7n nh\u1ea5t. N\u1ebfu h\u1ecd l\u00e0 x\u1ea5u, b\u1ea1n tr\u00fang \u0111\u1ed9c cho \u0111\u1ebfn khi ng\u01b0\u1eddi t\u1ed1t ch\u1ebft v\u00ec h\u00e0nh quy\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Tr\u00fang \u0111\u1ed9c,Ch\u1ebft h\u00f4m nay"},{"id":"cerenovus","name":"T\u1ea9y n\u00e3o","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi & nh\u00e2n v\u1eadt t\u1ed1t: h\u1ecd ph\u1ea3i '\u0111i\u00ean' r\u1eb1ng h\u1ecd l\u00e0 nh\u00e2n v\u1eadt \u0111\u00f3, ho\u1eb7c c\u00f3 th\u1ec3 b\u1ecb h\u00e0nh quy\u1ebft ng\u00e0y mai.","firstNightReminder":"T\u1ea9y n\u00e3o ch\u1ec9 m\u1ed9t ng\u01b0\u1eddi, v\u00e0 m\u1ed9t nh\u00e2n v\u1eadt trong t\u1edd c\u1ee7a h\u1ecd. G\u1ecdi ng\u01b0\u1eddi \u0111\u00f3 d\u1eady, cho xem l\u00e1 'Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n', v\u00e0 th\u1ebb T\u1ea9y n\u00e3o. Cho xem th\u1ebb nh\u00e2n v\u1eadt \u0111\u01b0\u1ee3c ch\u1ecdn. N\u1ebfu h\u1ecd kh\u00f4ng \u0111i\u00ean r\u1eb1ng m\u00ecnh l\u00e0 nh\u00e2n v\u1eadt \u0111\u00f3 v\u00e0o ng\u00e0y mai, h\u1ecd c\u00f3 th\u1ec3 b\u1ecb h\u00e0nh quy\u1ebft.","otherNightReminder":"T\u1ea9y n\u00e3o ch\u1ec9 m\u1ed9t ng\u01b0\u1eddi, v\u00e0 m\u1ed9t nh\u00e2n v\u1eadt trong t\u1edd c\u1ee7a h\u1ecd. G\u1ecdi ng\u01b0\u1eddi \u0111\u00f3 d\u1eady, cho xem l\u00e1 'Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n', v\u00e0 th\u1ebb T\u1ea9y n\u00e3o. Cho xem th\u1ebb nh\u00e2n v\u1eadt \u0111\u01b0\u1ee3c ch\u1ecdn. N\u1ebfu h\u1ecd kh\u00f4ng \u0111i\u00ean r\u1eb1ng m\u00ecnh l\u00e0 nh\u00e2n v\u1eadt \u0111\u00f3 v\u00e0o ng\u00e0y mai, h\u1ecd c\u00f3 th\u1ec3 b\u1ecb h\u00e0nh quy\u1ebft.","remindersGlobal":null,"reminders":"\u0110i\u00ean"},{"id":"chambermaid","name":"N\u1eef ph\u1ee5c v\u1ee5","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 2 ng\u01b0\u1eddi s\u1ed1ng (kh\u00f4ng ph\u1ea3i b\u1ea1n): b\u1ea1n bi\u1ebft s\u1ed1 ng\u01b0\u1eddi th\u1ee9c d\u1eady t\u1ed1i n\u00e0y v\u00ec ch\u1ee9c n\u0103ng c\u1ee7a h\u1ecd.","firstNightReminder":"N\u1eef ph\u1ee5c v\u1ee5 ch\u1ec9 2 ng\u01b0\u1eddi. Cho xem d\u1ea5u hi\u1ec7u s\u1ed1 (0, 1, 2, \u2026) b\u1eb1ng s\u1ed1 ng\u01b0\u1eddi th\u1ee9c d\u1eady t\u1ed1i nay v\u00ec ch\u1ee9c n\u0103ng c\u1ee7a h\u1ecd.","otherNightReminder":"N\u1eef ph\u1ee5c v\u1ee5 ch\u1ec9 2 ng\u01b0\u1eddi. Cho xem d\u1ea5u hi\u1ec7u s\u1ed1 (0, 1, 2, \u2026) b\u1eb1ng s\u1ed1 ng\u01b0\u1eddi th\u1ee9c d\u1eady t\u1ed1i nay v\u00ec ch\u1ee9c n\u0103ng c\u1ee7a h\u1ecd.","remindersGlobal":null,"reminders":null},{"id":"chef","name":"\u0110\u1ea7u b\u1ebfp","ability":"\u0110\u00eam \u0111\u1ea7u ti\u00ean, b\u1ea1n bi\u1ebft c\u00f3 bao nhi\u00eau c\u1eb7p Phe X\u1ea5u ng\u1ed3i c\u1ea1nh nhau (ho\u1eb7c l\u00e0 kh\u00f4ng c\u00f3).","firstNightReminder":"Cho xem d\u1ea5u hi\u1ec7u s\u1ed1 (1, 2,\u2026) b\u1eb1ng s\u1ed1 c\u1eb7p ng\u01b0\u1eddi X\u1ea5u ng\u1ed3i c\u1ea1nh nhau, ho\u1eb7c 0 n\u1ebfu kh\u00f4ng c\u00f3 c\u1eb7p n\u00e0o.","otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"choirboy","name":"Ca \u0111o\u00e0n","ability":"N\u1ebfu Qu\u1ef7 gi\u1ebft \u00d4ng vua, b\u1ea1n bi\u1ebft ng\u01b0\u1eddi n\u00e0o l\u00e0 Qu\u1ef7. [+ \u00d4ng vua]","firstNightReminder":null,"otherNightReminder":"N\u1ebfu \u00d4ng vua b\u1ecb gi\u1ebft b\u1edfi Qu\u1ef7, g\u1ecdi Ca \u0111o\u00e0n d\u1eady v\u00e0 ch\u1ec9 ng\u01b0\u1eddi l\u00e0 Qu\u1ef7.","remindersGlobal":null,"reminders":null},{"id":"clockmaker","name":"Th\u1ee3 \u0111\u1ed3ng h\u1ed3","ability":"\u0110\u00eam \u0111\u1ea7u ti\u00ean b\u1ea1n bi\u1ebft kho\u1ea3ng c\u00e1ch t\u1eeb Qu\u1ef7 cho \u0111\u1ebfn Tay Sai g\u1ea7n nh\u1ea5t.","firstNightReminder":"Cho xem d\u1ea5u hi\u1ec7u s\u1ed1 (1, 2, 3, v.v.) b\u1eb1ng kho\u1ea3ng c\u00e1ch t\u1eeb Qu\u1ef7 \u0111\u1ebfn Tay Sai g\u1ea7n nh\u1ea5t.","otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"courtier","name":"C\u1eadn th\u1ea7n","ability":"M\u1ed9t l\u1ea7n trong game, trong \u0111\u00eam, ch\u1ecdn 1 nh\u00e2n v\u1eadt: h\u1ecd b\u1ecb say trong 3 ng\u00e0y & 3 \u0111\u00eam.","firstNightReminder":"C\u1eadn th\u1ea7n c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u, ho\u1eb7c ch\u1ec9 1 nh\u00e2n v\u1eadt trong t\u1edd c\u1ee7a h\u1ecd. N\u1ebfu C\u1eadn th\u1ea7n d\u00f9ng ch\u1ee9c n\u0103ng c\u1ee7a h\u1ecd: N\u1ebfu c\u00f3 nh\u00e2n v\u1eadt \u0111\u00f3 trong game, ng\u01b0\u1eddi \u0111\u00f3 b\u1ecb say.","otherNightReminder":"Gi\u1ea3m s\u1ed1 ng\u00e0y c\u00f2n l\u1ea1i ng\u01b0\u1eddi b\u1ecb \u0111\u00e1nh d\u1ea5u b\u1ecb b\u1ecb say. N\u1ebfu C\u1eadn th\u1ea7n ch\u01b0a s\u1eed d\u1ee5ng ch\u1ee9c n\u0103ng: C\u1eadn th\u1ea7n c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u, ho\u1eb7c ch\u1ec9 1 nh\u00e2n v\u1eadt trong t\u1edd c\u1ee7a h\u1ecd. N\u1ebfu C\u1eadn th\u1ea7n d\u00f9ng ch\u1ee9c n\u0103ng c\u1ee7a h\u1ecd: N\u1ebfu c\u00f3 nh\u00e2n v\u1eadt \u0111\u00f3 trong game, ng\u01b0\u1eddi \u0111\u00f3 b\u1ecb say.","remindersGlobal":null,"reminders":"Say 3,Say 2,Say 1,H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"cultleader","name":"Tr\u01b0\u1edfng gi\u00e1o ph\u00e1i","ability":"M\u1ed7i \u0111\u00eam, b\u1ea1n c\u00f3 phe c\u1ee7a 1 ng\u01b0\u1eddi h\u00e0ng x\u00f3m c\u00f2n s\u1ed1ng. N\u1ebfu t\u1ea5t c\u1ea3 nh\u1eefng ng\u01b0\u1eddi t\u1ed1t tham gia gi\u00e1o ph\u00e1i c\u1ee7a b\u1ea1n, phe b\u1ea1n th\u1eafng.","firstNightReminder":"N\u1ebfu tr\u01b0\u1edfng gi\u00e1o ph\u00e1i \u0111\u1ed5i phe, cho h\u1ecd th\u1ea5y ng\u00f3n c\u00e1i l\u00ean th\u1ec3 hi\u1ec7n t\u1ed1t ho\u1eb7c ng\u00f3n c\u00e1i xu\u1ed1ng th\u1ec3 hi\u1ec7n x\u1ea5u.","otherNightReminder":"N\u1ebfu tr\u01b0\u1edfng gi\u00e1o ph\u00e1i \u0111\u1ed5i phe, cho h\u1ecd th\u1ea5y ng\u00f3n c\u00e1i l\u00ean th\u1ec3 hi\u1ec7n t\u1ed1t ho\u1eb7c ng\u00f3n c\u00e1i xu\u1ed1ng th\u1ec3 hi\u1ec7n x\u1ea5u.","remindersGlobal":null,"reminders":null},{"id":"damsel","name":"Thi\u1ebfu n\u1eef","ability":"T\u1ea5t c\u1ea3 tay sai bi\u1ebft b\u1ea1n trong game. N\u1ebfu Tay sai c\u00f4ng khai \u0111o\u00e1n b\u1ea1n (l\u1ea7n duy nh\u1ea5t), phe b\u1ea1n thua.","firstNightReminder":"G\u1ecdi t\u1ea5t c\u1ea3 tay sai d\u1eady, cho h\u1ecd xem l\u00e1 'Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n' v\u00e0 th\u1ebb Thi\u1ebfu n\u1eef.","otherNightReminder":"N\u1ebfu \u0111\u01b0\u1ee3c ch\u1ecdn b\u1edfi Th\u1ee3 s\u0103n, g\u1ecdi Thi\u1ebfu n\u1eef d\u1eady, cho xem l\u00e1 'B\u1ea1n l\u00e0' v\u00e0 th\u1ebb D\u00e2n l\u00e0ng ngo\u00e0i game.","remindersGlobal":null,"reminders":"\u0110\u00e3 \u0111o\u00e1n"},{"id":"deusexfiasco","name":"Deus ex Fiasco","ability":"M\u1ed9t l\u1ea7n trong game, Ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n s\u1ebd \"m\u1eafc l\u1ed7i\", s\u1eeda n\u00f3 v\u00e0 th\u1eeba nh\u1eadn l\u1ed7i c\u1ee7a m\u00ecnh.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Whoops"},{"id":"deviant","name":"K\u1ebb l\u1ec7ch l\u1ea1c","ability":"N\u1ebfu b\u1ea1n h\u00e0i h\u01b0\u1edbc h\u00f4m nay, b\u1ea1n kh\u00f4ng th\u1ec3 ch\u1ebft v\u00ec b\u1ecb \u0111u\u1ed5i.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"devilsadvocate","name":"Lu\u1eadt s\u01b0 c\u1ee7a Qu\u1ef7","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi s\u1ed1ng (kh\u00e1c \u0111\u00eam qua): n\u1ebfu b\u1ecb h\u00e0nh quy\u1ebft ng\u00e0y mai, h\u1ecd kh\u00f4ng ch\u1ebft.","firstNightReminder":"Lu\u1eadt s\u01b0 c\u1ee7a Qu\u1ef7 ch\u1ec9 1 ng\u01b0\u1eddi s\u1ed1ng. ng\u01b0\u1eddi \u0111\u00f3 s\u1ed1ng s\u00f3t h\u00e0nh quy\u1ebft ng\u00e0y mai.","otherNightReminder":"Lu\u1eadt s\u01b0 c\u1ee7a Qu\u1ef7 ch\u1ec9 1 ng\u01b0\u1eddi s\u1ed1ng, kh\u00e1c \u0111\u00eam tr\u01b0\u1edbc. ng\u01b0\u1eddi \u0111\u00f3 s\u1ed1ng s\u00f3t h\u00e0nh quy\u1ebft ng\u00e0y mai.","remindersGlobal":null,"reminders":"S\u1ed1ng s\u00f3t h\u00e0nh quy\u1ebft"},{"id":"djinn","name":"Th\u1ea7n \u0111\u00e8n","ability":"S\u1eed d\u1ee5ng lu\u1eadt \u0111\u1eb7c bi\u1ec7t c\u1ee7a Th\u1ea7n \u0111\u00e8n. T\u1ea5t c\u1ea3 m\u1ecdi ng\u01b0\u1eddi bi\u1ebft n\u00f3 l\u00e0 g\u00ec.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"doomsayer","name":"Kh\u1ea9u nghi\u1ec7p","ability":"N\u1ebfu c\u00f3 \u00edt nh\u1ea5t 4 ng\u01b0\u1eddi c\u00f2n s\u1ed1ng, m\u1ed7i ng\u01b0\u1eddi s\u1ed1ng c\u00f3 th\u1ec3 c\u00f4ng khai ch\u1ecdn (m\u1ed9t l\u1ea7n duy nh\u1ea5t) m\u1ed9t ng\u01b0\u1eddi c\u00f9ng phe h\u1ecd \u0111\u1ec3 ch\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"dreamer","name":"M\u01a1 m\u1ed9ng","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi (kh\u00f4ng ph\u1ea3i m\u00ecnh hay L\u1eef Kh\u00e1ch): \u0111\u01b0\u1ee3c bi\u1ebft 1 ch\u1ee9c n\u0103ng t\u1ed1t v\u00e0 1 ch\u1ee9c n\u0103ng x\u1ea5u, 1 trong s\u1ed1 \u0111\u00f3 l\u00e0 \u0111\u00fang.","firstNightReminder":"M\u01a1 m\u1ed9ng ch\u1ec9 1 ng\u01b0\u1eddi. Cho xem 1 th\u1ebb nh\u00e2n v\u1eadt t\u1ed1t v\u00e0 1 th\u1ebb nh\u00e2n v\u1eadt x\u1ea5u; 1 trong s\u1ed1 \u0111\u00f3 l\u00e0 \u0111\u00fang.","otherNightReminder":"M\u01a1 m\u1ed9ng ch\u1ec9 1 ng\u01b0\u1eddi. Cho xem 1 th\u1ebb nh\u00e2n v\u1eadt t\u1ed1t v\u00e0 1 th\u1ebb nh\u00e2n v\u1eadt x\u1ea5u; 1 trong s\u1ed1 \u0111\u00f3 l\u00e0 \u0111\u00fang.","remindersGlobal":null,"reminders":null},{"id":"drunk","name":"Say r\u01b0\u1ee3u","ability":"B\u1ea1n kh\u00f4ng bi\u1ebft b\u1ea1n l\u00e0 Say r\u01b0\u1ee3u. B\u1ea1n ngh\u0129 b\u1ea1n l\u00e0 nh\u00e2n v\u1eadt D\u00e2n l\u00e0ng, nh\u01b0ng m\u00e0 b\u1ea1n kh\u00f4ng ph\u1ea3i.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":"Say r\u01b0\u1ee3u","reminders":null},{"id":"duchess","name":"Phu nh\u00e2n","ability":"M\u1ed7i ng\u00e0y, 3 ng\u01b0\u1eddi c\u00f3 th\u1ec3 th\u0103m b\u1ea1n. Trong \u0111\u00eam*, m\u1ed7i ng\u01b0\u1eddi th\u0103m s\u1ebd bi\u1ebft \u0111\u01b0\u1ee3c c\u00f3 bao nhi\u00eau ng\u01b0\u1eddi th\u0103m x\u1ea5u, nh\u01b0ng 1 ng\u01b0\u1eddi nh\u1eadn sai th\u00f4ng tin.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Th\u0103m,Th\u00f4ng tin sai"},{"id":"empath","name":"\u0110\u1ed3ng c\u1ea3m","ability":"M\u1ed7i \u0111\u00eam, b\u1ea1n bi\u1ebft s\u1ed1 ng\u01b0\u1eddi x\u1ea5u trong 2 h\u00e0ng x\u00f3m s\u1ed1ng c\u1ee7a b\u1ea1n.","firstNightReminder":"Cho xem d\u1ea5u hi\u1ec7u s\u1ed1 (0, 1, 2) b\u1eb1ng s\u1ed1 h\u00e0ng x\u00f3m l\u00e0 ng\u01b0\u1eddi x\u1ea5u s\u1ed1ng b\u00ean c\u1ea1nh \u0110\u1ed3ng c\u1ea3m.","otherNightReminder":"Cho xem d\u1ea5u hi\u1ec7u s\u1ed1 (0, 1, 2) b\u1eb1ng s\u1ed1 h\u00e0ng x\u00f3m l\u00e0 ng\u01b0\u1eddi X\u1ea5u s\u1ed1ng b\u00ean c\u1ea1nh \u0110\u1ed3ng c\u1ea3m.","remindersGlobal":null,"reminders":null},{"id":"engineer","name":"K\u0129 s\u01b0","ability":"M\u1ed9t l\u1ea7n trong game, trong \u0111\u00eam, ch\u1ecdn Qu\u1ef7 n\u00e0o ho\u1eb7c nh\u1eefng Tay sai n\u00e0o trong game.","firstNightReminder":"K\u0129 s\u01b0 c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u, ho\u1eb7c ch\u1ec9 1 Qu\u1ef7 ho\u1eb7c ch\u1ec9 s\u1ed1 l\u01b0\u1ee3ng Tay sai th\u00edch h\u1ee3p. N\u1ebfu K\u0129 s\u01b0 ch\u1ecdn nh\u00e2n v\u1eadt, thay th\u1ebf Qu\u1ef7 ho\u1eb7c Tay sai v\u1edbi l\u1ef1a ch\u1ecdn \u0111\u00f3, r\u1ed1i g\u1ecdi ng\u01b0\u1eddi li\u00ean quan d\u1eady v\u00e0 cho xem l\u00e1 'B\u1ea1n l\u00e0' v\u00e0 nh\u1eefng th\u1ebb th\u00edch h\u1ee3p.","otherNightReminder":"K\u0129 s\u01b0 c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u, ho\u1eb7c ch\u1ec9 1 Qu\u1ef7 ho\u1eb7c ch\u1ec9 s\u1ed1 l\u01b0\u1ee3ng Tay sai th\u00edch h\u1ee3p. N\u1ebfu K\u0129 s\u01b0 ch\u1ecdn nh\u00e2n v\u1eadt, thay th\u1ebf Qu\u1ef7 ho\u1eb7c Tay sai v\u1edbi l\u1ef1a ch\u1ecdn \u0111\u00f3, r\u1ed1i g\u1ecdi ng\u01b0\u1eddi li\u00ean quan d\u1eady v\u00e0 cho xem l\u00e1 'B\u1ea1n l\u00e0' v\u00e0 nh\u1eefng th\u1ebb th\u00edch h\u1ee3p.","remindersGlobal":null,"reminders":"H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"eviltwin","name":"Sinh \u0111\u00f4i x\u1ea5u","ability":"B\u1ea1n & 1 ng\u01b0\u1eddi kh\u00e1c phe bi\u1ebft nhau. N\u1ebfu ng\u01b0\u1eddi \u0111\u00f3 b\u1ecb h\u00e0nh quy\u1ebft, phe x\u1ea5u th\u1eafng. Phe T\u1ed1t kh\u00f4ng th\u1ec3 th\u1eafng n\u1ebfu 2 ng\u01b0\u1eddi c\u00f9ng s\u1ed1ng.","firstNightReminder":"G\u1ecdi Sinh \u0111\u00f4i x\u1ea5u v\u00e0 sinh \u0111\u00f4i c\u1ee7a h\u1ecd, ch\u1eafc ch\u1eafn r\u1eb1ng c\u1ea3 2 bi\u1ebft nhau. Ch\u1ec9 Sinh \u0111\u00f4i x\u1ea5u, cho xem th\u1ebb \"Sinh \u0111\u00f4i x\u1ea5u\" cho Sinh \u0111\u00f4i t\u1ed1t. Ch\u1ec9 Sinh \u0111\u00f4i t\u1ed1t, cho xem th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a h\u1ecd cho Sinh \u0111\u00f4i x\u1ea5u.","otherNightReminder":null,"remindersGlobal":null,"reminders":"Sinh \u0111\u00f4i"},{"id":"exorcist","name":"Th\u1ea7y tr\u1eeb t\u00e0","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi (kh\u00e1c \u0111\u00eam qua): Qu\u1ef7, n\u1ebfu \u0111\u01b0\u1ee3c ch\u1ecdn, bi\u1ebft b\u1ea1n l\u00e0 ai v\u00e0 kh\u00f4ng th\u1ee9c d\u1eady n\u1eefa.","firstNightReminder":null,"otherNightReminder":"Th\u1ea7y tr\u1eeb t\u00e0 ch\u1ec9 1 ng\u01b0\u1eddi, kh\u00e1c \u0111\u00eam tr\u01b0\u1edbc. N\u1ebfu ng\u01b0\u1edd \u0111\u00f3 l\u00e0 Qu\u1ef7: G\u1ecdi Qu\u1ef7 d\u1eady. Cho xem th\u1ebb Th\u1ea7y tr\u1eeb t\u00e0. Ch\u1ec9 Th\u1ea7y tr\u1eeb t\u00e0. Qu\u1ef7 kh\u00f4ng h\u00e0nh \u0111\u1ed9ng \u0111\u00eam nay.","remindersGlobal":null,"reminders":"\u0110\u01b0\u1ee3c ch\u1ecdn"},{"id":"fanggu","name":"Fang Gu","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd ch\u1ebft. L\u1eef kh\u00e1ch  \u0111\u1ea7u ti\u00ean b\u1ecb nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn s\u1ebd bi\u1ebfn th\u00e0nh Fang Gu m\u1edbi, theo Phe X\u1ea5u & b\u1ea1n ch\u1ebft. [+1 L\u1eef kh\u00e1ch]","firstNightReminder":null,"otherNightReminder":"Fang Gu ch\u1ec9 1 ng\u01b0\u1eddi. ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft. Ho\u1eb7c, n\u1ebfu ng\u01b0\u1eddi \u0111\u00f3 l\u00e0 L\u1eef kh\u00e1ch v\u00e0 kh\u00f4ng c\u00f3 Fang Gu kh\u00e1c: Fang Gu ch\u1ebft thay cho ng\u01b0\u1eddi \u0111\u01b0\u1ee3c ch\u1ecdn. Ng\u01b0\u1eddi \u0111\u01b0\u1ee3c ch\u1ecdn s\u1ebd tr\u1edf th\u00e0nh Fang Gu x\u1ea5u. G\u1ecdi Fang Gu m\u1edbi d\u1eady. Cho xem l\u00e1 'B\u1ea1n l\u00e0, th\u1ebb Fang Gu. Cho xem l\u00e1 'B\u1ea1n l\u00e0', v\u00e0 gi\u01a1 ng\u00f3n c\u00e1i xu\u1ed1ng th\u1ec3 hi\u1ec7n theo Phe X\u1ea5u.","remindersGlobal":null,"reminders":"Ch\u1ebft,\u0110\u1ea7u ti\u00ean"},{"id":"farmer","name":"N\u00f4ng d\u00e2n","ability":"N\u1ebfu b\u1ea1n ch\u1ebft trong \u0111\u00eam, 1 ng\u01b0\u1eddi t\u1ed1t tr\u1edf th\u00e0nh N\u00f4ng d\u00e2n.","firstNightReminder":null,"otherNightReminder":"N\u1ebfu 1 N\u00f4ng d\u00e2n ch\u1ebft trong \u0111\u00eam, ch\u1ecdn ng\u01b0\u1eddi t\u1ed1t kh\u00e1c v\u00e0 bi\u1ebfn h\u1ecd th\u00e0nh N\u00f4ng d\u00e2n. G\u1ecdi ng\u01b0\u1eddi t\u1ed1t \u0111\u00f3 d\u1eady, cho h\u1ecd xem l\u00e1 'B\u1ea1n l\u00e0' v\u00e0 th\u1ebb nh\u00e2n v\u1eadt N\u00f4ng d\u00e2n.","remindersGlobal":null,"reminders":null},{"id":"fearmonger","name":"K\u1ebb g\u00e2y h\u00e3i","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi. n\u1ebfu b\u1ea1n bi\u1ec3u quy\u1ebft & h\u00e0nh quy\u1ebft h\u1ecd, phe h\u1ecd thua. T\u1ea5t c\u1ea3 m\u1ecdi ng\u01b0\u1eddi bi\u1ebft b\u1ea1n ch\u1ecdn 1 ng\u01b0\u1eddi m\u1edbi.","firstNightReminder":"K\u1ebb g\u00e2y h\u00e3i ch\u1ec9 1 ng\u01b0\u1eddi. \u0110\u1eb7t th\u1ebb S\u1ee3 h\u00e3i b\u00ean c\u1ea1nh ng\u01b0\u1eddi \u0111\u00f3 v\u00e0 th\u00f4ng b\u00e1o r\u1eb1ng 1 ng\u01b0\u1eddi m\u1edbi \u0111\u00e3 \u0111\u01b0\u1ee3c ch\u1ecdn b\u1edfi ch\u1ee9c n\u0103ng c\u1ee7a K\u1ebb g\u00e2y h\u00e3i.","otherNightReminder":"K\u1ebb g\u00e2y h\u00e3i ch\u1ec9 1 ng\u01b0\u1eddi. N\u1ebfu khac \u0111\u00eam tr\u01b0\u1edbc, \u0111\u1eb7t th\u1ebb S\u1ee3 h\u00e3i b\u00ean c\u1ea1nh ng\u01b0\u1eddi \u0111\u00f3 v\u00e0 th\u00f4ng b\u00e1o r\u1eb1ng 1 ng\u01b0\u1eddi m\u1edbi \u0111\u00e3 \u0111\u01b0\u1ee3c ch\u1ecdn b\u1edfi ch\u1ee9c n\u0103ng c\u1ee7a K\u1ebb g\u00e2y h\u00e3i.","remindersGlobal":null,"reminders":"S\u1ee3 h\u00e3i"},{"id":"fibbin","name":"D\u1ed1i l\u1eeba","ability":"1 l\u1ea7n trong game,c\u00f3 th\u1ec3 1 ng\u01b0\u1eddi t\u1ed1t nh\u1eadn th\u00f4ng tin sai.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"\u0110\u00e3 d\u00f9ng"},{"id":"fiddler","name":"Ng\u01b0\u1eddi v\u0129 c\u1ea7m","ability":"M\u1ed9t l\u1ea7n trong game, Qu\u1ef7 ch\u1ecdn ng\u01b0\u1eddi kh\u00e1c phe: t\u1ea5t c\u1ea3 m\u1ecdi ng\u01b0\u1eddi quy\u1ebft \u0111\u1ecbnh ng\u01b0\u1eddi th\u1eafng trong s\u1ed1 2 ng\u01b0\u1eddi.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"fisherman","name":"Ng\u01b0 d\u00e2n","ability":"M\u1ed9t l\u1ea7n trong game, trong ng\u00e0y, th\u0103m Ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n \u0111\u1ec3 nh\u1eadn nh\u1eefng t\u01b0 v\u1ea5n gi\u00fap b\u1ea1n th\u1eafng.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"flowergirl","name":"B\u00e1n hoa","ability":"M\u1ed7i \u0111\u00eam*, b\u1ea1n bi\u1ebft Qu\u1ef7 c\u00f3 b\u1ecf phi\u1ebfu h\u00f4m nay hay kh\u00f4ng.","firstNightReminder":null,"otherNightReminder":"G\u1eadt \u0111\u1ea7u 'c\u00f3' ho\u1eb7c l\u1eafc \u0111\u1ea7u 'kh\u00f4ng' t\u00f9y theo Qu\u1ef7 c\u00f3 b\u1ecf phi\u1ebfu h\u00f4m nay kh\u00f4ng. \u0110\u1eb7t th\u1ebb \u0111\u00e1nh d\u1ea5u 'Qu\u1ef7 kh\u00f4ng b\u1ecf phi\u1ebfu' (b\u1ecf 'Qu\u1ef7 b\u1ecf phi\u1ebfu', n\u1ebfu c\u00f3).","remindersGlobal":null,"reminders":"Qu\u1ef7 b\u1ecf phi\u1ebfu, Qu\u1ef7 kh\u00f4ng b\u1ecf phi\u1ebfu"},{"id":"fool","name":"Th\u1eb1ng ng\u1ed1c","ability":"L\u1ea7n \u0111\u1ea7u b\u1ea1n ch\u1ebft, b\u1ea1n kh\u00f4ng.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"fortuneteller","name":"Th\u1ea7y b\u00f3i","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 2 ng\u01b0\u1eddi: b\u1ea1n bi\u1ebft trong \u0111\u00f3 c\u00f3 Qu\u1ef7 hay kh\u00f4ng. C\u00f3 1 ng\u01b0\u1eddi t\u1ed1t b\u1ecb t\u00ednh l\u00e0 Qu\u1ef7 v\u1edbi b\u1ea1n.","firstNightReminder":"Th\u1ea7y b\u00f3i ch\u1ec9 2 ng\u01b0\u1eddi. \u0110\u01b0a d\u1ea5u hi\u1ec7u \u0111\u1ea7u (g\u1eadt \u0111\u1ea7u \u0111\u00fang, l\u1eafc \u0111\u1ea7u sai) t\u00f9y theo trong s\u1ed1 \u0111\u00f3 c\u00f3 Qu\u1ef7 kh\u00f4ng. ","otherNightReminder":"Th\u1ea7y b\u00f3i ch\u1ec9 2 ng\u01b0\u1eddi. \u0110\u01b0a d\u1ea5u hi\u1ec7u \u0111\u1ea7u (g\u1eadt \u0111\u1ea7u \u0111\u00fang, l\u1eafc \u0111\u1ea7u sai) t\u00f9y theo trong s\u1ed1 \u0111\u00f3 c\u00f3 Qu\u1ef7 kh\u00f4ng. ","remindersGlobal":null,"reminders":"\u0110i\u1ec3m m\u00f9"},{"id":"gambler","name":"Con b\u1ea1c","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi & \u0111o\u00e1n nh\u00e2n v\u1eadt c\u1ee7a h\u1ecd: n\u1ebfu b\u1ea1n \u0111o\u00e1n sai, b\u1ea1n ch\u1ebft.","firstNightReminder":null,"otherNightReminder":"Con b\u1ea1c ch\u1ec9 1 ng\u01b0\u1eddi, v\u00e0 1 nh\u00e2n v\u1eadt trong t\u1edd c\u1ee7a h\u1ecd. N\u1ebfu sai, Con b\u1ea1c ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft"},{"id":"gangster","name":"X\u00e3 h\u1ed9i \u0111en","ability":"M\u1ed9t l\u1ea7n trong ng\u00e0y, b\u1ea1n c\u00f3 th\u1ec3 ch\u1ecdn gi\u1ebft 1 h\u00e0ng x\u00f3m s\u1ed1ng, n\u1ebfu h\u00e0ng x\u00f3m s\u1ed1ng c\u00f2n l\u1ea1i \u0111\u1ed3ng \u00fd.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"general","name":"\u0110\u1ea1i t\u01b0\u1edbng","ability":"M\u1ed7i \u0111\u00eam, b\u1ea1n bi\u1ebft phe m\u00e0 Ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n ngh\u0129 l\u00e0 \u0111ang th\u1eafng: t\u1ed1t, x\u1ea5u, ho\u1eb7c ngang b\u1eb1ng.","firstNightReminder":"Cho \u0110\u1ea1i t\u01b0\u1edbng th\u1ea5y ng\u00f3n c\u00e1i l\u00ean n\u1ebfu t\u1ed1t \u0111ang th\u1eafng, ng\u00f3n c\u00e1i xu\u1ed1ng n\u1ebfu x\u1ea5u \u0111ang th\u1eafng ho\u1eb7c ng\u00f3n c\u00e1i ngang n\u1ebfu \u0111ang c\u00e2n b\u1eb1ng.","otherNightReminder":"Cho \u0110\u1ea1i t\u01b0\u1edbng th\u1ea5y ng\u00f3n c\u00e1i l\u00ean n\u1ebfu t\u1ed1t \u0111ang th\u1eafng, ng\u00f3n c\u00e1i xu\u1ed1ng n\u1ebfu x\u1ea5u \u0111ang th\u1eafng ho\u1eb7c ng\u00f3n c\u00e1i ngang n\u1ebfu \u0111ang c\u00e2n b\u1eb1ng.","remindersGlobal":null,"reminders":null},{"id":"goblin","name":"Y\u00eau tinh","ability":"N\u1ebfu b\u1ea1n c\u00f4ng khai r\u1eb1ng m\u00ecnh l\u00e0 Y\u00eau tinh khi b\u1ecb bi\u1ec3u quy\u1ebft & b\u1ecb h\u00e0nh quy\u1ebft ng\u00e0y h\u00f4m \u0111\u00f3, \u0111\u1ed9i b\u1ea1n th\u1eafng.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"\u0110\u00e3 kh\u1eb3ng \u0111\u1ecbnh"},{"id":"godfather","name":"B\u1ed1 gi\u00e0","ability":"B\u1ea1n b\u1eaft \u0111\u1ea7u bi\u1ebft nh\u1eefng L\u1eef kh\u00e1ch trong game. N\u1ebfu 1 trong s\u1ed1 \u0111\u00f3 ch\u1ebft h\u00f4m nay, ch\u1ecdn 1 ng\u01b0\u1eddi \u0111\u00eam nay: h\u1ecd ch\u1ebft. [\u22121 or +1 L\u1eef kh\u00e1ch]","firstNightReminder":"Cho xem t\u1ea5t c\u1ea3 th\u1ebb L\u1eef kh\u00e1ch trong game.","otherNightReminder":"N\u1ebfu L\u1eef kh\u00e1ch ch\u1ebft h\u00f4m nay: B\u1ed1 gi\u00e0 ch\u1ec9 1 ng\u01b0\u1eddi. ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft h\u00f4m nay,Ch\u1ebft"},{"id":"golem","name":"Golem","ability":"B\u1ea1n ch\u1ec9 \u0111\u01b0\u1ee3c bi\u1ec3u quy\u1ebft 1 l\u1ea7n trong game. Khi \u0111\u00f3, n\u1ebfu ng\u01b0\u1eddi \u0111\u01b0\u1ee3c bi\u1ec3u quy\u1ebft kh\u00f4ng ph\u1ea3i l\u00e0 Qu\u1ef7, h\u1ecd ch\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Kh\u00f4ng th\u1ec3 bi\u1ec3u quy\u1ebft"},{"id":"goon","name":"B\u1ea5t l\u01b0\u01a1ng","ability":"M\u1ed7i \u0111\u00eam, ng\u01b0\u1eddi \u0111\u1ea7u ti\u00ean ch\u1ecdn b\u1ea1n b\u1eb1ng ch\u1ee9c n\u0103ng c\u1ee7a h\u1ecd s\u1ebd b\u1ecb say \u0111\u1ebfn ho\u00e0ng h\u00f4m. B\u1ea1n tr\u1edf th\u00e0nh phe ng\u01b0\u1eddi \u0111\u00f3.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Say"},{"id":"gossip","name":"B\u00e0 t\u00e1m","ability":"M\u1ed7i ng\u00e0y, b\u1ea1n c\u00f3 th\u1ec3 \u0111\u01b0a ra 1 m\u1ec7nh \u0111\u1ec1 c\u00f4ng khai. \u0110\u00eam nay, n\u1ebfu n\u00f3 \u0111\u00fang, 1 ng\u01b0\u1eddi ch\u1ebft.","firstNightReminder":null,"otherNightReminder":"N\u1ebfu m\u1ec7nh \u0111\u1ec1 c\u00f4ng khai c\u1ee7a B\u00e0 t\u00e1m l\u00e0 \u0111\u00fang: Ch\u1ecdn 1 ng\u01b0\u1eddi kh\u00f4ng \u0111\u01b0\u1ee3c b\u1ea3o v\u1ec7 kh\u1ecfi c\u00e1i ch\u1ebft t\u1ed1i nay. ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft"},{"id":"grandmother","name":"B\u00e0 ngo\u1ea1i","ability":"B\u1ea1n b\u1eaft \u0111\u1ea7u bi\u1ebft 1 ng\u01b0\u1eddi t\u1ed1t & nh\u00e2n v\u1eadt c\u1ee7a h\u1ecd. N\u1ebfu Qu\u1ef7 gi\u1ebft h\u1ecd, b\u1ea1n ch\u1ebft theo.","firstNightReminder":"Cho xem th\u1ebb nh\u00e2n v\u1eadt \u0111\u01b0\u1ee3c \u0111\u00e1nh d\u1ea5u. Ch\u1ec9 ng\u01b0\u1eddi \u0111\u01b0\u1ee3c \u0111\u00e1nh d\u1ea5u.","otherNightReminder":"N\u1ebfu ch\u00e1u c\u1ee7a B\u00e0 ngo\u1ea1i b\u1ecb gi\u1ebft b\u1edfi Qu\u1ef7 t\u1ed1i nay: B\u00e0 ngo\u1ea1i ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u00e1u ngo\u1ea1i"},{"id":"gunslinger","name":"X\u1ea1 th\u1ee7","ability":"M\u1ed7i ng\u00e0y, sau khi phi\u1ebfu b\u1ea7u \u0111\u1ea7u ti\u00ean \u0111\u01b0\u1ee3c \u0111\u1ebfm, b\u1ea1n c\u00f3 th\u1ec3 ch\u1ecdn 1 ng\u01b0\u1eddi b\u1ecf phi\u1ebfu: h\u1ecd ch\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"harlot","name":"G\u00e1i \u0111i\u1ebfm","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi s\u1ed1ng: n\u1ebfu h\u1ecd \u0111\u1ed3ng \u00fd, b\u1ea1n bi\u1ebft nh\u00e2n v\u1eadt c\u1ee7a h\u1ecd, nh\u01b0ng c\u1ea3 hai c\u00f3 th\u1ec3 ch\u1ebft.","firstNightReminder":null,"otherNightReminder":"G\u00e1i \u0111i\u1ebfm ch\u1ec9 b\u1ea5t k\u00ec ng\u01b0\u1eddi n\u00e0o. R\u1ed3i cho G\u00e1i \u0111i\u1ebfm \u0111i ng\u1ee7. G\u1ecdi ng\u01b0\u1eddi \u0111\u01b0\u1ee3c ch\u1ecdn, Cho h\u1ecd xem l\u00e1 'Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n', v\u00e0 th\u1ebb G\u00e1i \u0111i\u1ebfm. ng\u01b0\u1eddi \u0111\u00f3 c\u00f3 th\u1ec3 g\u1eadt \u0111\u1ea7u c\u00f3 ho\u1eb7c l\u1eafc \u0111\u1ea7u kh\u00f4ng. N\u1ebfu h\u1ecd g\u1eadt \u0111\u1ea7u c\u00f3, g\u1ecdi G\u00e1i \u0111i\u1ebfm v\u00e0 cho xem th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a ng\u01b0\u1eddi \u0111\u01b0\u1ee3c ch\u1ecdn. R\u1ed3i b\u1ea1n c\u00f3 th\u1ec3 cho c\u1ea3 hai c\u00f9ng ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft"},{"id":"harpy","name":"Ng\u01b0\u1eddi chim","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 2 ng\u01b0\u1eddi: ng\u00e0y mai, ng\u01b0\u1eddi th\u1ee9 nh\u1ea5t \u0111i\u00ean r\u1eb1ng ng\u01b0\u1eddi th\u1ee9 hai l\u00e0 x\u1ea5u, ho\u1eb7c c\u1ea3 hai c\u00f3 th\u1ec3 ch\u1ebft.","firstNightReminder":"G\u1ecdi Ng\u01b0\u1eddi chim d\u1eady; h\u1ecd ch\u1ec9 1 ng\u01b0\u1eddi v\u00e0 1 ng\u01b0\u1eddi kh\u00e1c. G\u1ecdi ng\u01b0\u1eddi \u0111\u1ea7u ti\u00ean \u0111\u01b0\u1ee3c Ng\u01b0\u1eddi chim ch\u1ec9, cho h\u1ecd xem l\u00e1 'Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n', v\u00e0 token Ng\u01b0\u1eddi chim, r\u1ed3i ch\u1ec9 ng\u01b0\u1eddi th\u1ee9 hai \u0111\u01b0\u1ee3c Ng\u01b0\u1eddi chim ch\u1ec9.","otherNightReminder":"G\u1ecdi Ng\u01b0\u1eddi chim d\u1eady; h\u1ecd ch\u1ec9 1 ng\u01b0\u1eddi v\u00e0 1 ng\u01b0\u1eddi kh\u00e1c. G\u1ecdi ng\u01b0\u1eddi \u0111\u1ea7u ti\u00ean \u0111\u01b0\u1ee3c Ng\u01b0\u1eddi chim ch\u1ec9, cho h\u1ecd xem l\u00e1 'Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n', v\u00e0 token Ng\u01b0\u1eddi chim, r\u1ed3i ch\u1ec9 ng\u01b0\u1eddi th\u1ee9 hai \u0111\u01b0\u1ee3c Ng\u01b0\u1eddi chim ch\u1ec9.","remindersGlobal":null,"reminders":"\u0110i\u00ean, 2nd"},{"id":"hellslibrarian","name":"Th\u01b0 vi\u1ec7n \u0110\u1ecba ng\u1ee5c","ability":"\u0110i\u1ec1u x\u1ea5u c\u00f3 th\u1ec3 x\u1ea3y ra v\u1edbi ng\u01b0\u1eddi n\u00f3i khi Ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n c\u1ea7n im l\u1eb7ng.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"\u0110i\u1ec1u x\u1ea5u"},{"id":"heretic","name":"D\u1ecb gi\u00e1o","ability":"Ai th\u1eafng, thua & ai thua, th\u1eafng, ngay c\u1ea3 khi b\u1ea1n \u0111\u00e3 ch\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"highpriestess","name":"N\u1eef th\u01b0\u1ee3ng t\u1ebf","ability":"M\u1ed7i \u0111\u00eam, b\u1ea1n bi\u1ebft Ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n ngh\u0129 b\u1ea1n n\u00ean n\u00f3i chuy\u1ec7n v\u1edbi ng\u01b0\u1eddi n\u00e0o nh\u1ea5t","firstNightReminder":"Ch\u1ec9 1 ng\u01b0\u1eddi.","otherNightReminder":"Ch\u1ec9 1 ng\u01b0\u1eddi.","remindersGlobal":null,"reminders":null},{"id":"huntsman","name":"Th\u1ee3 s\u0103n","ability":"M\u1ed9t l\u1ea7n trong game, trong \u0111\u00eam, ch\u1ecdn ng\u01b0\u1eddi s\u1ed1ng: Thi\u1ebfu n\u1eef, n\u1ebfu \u0111\u01b0\u1ee3c ch\u1ecdn, tr\u1edf th\u00e0nh D\u00e2n l\u00e0ng ngo\u00e0i game. [+Thi\u1ebfu n\u1eef]","firstNightReminder":"Th\u1ee3 s\u0103n l\u1eafc \u0111\u1ea7u ho\u1eb7c ch\u1ec9 1 ng\u01b0\u1eddi. N\u1ebfu h\u1ecd ch\u1ec9 Thi\u1ebfu n\u1eef: g\u1ecdi ng\u01b0\u1eddi \u0111\u00f3 d\u1eady, cho xem l\u00e1 'B\u1ea1n l\u00e0' v\u00e0 th\u1ebb nh\u00e2n v\u1eadt ngo\u00e0i game.","otherNightReminder":"Th\u1ee3 s\u0103n l\u1eafc \u0111\u1ea7u ho\u1eb7c ch\u1ec9 1 ng\u01b0\u1eddi. N\u1ebfu h\u1ecd ch\u1ec9 Thi\u1ebfu n\u1eef: g\u1ecdi ng\u01b0\u1eddi \u0111\u00f3 d\u1eady, cho xem l\u00e1 'B\u1ea1n l\u00e0' v\u00e0 th\u1ebb nh\u00e2n v\u1eadt ngo\u00e0i game.","remindersGlobal":null,"reminders":"H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"imp","name":"Imp","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd ch\u1ebft. N\u1ebfu b\u1ea1n gi\u1ebft ch\u00ednh m\u00ecnh b\u1eb1ng c\u00e1ch n\u00e0y, 1 Tay sai tr\u1edf th\u00e0nh Imp.","firstNightReminder":null,"otherNightReminder":"Imp ch\u1ec9 1 ng\u01b0\u1eddi. Ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft. N\u1ebfu Imp ch\u1ec9 ch\u00ednh m\u00ecnh: Thay th\u1ebf th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a 1 tay sai c\u00f2n s\u1ed1ng b\u1eb1ng th\u1ebb Imp th\u1eeba . Cho xem l\u00e1 'B\u1ea1n l\u00e0', v\u00e0 th\u1ebb Imp.","remindersGlobal":null,"reminders":"Ch\u1ebft"},{"id":"innkeeper","name":"Ch\u1ee7 qu\u00e1n tr\u1ecd","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 2 ng\u01b0\u1eddi: h\u1ecd kh\u00f4ng th\u1ec3 ch\u1ebft \u0111\u00eam nay, nh\u01b0ng 1 ng\u01b0\u1eddi b\u1ecb say \u0111\u1ebfn ho\u00e0ng h\u00f4n.","firstNightReminder":null,"otherNightReminder":"ng\u01b0\u1eddi \u0111\u01b0\u1ee3c b\u1ea3o v\u1ec7 v\u00e0 b\u1ecb say tr\u01b0\u1edbc \u0111\u00f3 m\u1ea5t \u0111\u00e1nh d\u1ea7u. Ch\u1ee7 qu\u00e1n tr\u1ecd ch\u1ec9 2 ng\u01b0\u1eddi. Nh\u1eefng ng\u01b0\u1eddi \u0111\u00f3 \u0111\u01b0\u1ee3c b\u1ea3o v\u1ec7. M\u1ed9t trong s\u1ed1 \u0111\u00f3 b\u1ecb say.","remindersGlobal":null,"reminders":"B\u1ea3o v\u1ec7,Say"},{"id":"investigator","name":"\u0110i\u1ec1u tra vi\u00ean","ability":"\u0110\u00eam \u0111\u1ea7u ti\u00ean, b\u1ea1n bi\u1ebft ch\u1ee9c n\u0103ng c\u1ee7a Tay Sai thu\u1ed9c v\u1ec1 1 trong 2 ng\u01b0\u1eddi.","firstNightReminder":"Cho xem th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a Tay Sai trong cu\u1ed9c. Ch\u1ec9 2 ng\u01b0\u1eddi, 1 trong s\u1ed1 h\u1ecd l\u00e0 nh\u00e2n v\u1eadt \u0111\u00f3.","otherNightReminder":null,"remindersGlobal":null,"reminders":"Tay Sai,Sai"},{"id":"judge","name":"Th\u1ea9m ph\u00e1n","ability":"M\u1ed9t l\u1ea7n trong game, n\u1ebfu ng\u01b0\u1eddi kh\u00e1c bi\u1ec3u quy\u1ebft, b\u1ea1n c\u00f3 th\u1ec3 \u00e9p h\u00e0nh quy\u1ebft hi\u1ec7n t\u1ea1i th\u00e0nh c\u00f4ng hay th\u1ea5t b\u1ea1i.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"juggler","name":"Tung h\u1ee9ng","ability":"V\u00e0o ng\u00e0y \u0111\u1ea7u ti\u00ean c\u1ee7a b\u1ea1n, \u0111o\u00e1n c\u00f4ng khai nh\u00e2n v\u1eadt c\u1ee7a 5 ng\u01b0\u1eddi. \u0110\u00eam \u0111\u00f3, b\u1ea1n bi\u1ebft b\u1ea1n c\u00f3 bao nhi\u00eau ng\u01b0\u1eddi \u0111\u00fang.","firstNightReminder":null,"otherNightReminder":"N\u1ebfu h\u00f4m nay l\u00e0 ng\u00e0y \u0111\u1ea7u ti\u00ean c\u1ee7a Tung h\u1ee9ng: Cho xem d\u1ea5u hi\u1ec7u s\u1ed1 (0, 1, 2, v.v) b\u1eb1ng s\u1ed1 th\u1ebb '\u0110\u00fang'. B\u1ecf \u0111\u00e1nh d\u1ea5u.","remindersGlobal":null,"reminders":"\u0110\u00fang"},{"id":"king","name":"\u00d4ng vua","ability":"M\u1ed7i \u0111\u00eam, n\u1ebfu ng\u01b0\u1eddi ch\u1ebft nhi\u1ec1u h\u01a1n ng\u01b0\u1eddi s\u1ed1ng, b\u1ea1n bi\u1ebft nh\u00e2n v\u1eadt c\u1ee7a ng\u01b0\u1eddi s\u1ed1ng. Qu\u1ef7 bi\u1ebft b\u1ea1n l\u00e0 ai.","firstNightReminder":"G\u1ecdi Qu\u1ef7 d\u1eady, cho xem l\u00e1 'Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n', cho xem th\u1ebb \u00d4ng vua v\u00e0 ch\u1ec9 v\u00e0o \u00d4ng vua.","otherNightReminder":"N\u1ebfu ng\u01b0\u1eddi ch\u1ebft nhi\u1ec1u h\u01a1n ng\u01b0\u1eddi s\u1ed1ng, cho \u00d4ng vua xem th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a ng\u01b0\u1eddi s\u1ed1ng.","remindersGlobal":null,"reminders":null},{"id":"klutz","name":"H\u1eadu \u0111\u1eadu","ability":"Khi b\u1ea1n bi\u1ebft b\u1ea1n ch\u1ebft, c\u00f4ng khai ch\u1ecdn 1 ng\u01b0\u1eddi s\u1ed1ng: n\u1ebfu h\u1ecd l\u00e0 ng\u01b0\u1eddi X\u1ea5u, phe b\u1ea1n thua.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"knight","name":"Hi\u1ec7p s\u1ef9","ability":"B\u1ea1n b\u1eaft \u0111\u1ea7u bi\u1ebft 2 ng\u01b0\u1eddi ch\u01a1i kh\u00f4ng ph\u1ea3i l\u00e0 Qu\u1ef7","firstNightReminder":"Ch\u1ec9 2 ng\u01b0\u1eddi kh\u00f4ng ph\u1ea3i Qu\u1ef7 ","otherNightReminder":null,"remindersGlobal":null,"reminders":"Bi\u1ebft, Bi\u1ebft"},{"id":"legion","name":"Legion","ability":"M\u1ed7i \u0111\u00eam*, m\u1ed9t ng\u01b0\u1eddi c\u00f3 th\u1ec3 ch\u1ebft. H\u00e0nh quy\u1ebft th\u1ea5t b\u1ea1i n\u1ebfu ch\u1ec9 c\u00f3 ng\u01b0\u1eddi x\u1ea5u b\u1ecf phi\u1ebfu. B\u1ea1n c\u0169ng \u0111\u01b0\u1ee3c th\u1ea5y l\u00e0 Tay sai. [\u0110a s\u1ed1 ng\u01b0\u1eddi l\u00e0 Legion]","firstNightReminder":null,"otherNightReminder":"Ch\u1ecdn 1 ng\u01b0\u1eddi, ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft,S\u1eafp ch\u1ebft"},{"id":"leviathan","name":"Leviathan","ability":"N\u1ebfu nhi\u1ec1u h\u01a1n 1 ng\u01b0\u1eddi t\u1ed1t b\u1ecb h\u00e0nh quy\u1ebft, b\u1ea1n th\u1eafng. T\u1ea5t c\u1ea3 ng\u01b0\u1eddi bi\u1ebft b\u1ea1n trong cu\u1ed9c. Sau ng\u00e0y 5, x\u1ea5u th\u1eafng.","firstNightReminder":"\u0110\u1eb7t \u0111\u00e1nh d\u1ea5u 'Ng\u00e0y 1' c\u1ee7a Leviathan. Th\u00f4ng b\u00e1o r\u1eb1ng 'C\u00f3 Leviathan trong cu\u1ed9c: H\u00f4m nay l\u00e0 ng\u00e0y 1.'","otherNightReminder":"\u0110\u1ed5i \u0111\u00e1nh d\u1ea5u ng\u00e0y c\u1ee7a Leviathan sang ng\u00e0y h\u00f4m sau.","remindersGlobal":null,"reminders":"Ng\u00e0y 1,Ng\u00e0y 2,Ng\u00e0y 3,Ng\u00e0y 4,Ng\u00e0y 5,t\u1ed1t \u0111\u00e3 b\u1ecb h\u00e0nh quy\u1ebft"},{"id":"librarian","name":"Th\u1ee7 th\u01b0","ability":"\u0110\u00eam \u0111\u1ea7u ti\u00ean, b\u1ea1n bi\u1ebft ch\u1ee9c n\u0103ng c\u1ee7a L\u1eef kh\u00e1ch thu\u1ed9c v\u1ec1 1 trong 2 ng\u01b0\u1eddi (ho\u1eb7c l\u00e0 kh\u00f4ng c\u00f3 L\u1eef kh\u00e1ch).","firstNightReminder":"Cho xem th\u1ebb nh\u00e2n v\u1eadt L\u1eef kh\u00e1ch trong cu\u1ed9c. Ch\u1ec9 v\u00e0o 2 ng\u01b0\u1eddi, 1 trong s\u1ed1 h\u1ecd l\u00e0 nh\u00e2n v\u1eadt \u0111\u00f3.","otherNightReminder":null,"remindersGlobal":null,"reminders":"L\u1eef kh\u00e1ch,Sai"},{"id":"lilmonsta","name":"Lil' Monsta","ability":"M\u1ed7i \u0111\u00eam, Tay sai quy\u1ebft \u0111\u1ecbnh ai tr\u00f4ng nom th\u1ebb Lil' Monsta & \"l\u00e0 Qu\u1ef7\"..M\u1ed9t ng\u01b0\u1eddi ch\u1ebft m\u1ed7i \u0111\u00eam*. [+1 Tay sai]","firstNightReminder":"G\u1ecdi t\u1ea5t c\u1ea3 Tay sai d\u1eady, cho h\u1ecd ch\u1ec9 phi\u1ebfu cho ng\u01b0\u1eddi h\u1ecd mu\u1ed1n tr\u00f4ng coi Lil' Monsta.","otherNightReminder":"G\u1ecdi t\u1ea5t c\u1ea3 Tay sai d\u1eady, cho h\u1ecd ch\u1ec9 phi\u1ebfu cho ng\u01b0\u1eddi h\u1ecd mu\u1ed1n tr\u00f4ng coi Lil' Monsta.. Ch\u1ecdn 1 ng\u01b0\u1eddi, ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft.","remindersGlobal":"l\u00e0 Qu\u1ef7,Ch\u1ebft","reminders":null},{"id":"lleech","name":"Lleech","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd ch\u1ebft. B\u1ea1n ch\u1ecdn 1 ng\u01b0\u1eddi l\u00fac b\u1eaft \u0111\u1ea7u: h\u1ecd tr\u00fang \u0111\u1ed9c - b\u1ea1n ch\u1ebft khi & ch\u1ec9 khi h\u1ecd ch\u1ebft.","firstNightReminder":"Lleech ch\u1ecdn 1 ng\u01b0\u1eddi. \u0110\u1eb7t th\u1ebb nh\u1edb 'Tr\u00fang \u0111\u1ed9c'.","otherNightReminder":"Lleech ch\u1ec9 1 ng\u01b0\u1eddi. Ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft,Tr\u00fang \u0111\u1ed9c"},{"id":"lunatic","name":"Ng\u01b0\u1eddi \u0111i\u00ean","ability":"B\u1ea1n ngh\u0129 b\u1ea1n l\u00e0 Qu\u1ef7, nh\u01b0ng b\u1ea1n kh\u00f4ng ph\u1ea3i. Qu\u1ef7 bi\u1ebft b\u1ea1n l\u00e0 ai & ng\u01b0\u1eddi b\u1ea1n ch\u1ecdn trong \u0111\u00eam.","firstNightReminder":"N\u1ebfu c\u00f3 7 ng\u01b0\u1eddi tr\u1edf l\u00ean: Cho Ng\u01b0\u1eddi \u0111i\u00ean th\u1ea5y 'Tay sai' ng\u1eabu nhi\u00ean, b\u1eb1ng s\u1ed1 Tay sai trong game. Cho xem 3 nh\u00e2n v\u1eadt t\u1ed1t ng\u1eabu nhi\u00ean. N\u1ebfu Ng\u01b0\u1eddi \u0111i\u00ean nh\u1eadn \u0111\u01b0\u1ee3c th\u1ebb Qu\u1ef7 th\u1ee9c d\u1eady \u0111\u00eam nay: Cho Ng\u01b0\u1eddi \u0111i\u00ean s\u1eed d\u1ee5ng ch\u1ee9c n\u0103ng Qu\u1ef7 \u0111\u00f3. \u0110\u1eb7t \u0111\u00e1nh d\u1ea5u 't\u1ea5n c\u00f4ng' c\u1ee7a h\u1ecd. G\u1ecdi Qu\u1ef7 d\u1eady. Cho Qu\u1ef7 xem th\u1ebb nh\u00e2n v\u1eadt th\u1eadt s\u1ef1 c\u1ee7a h\u1ecd. Cho h\u1ecd th\u1ea5y Ng\u01b0\u1eddi \u0111i\u00ean. N\u1ebfu Ng\u01b0\u1eddi \u0111i\u00ean t\u1ea5n c\u00f4ng ng\u01b0\u1eddi: Cho Qu\u1ef7 th\u1eadt s\u1ef1 bi\u1ebft nh\u1eefng ng\u01b0\u1eddi \u0111\u00f3. B\u1ecf t\u1ea5t c\u1ea3 \u0111\u00e1nh d\u1ea5u 't\u1ea5n c\u00f4ng'.","otherNightReminder":"Cho Ng\u01b0\u1eddi \u0111i\u00ean s\u1eed d\u1ee5ng ch\u1ee9c n\u0103ng Qu\u1ef7. \u0110\u1eb7t \u0111\u00e1nh d\u1ea5u 't\u1ea5n c\u00f4ng'. N\u1ebfu Ng\u01b0\u1eddi \u0111i\u00ean ch\u1ecdn ng\u01b0\u1eddi: Wake the Demon. Cho xem \u0111\u00e1nh d\u1ea5u 't\u1ea5n c\u00f4ng', v\u00e0 ch\u1ec9 t\u1ea5t c\u1ea3 ng\u01b0\u1eddi \u0111\u01b0\u1ee3c \u0111\u00e1nh d\u1ea5u. B\u1ecf t\u1ea5t c\u1ea3 \u0111\u00e1nh d\u1ea5u 't\u1ea5n c\u00f4ng'.","remindersGlobal":null,"reminders":"T\u1ea5n c\u00f4ng 1,T\u1ea5n c\u00f4ng 2,T\u1ea5n c\u00f4ng 3"},{"id":"lycanthrope","name":"Ng\u01b0\u1eddi s\u00f3i","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi s\u1ed1ng: n\u1ebfu l\u00e0 t\u1ed1t, h\u1ecd ch\u1ebft, nh\u01b0ng h\u1ecd l\u00e0 ng\u01b0\u1eddi duy nh\u1ea5t c\u00f3 th\u1ec3 ch\u1ebft \u0111\u00eam nay.","firstNightReminder":null,"otherNightReminder":"Ng\u01b0\u1eddi s\u00f3i ch\u1ec9 ng\u01b0\u1eddi s\u1ed1ng: n\u1ebfu l\u00e0 t\u1ed1t, h\u1ecd ch\u1ebft v\u00e0 nh\u1eefng ng\u01b0\u1eddi kh\u00e1c kh\u00f4ng th\u1ebf ch\u1ebft \u0111\u00eam nay.","remindersGlobal":null,"reminders":"Ch\u1ebft"},{"id":"magician","name":"\u1ea2o thu\u1eadt gia","ability":"Qu\u1ef7 ngh\u0129 b\u1ea1n l\u00e0 Tay sau. Tay sai ngh\u0129 b\u1ea1n l\u00e0 Qu\u1ef7.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"marionette","name":"Con r\u1ed1i","ability":"B\u1ea1n ngh\u0129 b\u1ea1n l\u00e0 nh\u00e2n v\u1eadt t\u1ed1t nh\u01b0ng kh\u00f4ng ph\u1ea3i. Qu\u1ef7 bi\u1ebft b\u1ea1n l\u00e0 ai. [B\u1ea1n ng\u1ed3i c\u1ea1nh Qu\u1ef7]","firstNightReminder":"Ch\u1ecdn m\u1ed9t ng\u01b0\u1eddi t\u1ed1t ng\u1ed3i k\u1ebf Qu\u1ef7 v\u00e0 \u0111\u1eb7t th\u1ebb \u0111\u00e1nh d\u1ea5u 'l\u00e0 Con r\u1ed1i'. G\u1ecdi Qu\u1ef7 d\u1eady v\u00e0 cho h\u1ecd bi\u1ebft Con r\u1ed1i.","otherNightReminder":null,"remindersGlobal":"l\u00e0 Con r\u1ed1i","reminders":null},{"id":"mastermind","name":"Qu\u00e2n s\u01b0","ability":"N\u1ebfu Qu\u1ef7 ch\u1ebft v\u00ec h\u00e0nh quy\u1ebft (k\u1ebft th\u00fac game), ch\u01a1i th\u00eam 1 ng\u00e0y n\u1eefa. N\u1ebfu 1 ng\u01b0\u1eddi b\u1ecb h\u00e0nh quy\u1ebft sau \u0111\u00f3, phe h\u1ecd thua.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"mathematician","name":"Nh\u00e0 to\u00e1n h\u1ecdc","ability":"M\u1ed7i \u0111\u00eam, b\u1ea1n bi\u1ebft c\u00f3 bao nhi\u00eau t\u00ednh n\u0103ng ho\u1ea1t \u0111\u1ed9ng b\u1ea5t th\u01b0\u1eddng (t\u1eeb s\u00e1ng) do ch\u1ee9c n\u0103ng c\u1ee7a nh\u00e2n v\u1eadt kh\u00e1c.","firstNightReminder":"Cho xem d\u1ea5u hi\u1ec7u s\u1ed1 (0, 1, 2, v.v.) b\u1eb1ng s\u1ed1 ng\u01b0\u1eddi c\u00f3 ch\u1ee9c n\u0103ng ho\u1ea1t \u0111\u1ed9ng b\u1ea5t th\u01b0\u1eddng v\u00ec ch\u1ee9c n\u0103ng kh\u00e1c.","otherNightReminder":"Cho xem d\u1ea5u hi\u1ec7u s\u1ed1 (0, 1, 2, v.v.) b\u1eb1ng s\u1ed1 ng\u01b0\u1eddi c\u00f3 ch\u1ee9c n\u0103ng ho\u1ea1t \u0111\u1ed9ng b\u1ea5t th\u01b0\u1eddng v\u00ec ch\u1ee9c n\u0103ng kh\u00e1c.","remindersGlobal":null,"reminders":"B\u1ea5t th\u01b0\u1eddng"},{"id":"matron","name":"B\u00e1 ch\u1ee7","ability":"M\u1ed7i ng\u00e0y, b\u1ea1n c\u00f3 th\u1ec3 \u0111\u1ed5i ch\u1ed7 c\u1ee7a nhi\u1ec1u nh\u1ea5t 3 c\u1eb7p. ng\u01b0\u1eddi kh\u00f4ng \u0111\u01b0\u1ee3c r\u1eddi ch\u1ed7 ng\u1ed3i \u0111\u1ec3 n\u00f3i chuy\u1ec7n ri\u00eang.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"mayor","name":"Th\u1ecb tr\u01b0\u1edfng","ability":"N\u1ebfu c\u00f2n 3 ng\u01b0\u1eddi s\u1ed1ng m\u00e0 ko ai b\u1ecb H\u00e0nh Quy\u1ebft, phe b\u1ea1n th\u1eafng. N\u1ebfu b\u1ea1n s\u1ebd ch\u1ebft trong \u0111\u00eam, c\u00f3 th\u1ec3 ng\u01b0\u1eddi kh\u00e1c s\u1ebd ch\u1ebft thay.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"mezepheles","name":"K\u1ebb chi\u00eau m\u1ed9","ability":"B\u1ea1n b\u1eaft \u0111\u1ea7u bi\u1ebft 1 t\u1eeb b\u00ed m\u1eadt. Ng\u01b0\u1eddi t\u1ed1t \u0111\u1ea7u ti\u00ean n\u00f3i t\u1eeb n\u00e0y tr\u1edf th\u00e0nh ng\u01b0\u1eddi x\u1ea5u \u0111\u00eam \u0111\u00f3.","firstNightReminder":"Cho K\u1ebb chi\u00eau m\u1ed9 bi\u1ebft t\u1eeb b\u00ed m\u1eadt.","otherNightReminder":"G\u1ecdi ng\u01b0\u1eddi t\u1ed1t \u0111\u1ea7u ti\u00ean n\u00f3i t\u1eeb b\u00ed m\u1eadt c\u1ee7a K\u1ebb chi\u00eau m\u1ed9 d\u1eady v\u00e0 cho xem l\u00e1 'B\u1ea1n l\u00e0' v\u00e0 ng\u00f3n tay c\u00e1i xu\u1ed1ng th\u1ec3 hi\u1ec7n x\u1ea5u.","remindersGlobal":null,"reminders":"Bi\u1ebfn th\u00e0nh x\u1ea5u,H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"minstrel","name":"Ng\u01b0\u1eddi h\u00e1t rong","ability":"N\u1ebfu 1 Tay sai ch\u1ebft v\u00ec h\u00e0nh quy\u1ebft, t\u1ea5t c\u1ea3 ng\u01b0\u1eddi kh\u00e1c (tr\u1eeb Du kh\u00e1ch)  \u0111\u1ec1u b\u1ecb say \u0111\u1ebfn ho\u00e0ng h\u00f4n ng\u00e0y h\u00f4m sau.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"M\u1ecdi ng\u01b0\u1eddi b\u1ecb say"},{"id":"monk","name":"Nh\u00e0 s\u01b0","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi (kh\u00f4ng ph\u1ea3i b\u1ea1n): h\u1ecd an to\u00e0n kh\u1ecfi Qu\u1ef7 \u0111\u00eam nay.","firstNightReminder":null,"otherNightReminder":"Ng\u01b0\u1eddi \u0111\u01b0\u1ee3c b\u1ea3o v\u1ec7 tr\u01b0\u1edbc \u0111\u00f3 s\u1ebd kh\u00f4ng \u0111\u01b0\u1ee3c b\u1ea3o v\u1ec7 n\u1eefa. Nh\u00e0 s\u01b0 ch\u1ec9 1 ng\u01b0\u1eddi kh\u00f4ng ph\u1ea3i ch\u00ednh h\u1ecd. \u0110\u00e1nh d\u1ea5u ng\u01b0\u1eddi \u0111\u00f3 'B\u1ea3o v\u1ec7'.","remindersGlobal":null,"reminders":"B\u1ea3o v\u1ec7"},{"id":"moonchild","name":"Con tr\u0103ng","ability":"Khi b\u1ea1n bi\u1ebft b\u1ea1n ch\u1ebft, c\u00f4ng khai ch\u1ecdn 1 ng\u01b0\u1eddi s\u1ed1ng. T\u1ed1i nay, n\u1ebfu h\u1ecd l\u00e0 ng\u01b0\u1eddi t\u1ed1t, h\u1ecd ch\u1ebft.","firstNightReminder":null,"otherNightReminder":"N\u1ebfu Con tr\u0103ng s\u1eed d\u1ee5ng ch\u1ee9c n\u0103ng l\u00ean 1 ng\u01b0\u1eddi h\u00f4m nay: N\u1ebfu ng\u01b0\u1eddi \u0111\u00f3 l\u00e0 t\u1ed1t, h\u1ecd ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft"},{"id":"mutant","name":"\u0110\u1ed9t bi\u1ebfn","ability":"N\u1ebfu b\u1ea1n \"\u0111i\u00ean' r\u1eb1ng m\u00ecnh l\u00e0 L\u1eef kh\u00e1ch, c\u00f3 th\u1ec3 b\u1ea1n b\u1ecb H\u00e0nh Quy\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"nightwatchman","name":"Ng\u01b0\u1eddi g\u00e1c \u0111\u00eam","ability":"M\u1ed9t l\u1ea7n trong game, trong \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd bi\u1ebft b\u1ea1n l\u00e0 ai.","firstNightReminder":"Ng\u01b0\u1eddi g\u00e1c \u0111\u00eam c\u00f3 th\u1ec3 ch\u1ec9 1 ng\u01b0\u1eddi. G\u1ecdi ng\u01b0\u1eddi \u0111\u00f3 d\u1eady, cho xem l\u00e1 'Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n' v\u00e0 th\u1ebb Ng\u01b0\u1eddi g\u00e1c \u0111\u00eam, v\u00e0 ch\u1ec9 Ng\u01b0\u1eddi g\u00e1c \u0111\u00eam.","otherNightReminder":"Ng\u01b0\u1eddi g\u00e1c \u0111\u00eam c\u00f3 th\u1ec3 ch\u1ec9 1 ng\u01b0\u1eddi. G\u1ecdi ng\u01b0\u1eddi \u0111\u00f3 d\u1eady, cho xem l\u00e1 'Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n' v\u00e0 th\u1ebb Ng\u01b0\u1eddi g\u00e1c \u0111\u00eam, v\u00e0 ch\u1ec9 Ng\u01b0\u1eddi g\u00e1c \u0111\u00eam.","remindersGlobal":null,"reminders":"H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"noble","name":"Qu\u00fd t\u1ed9c","ability":"B\u1ea1n b\u1eaft \u0111\u1ea7u bi\u1ebft 3 ng\u01b0\u1eddi, 1 v\u00e0 ch\u1ec9 1 ng\u01b0\u1eddi l\u00e0 x\u1ea5u.","firstNightReminder":"Ch\u1ec9 3 ng\u01b0\u1eddi trong \u0111\u00f3 c\u00f3 ng\u01b0\u1eddi x\u1ea5u, kh\u00f4ng theo th\u1ee9 t\u1ef1.","otherNightReminder":null,"remindersGlobal":null,"reminders":"Th\u1ea5y"},{"id":"nodashii","name":"No Dashii","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd ch\u1ebft. 2 h\u00e0ng x\u00f3m D\u00e2n l\u00e0ng c\u1ee7a b\u1ea1n tr\u00fang \u0111\u1ed9c.","firstNightReminder":null,"otherNightReminder":"No Dashii ch\u1ec9 1 ng\u01b0\u1eddi. Ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft,Tr\u00fang \u0111\u1ed9c"},{"id":"ojo","name":"Ojo","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 nh\u00e2n v\u1eadt: h\u1ecd ch\u1ebft. N\u1ebfu n\u00f3 ko c\u00f3 trong game, Ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n ch\u1ecdn ng\u01b0\u1eddi ch\u1ebft.","firstNightReminder":null,"otherNightReminder":"Ojo ch\u1ec9 1 nh\u00e2n v\u1eadt trong t\u1edd k\u1ecbch b\u1ea3n; n\u1ebfu c\u00f3 trong game, ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft. N\u1ebfu n\u00f3 kh\u00f4ng c\u00f3 trong game, qu\u1ea3n tr\u00f2 ch\u1ecdn ng\u01b0\u1eddi ch\u1ebft thay.","remindersGlobal":null,"reminders":"Ch\u1ebft"},{"id":"oracle","name":"Ti\u00ean tri","ability":"M\u1ed7i \u0111\u00eam*, b\u1ea1n bi\u1ebft c\u00f3 bao nhi\u00eau ng\u01b0\u1eddi ch\u1ebft l\u00e0 Phe X\u1ea5u.","firstNightReminder":null,"otherNightReminder":"Cho xem d\u1ea5u hi\u1ec7u s\u1ed1 (0, 1, 2, v.v.) b\u1eb1ng s\u1ed1 Phe X\u1ea5u \u0111\u00e3 ch\u1ebft.","remindersGlobal":null,"reminders":null},{"id":"organgrinder","name":"Nh\u1ea1c c\u00f4ng \u0111\u01b0\u1eddng ph\u1ed1","ability":"T\u1ea5t c\u1ea3 ng\u01b0\u1eddi ch\u01a1i nh\u1eafm m\u1eaft khi b\u1ecf phi\u1ebfu & s\u1ed1 phi\u1ebfu \u0111\u01b0\u1ee3c gi\u1eef b\u00ed m\u1ea5t. Phi\u1ebfu l\u00ean b\u1ea1n ch\u1ec9 \u0111\u01b0\u1ee3c t\u00ednh khi b\u1ea1n b\u1ecf phi\u1ebfu.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"S\u1eafp ch\u1ebft"},{"id":"pacifist","name":"H\u00f2a b\u00ecnh","ability":"Ng\u01b0\u1eddi t\u1ed1t b\u1ecb h\u00e0nh quy\u1ebft c\u00f3 th\u1ec3 kh\u00f4ng ch\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"philosopher","name":"Tri\u1ebft gia","ability":"Ch\u1ec9 1 l\u1ea7n duy nh\u1ea5t, trong \u0111\u00eam, ch\u1ecdn 1 nh\u00e2n v\u1eadt Phe T\u1ed1t: nh\u1eadn ch\u1ee9c n\u0103ng \u0111\u00f3. N\u1ebfu nh\u00e2n v\u1eadt n\u00e0y \u0111\u00e3 c\u00f3 trong l\u00e0ng, h\u1ecd s\u1ebd b\u1ecb say.","firstNightReminder":"N\u1ebfu Tri\u1ebft gia kh\u00f4ng d\u00f9ng ch\u1ee9c n\u0103ng, h\u1ecd c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u. N\u1ebfu Tri\u1ebft gia mu\u1ed1n ch\u1ecdn nh\u00e2n v\u1eadt, h\u1ecd ch\u1ec9 v\u00e0o t\u1edd c\u1ee7a h\u1ecd. Tr\u00e1o th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a Tri\u1ebft gia v\u1edbi nh\u00e2n v\u1eadt ngo\u00e0i cu\u1ed9c. Ho\u1eb7c, n\u1ebfu nh\u00e2n v\u1eadt n\u00e0y trong cu\u1ed9c, \u0111\u00e1nh d\u1ea5u \"Say\" c\u1ea1nh nh\u00e2n v\u1eadt \u0111\u00f3 v\u00e0 th\u1ebb \"l\u00e0 Tri\u1ebft gia\" c\u1ea1nh Tri\u1ebft gia.","otherNightReminder":"N\u1ebfu Tri\u1ebft gia kh\u00f4ng d\u00f9ng ch\u1ee9c n\u0103ng, h\u1ecd c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u. N\u1ebfu Tri\u1ebft gia mu\u1ed1n ch\u1ecdn nh\u00e2n v\u1eadt, h\u1ecd ch\u1ec9 v\u00e0o t\u1edd c\u1ee7a h\u1ecd. Tr\u00e1o th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a Tri\u1ebft gia v\u1edbi nh\u00e2n v\u1eadt ngo\u00e0i cu\u1ed9c. Ho\u1eb7c, n\u1ebfu nh\u00e2n v\u1eadt n\u00e0y trong cu\u1ed9c, \u0111\u00e1nh d\u1ea5u \"Say\" c\u1ea1nh nh\u00e2n v\u1eadt \u0111\u00f3 v\u00e0 th\u1ebb \"l\u00e0 Tri\u1ebft gia\" c\u1ea1nh Tri\u1ebft gia.","remindersGlobal":"Say,l\u00e0 Tri\u1ebft gia","reminders":null},{"id":"pithag","name":"Pit-Hag","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi & 1 nh\u00e2n v\u1eadt m\u00e0 h\u1ecd bi\u1ebfn th\u00e0nh (n\u1ebfu ngo\u00e0i cu\u1ed9c). N\u1ebfu Qu\u1ef7 \u0111\u01b0\u1ee3c sinh ra, c\u00e1i ch\u1ebft x\u1ea3y ra ng\u1eabu nhi\u00ean.","firstNightReminder":null,"otherNightReminder":"Pit-hag ch\u1ec9 1 ng\u01b0\u1eddi v\u00e0 nh\u00e2n v\u1eadt trong t\u1edd c\u1ee7a h\u1ecd. N\u1ebfu nh\u00e2n v\u1eadt n\u00e0y \u1edf ngo\u00e0i cu\u1ed9c, g\u1ecdi ng\u01b0\u1eddi \u0111\u00f3 d\u1eady v\u00e0 cho h\u1ecd xem l\u00e1 'B\u1ea1n l\u00e0' v\u00e0 th\u1ebb nh\u00e2n v\u1eadt li\u00ean quan. N\u1ebfu nh\u00e2n v\u1eadt n\u00e0y \u1edf trong cu\u1ed9c, kh\u00f4ng c\u00f3 g\u00ec x\u1ea3y ra.","remindersGlobal":null,"reminders":null},{"id":"pixie","name":"Ti\u1ec3u ti\u00ean","ability":"B\u1ea1n bi\u1ebft 1 D\u00e2n l\u00e0ng trong cu\u1ed9c. N\u1ebfu b\u1ea1n \u0111i\u00ean r\u1eb1ng b\u1ea1n l\u00e0 nh\u00e2n v\u1eadt n\u00e0y, b\u1ea1n nh\u00e2n ch\u1ee9c n\u0103ng c\u1ee7a h\u1ecd khi h\u1ecd ch\u1ebft.","firstNightReminder":"Cho Ti\u1ec3u ti\u00ean xem 1 th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a D\u00e2n l\u00e0ng trong cu\u1ed9c.","otherNightReminder":null,"remindersGlobal":null,"reminders":"\u0110i\u00ean,C\u00f3 ch\u1ee9c n\u0103ng"},{"id":"plaguedoctor","name":"B\u00e1c s\u0129 d\u1ecbch h\u1ea1ch","ability":"Khi b\u1ea1n ch\u1ebft, Ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n c\u00f3 ch\u1ee9c n\u0103ng c\u1ee7a Tay sai ngo\u00e0i game.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Ch\u1ee9c n\u0103ng Ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n"},{"id":"po","name":"Po","ability":"M\u1ed7i \u0111\u00eam*, b\u1ea1n c\u00f3 th\u1ec3 ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd ch\u1ebft. N\u1ebfu l\u1ef1a ch\u1ecdn tr\u01b0\u1edbc l\u00e0 kh\u00f4ng ai c\u1ea3, ch\u1ecdn 3 ng\u01b0\u1eddi t\u1ed1i nay.","firstNightReminder":null,"otherNightReminder":"N\u1ebfu Po kh\u00f4ng ch\u1ecdn ai \u0111\u00eam tr\u01b0\u1edbc: Po ch\u1ec9 3 ng\u01b0\u1eddi. Ng\u01b0\u1ee3c l\u1ea1i: Po c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u, ho\u1eb7c ch\u1ec9 1 ng\u01b0\u1eddi. Ng\u01b0\u1eddi \u0111\u01b0\u1ee3c ch\u1ecdn ch\u1ebft","remindersGlobal":null,"reminders":"Ch\u1ebft,Gi\u1ebft 3 ng\u01b0\u1eddi"},{"id":"poisoner","name":"\u0110\u1ed9c th\u1ee7","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi, h\u1ecd s\u1ebd b\u1ecb \u0111\u1ea7u \u0111\u1ed9c cho \u0111\u1ebfn h\u1ebft ng\u00e0y h\u00f4m sau.","firstNightReminder":"\u0110\u1ed9c th\u1ee7 ch\u1ec9 1 ng\u01b0\u1eddi. \u0110\u00e1nh d\u1ea5u l\u00e0 \"Tr\u00fang \u0111\u1ed9c\"","otherNightReminder":"Ng\u01b0\u1eddi b\u1ecb tr\u00fang \u0111\u1ed9c tr\u01b0\u1edbc \u0111\u00f3 kh\u00f4ng c\u00f2n b\u1ecb tr\u00fang \u0111\u1ed9c. K\u1ebb \u0111\u1ea7u \u0111\u1ed9c ch\u1ec9 1 ng\u01b0\u1eddi. Chuy\u1ec3n \"Tr\u00fang \u0111\u1ed9c\" sang ng\u01b0\u1eddi m\u1edbi.","remindersGlobal":null,"reminders":"Tr\u00fang \u0111\u1ed9c"},{"id":"politician","name":"Ch\u00ednh tr\u1ecb gia","ability":"N\u1ebfu b\u1ea1n ch\u1ecbu tr\u00e1ch nhi\u1ec7m l\u1edbn nh\u1ea5t \u0111\u1ebfn s\u1ef1 th\u1ea5t b\u1ea1n c\u1ee7a \u0111\u1ed9i b\u1ea1n, b\u1ea1n \u0111\u1ed5i phe v\u00e0 th\u1eafng, ngay c\u1ea3 khi ch\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"poppygrower","name":"Ng\u01b0\u1eddi tr\u1ed3ng hoa","ability":"Qu\u1ef7 & Tay sai kh\u00f4ng bi\u1ebft nhau. N\u1ebfu b\u1ea1n ch\u1ebft, h\u1ecd bi\u1ebft nhau trong \u0111\u00eam \u0111\u00f3.","firstNightReminder":"Kh\u00f4ng cho Qu\u1ef7\/Tay sai bi\u1ebft nhau","otherNightReminder":"N\u1ebfu Ng\u01b0\u1eddi tr\u1ed3ng hoa ch\u1ebft, cho Qu\u1ef7\/Tay sai bi\u1ebft nhau.","remindersGlobal":null,"reminders":"\u00c1c th\u1ee9c d\u1eady"},{"id":"preacher","name":"M\u1ee5c s\u01b0","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi: Tay sai, n\u1ebfu \u0111\u01b0\u1ee3c ch\u1ecdn, bi\u1ebft \u0111i\u1ec1u \u0111\u00f3. T\u1ea5t c\u1ea3 Tay sai \u0111\u01b0\u1ee3c ch\u1ecdn kh\u00f4ng c\u00f3 ch\u1ee9c n\u0103ng.","firstNightReminder":"M\u1ee5c s\u01b0 ch\u1ecdn 1 ng\u01b0\u1eddi. N\u1ebfu Tay sai \u0111\u01b0\u1ee3c ch\u1ecdn, g\u1ecdi Tay sai d\u1eady v\u00e0 cho xem l\u00e1 \"Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n\" v\u00e0 th\u1ebb M\u1ee5c s\u01b0.","otherNightReminder":"M\u1ee5c s\u01b0 ch\u1ecdn 1 ng\u01b0\u1eddi. N\u1ebfu Tay sai \u0111\u01b0\u1ee3c ch\u1ecdn, g\u1ecdi Tay sai d\u1eady v\u00e0 cho xem l\u00e1 \"Nh\u00e2n v\u1eadt n\u00e0y ch\u1ecdn b\u1ea1n\" v\u00e0 th\u1ebb M\u1ee5c s\u01b0.","remindersGlobal":null,"reminders":"\u0110ang nghe \u0111\u1ea1o"},{"id":"professor","name":"Gi\u00e1o s\u01b0","ability":"M\u1ed9t l\u1ea7n trong game, trong \u0111\u00eam*, ch\u1ecdn ng\u01b0\u1eddi ch\u1ebft: N\u1ebfu h\u1ecd l\u00e0 D\u00e2n l\u00e0ng, h\u1ecd \u0111\u01b0\u1ee3c h\u1ed3i sinh.","firstNightReminder":null,"otherNightReminder":"N\u1ebfu Gi\u00e1o s\u01b0 ch\u01b0a d\u00f9ng ch\u1ee9c n\u0103ng: Gi\u00e1o s\u01b0 c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u ho\u1eb7c ch\u1ec9 1 ng\u01b0\u1eddi. N\u1ebfu ng\u01b0\u1eddi \u0111\u00f3 l\u00e0 D\u00e2n l\u00e0ng, h\u1ecd \u0111\u01b0\u1ee3c s\u1ed1ng l\u1ea1i.","remindersGlobal":null,"reminders":"S\u1ed1ng,H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"psychopath","name":"Ng\u01b0\u1eddi t\u00e2m th\u1ea7n","ability":"M\u1ed7i ng\u00e0y, tr\u01b0\u1edbc bi\u1ec3u quy\u1ebft, b\u1ea1n c\u00f3 th\u1ec3 c\u00f4ng khai ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd ch\u1ebft. N\u1ebfu b\u1ecb h\u00e0nh quy\u1ebft, b\u1ea1n ch\u1ec9 ch\u1ebft khi b\u1ea1n thua o\u1eb3n t\u00f9 t\u00ec.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"pukka","name":"Pukka","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd tr\u00fang \u0111\u1ed9c. Ng\u01b0\u1eddi tr\u00fang \u0111\u1ed9c tr\u01b0\u1edbc \u0111\u00f3 ch\u1ebft r\u1ed3i kh\u1ecfe l\u1ea1i.","firstNightReminder":"Pukka ch\u1ec9 1 ng\u01b0\u1eddi. Ng\u01b0\u1eddi \u0111\u00f3 b\u1ecb tr\u00fang \u0111\u1ed9c.","otherNightReminder":"Pukka ch\u1ec9 1 ng\u01b0\u1eddi. Ng\u01b0\u1eddi \u0111\u00f3 b\u1ecb tr\u00fang \u0111\u1ed9c. Ng\u01b0\u1eddi tr\u00fang \u0111\u1ed9c tr\u01b0\u1edbc \u0111\u00f3 ch\u1ebft.","remindersGlobal":null,"reminders":"Tr\u00fang \u0111\u1ed9c,Ch\u1ebft"},{"id":"puzzlemaster","name":"B\u1eadc th\u1ea7y c\u00e2u \u0111\u1ed1","ability":"1 ng\u01b0\u1eddi b\u1ecb say r\u01b0\u1ee3u, ngay c\u1ea3 khi b\u1ea1n ch\u1ebft. N\u1ebfu b\u1ea1n \u0111o\u00e1n (1 l\u1ea7n) ng\u01b0\u1eddi \u0111\u00f3 l\u00e0 ai, bi\u1ebft Qu\u1ef7 l\u00e0 ai, nh\u01b0ng n\u1ebfu \u0111o\u00e1n sai s\u1ebd nh\u1eadn th\u00f4ng tin sai.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Say,\u0110\u00e3 \u0111o\u00e1n"},{"id":"ravenkeeper","name":"Nu\u00f4i qu\u1ea1","ability":"N\u1ebfu b\u1ea1n ch\u1ebft trong \u0111\u00eam, b\u1ea1n \u0111\u01b0\u1ee3c g\u1ecdi d\u1eady \u0111\u1ec3 ch\u1ecdn 1 ng\u01b0\u1eddi: b\u1ea1n bi\u1ebft nh\u00e2n v\u1eadt c\u1ee7a h\u1ecd.","firstNightReminder":null,"otherNightReminder":"N\u1ebfu Nu\u00f4i qu\u1ea1 ch\u1ebft trong \u0111\u00eam: Nu\u00f4i qu\u1ea1 ch\u1ec9 1 ng\u01b0\u1eddi. Cho xem th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a ng\u01b0\u1eddi \u0111\u00f3.","remindersGlobal":null,"reminders":null},{"id":"recluse","name":"Ng\u01b0\u1eddi \u1ea9n d\u1eadt","ability":"B\u1ea1n b\u1ecb t\u00ednh l\u00e0 Tay Sai ho\u1eb7c Qu\u1ef7 cho c\u00e1c ch\u1ee9c n\u0103ng kh\u00e1c, k\u1ec3 c\u1ea3 khi ch\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"revolutionary","name":"C\u00e1ch m\u1ea1ng","ability":"2 ng\u01b0\u1eddi ng\u1ed3i c\u1ea1nh nhau \u0111\u01b0\u1ee3c bi\u1ebft l\u00e0 c\u00f9ng phe. M\u1ed9t l\u1ea7n trong game, m\u1ed9t trong s\u1ed1 h\u1ecd th\u1ea5y sai.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Th\u1ea5y sai?"},{"id":"riot","name":"N\u1ed5i lo\u1ea1n","ability":"Ng\u01b0\u1eddi \u0111\u01b0\u1ee3c bi\u1ec3u quy\u1ebft ch\u1ebft, nh\u01b0ng h\u1ecd c\u00f3 th\u1ec3 bi\u1ec3u quy\u1ebft ngay l\u1eadp t\u1ee9c (trong ng\u00e0y 3, h\u1ecd b\u1eaft bu\u1ed9c). After day 3, evil wins. [All Minions are Riot]","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"sage","name":"Hi\u1ec1n nh\u00e2n","ability":"N\u1ebfu b\u1ea1n b\u1ecb Qu\u1ef7 gi\u1ebft, b\u1ea1n s\u1ebd bi\u1ebft n\u00f3 l\u00e0 1 trong 2 ng\u01b0\u1eddi.","firstNightReminder":null,"otherNightReminder":"N\u1ebfu Hi\u1ec1n nh\u00e2n b\u1ecb gi\u1ebft b\u1edfi Qu\u1ef7: Ch\u1ec9 2 ng\u01b0\u1eddi, m\u1ed9t trong s\u1ed1 h\u1ecd l\u00e0 Qu\u1ef7.","remindersGlobal":null,"reminders":null},{"id":"sailor","name":"Th\u1ee7y th\u1ee7","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn ng\u01b0\u1eddi s\u1ed1ng: B\u1ea1n ho\u1eb7c h\u1ecd b\u1ecb say \u0111\u1ebfn ho\u00e0ng h\u00f4n. B\u1ea1n kh\u00f4ng th\u1ec3 ch\u1ebft.","firstNightReminder":"Th\u1ee7y th\u1ee7 ch\u1ec9 ng\u01b0\u1eddi s\u1ed1ng. Th\u1ee7y th\u1ee7 ho\u1eb7c ng\u01b0\u1eddi \u0111\u00f3 b\u1ecb say.","otherNightReminder":"Ng\u01b0\u1eddi b\u1ecb say tr\u01b0\u1edbc \u0111\u00f3 kh\u00f4ng c\u00f2n b\u1ecb say n\u1eefa. Th\u1ee7y th\u1ee7 ch\u1ec9 1 ng\u01b0\u1eddi. Th\u1ee7y th\u1ee7 ho\u1eb7c ng\u01b0\u1eddi \u0111\u00f3 b\u1ecb say.","remindersGlobal":null,"reminders":"Say"},{"id":"saint","name":"Th\u00e1nh","ability":"N\u1ebfu b\u1ea1n b\u1ecb H\u00e0nh Quy\u1ebft, phe b\u1ea1n thua.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"savant","name":"Nh\u00e0 b\u00e1c h\u1ecdc","ability":"M\u1ed7i ng\u00e0y, b\u1ea1n c\u00f3 th\u1ec3 g\u1eb7p Qu\u1ea3n tr\u00f2 \u0111\u1ec3 h\u1ecdc 2 \u0111i\u1ec1u: 1 \u0111\u00fang v\u00e0 1 sai.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"scapegoat","name":"Hi\u1ebfn t\u1ebf","ability":"N\u1ebfu ng\u01b0\u1eddi c\u00f9ng phe b\u1ea1n b\u1ecb h\u00e0nh quy\u1ebft, b\u1ea1n c\u00f3 th\u1ec3 b\u1ecb h\u00e0nh quy\u1ebft thay.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"scarletwoman","name":"Ph\u1ee5 n\u1eef \u0111\u1ecf","ability":"N\u1ebfu c\u00f2n 5 ng\u01b0\u1eddi tr\u1edf l\u00ean c\u00f2n s\u1ed1ng & Qu\u1ef7 ch\u1ebft, b\u1ea1n tr\u1edf th\u00e0nh Qu\u1ef7. (Kh\u00f4ng t\u00ednh Du kh\u00e1ch)","firstNightReminder":null,"otherNightReminder":"N\u1ebfu Ph\u1ee5 n\u1eef \u0111\u1ecf tr\u1edf th\u00e0nh Qu\u1ef7: Cho xem l\u00e1 \"B\u1ea1n l\u00e0\", v\u00e0 th\u1ebb qu\u1ef7.","remindersGlobal":null,"reminders":"Qu\u1ef7"},{"id":"seamstress","name":"Th\u1ee3 may","ability":"Ch\u1ec9 1 l\u1ea7n duy nh\u1ea5t, trong \u0111\u00eam, ch\u1ecdn 2 ng\u01b0\u1eddi (kh\u00f4ng ph\u1ea3i m\u00ecnh): b\u1ea1n bi\u1ebft h\u1ecd c\u00f3 c\u00f9ng phe hay kh\u00f4ng.","firstNightReminder":"N\u1ebfu Th\u1ee3 may kh\u00f4ng d\u00f9ng ch\u1ee9c n\u0103ng c\u1ee7a h\u1ecd: Th\u1ee3 may c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u kh\u00f4ng. N\u1ebfu Th\u1ee3 may ch\u1ecdn 2 ng\u01b0\u1eddi, l\u1eafc \u0111\u1ea7u ho\u1eb7c g\u1eadt \u0111\u1ea7u t\u00f9y theo 2 ng\u01b0\u1eddi \u0111\u00f3 c\u00f3 c\u00f9ng phe kh\u00f4ng.","otherNightReminder":"N\u1ebfu Th\u1ee3 may kh\u00f4ng d\u00f9ng ch\u1ee9c n\u0103ng c\u1ee7a h\u1ecd: Th\u1ee3 may c\u00f3 th\u1ec3 l\u1eafc \u0111\u1ea7u kh\u00f4ng. N\u1ebfu Th\u1ee3 may ch\u1ecdn 2 ng\u01b0\u1eddi, l\u1eafc \u0111\u1ea7u ho\u1eb7c g\u1eadt \u0111\u1ea7u t\u00f9y theo 2 ng\u01b0\u1eddi \u0111\u00f3 c\u00f3 c\u00f9ng phe kh\u00f4ng.","remindersGlobal":null,"reminders":"H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"sentinel","name":"L\u00ednh g\u00e1c","ability":"C\u00f3 th\u1ec3 c\u00f3 th\u00eam ho\u1eb7c b\u1edbt 1 L\u1eef kh\u00e1ch trong cu\u1ed9c.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"shabaloth","name":"Shabaloth","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 2 ng\u01b0\u1eddi: h\u1ecd ch\u1ebft. 1 ng\u01b0\u1eddi ch\u1ebft \u0111\u00eam qua c\u00f3 th\u1ec3 b\u1ecb n\u00f4n ra.","firstNightReminder":null,"otherNightReminder":"M\u1ed9t ng\u01b0\u1eddi b\u1ecb gi\u1ebft b\u1edfi Shabaloth \u0111\u00eam qua c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c h\u1ed3i sinh. Shabaloth ch\u1ec9 2 ng\u01b0\u1eddi. Nh\u1eefng ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft,S\u1ed1ng"},{"id":"shugenja","name":"Shugenja","ability":"B\u1ea1n b\u1eaft \u0111\u1ea7u bi\u1ebft ng\u01b0\u1eddi x\u1ea5u g\u1ea7n nh\u1ea5t v\u1edbi b\u1ea1n ng\u1ed3i theo chi\u1ec1u hay ng\u01b0\u1ee3c chi\u1ec1u kim \u0111\u1ed3ng h\u1ed3. N\u1ebfu nh\u01b0 nhau, th\u00f4ng tin n\u00e0y s\u1ebd mang t\u00ednh ng\u1eabu nhi\u00ean.","firstNightReminder":"G\u1ecdi Shugenja d\u1eady; ch\u1ec9 ngang v\u1ec1 h\u01b0\u1edbng c\u00f3 ng\u01b0\u1eddi x\u1ea5u g\u1ea7n nh\u1ea5t. N\u1ebfu c\u1ea3 2 ng\u01b0\u1eddi x\u1ea5u g\u1ea7n nh\u1ea5t c\u00f3 kho\u1ea3ng c\u00e1ch nh\u01b0 nhau, ch\u1ec9 tay v\u1ec1 1 trong 2 h\u01b0\u1edbng.","otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"slayer","name":"Di\u1ec7t qu\u1ef7","ability":"Ch\u1ec9 1 l\u1ea7n duy nh\u1ea5t, ban ng\u00e0y, ch\u1ecdn 1 ng\u01b0\u1eddi c\u00f4ng khai: Qu\u1ef7 m\u00e0 b\u1ecb ch\u1ecdn th\u00ec s\u1ebd ch\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"snakecharmer","name":"Nu\u00f4i r\u1eafn","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn ng\u01b0\u1eddi s\u1ed1ng: Qu\u1ef7 \u0111\u01b0\u1ee3c ch\u1ecdn s\u1ebd ho\u00e1n \u0111\u1ed5i nh\u00e2n v\u1eadt & phe v\u1edbi b\u1ea1n & sau \u0111\u00f3 b\u1ecb tr\u00fang \u0111\u1ed9c.","firstNightReminder":"Nu\u00f4i r\u1eafn ch\u1ec9 1 ng\u01b0\u1eddi. N\u1ebfu ng\u01b0\u1eddi \u0111\u00f3 l\u00e0 Qu\u1ef7: ho\u00e1n \u0111\u1ed5i nh\u00e2n v\u1eadt v\u00e0 phe c\u1ee7a Qu\u1ef7 v\u00e0 Nu\u00f4i r\u1eafn. G\u1ecdi m\u1ed7i ng\u01b0\u1eddi d\u1eady \u0111\u1ec3 th\u00f4ng b\u00e1o phe v\u00e0 nh\u00e2n v\u1eadt c\u1ee7a h\u1ecd. \nNu\u00f4i r\u1eafn ho\u00e1 th\u00e0nh Qu\u1ef7 v\u00e0 \u0111\u1ed5i sang Phe X\u1ea5u.\nQu\u1ef7 c\u0169 ho\u00e1 th\u00e0nh Nu\u00f4i r\u1eafn, v\u00e0 \u0111\u1ed5i sang Phe T\u1ed1t v\u00e0 b\u1ecb tr\u00fang \u0111\u1ed9c (kh\u00f4ng c\u00f2n ch\u1ee9c n\u0103ng).","otherNightReminder":"Nu\u00f4i r\u1eafn ch\u1ec9 1 ng\u01b0\u1eddi. N\u1ebfu ng\u01b0\u1eddi \u0111\u00f3 l\u00e0 Qu\u1ef7: ho\u00e1n \u0111\u1ed5i nh\u00e2n v\u1eadt v\u00e0 phe c\u1ee7a Qu\u1ef7 v\u00e0 Nu\u00f4i r\u1eafn. G\u1ecdi m\u1ed7i ng\u01b0\u1eddi d\u1eady \u0111\u1ec3 th\u00f4ng b\u00e1o phe v\u00e0 nh\u00e2n v\u1eadt c\u1ee7a h\u1ecd. \nNu\u00f4i r\u1eafn m\u1edbi b\u1ecb tr\u00fang \u0111\u1ed9c (kh\u00f4ng c\u00f2n ch\u1ee9c n\u0103ng).","remindersGlobal":null,"reminders":"Tr\u00fang \u0111\u1ed9c"},{"id":"snitch","name":"M\u00e1ch l\u1ebbo","ability":"Tay sai b\u1eaft \u0111\u1ea7u bi\u1ebft 3 nh\u00e2n v\u1eadt ngo\u00e0i cu\u1ed9c.","firstNightReminder":"N\u1ebfu Ph\u1ee5 n\u1eef \u0111\u1ecf tr\u1edf th\u00e0nh Qu\u1ef7: Cho xem l\u00e1 \"B\u1ea1n l\u00e0\", v\u00e0 th\u1ebb qu\u1ef7.","otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"soldier","name":"Chi\u1ebfn s\u0129","ability":"Kh\u00f4ng b\u1ecb \u1ea3nh h\u01b0\u1edfng b\u1edfi Qu\u1ef7.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"spiritofivory","name":"Th\u1ea7n ng\u00e0","ability":"Kh\u00f4ng th\u1ec3 c\u00f3 th\u00eam qu\u00e1 1 ng\u01b0\u1eddi x\u1ea5u.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Kh\u00f4ng th\u00eam x\u1ea5u"},{"id":"spy","name":"Gi\u00e1n \u0111i\u1ec7p","ability":"M\u1ed7i \u0111\u00eam, \u0111\u01b0\u1ee3c xem Grimore. C\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c t\u00ednh l\u00e0 D\u00e2n l\u00e0ng ho\u1eb7c L\u1eef kh\u00e1ch cho c\u00e1c ch\u1ee9c n\u0103ng kh\u00e1c, k\u1ec3 c\u1ea3 khi ch\u1ebft.","firstNightReminder":"Cho Gi\u00e1n \u0111i\u1ec7p xem Grimore \u0111\u1ebfn khi h\u1ecd kh\u00f4ng c\u1ea7n n\u1eefa.","otherNightReminder":"Cho Gi\u00e1n \u0111i\u1ec7p xem Grimore \u0111\u1ebfn khi h\u1ecd kh\u00f4ng c\u1ea7n n\u1eefa.","remindersGlobal":null,"reminders":null},{"id":"steward","name":"Qu\u1ea3n l\u00fd","ability":"B\u1ea1n bi\u1ebft 1 ng\u01b0\u1eddi t\u1ed1t \u0111\u1ea7u game.","firstNightReminder":"Ch\u1ec9 1 ng\u01b0\u1eddi t\u1ed1t.","otherNightReminder":null,"remindersGlobal":null,"reminders":"Bi\u1ebft"},{"id":"stormcatcher","name":"Ng\u01b0\u1eddi b\u1eaft b\u00e3o","ability":"\u0110\u1ecdc t\u00ean nh\u00e2n v\u1eadt t\u1ed1t. N\u1ebfu trong cu\u1ed9c, h\u1ecd ch\u1ec9 c\u00f3 th\u1ec3 b\u1ecb ch\u1ebft v\u00ec h\u00e0nh quy\u1ebft, nh\u01b0ng phe x\u1ea5u bi\u1ebft h\u1ecd l\u00e0 ai.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"An to\u00e0n"},{"id":"sweetheart","name":"Con c\u01b0ng","ability":"Khi b\u1ea1n ch\u1ebft, 1 ng\u01b0\u1eddi s\u1ebd b\u1eaft \u0111\u1ea7u b\u1ecb say.","firstNightReminder":null,"otherNightReminder":"Ch\u1ecdn 1 ng\u01b0\u1eddi \u0111\u1ec3 b\u1ecb say.","remindersGlobal":null,"reminders":"Say"},{"id":"tealady","name":"C\u00f4 h\u1ea7u tr\u00e0","ability":"N\u1ebfu c\u1ea3 2 h\u00e0ng x\u00f3m s\u1ed1ng c\u1ee7a b\u1ea1n \u0111\u1ec1u l\u00e0 t\u1ed1t, h\u1ecd kh\u00f4ng th\u1ec3 ch\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Kh\u00f4ng th\u1ec3 ch\u1ebft"},{"id":"thief","name":"Tr\u1ed9m","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi (kh\u00f4ng ph\u1ea3i b\u1ea1n): phi\u1ebfu c\u1ee7a h\u1ecd t\u00ednh l\u00e0 \u00e2m ng\u00e0y mai.","firstNightReminder":"Tr\u1ed9m ch\u1ec9 1 ng\u01b0\u1eddi. \u0110\u1eaft \u0111\u00e1nh d\u1ea5u \"\u00c2m phi\u1ebfu\" c\u1ee7a tr\u1ed9m c\u1ea1nh th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a ng\u01b0\u1eddi \u0111\u01b0\u1ee3c ch\u1ecdn.","otherNightReminder":"Tr\u1ed9m ch\u1ec9 1 ng\u01b0\u1eddi. \u0110\u1eaft \u0111\u00e1nh d\u1ea5u \"\u00c2m phi\u1ebfu\" c\u1ee7a tr\u1ed9m c\u1ea1nh th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a ng\u01b0\u1eddi \u0111\u01b0\u1ee3c ch\u1ecdn.","remindersGlobal":null,"reminders":"\u00c2m phi\u1ebfu"},{"id":"tinker","name":"Th\u1ee3 v\u1ee5ng v\u1eb7t","ability":"C\u00f3 th\u1ec3 b\u1ea1n ch\u1ebft b\u1ea5t c\u1ee9 l\u00fac n\u00e0o.","firstNightReminder":null,"otherNightReminder":"C\u00f3 th\u1ec3 th\u1ee3 v\u1ee5ng v\u1eb7t ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft"},{"id":"towncrier","name":"M\u00f5 l\u00e0ng","ability":"M\u1ed7i \u0111\u00eam*, b\u1ea1n bi\u1ebft Tay Sai c\u00f3 ch\u1ecdn ng\u01b0\u1eddi \u0111\u1ec3 Bi\u1ec3u Quy\u1ebft h\u00f4m nay hay kh\u00f4ng.","firstNightReminder":null,"otherNightReminder":"G\u1eadt \u0111\u1ea7u ho\u1eb7c l\u1eafc \u0111\u1ea7u t\u00f9y theo vi\u1ec7c Tay Sai c\u00f3 ch\u1ecdn ng\u01b0\u1eddi hay kh\u00f4ng. \u0110\u1eb7t \u0111\u00e1nh d\u1ea5u 'Tay sai ch\u01b0a bi\u1ec3u quy\u1ebft' (B\u1ecf 'Tay sai bi\u1ec3u quy\u1ebft, n\u1ebfu c\u00f3).","remindersGlobal":null,"reminders":"Tay sai ch\u01b0a bi\u1ec3u quy\u1ebft,Tay sai bi\u1ec3u quy\u1ebft"},{"id":"toymaker","name":"Ng\u01b0\u1eddi l\u00e0m \u0111\u1ed3 ch\u01a1i","ability":"Qu\u1ef7 c\u00f3 th\u1ec3 ch\u1ecdn kh\u00f4ng t\u1ea5n c\u00f4ng & ph\u1ea3i l\u00e0m vi\u1ec7c n\u00e0y 1 l\u1ea7n trong game. Ng\u01b0\u1eddi x\u1ea5u nh\u1eadn th\u00f4ng tin b\u1eaft \u0111\u1ea7u nh\u01b0 th\u01b0\u1eddng.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"Kh\u00f4ng t\u1ea5n c\u00f4ng"},{"id":"undertaker","name":"Ch\u00f4n c\u1ea5t","ability":"M\u1ed7i \u0111\u00eam*, b\u1ea1n bi\u1ebft nh\u00e2n v\u1eadt n\u00e0o ch\u1ebft b\u1edfi H\u00e0nh Quy\u1ebft h\u00f4m nay.","firstNightReminder":null,"otherNightReminder":"N\u1ebfu c\u00f3 ng\u01b0\u1eddi b\u1ecb H\u00e0nh Quy\u1ebft  Cho xem th\u1ebb nh\u00e2n v\u1eadt c\u1ee7a ng\u01b0\u1eddi \u0111\u00f3.","remindersGlobal":null,"reminders":"H\u00e0nh quy\u1ebft"},{"id":"vigormortis","name":"Vigormortis","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd ch\u1ebft. Tay sai b\u1ea1n gi\u1ebft \u0111\u01b0\u1ee3c gi\u1eef ch\u1ee9c n\u0103ng & \u0111\u1ea7u \u0111\u1ed9c 1 h\u00e0ng x\u00f3m l\u00e0 D\u00e2n l\u00e0ng. [\u22121 L\u1eef kh\u00e1ch]","firstNightReminder":null,"otherNightReminder":"Vigormortis ch\u1ec9 1 ng\u01b0\u1eddi. Ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft. N\u1ebfu h\u1ecd l\u00e0 Tay sai, h\u1ecd gi\u1eef ch\u1ee9c n\u0103ng v\u00e0 1 trong nh\u1eefng h\u00e0ng x\u00f3m D\u00e2n l\u00e0ng c\u1ee7a h\u1ecd b\u1ecb tr\u00fang \u0111\u1ed9c.","remindersGlobal":null,"reminders":"Ch\u1ebft,C\u00f3 ch\u1ee9c n\u0103ng,Tr\u00fang \u0111\u1ed9c"},{"id":"virgin","name":"Trinh n\u1eef","ability":"L\u1ea7n \u0111\u1ea7u b\u1ea1n b\u1ecb Bi\u1ec3u Quy\u1ebft, n\u1ebfu ng\u01b0\u1eddi ch\u1ecdn b\u1ea1n l\u00e0 D\u00e2n L\u00e0ng, h\u1ecd b\u1ecb H\u00e0nh Quy\u1ebft ngay l\u1eadp t\u1ee9c.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":"H\u1ebft ch\u1ee9c n\u0103ng"},{"id":"vizier","name":"T\u1ec3 t\u01b0\u1edbng","ability":"T\u1ea5t c\u1ea3 ng\u01b0\u1eddi ch\u01a1i bi\u1ebft b\u1ea1n l\u00e0 ai. B\u1ea1n kh\u00f4ng th\u1ec3 ch\u1ebft trong ng\u00e0y. N\u1ebfu t\u1ed1t b\u1ecf phi\u1ebfu, b\u1ea1n c\u00f3 th\u1ec3 cho h\u00e0nh quy\u1ebft ngay l\u1eadp t\u1ee9c.","firstNightReminder":"Th\u00f4ng b\u00e1o \"C\u00f3 T\u1ec1 t\u01b0\u1edbng trong cu\u1ed9c\" v\u00e0 h\u1ecd l\u00e0 ai.","otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"vortox","name":"Vortox","ability":"M\u1ed7i \u0111\u00eam*, ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd ch\u1ebft. Ch\u1ee9c n\u0103ng c\u1ee7a D\u00e2n l\u00e0ng lu\u00f4n cho th\u00f4ng tin sai. M\u1ed7i ng\u00e0y, n\u1ebfu kh\u00f4ng ai b\u1ecb H\u00e0nh Quy\u1ebft, Phe X\u1ea5u th\u1eafng.","firstNightReminder":null,"otherNightReminder":"Vortox ch\u1ec9 1 ng\u01b0\u1eddi. Ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft"},{"id":"voudon","name":"Voudon","ability":"Ch\u1ec9 c\u00f3 b\u1ea1n v\u00e0 ng\u01b0\u1eddi ch\u1ebft \u0111\u01b0\u1ee3c b\u1ecf phi\u1ebfu. H\u1ecd kh\u00f4ng c\u1ea7n th\u1ebb vote \u0111\u1ec3 l\u00e0m v\u1eady. H\u01a1n 50% s\u1ed1 phi\u1ebfu l\u00e0 kh\u00f4ng c\u1ea7n thi\u1ebft.","firstNightReminder":null,"otherNightReminder":null,"remindersGlobal":null,"reminders":null},{"id":"washerwoman","name":"Th\u1ee3 gi\u1eb7t","ability":"\u0110\u00eam \u0111\u1ea7u ti\u00ean, b\u1ea1n bi\u1ebft ch\u1ee9c n\u0103ng c\u1ee7a D\u00e2n L\u00e0ng thu\u1ed9c v\u1ec1 1 trong 2 ng\u01b0\u1eddi.","firstNightReminder":"Cho xem th\u1ebb nh\u00e2n v\u1eadt D\u00e2n L\u00e0ng trong cu\u1ed9c. Ch\u1ec9 2 ng\u01b0\u1eddi, 1 trong s\u1ed1 h\u1ecd l\u00e0 nh\u00e2n v\u1eadt \u0111\u00f3.","otherNightReminder":null,"remindersGlobal":null,"reminders":"D\u00e2n L\u00e0ng,Sai"},{"id":"widow","name":"G\u00f3a ph\u1ee5","ability":"Trong \u0111\u00eam \u0111\u1ea7u c\u1ee7a b\u1ea1n, nh\u00ecn Grimore & ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd b\u1ecb tr\u00fang \u0111\u1ed9c. 1 ng\u01b0\u1eddi t\u1ed1t bi\u1ebft c\u00f3 G\u00f3a ph\u1ee5 trong cu\u1ed9c.","firstNightReminder":"Cho G\u00f3a ph\u1ee5 xem Grimore \u0111\u1ebfn khi h\u1ecd kh\u00f4ng c\u1ea7n n\u1eefa. G\u00f3a ph\u1ee5 ch\u1ec9 1 ng\u01b0\u1eddi. Ng\u01b0\u1eddi \u0111\u00f3 b\u1ecb tr\u00fang \u0111\u1ed9c. G\u1ecdi 1 ng\u01b0\u1eddi t\u1ed1t d\u1eady. Cho xem l\u00e1 'Nh\u1eefng nh\u00e2n v\u1eadt n\u00e0y trong cu\u1ed9c', v\u00e0 th\u1ebb nh\u00e2n v\u1eadt G\u00f3a ph\u1ee5.","otherNightReminder":null,"remindersGlobal":"Bi\u1ebft","reminders":"Tr\u00fang \u0111\u1ed9c"},{"id":"witch","name":"Ph\u00f9 th\u1ee7y","ability":"M\u1ed7i \u0111\u00eam, ch\u1ecdn 1 ng\u01b0\u1eddi: n\u1ebfu h\u1ecd ch\u1ecdn ng\u01b0\u1eddi bi\u1ec3u quy\u1ebft ng\u00e0y mai, h\u1ecd ch\u1ebft. N\u1ebfu c\u00f2n 3 ng\u01b0\u1eddi s\u1ed1ng, b\u1ea1n m\u1ea5t ch\u1ee9c n\u0103ng n\u00e0y.","firstNightReminder":"Ph\u00f9 th\u1ee7y ch\u1ec9 1 ng\u01b0\u1eddi. N\u1ebfu ng\u01b0\u1eddi \u0111\u00f3 bi\u1ec3u quy\u1ebft ng\u00e0y mai, h\u1ecd ch\u1ebft ngay l\u1eadp t\u1ee9c.","otherNightReminder":"N\u1ebfu c\u00f2n 4 ng\u01b0\u1eddi s\u1ed1ng tr\u1edf l\u00ean: Ph\u00f9 th\u1ee7y ch\u1ec9 1 ng\u01b0\u1eddi. N\u1ebfu ng\u01b0\u1eddi \u0111\u00f3 bi\u1ec3u quy\u1ebft ng\u00e0y mai, h\u1ecd ch\u1ebft ngay l\u1eadp t\u1ee9c.","remindersGlobal":null,"reminders":"B\u1ecb nguy\u1ec1n"},{"id":"zombuul","name":"Zombuul","ability":"M\u1ed7i \u0111\u00eam*, n\u1ebfu kh\u00f4ng ai ch\u1ebft h\u00f4m nay, ch\u1ecdn 1 ng\u01b0\u1eddi: h\u1ecd ch\u1ebft. L\u1ea7n \u0111\u1ea7u b\u1ea1n ch\u1ebft, b\u1ea1n s\u1ed1ng nh\u01b0ng t\u00ednh l\u00e0 ch\u1ebft.","firstNightReminder":null,"otherNightReminder":"N\u1ebfu kh\u00f4ng ai ch\u1ebft trong ng\u00e0y: Zombuul ch\u1ec9 1 ng\u01b0\u1eddi. Ng\u01b0\u1eddi \u0111\u00f3 ch\u1ebft.","remindersGlobal":null,"reminders":"Ch\u1ebft h\u00f4m nay,Ch\u1ebft"}]
+[
+ {
+  "id": "acrobat",
+  "name": "Nghệ sĩ xiếc",
+  "ability": "Mỗi đêm*, nếu bất kì hàng xóm tốt của bạn bị trúng độc hoặc bị say, bạn chết",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu bất kì hàng xóm tốt của họ trúng độc hoặc bị say, Nghệ sĩ xiếc chết",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
+  "id": "alchemist",
+  "name": "Nhà giả kim",
+  "ability": "Bạn có chức năng của Tay sai ngoài cuộc.",
+  "firstNightReminder": "Cho Nhà giả kim thấy thẻ của tay sai ngoài cuộc",
+  "otherNightReminder": null,
+  "remindersGlobal": "là Nhà giả kim",
+  "reminders": null
+ },
+ {
+  "id": "alhadikhia",
+  "name": "Al-Hadikhia",
+  "ability": "Mỗi đêm*, chọn 3 người (mọi người biết là ai): mỗi người bí mật chọn được sống hoặc chết, nếu tất cả chọn sống, họ cùng chết",
+  "firstNightReminder": null,
+  "otherNightReminder": "Al-Hadikhia chọn 3 người. Thông báo người đầu tiên, gọi họ dậy để gật đầu có để sống, lắc đầu không để chết, giết hoặc hồi sinh phù hợp, rồi cho họ đi ngủ và thông báo người tiếp theo. nếu cả 3 cùng sống sau này, họ cùng chết.",
+  "remindersGlobal": null,
+  "reminders": "1,2,3,Chọn chết,Chọn sống"
+ },
+ {
+  "id": "amnesiac",
+  "name": "Mất trí nhớ",
+  "ability": "Bạn không biết bạn có chức năng gì. Mỗi ngày, đoán nó là gì: bạn biết độ chính xác của dự đôán.",
+  "firstNightReminder": "Quyết định chức năng của Mất trí nhớ. Nếu chức năng của họ cần họ phải dậy trong đêm nay: Gọi Mất trí nhớ dậy và thực hiện chức năng.",
+  "otherNightReminder": "Nếu chức năng của Mất trí nhớ cần họ phải dậy trong đêm nay: Gọi Mất trí nhớ dậy và thực hiện chức năng.",
+  "remindersGlobal": null,
+  "reminders": "?"
+ },
+ {
+  "id": "angel",
+  "name": "Thiên thần",
+  "ability": "Nếu người chơi mới bị chết, ai có trách nhiệm nhiều nhất có thể sẽ bị gặp điều xấu.  ",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Bảo vệ,Điều xấu"
+ },
+ {
+  "id": "apprentice",
+  "name": "Tập sự",
+  "ability": "Vào đêm đâu tiên của bạn, bạn có chức năng của Dân làng (nếu là tốt), hoặc của Tay sai (nếu là xấu).",
+  "firstNightReminder": "Cho tập sự thấy lá 'Bạn là', và thẻ Dân làng hoặc Tay sai. Trong Grimoire, thay thẻ Tập sự với thẻ nhân vật đó, và đặt đánh dấu \"là Tập sụ\" của Tập sự bên cạnh thẻ đó",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "là Tập sự"
+ },
+ {
+  "id": "artist",
+  "name": "Họa sĩ",
+  "ability": "Một lần trong game, trong ngày, bí mật hỏi Người kể chuyện bất kỳ câu hỏi đúng sai.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Hết chức năng"
+ },
+ {
+  "id": "assassin",
+  "name": "Sát thủ",
+  "ability": "Một lần trong game, trong đêm*, chọn 1 người: họ chết, ngay cả bằng lý do đó mà họ không thể",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu Sát thủ chưa dùng chức năng: Sát thủ có thể lắc đầu, hoặc chỉ một người. Người đó chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết,Hết chức năng"
+ },
+ {
+  "id": "atheist",
+  "name": "Vô thần",
+  "ability": "Người kể chuyện có thể phá luật & nếu bị hành quyết, phe tốt thắng, ngay cả khi bạn chết [Không có nhân vật xấu]",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "balloonist",
+  "name": "Khinh khí cầu gia",
+  "ability": "Mỗi đêm, bạn biết 1 người thuộc về mỗi loại nhân vật cho đến khi hết loại nhân vật. [+1 Lữ khách]",
+  "firstNightReminder": "Chọn 1 loại nhân vật. Chỉ người thuộc về loại nhân vật đó. Đặt đánh dấu Đã biết của Khinh khí cầu gia cạnh nhân vật đó.",
+  "otherNightReminder": "Chọn 1 loại nhân vật chưa có thẻ đánh dấu Đã biết cạnh nhân vật. Chỉ 1 người có nhân vật thuộc loại đó, nếu còn. Đặt đánh dấu Đã biết của Khinh khí cầu gia cạnh nhân vật đó.",
+  "remindersGlobal": null,
+  "reminders": "Dân làng đã biết,Lữ khách đã biết,Tay sai đã biết,Quỷ đã biết,Du khách đã biết"
+ },
+ {
+  "id": "barber",
+  "name": "Thợ cắt tóc",
+  "ability": "Nếu bạn chết hôm nay, trong đêm Quỷ có thể chọn 2 người (không phải Quỷ khác) để tráo nhân vật.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu Thợ cắt tóc chết hôm nay: Gọi Quỷ dậy. Cho xem là 'Nhân vật này chọn bạn' và thẻ Thợ cắt tóc. Quỷ có thể lắc đầu, hoặc chỉ 2 người. Nếu họ chọn người: Tráo thẻ nhân vật. Gọi mỗi người. Cho xem 'Bạn là', và thẻ nhân vật mới.",
+  "remindersGlobal": null,
+  "reminders": "Cắt tóc đêm nay"
+ },
+ {
+  "id": "barista",
+  "name": "Thợ pha cà phê",
+  "ability": "Mỗi đêm, đến hoàng hôn, 1) 1 người sẽ tỉnh, khỏe mạnh và nhận thông tin đúng, hoặc 2) chức năng của họ được sử dụng 2 lần. Họ biết nó là gì.",
+  "firstNightReminder": "Chọn 1 người, gọi họ dậy và thông báo cho họ chức năng tác động lên họ. Sử dụng phù hợp chức năng (thông tin tỉnh\/khỏe\/đúng hoặc sử dụng chức năng 2 lần).",
+  "otherNightReminder": "Chọn 1 người, gọi họ dậy và thông báo cho họ chức năng tác động lên họ. Sử dụng phù hợp chức năng (thông tin tỉnh\/khỏe\/đúng hoặc sử dụng chức năng 2 lần).",
+  "remindersGlobal": null,
+  "reminders": "Tỉnh & Khỏe,Nhân đôi chức năng"
+ },
+ {
+  "id": "baron",
+  "name": "Nam tước",
+  "ability": "Có thêm Lữ khách trong game. [+2 Lữ khách]",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "beggar",
+  "name": "Ăn xin",
+  "ability": "Bạn phải có thẻ phiểu để bỏ phiếu. Người chết có thể đưa thẻ của họ. Nếu vậy, bạn biết phe của họ. Bạn tỉnh & khỏe mạnh.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bishop",
+  "name": "Giám mục",
+  "ability": "Chỉ có Người kể chuyện được biểu quyết. Mỗi ngày, ít nhất 1 người khác phe được biểu quyết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Biểu quyết tốt,Biểu quyết xấu"
+ },
+ {
+  "id": "bonecollector",
+  "name": "Nhà sưu tầm xương",
+  "ability": "Một lần trong game, vào buổi đêm, chọn người chết: họ lấy lại chức năng đến hoàng hôn.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nhà sưu tầm xương có thể lắc đầu hoặc chọn 1 người. Nếu họ chỉ người chết, đặt đánh dấu 'Có chức năng' của Nhà sưu tầm xương cạnh thẻ nhân vật được chọn. (Họ có thể phải thức dậy trong đêm để dùng nó.)",
+  "remindersGlobal": null,
+  "reminders": "Hết chức năng,Có chức năng"
+ },
+ {
+  "id": "boomdandy",
+  "name": "Kẻ giữ bom",
+  "ability": "Nếu bạn bị hành quyết, tất cả trừ 3 người chết. 1 phút sau, người có nhiều người chỉ nhất chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bountyhunter",
+  "name": "Thợ săn tiền thưởng",
+  "ability": "Bạn biết 1 người xấu đầu game. Nếu người bạn biết chết, bạn biết 1 người xấu khác tối nay. [1 Dân làng là xấu]",
+  "firstNightReminder": "Chỉ 1 người xấu. Gọi dân làng xấu dậy và cho họ thấy lá 'Bạn là' và giơ ngón cái xuống thể hiện xấu.",
+  "otherNightReminder": "Nếu người xấu đã biết chết, chỉ người xấu khác. ",
+  "remindersGlobal": null,
+  "reminders": "Được biết"
+ },
+ {
+  "id": "buddhist",
+  "name": "Phật tử",
+  "ability": "Trong 2 phút đầu tiên mỗi ngày, người kỳ cựu không được nói.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bureaucrat",
+  "name": "Công chức",
+  "ability": "Mỗi đêm, chọn 1 người (không phải bạn): phiếu của họ được tính là 3 phiếu vào ngày mai.",
+  "firstNightReminder": "Công chức chỉ 1 người. Đặt đánh dấu '3 phiếu' của Công chức cạnh thẻ nhân vật của người được chọn.",
+  "otherNightReminder": "Công chức chỉ 1 người. Đặt đánh dấu '3 phiếu' của Công chức cạnh thẻ nhân vật của người được chọn.",
+  "remindersGlobal": null,
+  "reminders": "3 phiếu"
+ },
+ {
+  "id": "butcher",
+  "name": "Hàng thịt",
+  "ability": "Mỗi ngày, sau hành quyết đầu tiên, bạn có thể biểu quyết lại.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "butler",
+  "name": "Quản gia",
+  "ability": "Mỗi đêm, chọn 1 người (không phải bạn). Ngày hôm sau, chỉ đc bỏ phiếu Hành Quyết nếu người đó bỏ phiếu.",
+  "firstNightReminder": "Quản gia chỉ 1 người. Đánh dấu người đó là 'Chủ nhân'.",
+  "otherNightReminder": "Quản gia chỉ 1 người. Đánh dấu người đó là 'Chủ nhân'.",
+  "remindersGlobal": null,
+  "reminders": "Chủ nhân"
+ },
+ {
+  "id": "cannibal",
+  "name": "Ăn thịt người",
+  "ability": "Bạn có chức năng của người chết vì hành quyết gần nhất. Nếu họ là xấu, bạn trúng độc cho đến khi người tốt chết vì hành quyết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Trúng độc,Chết hôm nay"
+ },
+ {
+  "id": "cerenovus",
+  "name": "Tẩy não",
+  "ability": "Mỗi đêm, chọn 1 người & nhân vật tốt: họ phải 'điên' rằng họ là nhân vật đó, hoặc có thể bị hành quyết ngày mai.",
+  "firstNightReminder": "Tẩy não chỉ một người, và một nhân vật trong tờ của họ. Gọi người đó dậy, cho xem lá 'Nhân vật này chọn bạn', và thẻ Tẩy não. Cho xem thẻ nhân vật được chọn. Nếu họ không điên rằng mình là nhân vật đó vào ngày mai, họ có thể bị hành quyết.",
+  "otherNightReminder": "Tẩy não chỉ một người, và một nhân vật trong tờ của họ. Gọi người đó dậy, cho xem lá 'Nhân vật này chọn bạn', và thẻ Tẩy não. Cho xem thẻ nhân vật được chọn. Nếu họ không điên rằng mình là nhân vật đó vào ngày mai, họ có thể bị hành quyết.",
+  "remindersGlobal": null,
+  "reminders": "Điên"
+ },
+ {
+  "id": "chambermaid",
+  "name": "Nữ phục vụ",
+  "ability": "Mỗi đêm, chọn 2 người sống (không phải bạn): bạn biết số người thức dậy tối này vì chức năng của họ.",
+  "firstNightReminder": "Nữ phục vụ chỉ 2 người. Cho xem dấu hiệu số (0, 1, 2, …) bằng số người thức dậy tối nay vì chức năng của họ.",
+  "otherNightReminder": "Nữ phục vụ chỉ 2 người. Cho xem dấu hiệu số (0, 1, 2, …) bằng số người thức dậy tối nay vì chức năng của họ.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "chef",
+  "name": "Đầu bếp",
+  "ability": "Đêm đầu tiên, bạn biết có bao nhiêu cặp Phe Xấu ngồi cạnh nhau (hoặc là không có).",
+  "firstNightReminder": "Cho xem dấu hiệu số (1, 2,…) bằng số cặp người Xấu ngồi cạnh nhau, hoặc 0 nếu không có cặp nào.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "choirboy",
+  "name": "Ca đoàn",
+  "ability": "Nếu Quỷ giết Ông vua, bạn biết người nào là Quỷ. [+ Ông vua]",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu Ông vua bị giết bởi Quỷ, gọi Ca đoàn dậy và chỉ người là Quỷ.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "clockmaker",
+  "name": "Thợ đồng hồ",
+  "ability": "Đêm đầu tiên bạn biết khoảng cách từ Quỷ cho đến Tay Sai gần nhất.",
+  "firstNightReminder": "Cho xem dấu hiệu số (1, 2, 3, v.v.) bằng khoảng cách từ Quỷ đến Tay Sai gần nhất.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "courtier",
+  "name": "Cận thần",
+  "ability": "Một lần trong game, trong đêm, chọn 1 nhân vật: họ bị say trong 3 ngày & 3 đêm.",
+  "firstNightReminder": "Cận thần có thể lắc đầu, hoặc chỉ 1 nhân vật trong tờ của họ. Nếu Cận thần dùng chức năng của họ: Nếu có nhân vật đó trong game, người đó bị say.",
+  "otherNightReminder": "Giảm số ngày còn lại người bị đánh dấu bị bị say. Nếu Cận thần chưa sử dụng chức năng: Cận thần có thể lắc đầu, hoặc chỉ 1 nhân vật trong tờ của họ. Nếu Cận thần dùng chức năng của họ: Nếu có nhân vật đó trong game, người đó bị say.",
+  "remindersGlobal": null,
+  "reminders": "Say 3,Say 2,Say 1,Hết chức năng"
+ },
+ {
+  "id": "cultleader",
+  "name": "Trưởng giáo phái",
+  "ability": "Mỗi đêm, bạn có phe của 1 người hàng xóm còn sống. Nếu tất cả những người tốt tham gia giáo phái của bạn, phe bạn thắng.",
+  "firstNightReminder": "Nếu trưởng giáo phái đổi phe, cho họ thấy ngón cái lên thể hiện tốt hoặc ngón cái xuống thể hiện xấu.",
+  "otherNightReminder": "Nếu trưởng giáo phái đổi phe, cho họ thấy ngón cái lên thể hiện tốt hoặc ngón cái xuống thể hiện xấu.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "damsel",
+  "name": "Thiếu nữ",
+  "ability": "Tất cả tay sai biết bạn trong game. Nếu Tay sai công khai đoán bạn (lần duy nhất), phe bạn thua.",
+  "firstNightReminder": "Gọi tất cả tay sai dậy, cho họ xem lá 'Nhân vật này chọn bạn' và thẻ Thiếu nữ.",
+  "otherNightReminder": "Nếu được chọn bởi Thợ săn, gọi Thiếu nữ dậy, cho xem lá 'Bạn là' và thẻ Dân làng ngoài game.",
+  "remindersGlobal": null,
+  "reminders": "Đã đoán"
+ },
+ {
+  "id": "deusexfiasco",
+  "name": "Deus ex Fiasco",
+  "ability": "Một lần trong game, Người kể chuyện sẽ \"mắc lỗi\", sửa nó và thừa nhận lỗi của mình.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Whoops"
+ },
+ {
+  "id": "deviant",
+  "name": "Kẻ lệch lạc",
+  "ability": "Nếu bạn hài hước hôm nay, bạn không thể chết vì bị đuổi.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "devilsadvocate",
+  "name": "Luật sư của Quỷ",
+  "ability": "Mỗi đêm, chọn 1 người sống (khác đêm qua): nếu bị hành quyết ngày mai, họ không chết.",
+  "firstNightReminder": "Luật sư của Quỷ chỉ 1 người sống. người đó sống sót hành quyết ngày mai.",
+  "otherNightReminder": "Luật sư của Quỷ chỉ 1 người sống, khác đêm trước. người đó sống sót hành quyết ngày mai.",
+  "remindersGlobal": null,
+  "reminders": "Sống sót hành quyết"
+ },
+ {
+  "id": "djinn",
+  "name": "Thần đèn",
+  "ability": "Sử dụng luật đặc biệt của Thần đèn. Tất cả mọi người biết nó là gì.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "doomsayer",
+  "name": "Khẩu nghiệp",
+  "ability": "Nếu có ít nhất 4 người còn sống, mỗi người sống có thể công khai chọn (một lần duy nhất) một người cùng phe họ để chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "dreamer",
+  "name": "Mơ mộng",
+  "ability": "Mỗi đêm, chọn 1 người (không phải mình hay Lữ Khách): được biết 1 chức năng tốt và 1 chức năng xấu, 1 trong số đó là đúng.",
+  "firstNightReminder": "Mơ mộng chỉ 1 người. Cho xem 1 thẻ nhân vật tốt và 1 thẻ nhân vật xấu; 1 trong số đó là đúng.",
+  "otherNightReminder": "Mơ mộng chỉ 1 người. Cho xem 1 thẻ nhân vật tốt và 1 thẻ nhân vật xấu; 1 trong số đó là đúng.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "drunk",
+  "name": "Say rượu",
+  "ability": "Bạn không biết bạn là Say rượu. Bạn nghĩ bạn là nhân vật Dân làng, nhưng mà bạn không phải.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": "Say rượu",
+  "reminders": null
+ },
+ {
+  "id": "duchess",
+  "name": "Phu nhân",
+  "ability": "Mỗi ngày, 3 người có thể thăm bạn. Trong đêm*, mỗi người thăm sẽ biết được có bao nhiêu người thăm xấu, nhưng 1 người nhận sai thông tin.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Thăm,Thông tin sai"
+ },
+ {
+  "id": "empath",
+  "name": "Đồng cảm",
+  "ability": "Mỗi đêm, bạn biết số người xấu trong 2 hàng xóm sống của bạn.",
+  "firstNightReminder": "Cho xem dấu hiệu số (0, 1, 2) bằng số hàng xóm là người xấu sống bên cạnh Đồng cảm.",
+  "otherNightReminder": "Cho xem dấu hiệu số (0, 1, 2) bằng số hàng xóm là người Xấu sống bên cạnh Đồng cảm.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "engineer",
+  "name": "Kĩ sư",
+  "ability": "Một lần trong game, trong đêm, chọn Quỷ nào hoặc những Tay sai nào trong game.",
+  "firstNightReminder": "Kĩ sư có thể lắc đầu, hoặc chỉ 1 Quỷ hoặc chỉ số lượng Tay sai thích hợp. Nếu Kĩ sư chọn nhân vật, thay thế Quỷ hoặc Tay sai với lựa chọn đó, rối gọi người liên quan dậy và cho xem lá 'Bạn là' và những thẻ thích hợp.",
+  "otherNightReminder": "Kĩ sư có thể lắc đầu, hoặc chỉ 1 Quỷ hoặc chỉ số lượng Tay sai thích hợp. Nếu Kĩ sư chọn nhân vật, thay thế Quỷ hoặc Tay sai với lựa chọn đó, rối gọi người liên quan dậy và cho xem lá 'Bạn là' và những thẻ thích hợp.",
+  "remindersGlobal": null,
+  "reminders": "Hết chức năng"
+ },
+ {
+  "id": "eviltwin",
+  "name": "Sinh đôi xấu",
+  "ability": "Bạn & 1 người khác phe biết nhau. Nếu người đó bị hành quyết, phe xấu thắng. Phe Tốt không thể thắng nếu 2 người cùng sống.",
+  "firstNightReminder": "Gọi Sinh đôi xấu và sinh đôi của họ, chắc chắn rằng cả 2 biết nhau. Chỉ Sinh đôi xấu, cho xem thẻ \"Sinh đôi xấu\" cho Sinh đôi tốt. Chỉ Sinh đôi tốt, cho xem thẻ nhân vật của họ cho Sinh đôi xấu.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Sinh đôi"
+ },
+ {
+  "id": "exorcist",
+  "name": "Thầy trừ tà",
+  "ability": "Mỗi đêm*, chọn 1 người (khác đêm qua): Quỷ, nếu được chọn, biết bạn là ai và không thức dậy nữa.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Thầy trừ tà chỉ 1 người, khác đêm trước. Nếu ngườ đó là Quỷ: Gọi Quỷ dậy. Cho xem thẻ Thầy trừ tà. Chỉ Thầy trừ tà. Quỷ không hành động đêm nay.",
+  "remindersGlobal": null,
+  "reminders": "Được chọn"
+ },
+ {
+  "id": "fanggu",
+  "name": "Fang Gu",
+  "ability": "Mỗi đêm*, chọn 1 người: họ chết. Lữ khách  đầu tiên bị nhân vật này chọn sẽ biến thành Fang Gu mới, theo Phe Xấu & bạn chết. [+1 Lữ khách]",
+  "firstNightReminder": null,
+  "otherNightReminder": "Fang Gu chỉ 1 người. người đó chết. Hoặc, nếu người đó là Lữ khách và không có Fang Gu khác: Fang Gu chết thay cho người được chọn. Người được chọn sẽ trở thành Fang Gu xấu. Gọi Fang Gu mới dậy. Cho xem lá 'Bạn là, thẻ Fang Gu. Cho xem lá 'Bạn là', và giơ ngón cái xuống thể hiện theo Phe Xấu.",
+  "remindersGlobal": null,
+  "reminders": "Chết,Đầu tiên"
+ },
+ {
+  "id": "farmer",
+  "name": "Nông dân",
+  "ability": "Nếu bạn chết trong đêm, 1 người tốt trở thành Nông dân.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu 1 Nông dân chết trong đêm, chọn người tốt khác và biến họ thành Nông dân. Gọi người tốt đó dậy, cho họ xem lá 'Bạn là' và thẻ nhân vật Nông dân.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "fearmonger",
+  "name": "Kẻ gây hãi",
+  "ability": "Mỗi đêm, chọn 1 người. nếu bạn biểu quyết & hành quyết họ, phe họ thua. Tất cả mọi người biết bạn chọn 1 người mới.",
+  "firstNightReminder": "Kẻ gây hãi chỉ 1 người. Đặt thẻ Sợ hãi bên cạnh người đó và thông báo rằng 1 người mới đã được chọn bởi chức năng của Kẻ gây hãi.",
+  "otherNightReminder": "Kẻ gây hãi chỉ 1 người. Nếu khac đêm trước, đặt thẻ Sợ hãi bên cạnh người đó và thông báo rằng 1 người mới đã được chọn bởi chức năng của Kẻ gây hãi.",
+  "remindersGlobal": null,
+  "reminders": "Sợ hãi"
+ },
+ {
+  "id": "fibbin",
+  "name": "Dối lừa",
+  "ability": "1 lần trong game,có thể 1 người tốt nhận thông tin sai.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Đã dùng"
+ },
+ {
+  "id": "fiddler",
+  "name": "Người vĩ cầm",
+  "ability": "Một lần trong game, Quỷ chọn người khác phe: tất cả mọi người quyết định người thắng trong số 2 người.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "fisherman",
+  "name": "Ngư dân",
+  "ability": "Một lần trong game, trong ngày, thăm Người kể chuyện để nhận những tư vấn giúp bạn thắng.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Hết chức năng"
+ },
+ {
+  "id": "flowergirl",
+  "name": "Bán hoa",
+  "ability": "Mỗi đêm*, bạn biết Quỷ có bỏ phiếu hôm nay hay không.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Gật đầu 'có' hoặc lắc đầu 'không' tùy theo Quỷ có bỏ phiếu hôm nay không. Đặt thẻ đánh dấu 'Quỷ không bỏ phiếu' (bỏ 'Quỷ bỏ phiếu', nếu có).",
+  "remindersGlobal": null,
+  "reminders": "Quỷ bỏ phiếu, Quỷ không bỏ phiếu"
+ },
+ {
+  "id": "fool",
+  "name": "Thằng ngốc",
+  "ability": "Lần đầu bạn chết, bạn không.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Hết chức năng"
+ },
+ {
+  "id": "fortuneteller",
+  "name": "Thầy bói",
+  "ability": "Mỗi đêm, chọn 2 người: bạn biết trong đó có Quỷ hay không. Có 1 người tốt bị tính là Quỷ với bạn.",
+  "firstNightReminder": "Thầy bói chỉ 2 người. Đưa dấu hiệu đầu (gật đầu đúng, lắc đầu sai) tùy theo trong số đó có Quỷ không. ",
+  "otherNightReminder": "Thầy bói chỉ 2 người. Đưa dấu hiệu đầu (gật đầu đúng, lắc đầu sai) tùy theo trong số đó có Quỷ không. ",
+  "remindersGlobal": null,
+  "reminders": "Điểm mù"
+ },
+ {
+  "id": "gambler",
+  "name": "Con bạc",
+  "ability": "Mỗi đêm*, chọn 1 người & đoán nhân vật của họ: nếu bạn đoán sai, bạn chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Con bạc chỉ 1 người, và 1 nhân vật trong tờ của họ. Nếu sai, Con bạc chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
+  "id": "gangster",
+  "name": "Xã hội đen",
+  "ability": "Một lần trong ngày, bạn có thể chọn giết 1 hàng xóm sống, nếu hàng xóm sống còn lại đồng ý.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "general",
+  "name": "Đại tướng",
+  "ability": "Mỗi đêm, bạn biết phe mà Người kể chuyện nghĩ là đang thắng: tốt, xấu, hoặc ngang bằng.",
+  "firstNightReminder": "Cho Đại tướng thấy ngón cái lên nếu tốt đang thắng, ngón cái xuống nếu xấu đang thắng hoặc ngón cái ngang nếu đang cân bằng.",
+  "otherNightReminder": "Cho Đại tướng thấy ngón cái lên nếu tốt đang thắng, ngón cái xuống nếu xấu đang thắng hoặc ngón cái ngang nếu đang cân bằng.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "goblin",
+  "name": "Yêu tinh",
+  "ability": "Nếu bạn công khai rằng mình là Yêu tinh khi bị biểu quyết & bị hành quyết ngày hôm đó, đội bạn thắng.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Đã khẳng định"
+ },
+ {
+  "id": "godfather",
+  "name": "Bố già",
+  "ability": "Bạn bắt đầu biết những Lữ khách trong game. Nếu 1 trong số đó chết hôm nay, chọn 1 người đêm nay: họ chết. [−1 or +1 Lữ khách]",
+  "firstNightReminder": "Cho xem tất cả thẻ Lữ khách trong game.",
+  "otherNightReminder": "Nếu Lữ khách chết hôm nay: Bố già chỉ 1 người. người đó chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết hôm nay,Chết"
+ },
+ {
+  "id": "golem",
+  "name": "Golem",
+  "ability": "Bạn chỉ được biểu quyết 1 lần trong game. Khi đó, nếu người được biểu quyết không phải là Quỷ, họ chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Không thể biểu quyết"
+ },
+ {
+  "id": "goon",
+  "name": "Bất lương",
+  "ability": "Mỗi đêm, người đầu tiên chọn bạn bằng chức năng của họ sẽ bị say đến hoàng hôm. Bạn trở thành phe người đó.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Say"
+ },
+ {
+  "id": "gossip",
+  "name": "Bà tám",
+  "ability": "Mỗi ngày, bạn có thể đưa ra 1 mệnh đề công khai. Đêm nay, nếu nó đúng, 1 người chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu mệnh đề công khai của Bà tám là đúng: Chọn 1 người không được bảo vệ khỏi cái chết tối nay. người đó chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
+  "id": "grandmother",
+  "name": "Bà ngoại",
+  "ability": "Bạn bắt đầu biết 1 người tốt & nhân vật của họ. Nếu Quỷ giết họ, bạn chết theo.",
+  "firstNightReminder": "Cho xem thẻ nhân vật được đánh dấu. Chỉ người được đánh dấu.",
+  "otherNightReminder": "Nếu cháu của Bà ngoại bị giết bởi Quỷ tối nay: Bà ngoại chết.",
+  "remindersGlobal": null,
+  "reminders": "Cháu ngoại"
+ },
+ {
+  "id": "gunslinger",
+  "name": "Xạ thủ",
+  "ability": "Mỗi ngày, sau khi phiếu bầu đầu tiên được đếm, bạn có thể chọn 1 người bỏ phiếu: họ chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "harlot",
+  "name": "Gái điếm",
+  "ability": "Mỗi đêm*, chọn 1 người sống: nếu họ đồng ý, bạn biết nhân vật của họ, nhưng cả hai có thể chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Gái điếm chỉ bất kì người nào. Rồi cho Gái điếm đi ngủ. Gọi người được chọn, Cho họ xem lá 'Nhân vật này chọn bạn', và thẻ Gái điếm. người đó có thể gật đầu có hoặc lắc đầu không. Nếu họ gật đầu có, gọi Gái điếm và cho xem thẻ nhân vật của người được chọn. Rồi bạn có thể cho cả hai cùng chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
+  "id": "harpy",
+  "name": "Người chim",
+  "ability": "Mỗi đêm, chọn 2 người: ngày mai, người thứ nhất điên rằng người thứ hai là xấu, hoặc cả hai có thể chết.",
+  "firstNightReminder": "Gọi Người chim dậy; họ chỉ 1 người và 1 người khác. Gọi người đầu tiên được Người chim chỉ, cho họ xem lá 'Nhân vật này chọn bạn', và token Người chim, rồi chỉ người thứ hai được Người chim chỉ.",
+  "otherNightReminder": "Gọi Người chim dậy; họ chỉ 1 người và 1 người khác. Gọi người đầu tiên được Người chim chỉ, cho họ xem lá 'Nhân vật này chọn bạn', và token Người chim, rồi chỉ người thứ hai được Người chim chỉ.",
+  "remindersGlobal": null,
+  "reminders": "Điên, 2nd"
+ },
+ {
+  "id": "hellslibrarian",
+  "name": "Thư viện Địa ngục",
+  "ability": "Điều xấu có thể xảy ra với người nói khi Người kể chuyện cần im lặng.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Điều xấu"
+ },
+ {
+  "id": "heretic",
+  "name": "Dị giáo",
+  "ability": "Ai thắng, thua & ai thua, thắng, ngay cả khi bạn đã chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "highpriestess",
+  "name": "Nữ thượng tế",
+  "ability": "Mỗi đêm, bạn biết Người kể chuyện nghĩ bạn nên nói chuyện với người nào nhất",
+  "firstNightReminder": "Chỉ 1 người.",
+  "otherNightReminder": "Chỉ 1 người.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "huntsman",
+  "name": "Thợ săn",
+  "ability": "Một lần trong game, trong đêm, chọn người sống: Thiếu nữ, nếu được chọn, trở thành Dân làng ngoài game. [+Thiếu nữ]",
+  "firstNightReminder": "Thợ săn lắc đầu hoặc chỉ 1 người. Nếu họ chỉ Thiếu nữ: gọi người đó dậy, cho xem lá 'Bạn là' và thẻ nhân vật ngoài game.",
+  "otherNightReminder": "Thợ săn lắc đầu hoặc chỉ 1 người. Nếu họ chỉ Thiếu nữ: gọi người đó dậy, cho xem lá 'Bạn là' và thẻ nhân vật ngoài game.",
+  "remindersGlobal": null,
+  "reminders": "Hết chức năng"
+ },
+ {
+  "id": "imp",
+  "name": "Imp",
+  "ability": "Mỗi đêm*, chọn 1 người: họ chết. Nếu bạn giết chính mình bằng cách này, 1 Tay sai trở thành Imp.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Imp chỉ 1 người. Người đó chết. Nếu Imp chỉ chính mình: Thay thế thẻ nhân vật của 1 tay sai còn sống bằng thẻ Imp thừa . Cho xem lá 'Bạn là', và thẻ Imp.",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
+  "id": "innkeeper",
+  "name": "Chủ quán trọ",
+  "ability": "Mỗi đêm*, chọn 2 người: họ không thể chết đêm nay, nhưng 1 người bị say đến hoàng hôn.",
+  "firstNightReminder": null,
+  "otherNightReminder": "người được bảo vệ và bị say trước đó mất đánh dầu. Chủ quán trọ chỉ 2 người. Những người đó được bảo vệ. Một trong số đó bị say.",
+  "remindersGlobal": null,
+  "reminders": "Bảo vệ,Say"
+ },
+ {
+  "id": "investigator",
+  "name": "Điều tra viên",
+  "ability": "Đêm đầu tiên, bạn biết chức năng của Tay Sai thuộc về 1 trong 2 người.",
+  "firstNightReminder": "Cho xem thẻ nhân vật của Tay Sai trong cuộc. Chỉ 2 người, 1 trong số họ là nhân vật đó.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Tay Sai,Sai"
+ },
+ {
+  "id": "judge",
+  "name": "Thẩm phán",
+  "ability": "Một lần trong game, nếu người khác biểu quyết, bạn có thể ép hành quyết hiện tại thành công hay thất bại.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Hết chức năng"
+ },
+ {
+  "id": "juggler",
+  "name": "Tung hứng",
+  "ability": "Vào ngày đầu tiên của bạn, đoán công khai nhân vật của 5 người. Đêm đó, bạn biết bạn có bao nhiêu người đúng.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu hôm nay là ngày đầu tiên của Tung hứng: Cho xem dấu hiệu số (0, 1, 2, v.v) bằng số thẻ 'Đúng'. Bỏ đánh dấu.",
+  "remindersGlobal": null,
+  "reminders": "Đúng"
+ },
+ {
+  "id": "king",
+  "name": "Ông vua",
+  "ability": "Mỗi đêm, nếu người chết nhiều hơn người sống, bạn biết nhân vật của người sống. Quỷ biết bạn là ai.",
+  "firstNightReminder": "Gọi Quỷ dậy, cho xem lá 'Nhân vật này chọn bạn', cho xem thẻ Ông vua và chỉ vào Ông vua.",
+  "otherNightReminder": "Nếu người chết nhiều hơn người sống, cho Ông vua xem thẻ nhân vật của người sống.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "klutz",
+  "name": "Hậu đậu",
+  "ability": "Khi bạn biết bạn chết, công khai chọn 1 người sống: nếu họ là người Xấu, phe bạn thua.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "knight",
+  "name": "Hiệp sỹ",
+  "ability": "Bạn bắt đầu biết 2 người chơi không phải là Quỷ",
+  "firstNightReminder": "Chỉ 2 người không phải Quỷ ",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Biết, Biết"
+ },
+ {
+  "id": "legion",
+  "name": "Legion",
+  "ability": "Mỗi đêm*, một người có thể chết. Hành quyết thất bại nếu chỉ có người xấu bỏ phiếu. Bạn cũng được thấy là Tay sai. [Đa số người là Legion]",
+  "firstNightReminder": null,
+  "otherNightReminder": "Chọn 1 người, người đó chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết,Sắp chết"
+ },
+ {
+  "id": "leviathan",
+  "name": "Leviathan",
+  "ability": "Nếu nhiều hơn 1 người tốt bị hành quyết, bạn thắng. Tất cả người biết bạn trong cuộc. Sau ngày 5, xấu thắng.",
+  "firstNightReminder": "Đặt đánh dấu 'Ngày 1' của Leviathan. Thông báo rằng 'Có Leviathan trong cuộc: Hôm nay là ngày 1.'",
+  "otherNightReminder": "Đổi đánh dấu ngày của Leviathan sang ngày hôm sau.",
+  "remindersGlobal": null,
+  "reminders": "Ngày 1,Ngày 2,Ngày 3,Ngày 4,Ngày 5,tốt đã bị hành quyết"
+ },
+ {
+  "id": "librarian",
+  "name": "Thủ thư",
+  "ability": "Đêm đầu tiên, bạn biết chức năng của Lữ khách thuộc về 1 trong 2 người (hoặc là không có Lữ khách).",
+  "firstNightReminder": "Cho xem thẻ nhân vật Lữ khách trong cuộc. Chỉ vào 2 người, 1 trong số họ là nhân vật đó.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Lữ khách,Sai"
+ },
+ {
+  "id": "lilmonsta",
+  "name": "Lil' Monsta",
+  "ability": "Mỗi đêm, Tay sai quyết định ai trông nom thẻ Lil' Monsta & \"là Quỷ\"..Một người chết mỗi đêm*. [+1 Tay sai]",
+  "firstNightReminder": "Gọi tất cả Tay sai dậy, cho họ chỉ phiếu cho người họ muốn trông coi Lil' Monsta.",
+  "otherNightReminder": "Gọi tất cả Tay sai dậy, cho họ chỉ phiếu cho người họ muốn trông coi Lil' Monsta.. Chọn 1 người, người đó chết.",
+  "remindersGlobal": "là Quỷ,Chết",
+  "reminders": null
+ },
+ {
+  "id": "lleech",
+  "name": "Lleech",
+  "ability": "Mỗi đêm*, chọn 1 người: họ chết. Bạn chọn 1 người lúc bắt đầu: họ trúng độc - bạn chết khi & chỉ khi họ chết.",
+  "firstNightReminder": "Lleech chọn 1 người. Đặt thẻ nhớ 'Trúng độc'.",
+  "otherNightReminder": "Lleech chỉ 1 người. Người đó chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết,Trúng độc"
+ },
+ {
+  "id": "lunatic",
+  "name": "Người điên",
+  "ability": "Bạn nghĩ bạn là Quỷ, nhưng bạn không phải. Quỷ biết bạn là ai & người bạn chọn trong đêm.",
+  "firstNightReminder": "Nếu có 7 người trở lên: Cho Người điên thấy 'Tay sai' ngẫu nhiên, bằng số Tay sai trong game. Cho xem 3 nhân vật tốt ngẫu nhiên. Nếu Người điên nhận được thẻ Quỷ thức dậy đêm nay: Cho Người điên sử dụng chức năng Quỷ đó. Đặt đánh dấu 'tấn công' của họ. Gọi Quỷ dậy. Cho Quỷ xem thẻ nhân vật thật sự của họ. Cho họ thấy Người điên. Nếu Người điên tấn công người: Cho Quỷ thật sự biết những người đó. Bỏ tất cả đánh dấu 'tấn công'.",
+  "otherNightReminder": "Cho Người điên sử dụng chức năng Quỷ. Đặt đánh dấu 'tấn công'. Nếu Người điên chọn người: Wake the Demon. Cho xem đánh dấu 'tấn công', và chỉ tất cả người được đánh dấu. Bỏ tất cả đánh dấu 'tấn công'.",
+  "remindersGlobal": null,
+  "reminders": "Tấn công 1,Tấn công 2,Tấn công 3"
+ },
+ {
+  "id": "lycanthrope",
+  "name": "Người sói",
+  "ability": "Mỗi đêm*, chọn 1 người sống: nếu là tốt, họ chết, nhưng họ là người duy nhất có thể chết đêm nay.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Người sói chỉ người sống: nếu là tốt, họ chết và những người khác không thế chết đêm nay.",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
+  "id": "magician",
+  "name": "Ảo thuật gia",
+  "ability": "Quỷ nghĩ bạn là Tay sau. Tay sai nghĩ bạn là Quỷ.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "marionette",
+  "name": "Con rối",
+  "ability": "Bạn nghĩ bạn là nhân vật tốt nhưng không phải. Quỷ biết bạn là ai. [Bạn ngồi cạnh Quỷ]",
+  "firstNightReminder": "Chọn một người tốt ngồi kế Quỷ và đặt thẻ đánh dấu 'là Con rối'. Gọi Quỷ dậy và cho họ biết Con rối.",
+  "otherNightReminder": null,
+  "remindersGlobal": "là Con rối",
+  "reminders": null
+ },
+ {
+  "id": "mastermind",
+  "name": "Quân sư",
+  "ability": "Nếu Quỷ chết vì hành quyết (kết thúc game), chơi thêm 1 ngày nữa. Nếu 1 người bị hành quyết sau đó, phe họ thua.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "mathematician",
+  "name": "Nhà toán học",
+  "ability": "Mỗi đêm, bạn biết có bao nhiêu tính năng hoạt động bất thường (từ sáng) do chức năng của nhân vật khác.",
+  "firstNightReminder": "Cho xem dấu hiệu số (0, 1, 2, v.v.) bằng số người có chức năng hoạt động bất thường vì chức năng khác.",
+  "otherNightReminder": "Cho xem dấu hiệu số (0, 1, 2, v.v.) bằng số người có chức năng hoạt động bất thường vì chức năng khác.",
+  "remindersGlobal": null,
+  "reminders": "Bất thường"
+ },
+ {
+  "id": "matron",
+  "name": "Bá chủ",
+  "ability": "Mỗi ngày, bạn có thể đổi chỗ của nhiều nhất 3 cặp. người không được rời chỗ ngồi để nói chuyện riêng.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "mayor",
+  "name": "Thị trưởng",
+  "ability": "Nếu còn 3 người sống mà ko ai bị Hành Quyết, phe bạn thắng. Nếu bạn sẽ chết trong đêm, có thể người khác sẽ chết thay.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "mezepheles",
+  "name": "Kẻ chiêu mộ",
+  "ability": "Bạn bắt đầu biết 1 từ bí mật. Người tốt đầu tiên nói từ này trở thành người xấu đêm đó.",
+  "firstNightReminder": "Cho Kẻ chiêu mộ biết từ bí mật.",
+  "otherNightReminder": "Gọi người tốt đầu tiên nói từ bí mật của Kẻ chiêu mộ dậy và cho xem lá 'Bạn là' và ngón tay cái xuống thể hiện xấu.",
+  "remindersGlobal": null,
+  "reminders": "Biến thành xấu,Hết chức năng"
+ },
+ {
+  "id": "minstrel",
+  "name": "Người hát rong",
+  "ability": "Nếu 1 Tay sai chết vì hành quyết, tất cả người khác (trừ Du khách)  đều bị say đến hoàng hôn ngày hôm sau.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Mọi người bị say"
+ },
+ {
+  "id": "monk",
+  "name": "Nhà sư",
+  "ability": "Mỗi đêm*, chọn 1 người (không phải bạn): họ an toàn khỏi Quỷ đêm nay.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Người được bảo vệ trước đó sẽ không được bảo vệ nữa. Nhà sư chỉ 1 người không phải chính họ. Đánh dấu người đó 'Bảo vệ'.",
+  "remindersGlobal": null,
+  "reminders": "Bảo vệ"
+ },
+ {
+  "id": "moonchild",
+  "name": "Con trăng",
+  "ability": "Khi bạn biết bạn chết, công khai chọn 1 người sống. Tối nay, nếu họ là người tốt, họ chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu Con trăng sử dụng chức năng lên 1 người hôm nay: Nếu người đó là tốt, họ chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
+  "id": "mutant",
+  "name": "Đột biến",
+  "ability": "Nếu bạn \"điên' rằng mình là Lữ khách, có thể bạn bị Hành Quyết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "nightwatchman",
+  "name": "Người gác đêm",
+  "ability": "Một lần trong game, trong đêm, chọn 1 người: họ biết bạn là ai.",
+  "firstNightReminder": "Người gác đêm có thể chỉ 1 người. Gọi người đó dậy, cho xem lá 'Nhân vật này chọn bạn' và thẻ Người gác đêm, và chỉ Người gác đêm.",
+  "otherNightReminder": "Người gác đêm có thể chỉ 1 người. Gọi người đó dậy, cho xem lá 'Nhân vật này chọn bạn' và thẻ Người gác đêm, và chỉ Người gác đêm.",
+  "remindersGlobal": null,
+  "reminders": "Hết chức năng"
+ },
+ {
+  "id": "noble",
+  "name": "Quý tộc",
+  "ability": "Bạn bắt đầu biết 3 người, 1 và chỉ 1 người là xấu.",
+  "firstNightReminder": "Chỉ 3 người trong đó có người xấu, không theo thứ tự.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Thấy"
+ },
+ {
+  "id": "nodashii",
+  "name": "No Dashii",
+  "ability": "Mỗi đêm*, chọn 1 người: họ chết. 2 hàng xóm Dân làng của bạn trúng độc.",
+  "firstNightReminder": null,
+  "otherNightReminder": "No Dashii chỉ 1 người. Người đó chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết,Trúng độc"
+ },
+ {
+  "id": "ojo",
+  "name": "Ojo",
+  "ability": "Mỗi đêm*, chọn 1 nhân vật: họ chết. Nếu nó ko có trong game, Người kể chuyện chọn người chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Ojo chỉ 1 nhân vật trong tờ kịch bản; nếu có trong game, người đó chết. Nếu nó không có trong game, quản trò chọn người chết thay.",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
+  "id": "oracle",
+  "name": "Tiên tri",
+  "ability": "Mỗi đêm*, bạn biết có bao nhiêu người chết là Phe Xấu.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Cho xem dấu hiệu số (0, 1, 2, v.v.) bằng số Phe Xấu đã chết.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "organgrinder",
+  "name": "Nhạc công đường phố",
+  "ability": "Tất cả người chơi nhắm mắt khi bỏ phiếu & số phiếu được giữ bí mất. Phiếu lên bạn chỉ được tính khi bạn bỏ phiếu.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Sắp chết"
+ },
+ {
+  "id": "pacifist",
+  "name": "Hòa bình",
+  "ability": "Người tốt bị hành quyết có thể không chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "philosopher",
+  "name": "Triết gia",
+  "ability": "Chỉ 1 lần duy nhất, trong đêm, chọn 1 nhân vật Phe Tốt: nhận chức năng đó. Nếu nhân vật này đã có trong làng, họ sẽ bị say.",
+  "firstNightReminder": "Nếu Triết gia không dùng chức năng, họ có thể lắc đầu. Nếu Triết gia muốn chọn nhân vật, họ chỉ vào tờ của họ. Tráo thẻ nhân vật của Triết gia với nhân vật ngoài cuộc. Hoặc, nếu nhân vật này trong cuộc, đánh dấu \"Say\" cạnh nhân vật đó và thẻ \"là Triết gia\" cạnh Triết gia.",
+  "otherNightReminder": "Nếu Triết gia không dùng chức năng, họ có thể lắc đầu. Nếu Triết gia muốn chọn nhân vật, họ chỉ vào tờ của họ. Tráo thẻ nhân vật của Triết gia với nhân vật ngoài cuộc. Hoặc, nếu nhân vật này trong cuộc, đánh dấu \"Say\" cạnh nhân vật đó và thẻ \"là Triết gia\" cạnh Triết gia.",
+  "remindersGlobal": "Say,là Triết gia",
+  "reminders": null
+ },
+ {
+  "id": "pithag",
+  "name": "Pit-Hag",
+  "ability": "Mỗi đêm*, chọn 1 người & 1 nhân vật mà họ biến thành (nếu ngoài cuộc). Nếu Quỷ được sinh ra, cái chết xảy ra ngẫu nhiên.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Pit-hag chỉ 1 người và nhân vật trong tờ của họ. Nếu nhân vật này ở ngoài cuộc, gọi người đó dậy và cho họ xem lá 'Bạn là' và thẻ nhân vật liên quan. Nếu nhân vật này ở trong cuộc, không có gì xảy ra.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "pixie",
+  "name": "Tiểu tiên",
+  "ability": "Bạn biết 1 Dân làng trong cuộc. Nếu bạn điên rằng bạn là nhân vật này, bạn nhân chức năng của họ khi họ chết.",
+  "firstNightReminder": "Cho Tiểu tiên xem 1 thẻ nhân vật của Dân làng trong cuộc.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Điên,Có chức năng"
+ },
+ {
+  "id": "plaguedoctor",
+  "name": "Bác sĩ dịch hạch",
+  "ability": "Khi bạn chết, Người kể chuyện có chức năng của Tay sai ngoài game.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Chức năng Người kể chuyện"
+ },
+ {
+  "id": "po",
+  "name": "Po",
+  "ability": "Mỗi đêm*, bạn có thể chọn 1 người: họ chết. Nếu lựa chọn trước là không ai cả, chọn 3 người tối nay.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu Po không chọn ai đêm trước: Po chỉ 3 người. Ngược lại: Po có thể lắc đầu, hoặc chỉ 1 người. Người được chọn chết",
+  "remindersGlobal": null,
+  "reminders": "Chết,Giết 3 người"
+ },
+ {
+  "id": "poisoner",
+  "name": "Độc thủ",
+  "ability": "Mỗi đêm, chọn 1 người, họ sẽ bị đầu độc cho đến hết ngày hôm sau.",
+  "firstNightReminder": "Độc thủ chỉ 1 người. Đánh dấu là \"Trúng độc\"",
+  "otherNightReminder": "Người bị trúng độc trước đó không còn bị trúng độc. Kẻ đầu độc chỉ 1 người. Chuyển \"Trúng độc\" sang người mới.",
+  "remindersGlobal": null,
+  "reminders": "Trúng độc"
+ },
+ {
+  "id": "politician",
+  "name": "Chính trị gia",
+  "ability": "Nếu bạn chịu trách nhiệm lớn nhất đến sự thất bạn của đội bạn, bạn đổi phe và thắng, ngay cả khi chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "poppygrower",
+  "name": "Người trồng hoa",
+  "ability": "Quỷ & Tay sai không biết nhau. Nếu bạn chết, họ biết nhau trong đêm đó.",
+  "firstNightReminder": "Không cho Quỷ\/Tay sai biết nhau",
+  "otherNightReminder": "Nếu Người trồng hoa chết, cho Quỷ\/Tay sai biết nhau.",
+  "remindersGlobal": null,
+  "reminders": "Ác thức dậy"
+ },
+ {
+  "id": "preacher",
+  "name": "Mục sư",
+  "ability": "Mỗi đêm, chọn 1 người: Tay sai, nếu được chọn, biết điều đó. Tất cả Tay sai được chọn không có chức năng.",
+  "firstNightReminder": "Mục sư chọn 1 người. Nếu Tay sai được chọn, gọi Tay sai dậy và cho xem lá \"Nhân vật này chọn bạn\" và thẻ Mục sư.",
+  "otherNightReminder": "Mục sư chọn 1 người. Nếu Tay sai được chọn, gọi Tay sai dậy và cho xem lá \"Nhân vật này chọn bạn\" và thẻ Mục sư.",
+  "remindersGlobal": null,
+  "reminders": "Đang nghe đạo"
+ },
+ {
+  "id": "professor",
+  "name": "Giáo sư",
+  "ability": "Một lần trong game, trong đêm*, chọn người chết: Nếu họ là Dân làng, họ được hồi sinh.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu Giáo sư chưa dùng chức năng: Giáo sư có thể lắc đầu hoặc chỉ 1 người. Nếu người đó là Dân làng, họ được sống lại.",
+  "remindersGlobal": null,
+  "reminders": "Sống,Hết chức năng"
+ },
+ {
+  "id": "psychopath",
+  "name": "Người tâm thần",
+  "ability": "Mỗi ngày, trước biểu quyết, bạn có thể công khai chọn 1 người: họ chết. Nếu bị hành quyết, bạn chỉ chết khi bạn thua oẳn tù tì.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "pukka",
+  "name": "Pukka",
+  "ability": "Mỗi đêm, chọn 1 người: họ trúng độc. Người trúng độc trước đó chết rồi khỏe lại.",
+  "firstNightReminder": "Pukka chỉ 1 người. Người đó bị trúng độc.",
+  "otherNightReminder": "Pukka chỉ 1 người. Người đó bị trúng độc. Người trúng độc trước đó chết.",
+  "remindersGlobal": null,
+  "reminders": "Trúng độc,Chết"
+ },
+ {
+  "id": "puzzlemaster",
+  "name": "Bậc thầy câu đố",
+  "ability": "1 người bị say rượu, ngay cả khi bạn chết. Nếu bạn đoán (1 lần) người đó là ai, biết Quỷ là ai, nhưng nếu đoán sai sẽ nhận thông tin sai.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Say,Đã đoán"
+ },
+ {
+  "id": "ravenkeeper",
+  "name": "Nuôi quạ",
+  "ability": "Nếu bạn chết trong đêm, bạn được gọi dậy để chọn 1 người: bạn biết nhân vật của họ.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu Nuôi quạ chết trong đêm: Nuôi quạ chỉ 1 người. Cho xem thẻ nhân vật của người đó.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "recluse",
+  "name": "Người ẩn dật",
+  "ability": "Bạn bị tính là Tay Sai hoặc Quỷ cho các chức năng khác, kể cả khi chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "revolutionary",
+  "name": "Cách mạng",
+  "ability": "2 người ngồi cạnh nhau được biết là cùng phe. Một lần trong game, một trong số họ thấy sai.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Thấy sai?"
+ },
+ {
+  "id": "riot",
+  "name": "Nổi loạn",
+  "ability": "Người được biểu quyết chết, nhưng họ có thể biểu quyết ngay lập tức (trong ngày 3, họ bắt buộc). After day 3, evil wins. [All Minions are Riot]",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "sage",
+  "name": "Hiền nhân",
+  "ability": "Nếu bạn bị Quỷ giết, bạn sẽ biết nó là 1 trong 2 người.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu Hiền nhân bị giết bởi Quỷ: Chỉ 2 người, một trong số họ là Quỷ.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "sailor",
+  "name": "Thủy thủ",
+  "ability": "Mỗi đêm, chọn người sống: Bạn hoặc họ bị say đến hoàng hôn. Bạn không thể chết.",
+  "firstNightReminder": "Thủy thủ chỉ người sống. Thủy thủ hoặc người đó bị say.",
+  "otherNightReminder": "Người bị say trước đó không còn bị say nữa. Thủy thủ chỉ 1 người. Thủy thủ hoặc người đó bị say.",
+  "remindersGlobal": null,
+  "reminders": "Say"
+ },
+ {
+  "id": "saint",
+  "name": "Thánh",
+  "ability": "Nếu bạn bị Hành Quyết, phe bạn thua.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "savant",
+  "name": "Nhà bác học",
+  "ability": "Mỗi ngày, bạn có thể gặp Quản trò để học 2 điều: 1 đúng và 1 sai.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "scapegoat",
+  "name": "Hiến tế",
+  "ability": "Nếu người cùng phe bạn bị hành quyết, bạn có thể bị hành quyết thay.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "scarletwoman",
+  "name": "Phụ nữ đỏ",
+  "ability": "Nếu còn 5 người trở lên còn sống & Quỷ chết, bạn trở thành Quỷ. (Không tính Du khách)",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu Phụ nữ đỏ trở thành Quỷ: Cho xem lá \"Bạn là\", và thẻ quỷ.",
+  "remindersGlobal": null,
+  "reminders": "Quỷ"
+ },
+ {
+  "id": "seamstress",
+  "name": "Thợ may",
+  "ability": "Chỉ 1 lần duy nhất, trong đêm, chọn 2 người (không phải mình): bạn biết họ có cùng phe hay không.",
+  "firstNightReminder": "Nếu Thợ may không dùng chức năng của họ: Thợ may có thể lắc đầu không. Nếu Thợ may chọn 2 người, lắc đầu hoặc gật đầu tùy theo 2 người đó có cùng phe không.",
+  "otherNightReminder": "Nếu Thợ may không dùng chức năng của họ: Thợ may có thể lắc đầu không. Nếu Thợ may chọn 2 người, lắc đầu hoặc gật đầu tùy theo 2 người đó có cùng phe không.",
+  "remindersGlobal": null,
+  "reminders": "Hết chức năng"
+ },
+ {
+  "id": "sentinel",
+  "name": "Lính gác",
+  "ability": "Có thể có thêm hoặc bớt 1 Lữ khách trong cuộc.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "shabaloth",
+  "name": "Shabaloth",
+  "ability": "Mỗi đêm*, chọn 2 người: họ chết. 1 người chết đêm qua có thể bị nôn ra.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Một người bị giết bởi Shabaloth đêm qua có thể được hồi sinh. Shabaloth chỉ 2 người. Những người đó chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết,Sống"
+ },
+ {
+  "id": "shugenja",
+  "name": "Shugenja",
+  "ability": "Bạn bắt đầu biết người xấu gần nhất với bạn ngồi theo chiều hay ngược chiều kim đồng hồ. Nếu như nhau, thông tin này sẽ mang tính ngẫu nhiên.",
+  "firstNightReminder": "Gọi Shugenja dậy; chỉ ngang về hướng có người xấu gần nhất. Nếu cả 2 người xấu gần nhất có khoảng cách như nhau, chỉ tay về 1 trong 2 hướng.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "slayer",
+  "name": "Diệt quỷ",
+  "ability": "Chỉ 1 lần duy nhất, ban ngày, chọn 1 người công khai: Quỷ mà bị chọn thì sẽ chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Hết chức năng"
+ },
+ {
+  "id": "snakecharmer",
+  "name": "Nuôi rắn",
+  "ability": "Mỗi đêm, chọn người sống: Quỷ được chọn sẽ hoán đổi nhân vật & phe với bạn & sau đó bị trúng độc.",
+  "firstNightReminder": "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ. \nNuôi rắn hoá thành Quỷ và đổi sang Phe Xấu.\nQuỷ cũ hoá thành Nuôi rắn, và đổi sang Phe Tốt và bị trúng độc (không còn chức năng).",
+  "otherNightReminder": "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ. \nNuôi rắn mới bị trúng độc (không còn chức năng).",
+  "remindersGlobal": null,
+  "reminders": "Trúng độc"
+ },
+ {
+  "id": "snitch",
+  "name": "Mách lẻo",
+  "ability": "Tay sai bắt đầu biết 3 nhân vật ngoài cuộc.",
+  "firstNightReminder": "Nếu Phụ nữ đỏ trở thành Quỷ: Cho xem lá \"Bạn là\", và thẻ quỷ.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "soldier",
+  "name": "Chiến sĩ",
+  "ability": "Không bị ảnh hưởng bởi Quỷ.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "spiritofivory",
+  "name": "Thần ngà",
+  "ability": "Không thể có thêm quá 1 người xấu.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Không thêm xấu"
+ },
+ {
+  "id": "spy",
+  "name": "Gián điệp",
+  "ability": "Mỗi đêm, được xem Grimore. Có thể được tính là Dân làng hoặc Lữ khách cho các chức năng khác, kể cả khi chết.",
+  "firstNightReminder": "Cho Gián điệp xem Grimore đến khi họ không cần nữa.",
+  "otherNightReminder": "Cho Gián điệp xem Grimore đến khi họ không cần nữa.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "steward",
+  "name": "Quản lý",
+  "ability": "Bạn biết 1 người tốt đầu game.",
+  "firstNightReminder": "Chỉ 1 người tốt.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Biết"
+ },
+ {
+  "id": "stormcatcher",
+  "name": "Người bắt bão",
+  "ability": "Đọc tên nhân vật tốt. Nếu trong cuộc, họ chỉ có thể bị chết vì hành quyết, nhưng phe xấu biết họ là ai.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "An toàn"
+ },
+ {
+  "id": "sweetheart",
+  "name": "Con cưng",
+  "ability": "Khi bạn chết, 1 người sẽ bắt đầu bị say.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Chọn 1 người để bị say.",
+  "remindersGlobal": null,
+  "reminders": "Say"
+ },
+ {
+  "id": "tealady",
+  "name": "Cô hầu trà",
+  "ability": "Nếu cả 2 hàng xóm sống của bạn đều là tốt, họ không thể chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Không thể chết"
+ },
+ {
+  "id": "thief",
+  "name": "Trộm",
+  "ability": "Mỗi đêm, chọn 1 người (không phải bạn): phiếu của họ tính là âm ngày mai.",
+  "firstNightReminder": "Trộm chỉ 1 người. Đắt đánh dấu \"Âm phiếu\" của trộm cạnh thẻ nhân vật của người được chọn.",
+  "otherNightReminder": "Trộm chỉ 1 người. Đắt đánh dấu \"Âm phiếu\" của trộm cạnh thẻ nhân vật của người được chọn.",
+  "remindersGlobal": null,
+  "reminders": "Âm phiếu"
+ },
+ {
+  "id": "tinker",
+  "name": "Thợ vụng vặt",
+  "ability": "Có thể bạn chết bất cứ lúc nào.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Có thể thợ vụng vặt chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
+  "id": "towncrier",
+  "name": "Mõ làng",
+  "ability": "Mỗi đêm*, bạn biết Tay Sai có chọn người để Biểu Quyết hôm nay hay không.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Gật đầu hoặc lắc đầu tùy theo việc Tay Sai có chọn người hay không. Đặt đánh dấu 'Tay sai chưa biểu quyết' (Bỏ 'Tay sai biểu quyết, nếu có).",
+  "remindersGlobal": null,
+  "reminders": "Tay sai chưa biểu quyết,Tay sai biểu quyết"
+ },
+ {
+  "id": "toymaker",
+  "name": "Người làm đồ chơi",
+  "ability": "Quỷ có thể chọn không tấn công & phải làm việc này 1 lần trong game. Người xấu nhận thông tin bắt đầu như thường.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Không tấn công"
+ },
+ {
+  "id": "undertaker",
+  "name": "Chôn cất",
+  "ability": "Mỗi đêm*, bạn biết nhân vật nào chết bởi Hành Quyết hôm nay.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu có người bị Hành Quyết  Cho xem thẻ nhân vật của người đó.",
+  "remindersGlobal": null,
+  "reminders": "Hành quyết"
+ },
+ {
+  "id": "vigormortis",
+  "name": "Vigormortis",
+  "ability": "Mỗi đêm*, chọn 1 người: họ chết. Tay sai bạn giết được giữ chức năng & đầu độc 1 hàng xóm là Dân làng. [−1 Lữ khách]",
+  "firstNightReminder": null,
+  "otherNightReminder": "Vigormortis chỉ 1 người. Người đó chết. Nếu họ là Tay sai, họ giữ chức năng và 1 trong những hàng xóm Dân làng của họ bị trúng độc.",
+  "remindersGlobal": null,
+  "reminders": "Chết,Có chức năng,Trúng độc"
+ },
+ {
+  "id": "virgin",
+  "name": "Trinh nữ",
+  "ability": "Lần đầu bạn bị Biểu Quyết, nếu người chọn bạn là Dân Làng, họ bị Hành Quyết ngay lập tức.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Hết chức năng"
+ },
+ {
+  "id": "vizier",
+  "name": "Tể tướng",
+  "ability": "Tất cả người chơi biết bạn là ai. Bạn không thể chết trong ngày. Nếu tốt bỏ phiếu, bạn có thể cho hành quyết ngay lập tức.",
+  "firstNightReminder": "Thông báo \"Có Tề tướng trong cuộc\" và họ là ai.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "vortox",
+  "name": "Vortox",
+  "ability": "Mỗi đêm*, chọn 1 người: họ chết. Chức năng của Dân làng luôn cho thông tin sai. Mỗi ngày, nếu không ai bị Hành Quyết, Phe Xấu thắng.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Vortox chỉ 1 người. Người đó chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
+  "id": "voudon",
+  "name": "Voudon",
+  "ability": "Chỉ có bạn và người chết được bỏ phiếu. Họ không cần thẻ vote để làm vậy. Hơn 50% số phiếu là không cần thiết.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "washerwoman",
+  "name": "Thợ giặt",
+  "ability": "Đêm đầu tiên, bạn biết chức năng của Dân Làng thuộc về 1 trong 2 người.",
+  "firstNightReminder": "Cho xem thẻ nhân vật Dân Làng trong cuộc. Chỉ 2 người, 1 trong số họ là nhân vật đó.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Dân Làng,Sai"
+ },
+ {
+  "id": "widow",
+  "name": "Góa phụ",
+  "ability": "Trong đêm đầu của bạn, nhìn Grimore & chọn 1 người: họ bị trúng độc. 1 người tốt biết có Góa phụ trong cuộc.",
+  "firstNightReminder": "Cho Góa phụ xem Grimore đến khi họ không cần nữa. Góa phụ chỉ 1 người. Người đó bị trúng độc. Gọi 1 người tốt dậy. Cho xem lá 'Những nhân vật này trong cuộc', và thẻ nhân vật Góa phụ.",
+  "otherNightReminder": null,
+  "remindersGlobal": "Biết",
+  "reminders": "Trúng độc"
+ },
+ {
+  "id": "witch",
+  "name": "Phù thủy",
+  "ability": "Mỗi đêm, chọn 1 người: nếu họ chọn người biểu quyết ngày mai, họ chết. Nếu còn 3 người sống, bạn mất chức năng này.",
+  "firstNightReminder": "Phù thủy chỉ 1 người. Nếu người đó biểu quyết ngày mai, họ chết ngay lập tức.",
+  "otherNightReminder": "Nếu còn 4 người sống trở lên: Phù thủy chỉ 1 người. Nếu người đó biểu quyết ngày mai, họ chết ngay lập tức.",
+  "remindersGlobal": null,
+  "reminders": "Bị nguyền"
+ },
+ {
+  "id": "zombuul",
+  "name": "Zombuul",
+  "ability": "Mỗi đêm*, nếu không ai chết hôm nay, chọn 1 người: họ chết. Lần đầu bạn chết, bạn sống nhưng tính là chết.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu không ai chết trong ngày: Zombuul chỉ 1 người. Người đó chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết hôm nay,Chết"
+ }
+]
