@@ -461,7 +461,7 @@
  {
   "id": "fortuneteller",
   "name": "Voyante",
-  "ability": "Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est un Démon. Un des joueurs « Bon » est votre faux positif.",
+  "ability": "Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est un Démon. Un joueur bon vous apparaît comme un Démon.",
   "firstNightReminder": "Elle pointe deux joueurs. Si l'un d’eux est un Démon ou son faux positif, hocher la tête, sinon, secouez la tête.",
   "otherNightReminder": "Elle pointe deux joueurs. Si l'un d’eux est un Démon ou son faux positif, hocher la tête, sinon, secouez la tête.",
   "remindersGlobal": null,
@@ -974,7 +974,7 @@
  {
   "id": "poppygrower",
   "name": "Cultivateur de pavot",
-  "ability": "Les maléfiques ne se connaissent pas entre eux. À votre mort, ils apprennent qui sont les Sbires et le Démon.",
+  "ability": "Les Sbires et le Démon ne se connaissent pas entre eux. À votre mort, ils apprennent qui ils sont cette nuit.",
   "firstNightReminder": "Ne réveiller pas les Sbires lors de la première nuit, ils ne savent pas qui est le Démon et les autres Sbires. Le Démon reçoit malgré tout ses trois bluffs.",
   "otherNightReminder": "Si le Cultivateur est mort, réveiller les Sbires et Démon (morts ou vifs) et leurs présenter le Démon et les Sbires.",
   "remindersGlobal": null,

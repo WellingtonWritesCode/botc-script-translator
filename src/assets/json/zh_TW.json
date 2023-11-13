@@ -595,10 +595,10 @@
  },
  {
   "id": "highpriestess",
-  "name": "High Priestess",
-  "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
-  "firstNightReminder": "Point to a player.",
-  "otherNightReminder": "Point to a player.",
+  "name": "大祭司",
+  "ability": "每天晚上，你得知說書人認為你最應該與之交談的一位玩家。",
+  "firstNightReminder": "指向一位玩家。",
+  "otherNightReminder": "指向一位玩家。",
   "remindersGlobal": null,
   "reminders": null
  },
@@ -676,12 +676,12 @@
  },
  {
   "id": "knight",
-  "name": "Knight",
-  "ability": "You start knowing 2 players that are not the Demon.",
-  "firstNightReminder": "Point to 2 non-Demon players.",
+  "name": "騎士",
+  "ability": "你遊戲開始時得知兩位非惡魔玩家。",
+  "firstNightReminder": "指向兩位非惡魔的玩家。",
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Know, Know"
+  "reminders": "已得知, 已得知"
  },
  {
   "id": "legion",
@@ -874,12 +874,12 @@
  },
  {
   "id": "ojo",
-  "name": "Ojo",
-  "ability": "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.",
+  "name": "眼魔",
+  "ability": "每天晚上*，選擇一個角色，該角色的玩家死亡，如果該角色不在遊戲中，則由說書人決定哪位玩家死亡。",
   "firstNightReminder": null,
-  "otherNightReminder": "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead.",
+  "otherNightReminder": "眼魔選擇角色表上的一個角色，如果該角色在遊戲中，該角色的玩家死亡，否則由說書人決定死亡。",
   "remindersGlobal": null,
-  "reminders": "Dead"
+  "reminders": "死亡"
  },
  {
   "id": "oracle",
@@ -892,12 +892,12 @@
  },
  {
   "id": "organgrinder",
-  "name": "Organ Grinder",
-  "ability": "All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.",
+  "name": "風琴手",
+  "ability": "所有玩家在投票時閉眼且票數不公開。對你的投票只在你有投票時通過。",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "About to die"
+  "reminders": "將被處決"
  },
  {
   "id": "pacifist",
@@ -937,12 +937,12 @@
  },
  {
   "id": "plaguedoctor",
-  "name": "Plague Doctor",
-  "ability": "If you die, the Storyteller gains a not-in-play Minion ability.",
+  "name": "瘟疫醫師",
+  "ability": "如果你死亡，則說書人得到一個不在場僕從的能力。",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Storyteller Ability"
+  "reminders": "(說書人能力)"
  },
  {
   "id": "po",
@@ -1144,9 +1144,9 @@
  },
  {
   "id": "shugenja",
-  "name": "Shugenja",
-  "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.",
-  "firstNightReminder": "Wake the Shugenja; point horizontally in the direction of the closest evil player. If the two closest evil players are equidistant, point your finger horizontally in either direction.",
+  "name": "修道家",
+  "ability": "你遊戲開始時得知離你最近的邪惡玩家是順時針或是逆時針方向，如果兩者皆是，則你得到隨機的資訊。",
+  "firstNightReminder": "喚醒修道家，指向最近的邪惡玩家方向，如果兩方向相同，指向任意一邊。",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null
@@ -1212,7 +1212,7 @@
   "firstNightReminder": "指向一位好人玩家。",
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Know"
+  "reminders": "已得知"
  },
  {
   "id": "stormcatcher",
