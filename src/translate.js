@@ -20,12 +20,13 @@ function stringToArray(string){
 };
 
 function translateCharacter(character, translation, newId){
-    character.name = translation.name;
-    character.ability = translation.ability;
-    character.firstNightReminder = translation.firstNightReminder;
-    character.otherNightReminder = translation.otherNightReminder;
-    character.remindersGlobal = stringToArray(translation.remindersGlobal);
-    character.reminders = stringToArray(translation.reminders);
+    const handleNullReminders = (reminders, defaultReminders) => reminders === null? defaultReminders : stringToArray(reminders);
+    character.name = translation.name??character.name;
+    character.ability = translation.ability??character.ability;
+    character.firstNightReminder = translation.firstNightReminder??character.firstNightReminder;
+    character.otherNightReminder = translation.otherNightReminder??character.otherNightReminder;
+    character.remindersGlobal = handleNullReminders(translation.remindersGlobal, character.remindersGlobal);
+    character.reminders = handleNullReminders(translation.reminders, character.reminders);
     character.id = newId;
 };
 
