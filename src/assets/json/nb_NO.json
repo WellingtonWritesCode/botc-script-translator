@@ -153,6 +153,15 @@
   "reminders": null
  },
  {
+  "id": "bootlegger",
+  "name": "Bootlegger",
+  "ability": "This script has homebrew characters or rules.",
+  "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and\/or rules you are using in this game.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bountyhunter",
   "name": "Dusørjeger",
   "ability": "Du lærer innledningsvis 1 ond spiller. Om spilleren du vet dør, lær en ny ond spiller i natt. [1 Borger er ond]",

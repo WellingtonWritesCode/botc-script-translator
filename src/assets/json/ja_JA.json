@@ -153,6 +153,15 @@
   "reminders": null
  },
  {
+  "id": "bootlegger",
+  "name": "Bootlegger",
+  "ability": "This script has homebrew characters or rules.",
+  "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and\/or rules you are using in this game.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bountyhunter",
   "name": "Bounty Hunter",
   "ability": "あなたは 1 人の邪悪なプレイヤーを知り始めます。あなたが知っているプレイヤーが死んだ場合、あなたは今夜新たな邪悪なプレイヤーを知ることになります。 【1 町民は悪です】",

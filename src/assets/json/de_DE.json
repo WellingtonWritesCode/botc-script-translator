@@ -153,6 +153,15 @@
   "reminders": null
  },
  {
+  "id": "bootlegger",
+  "name": "Bootlegger",
+  "ability": "This script has homebrew characters or rules.",
+  "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and\/or rules you are using in this game.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bountyhunter",
   "name": "Kopfgeldjäger",
   "ability": "Du beginnst das Spiel mit dem Wissen, dass 1 Spieler böse ist. Wenn dieser Spieler stirbt, lernst du in der Nacht einen anderen bösen Spieler kennen. [1 Dorfbewohner ist böse]",

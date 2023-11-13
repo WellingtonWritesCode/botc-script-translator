@@ -153,6 +153,15 @@
   "reminders": null
  },
  {
+  "id": "bootlegger",
+  "name": "Bootlegger",
+  "ability": "This script has homebrew characters or rules.",
+  "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and\/or rules you are using in this game.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bountyhunter",
   "name": "寶藏獵人",
   "ability": "你開始遊戲時得知一位邪惡的玩家。如果該玩家死亡，你今晚再得知另一位邪惡的玩家。[一位鎮民是邪惡的]",

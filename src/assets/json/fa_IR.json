@@ -153,6 +153,15 @@
   "reminders": null
  },
  {
+  "id": "bootlegger",
+  "name": "Bootlegger",
+  "ability": "This script has homebrew characters or rules.",
+  "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and\/or rules you are using in this game.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bountyhunter",
   "name": "جایزه جو",
   "ability": "شما در ابتدا ۱ بازیکن شر  را می‌شناسید. اگر او بمیرد، شما در شب بازیکن شر جدیدی را می‌شناسید. [۱ شهروند شر است]",

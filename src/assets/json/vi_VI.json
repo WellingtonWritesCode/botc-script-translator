@@ -153,6 +153,15 @@
   "reminders": null
  },
  {
+  "id": "bootlegger",
+  "name": "Bootlegger",
+  "ability": "This script has homebrew characters or rules.",
+  "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and\/or rules you are using in this game.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bountyhunter",
   "name": "Thợ săn tiền thưởng",
   "ability": "Bạn biết 1 người xấu đầu game. Nếu người bạn biết chết, bạn biết 1 người xấu khác tối nay. [1 Dân làng là xấu]",
