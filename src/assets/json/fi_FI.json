@@ -1,7 +1,7 @@
 [
  {
   "id": "acrobat",
-  "name": "Tasapainoilija",
+  "name": "Akrobaatti",
   "ability": "Joka yö* jos kumpikaan hyvistä, elävistä naapureistasi on juopunut tai myrkytetty, sinä kuolet.",
   "firstNightReminder": null,
   "otherNightReminder": "Jos hyvä naapuri on juopunut tai myrkytetty, Tasapainoilijan pelaaja kuolee.",
@@ -12,26 +12,26 @@
   "id": "alchemist",
   "name": "Alkemisti",
   "ability": "Sinulla on poissa pelistä olevan kätyrin kyky.",
-  "firstNightReminder": " Näytä Alkemistille poissa pelistä olevan kätyrin merkki.",
+  "firstNightReminder": " Näytä alkemistille poissa pelistä olevan kätyrin merkki.",
   "otherNightReminder": null,
-  "remindersGlobal": "On Alkemisti",
+  "remindersGlobal": "On alkemisti",
   "reminders": null
  },
  {
   "id": "alhadikhia",
   "name": "Al-Hadikhia",
-  "ability": "Each night*, choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
+  "ability": "Joka yö* valitse 3 pelaaja (kaikki oppivat kenet). Jokainen hiljaisesti valitsee: elää vai kuolla. Jos kaikki elävät, kaikki kuolevat.",
   "firstNightReminder": null,
   "otherNightReminder": "The Al-Hadikhia chooses 3 players. Announce the first player, wake them to nod yes to live or shake head no to die, kill or resurrect accordingly, then put to sleep and announce the next player. If all 3 are alive after this, all 3 die.",
   "remindersGlobal": null,
-  "reminders": "1,2,3,Chose death,Chose life"
+  "reminders": "1,2,3, Valitse elämä, Valitse kuolema"
  },
  {
   "id": "amnesiac",
   "name": "Muistinsa menettänyt",
   "ability": "Et tiedä mikä kykysi on. Joka päivä, voit yksityisesti arvata mikä kykysi on: saat tietää kuinka lähellä olet.",
-  "firstNightReminder": "Valitse Muistinsa menettäneen kyky kokonaan. Jos hänen kykynsä vaatii herättämistä, herätä hänet tänään: Herätä Muistinsa menettänyt ja hoida hänen kykynsä.",
-  "otherNightReminder": "Jos Muistinsa menettäneen kyky vaatii häntä heräämään, herätä hänet. Tee mitä valitsemasi kyky vaatii sinua tekemään.",
+  "firstNightReminder": "Päätä muistinsa menettäneen kyky kokonaisuudessaan. Jos hänen kykynsä vaatii herättämistä, herätä hänet tänään: Herätä muistinsa menettänyt, ja hoida hänen kykynsä.",
+  "otherNightReminder": "Jos muistinsa menettäneen kyky vaatii häntä heräämään, herätä hänet. Tee mitä valitsemasi kyky vaatii sinua tekemään.",
   "remindersGlobal": null,
   "reminders": "?"
  },
@@ -47,16 +47,16 @@
  {
   "id": "apprentice",
   "name": "Oppipoika",
-  "ability": "On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil).",
-  "firstNightReminder": "Show the Apprentice the 'You are' card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's 'Is the Apprentice' reminder by that character token.",
+  "ability": "Ensimmäisenä yönäsi saat kyläläisen kyvyn (jos olet hyvä) tai kätyrin kyvyn (jos olet paha).",
+  "firstNightReminder": "Näytä oppipojalle “sinä olet” -kortti ja kyläläisen tai kätyrin pelimerkki. Korvaa oppipojan merkki loitsukirjassa tämän hahmon merkillä, ja laita “on oppipoika” -muistutus merkin viereen.",
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Is the Apprentice"
+  "reminders": "On oppipoika"
  },
  {
   "id": "artist",
   "name": "Taiteilija",
-  "ability": "Kerran pelissä, päivän aikana, kysy yksityisesti Tarinankertojalta kyllä\/ei kysymys.",
+  "ability": "Kerran pelissä, päivän aikana, kysy yksityisesti tarinankertojalta kyllä\/ei -kysymys.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -74,7 +74,7 @@
  {
   "id": "atheist",
   "name": "Ateisti",
-  "ability": "The Storyteller can break the game rules & if executed, good wins, even if you are dead [No evil characters]",
+  "ability": "Tarinankertoja voi rikkoa pelin sääntöjä. Hyvä voittaa, jos tarinankertoja teloitetaan, vaikka olisit kuollut. [Ei pahoja hahmoja]",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -83,25 +83,25 @@
  {
   "id": "balloonist",
   "name": "Kuumailmapalloilija",
-  "ability": "Joka yö, opit yhden pelaajan joka hahmotyypistä, kunnes olet oppinut yhden jokaisesta. [+1 Ulkopuolinen]",
-  "firstNightReminder": "Choose a character type. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character.",
-  "otherNightReminder": "Choose a character type that does not yet have a Seen reminder next to a character of that type. Point to a player whose character is of that type, if there are any. Place the Balloonist's Seen reminder next to that character.",
+  "ability": "Joka yö, opit yhden pelaajan joka hahmotyypistä, kunnes olet oppinut yhden jokaisesta. [+1 ulkopuolinen]",
+  "firstNightReminder": "Valitse hahmotyyppi. Osoita pelaajaa, jonka hahmo on tätä tyyppiä. Laita kuumailmapalloilijan Nähnyt -muistutus tämän hahmon viereen.",
+  "otherNightReminder": "Valitse hahmotyyppi, jonka muistutusta ei ole vielä kyseisen hahmotyypin vieressä. Osoita pelaajaa, jonka hahmo on tätä tyyppiä, jos pelissä on tätä tyyppiä. Laita kuumailmapalloilijan Nähnyt -muistutus tämän hahmon viereen.",
   "remindersGlobal": null,
-  "reminders": "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
+  "reminders": "Nähnyt kyläläisenä, Nähnyt kätyrinä, Nähnyt ulkopuolisena, Nähnyt demonina, Nähnyt matkaajana"
  },
  {
   "id": "barber",
   "name": "Parturi",
-  "ability": "Jos kuolit tänään päivällä tai yöllä, Demoni voi valita kaksi pelaajaa (ei toista Demonia) ja vaihtaa heidän hahmonsa.",
+  "ability": "Jos kuolit tänään päivällä tai yöllä, demoni voi valita kaksi pelaajaa (ei toista demonia) ja vaihtaa heidän hahmonsa.",
   "firstNightReminder": null,
-  "otherNightReminder": "If the Barber died today: Wake the Demon. Show the 'This character selected you' card, then Barber token. The Demon either shows a 'no' head signal, or points to 2 players. If they chose players: Swap the character tokens. Wake each player. Show 'You are', then their new character token.",
+  "otherNightReminder": "Jos parturi kuoli tänään, herätä demoni. Näytä “tämä hahmo valitsi sinut” -kortti ja parturin hahmomerkki. Demoni joko pudistaan päätään kieltäytymisen merkiksi tai osoittaa kohti kahta pelaajaa. Jos hän valitsi pelaajat: vaihda heidän hahmomerkkinsä. Herätä kumpikin pelaaja. Näytä “sinä olet” - kortti ja heidän uusi hahmomerkkinsä.",
   "remindersGlobal": null,
   "reminders": "Hiustenleikkuut tänään"
  },
  {
   "id": "barista",
   "name": "Barista",
-  "ability": "Each night, until dusk, 1) a player becomes sober, healthy and gets true info, or 2) their ability works twice. They learn which.",
+  "ability": "Joka päivä, ennen iltahämärää 1) pelaajasta tulee raitis, terve ja hän saa oikeaa tietoa tai 2) hänen kykynsä toimii kahdesti. Hän oppii kumpi.",
   "firstNightReminder": "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober\/healthy\/true info or activate their ability twice).",
   "otherNightReminder": "Choose a player, wake them and tell them which Barista power is affecting them. Treat them accordingly (sober\/healthy\/true info or activate their ability twice).",
   "remindersGlobal": null,
@@ -110,7 +110,7 @@
  {
   "id": "baron",
   "name": "Paroni",
-  "ability": "Pelissä on enemmän Ulkopuolisia kuin pitäisi. [+2 Ulkopuolista]",
+  "ability": "Pelissä on enemmän ulkopuolisia kuin pitäisi. [+2 ulkopuolista]",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -119,7 +119,7 @@
  {
   "id": "beggar",
   "name": "Kerjääjä",
-  "ability": "You must use a vote token to vote. Dead players may choose to give you theirs. If so, you learn their alignment. You are sober & healthy.",
+  "ability": "Sinun pitää käyttää äänestysmerkkiä voidaksesi äänestää. Kuolleet pelaajat voivat antaa sinulle heidän merkkinsä. Jos näin tapahtuu, opit heidän alignment (?). Olet raitis & terve.\n",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -128,25 +128,25 @@
  {
   "id": "bishop",
   "name": "Piispa",
-  "ability": "Only the Storyteller can nominate. At least 1 opposite player must be nominated each day.",
+  "ability": "Vain tarinankertoja voi asettaa pelaajia ehdolle. Vähintään 1 vastakkainen pelaaja tulee asettaa ehdolla joka päivä.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Nominate good,Nominate evil"
+  "reminders": "Aseta ehdolle hyvä, Aseta ehdolle paha"
  },
  {
   "id": "bonecollector",
-  "name": "Luiden kerääjä",
-  "ability": "Once per game, at night, choose a dead player: they regain their ability until dusk.",
+  "name": "Luidenkerääjä",
+  "ability": "Kerran pelissä (yöllä) valitse kuollut pelaaja. He saavat kykynsä takaisin iltahämärään asti.",
   "firstNightReminder": null,
-  "otherNightReminder": "The Bone Collector either shakes their head no or points at any dead player. If they pointed at any dead player, put the Bone Collector's 'Has Ability' reminder by the chosen player's character token. (They may need to be woken tonight to use it.)",
+  "otherNightReminder": "Luidenkerääjä joko pudistaa päätänsä kieltäytymisen merkiksi tai osoittaa kohti ketä tahansa kuollutta pelaajaa. Jos he osoittivat kuolleen pelaajan, laita “On kyky” -merkki valitun pelaajan merkin viereen. (Hänet pitää mahdollisesti herättää tänä yönä käyttämään kykyään.)",
   "remindersGlobal": null,
-  "reminders": "No ability,Has ability"
+  "reminders": "Ei kykyä, On kyky"
  },
  {
   "id": "boomdandy",
   "name": "Pommittaja",
-  "ability": "Jos sinut teloitetaan, kaikki paitsi 3 pelaajaa kuolevat. Minuutin kuluttua, pelaaja jota kohti osoitetaan eniten, kuolee.",
+  "ability": "Jos sinut teloitetaan, kaikki paitsi 3 pelaajaa kuolevat. Minuutin kuluttua pelaaja, jota kohti eniten pelaajia osoittaa, kuolee.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -155,7 +155,7 @@
  {
   "id": "bountyhunter",
   "name": "Palkkionmestästäjä",
-  "ability": "Aloitat tietäen 1 pahan pelaajan. Jos pelaaja jonka tiedät kuolee, opit uuden pahan pelaajan tänä yönä. [1 kyläläinen on paha.]",
+  "ability": "Aloitat tietäen 1. pahan pelaajan. Jos pelaaja jonka tiedät kuolee, opit uuden pahan pelaajan tänä yönä. [1 kyläläinen on paha.]",
   "firstNightReminder": "Point to 1 evil player. Wake the townsfolk who is evil and show them the 'You are' card and the thumbs down evil sign.",
   "otherNightReminder": "If the known evil player has died, point to another evil player. ",
   "remindersGlobal": null,
@@ -676,7 +676,7 @@
  },
  {
   "id": "knight",
-  "name": "Knight",
+  "name": "Ritari",
   "ability": "You start knowing 2 players that are not the Demon.",
   "firstNightReminder": "Point to 2 non-Demon players.",
   "otherNightReminder": null,
@@ -829,7 +829,7 @@
  },
  {
   "id": "moonchild",
-  "name": "Kuulapsi",
+  "name": "Kuunlapsi",
   "ability": "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die.",
   "firstNightReminder": null,
   "otherNightReminder": "If the Moonchild used their ability to target a player today: If that player is good, they die.",
@@ -892,7 +892,7 @@
  },
  {
   "id": "organgrinder",
-  "name": "Organ Grinder",
+  "name": "Posetiivari",
   "ability": "All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.",
   "firstNightReminder": null,
   "otherNightReminder": null,
@@ -937,7 +937,7 @@
  },
  {
   "id": "plaguedoctor",
-  "name": "Plague Doctor",
+  "name": "Ruttolääkäri",
   "ability": "If you die, the Storyteller gains a not-in-play Minion ability.",
   "firstNightReminder": null,
   "otherNightReminder": null,
@@ -1009,7 +1009,7 @@
  },
  {
   "id": "pukka",
-  "name": "Pukka",
+  "name": "Puka",
   "ability": "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy.",
   "firstNightReminder": "The Pukka points to a player. That player is poisoned.",
   "otherNightReminder": "The Pukka points to a player. That player is poisoned. The previously poisoned player dies.",
@@ -1306,7 +1306,7 @@
  },
  {
   "id": "vizier",
-  "name": "Vizier",
+  "name": "Visiiri",
   "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
   "firstNightReminder": "Announce 'The Vizier is in play' and state which player they are.",
   "otherNightReminder": null,

@@ -20,7 +20,7 @@
  {
   "id": "alhadikhia",
   "name": "Al-Hadikhia",
-  "ability": "Välj 3 spelare varje natt*; de väljer tyst att leva eller dö. Väljer alla att leva dör alla tre. Alla spelare vet vilka du valt.",
+  "ability": "Välj 3 spelare varje natt*; de väljer tyst att leva eller dö. Om alla lever dör alla tre. Alla spelare vet vilka du valt.",
   "firstNightReminder": null,
   "otherNightReminder": "Al-Hadikhia väljer 3 spelare. Tillkännage och väck den första spelaren; hen nickar för att leva eller skakar på huvudet för att dö; markera hen som död eller återupplivad; spelaren somnar. Upprepa för de två andra spelarna. Om alla 3 lever efter detta dör alla 3.",
   "remindersGlobal": null,
@@ -289,7 +289,7 @@
  },
  {
   "id": "deviant",
-  "name": "Avfällingen",
+  "name": "Avvikaren",
   "ability": "Om du var rolig kan du inte bli utstött samma dag.",
   "firstNightReminder": null,
   "otherNightReminder": null,
