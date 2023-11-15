@@ -154,9 +154,9 @@
  },
  {
   "id": "bootlegger",
-  "name": "Bootlegger",
-  "ability": "This script has homebrew characters or rules.",
-  "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and\/or rules you are using in this game.",
+  "name": "走私販",
+  "ability": "這個劇本中有自定義角色或使用自定義規則。",
+  "firstNightReminder": "宣布走私販在遊戲中以及這場遊戲中使用的所有自定義角色和\/或自定義規則。",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null
@@ -290,11 +290,11 @@
  {
   "id": "deusexfiasco",
   "name": "Deus ex Fiasco",
-  "ability": "Once per game, the Storyteller will make a \"mistake\", correct it and publicly admit to it.",
+  "ability": "每場遊戲一次，說書人會犯一個錯誤，向玩家們承認並修正它。",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Whoops"
+  "reminders": "哇喔"
  },
  {
   "id": "deviant",
@@ -577,12 +577,12 @@
  },
  {
   "id": "harpy",
-  "name": "Harpy",
-  "ability": "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or both might die.",
-  "firstNightReminder": "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to.",
-  "otherNightReminder": "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to.",
+  "name": "鷹妖",
+  "ability": "每天晚上，選擇兩位玩家，明天第一位玩家需要執著地使其他玩家相信另一位是邪惡的，否則這兩位玩家有可能會死亡。",
+  "firstNightReminder": "鷹妖輪流指向兩位玩家，喚醒第一位玩家並展示「這個能力選擇你」提示卡 + 鷹妖的角色代幣，然後指向第二位玩家。",
+  "otherNightReminder": "鷹妖輪流指向兩位玩家，喚醒第一位玩家並展示「這個能力選擇你」提示卡 + 鷹妖的角色代幣，然後指向第二位玩家。",
   "remindersGlobal": null,
-  "reminders": "Mad, 2nd"
+  "reminders": "瘋狂, 目標"
  },
  {
   "id": "hellslibrarian",

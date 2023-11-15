@@ -1,12 +1,6 @@
 import charactersJson from './characters.json';
 import Papa from 'papaparse';
 
-const clean = id => id === "_meta"? id : id.toLocaleLowerCase().replace(/[^a-z0-9]/g, "");
-
-function getIds(script){
-    return script.map(character => typeof character === "string"? clean(character) : clean(character.id));
-};
-
 function stringToArray(string){
     try {
         return Papa.parse(string,{transform:(s)=>{return s.trim()}}).data[0];
@@ -32,11 +26,16 @@ function translateCharacter(character, translation, newId){
 
 function handleTranslation(script, locale, localeName){
     const translationJson = locale;
-    const translationJsonById = new Map(translationJson.map((character) => [character.id, character]));
-    const ids = getIds(script);
+    const translationJsonById = new Map(translationJson.map(character => [character.id, character]));
+    const charactersJsonById = new Map(charactersJson.map(character => [character.id, character]));
+    const getCharacter = id => charactersJsonById.get(id);
     let meta = script.find(obj => obj.id === "_meta")??{"id":"_meta","author":"","name":""};
 
-    let translation = JSON.parse(JSON.stringify(charactersJson.filter((character) => ids.includes(character.id))));
+    //this is a goddamn mess
+    let translation = script.map(character => typeof character === "string"
+                    ? getCharacter(id)
+                    : getCharacter(character.id))
+                    .filter(character => character != undefined);
 
     translation.forEach(character => {
         let newId = `${localeName}_${character.id}`;

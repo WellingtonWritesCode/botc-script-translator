@@ -5,11 +5,41 @@
     import { saveAs } from 'file-saver';
     import Button from './Button.vue';
     import UploadButton from './UploadButton.vue';
-    import SelectLocale from './SelectLocale.vue';
+    import Select from './Select.vue';
     import Toggle from './Toggle.vue';
     import Papa from 'papaparse';
 
     const store = useScriptStore();
+    const options = [
+                "en_GB",
+                "nn_NO",
+                "nb_NO",
+                "ar_AR",
+                "es_AR",
+                "fi_FI",
+                "hu_HU",
+                "nl_NL",
+                "tr_TR",
+                "it_IT",
+                "kw_KW",
+                "fa_IR",
+                "fr_FR",
+                "sv_SE",
+                "es_ES",
+                "ru_RU",
+                "pt_BR",
+                "de_DE",
+                "pt_PT",
+                "pl_PL",
+                "zh_TW",
+                "ja_JA",
+                "fil_PH",
+                "zh_CN",
+                "zh_CN (Anlijie)",
+                "he_IL",
+                "vi_VI",
+                "slv_SLV",
+            ];
 
     function translateScript(){
         if(store.isNull || !store.isValidLocale) return;
@@ -56,7 +86,7 @@
                 <a><UploadButton width="7.5rem" accepts="application/json" @handle-file="setScript">Upload Script</UploadButton></a>
                 <a>
                     <UploadButton v-if="store.useCustomLocale" width="12.5rem" accepts="text/csv" @handle-file="parseCustomLocale">Upload Custom Locale</UploadButton>
-                    <SelectLocale v-else width="12.5rem" :label="localeLabel()" />
+                    <Select v-else width="12.5rem" :label="localeLabel()" :options="options" @selected="locale => store.setLocale(locale)" />
                 </a>
             </div>
             <div style="display: flex; gap: 4rem;">

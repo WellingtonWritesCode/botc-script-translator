@@ -4,39 +4,8 @@
     export default{
         setup() {
             const store = useScriptStore();
-            const options = [
-                "en_GB",
-                "nn_NO",
-                "nb_NO",
-                "ar_AR",
-                "es_AR",
-                "fi_FI",
-                "hu_HU",
-                "nl_NL",
-                "tr_TR",
-                "it_IT",
-                "kw_KW",
-                "fa_IR",
-                "fr_FR",
-                "sv_SE",
-                "es_ES",
-                "ru_RU",
-                "pt_BR",
-                "de_DE",
-                "pt_PT",
-                "pl_PL",
-                "zh_TW",
-                "ja_JA",
-                "fil_PH",
-                "zh_CN",
-                "zh_CN (Anlijie)",
-                "he_IL",
-                "vi_VI",
-                "slv_SLV",
-            ];
             return {
-                store,
-                options
+                store
             }
         },
         data(){
@@ -56,7 +25,8 @@
             width: {
                 type: String,
                 default: "auto"
-            }
+            },
+            options: Array
         },
         computed: {
             cssProps(){
@@ -90,7 +60,7 @@
                 <button
                     v-for="option in options"
                     class="v-button v-select__item v-button-hover text"
-                    @click="store.setLocale(option), this.toggle()"
+                    @click="$emit('selected', option), this.toggle()"
                 >
                     {{ option }}
                 </button>
