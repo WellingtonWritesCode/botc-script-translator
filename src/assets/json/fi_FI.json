@@ -139,7 +139,7 @@
   "name": "Luidenkerääjä",
   "ability": "Kerran pelissä (yöllä) valitse kuollut pelaaja. He saavat kykynsä takaisin iltahämärään asti.",
   "firstNightReminder": null,
-  "otherNightReminder": "Luidenkerääjä joko pudistaa päätänsä kieltäytymisen merkiksi tai osoittaa kohti ketä tahansa kuollutta pelaajaa. Jos he osoittivat kuolleen pelaajan, laita “On kyky” -merkki valitun pelaajan merkin viereen. (Hänet pitää mahdollisesti herättää tänä yönä käyttämään kykyään.)",
+  "otherNightReminder": "Luidenkerääjä joko pudistaa päätänsä kieltäytymisen merkiksi tai osoittaa kohti ketä tahansa kuollutta pelaajaa. Jos hän valitsi kuolleen pelaajan, laita “On kyky” -merkki valitun pelaajan merkin viereen. (Hänet pitää mahdollisesti herättää tänä yönä käyttämään kykyään.)",
   "remindersGlobal": null,
   "reminders": "Ei kykyä, On kyky"
  },
@@ -154,7 +154,7 @@
  },
  {
   "id": "bootlegger",
-  "name": "Bootlegger",
+  "name": "Salakauppias",
   "ability": "This script has homebrew characters or rules.",
   "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and\/or rules you are using in this game.",
   "otherNightReminder": null,
@@ -165,15 +165,15 @@
   "id": "bountyhunter",
   "name": "Palkkionmestästäjä",
   "ability": "Aloitat tietäen 1. pahan pelaajan. Jos pelaaja jonka tiedät kuolee, opit uuden pahan pelaajan tänä yönä. [1 kyläläinen on paha.]",
-  "firstNightReminder": "Point to 1 evil player. Wake the townsfolk who is evil and show them the 'You are' card and the thumbs down evil sign.",
-  "otherNightReminder": "If the known evil player has died, point to another evil player. ",
+  "firstNightReminder": "Osoita kohti 1. pahaa pelaajaa. Herätä peha kyläläinen ja näytä hänelle \"Sinä olet\" -kortti ja peukalo alas -merkki.",
+  "otherNightReminder": "Jos tiedetty paha pelaaja kuolee, osoita kohti toista pahaa pelaajaa.",
   "remindersGlobal": null,
-  "reminders": "Known"
+  "reminders": "Tiedetty"
  },
  {
   "id": "buddhist",
   "name": "Buddhalainen",
-  "ability": "For the first 2 minutes of each day, veteran players may not talk.",
+  "ability": "Kokeneet pelaajat eivat saa puhua päivän alussa kahden minuutin ajan.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -182,7 +182,7 @@
  {
   "id": "bureaucrat",
   "name": "Byrokraatti",
-  "ability": "Each night, choose a player (not yourself): their vote counts as 3 votes tomorrow.",
+  "ability": "Joka yö valitse pelaaja (ei sinä itse): hänen äänensä lasketaan kolmena äänenä huomenna.",
   "firstNightReminder": "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token.",
   "otherNightReminder": "The Bureaucrat points to a player. Put the Bureaucrat's '3 votes' reminder by the chosen player's character token.",
   "remindersGlobal": null,
@@ -191,7 +191,7 @@
  {
   "id": "butcher",
   "name": "Teurastaja",
-  "ability": "Each day, after the 1st execution, you may nominate again.",
+  "ability": "Joka päivä ensimmäisen teloituksen jälkeen sinä voit asettaa uuden pelaajan ehdolle.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -200,7 +200,7 @@
  {
   "id": "butler",
   "name": "Hovimestari",
-  "ability": "Joka yö, valitse pelaaja (ei sinä itse): huomenna, voit äänestää vain jos valitsemasi pelaaja äänestää myös.",
+  "ability": "Joka yö, valitse pelaaja (ei sinä itse): huomenna voit äänestää vain, jos valitsemasi pelaaja äänestää myös.",
   "firstNightReminder": "Hovimestari osoittaa pelaajaa. Merkitse osoitettu pelaaja \"Mestariksi\".",
   "otherNightReminder": "Hovimestari osoittaa pelaajaa. Merkitse osoitettu pelaaja \"Mestariksi\".",
   "remindersGlobal": null,
@@ -218,7 +218,7 @@
  {
   "id": "cerenovus",
   "name": "Aivomuuntaja",
-  "ability": "Joka yö, valitse pelaaja ja hyvä hahmo: tämä pelaaja on \"hulluna\" että on tämä hahmo huomenna, tai hänet voidaan teloittaa.",
+  "ability": "Joka yö, valitse pelaaja ja hyvä hahmo: tämä pelaaja on \"hulluna\" että hän on tämä hahmo huomenna, tai hänet voidaan teloittaa.",
   "firstNightReminder": "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed.",
   "otherNightReminder": "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed.",
   "remindersGlobal": null,
@@ -245,7 +245,7 @@
  {
   "id": "choirboy",
   "name": "Kuoropoika",
-  "ability": "Jos Demoni tappaa Kuninkaan, opit kuka pelaaja Demoni on. [+ Kuningas]",
+  "ability": "Jos demoni tappaa kuninkaan, opit kuka pelaaja demoni on. [+ kuningas]",
   "firstNightReminder": null,
   "otherNightReminder": "If the King was killed by the Demon, wake the Choirboy and point to the Demon player.",
   "remindersGlobal": null,

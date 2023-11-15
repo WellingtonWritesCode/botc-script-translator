@@ -74,7 +74,7 @@
  {
   "id": "atheist",
   "name": "Athée",
-  "ability": "Le Conteur peut ignorer les règles du jeu. S'il est exécuté, le Bien gagne, même si vous êtes mort. [Pas de personnage Maléfique]",
+  "ability": "Le Conteur peut ignorer les règles du jeu et s'il est exécuté, le Bien gagne, même si vous êtes mort. [Pas de personnage Maléfique]",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -155,8 +155,8 @@
  {
   "id": "bootlegger",
   "name": "Bootlegger",
-  "ability": "This script has homebrew characters or rules.",
-  "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and\/or rules you are using in this game.",
+  "ability": "Le script a des personnages ou règles personnalisés.",
+  "firstNightReminder": "Annoncez que le Bootlegger est en jeu et informez le groupe de tous les personnages et\/ou règles personnalisées que vous utilisez pour cette partie.",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null
