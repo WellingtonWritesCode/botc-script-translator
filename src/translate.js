@@ -1,4 +1,4 @@
-import charactersJson from './characters.json';
+import characters from './characters.json';
 import Papa from 'papaparse';
 
 function stringToArray(string){
@@ -25,6 +25,7 @@ function translateCharacter(character, translation, newId){
 };
 
 function handleTranslation(script, locale, localeName){
+    const charactersJson = JSON.parse(JSON.stringify(characters));
     const translationJson = locale;
     const translationJsonById = new Map(translationJson.map(character => [character.id, character]));
     const charactersJsonById = new Map(charactersJson.map(character => [character.id, character]));
@@ -33,7 +34,7 @@ function handleTranslation(script, locale, localeName){
 
     //this is a goddamn mess
     let translation = script.map(character => typeof character === "string"
-                    ? getCharacter(id)
+                    ? getCharacter(character)
                     : getCharacter(character.id))
                     .filter(character => character != undefined);
 
