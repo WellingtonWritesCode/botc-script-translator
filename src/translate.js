@@ -25,11 +25,12 @@ function translateCharacter(character, translation, newId){
 };
 
 function handleTranslation(script, locale, localeName){
+    const clean = id => id === "_meta"? id : id.toLocaleLowerCase().replace(/[^a-z0-9]/g, "");
     const charactersJson = JSON.parse(JSON.stringify(characters));
     const translationJson = locale;
     const translationJsonById = new Map(translationJson.map(character => [character.id, character]));
     const charactersJsonById = new Map(charactersJson.map(character => [character.id, character]));
-    const getCharacter = id => charactersJsonById.get(id);
+    const getCharacter = id => charactersJsonById.get(clean(id));
     let meta = script.find(obj => obj.id === "_meta")??{"id":"_meta","author":"","name":""};
 
     //this is a goddamn mess
