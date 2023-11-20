@@ -31,6 +31,7 @@
                 "de_DE",
                 "pt_PT",
                 "pl_PL",
+                "pl_PL (Charles)",
                 "zh_TW",
                 "ja_JA",
                 "fil_PH",

@@ -838,10 +838,10 @@
  },
  {
   "id": "moonchild",
-  "name": "Astrologen",
+  "name": "Månflickan",
   "ability": "Välj 1 levande spelare när du får veta att du dött; om du valt en god spelare dör hen inatt.",
   "firstNightReminder": null,
-  "otherNightReminder": "Om Astrologen använde sin förmåga för att peka ut en god spelare idag så dör den utpekade.",
+  "otherNightReminder": "Om Månflickan använde sin förmåga för att peka ut en god spelare idag så dör den utpekade.",
   "remindersGlobal": null,
   "reminders": "Död"
  },
