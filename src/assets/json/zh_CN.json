@@ -154,9 +154,9 @@
  },
  {
   "id": "bootlegger",
-  "name": "Bootlegger",
-  "ability": "This script has homebrew characters or rules.",
-  "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and\/or rules you are using in this game.",
+  "name": "私货商人",
+  "ability": "这个剧本包含有自制角色或自制规则。",
+  "firstNightReminder": "宣布私货商人在场，为所有玩家介绍本局游戏中包含的所有自制角色和自制规则。",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null

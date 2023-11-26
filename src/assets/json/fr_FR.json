@@ -803,7 +803,7 @@
  {
   "id": "mayor",
   "name": "Maire",
-  "ability": "Si aucune exécution n'a lieu alors qu’il ne reste que 3 joueurs vivants (dont vous), victoire du village ! Si vous deviez mourir pendant la nuit, un autre joueur pourrait mourir à votre place.",
+  "ability": "Si aucune exécution n'a lieu quand il ne reste que 3 joueurs en vie (dont vous), votre équipe gagne. Si vous deviez mourir la nuit, un autre joueur peut mourir à la place.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -821,7 +821,7 @@
  {
   "id": "minstrel",
   "name": "Ménestrel",
-  "ability": "Si un Sbire est exécuté aujourd'hui, tous les joueurs (à l'exception du Ménestrel et des voyageurs) sont ivres jusqu’au prochain crépuscule.",
+  "ability": "Si un Sbire est exécuté aujourd'hui, tous les autres joueurs (à l'exception des Voyageurs) sont ivres jusqu’au prochain crépuscule.",
   "firstNightReminder": null,
   "otherNightReminder": "Si un Sbire est exécuté aujourd'hui: tous les autre joueurs (à l'exception du Ménestrel et des voyageurs) sont ivres. Placez le marqueur Tous Ivre.",
   "remindersGlobal": null,
@@ -848,7 +848,7 @@
  {
   "id": "mutant",
   "name": "Bête de foire",
-  "ability": "Vous êtes Dément : Ne révélez pas votre vraie nature (Étranger ou Bête de foire), d’aucune façon, sinon c’est possiblement l’exécution.",
+  "ability": "Vous êtes dément que vous n'êtes pas un Étranger, sinon vous pourriez être exécuté.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
