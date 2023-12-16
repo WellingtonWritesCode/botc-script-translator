@@ -28,7 +28,7 @@
  },
  {
   "id": "amnesiac",
-  "name": "Amnesique",
+  "name": "Amnésique",
   "ability": "Vous ne connaissez pas votre capacité. Chaque jour, tentez de la deviner en privé: vous apprenez à quel point vous êtes précis.",
   "firstNightReminder": "Décidez de la capacité de l'Amnésique. Si sa capacité l'amène à se réveiller la nuit : réveillez l'amnésique et activez sa capacité.",
   "otherNightReminder": "Si la capacité de l'Amnésique l'amène à se réveiller la nuit: Réveillez l'amnésique et activer sa capacité.",
@@ -582,7 +582,16 @@
   "firstNightReminder": "Réveillez la Harpie; elle pointe un jouer, puis un autre. Réveillez le 1er joueur que la Harpie a pointé, montrez lui la carte \"Ce personnage vous a choisis\", montrez leur le jeton de la Harpie, puis pointez le 2eme joueur que la Harpie a pointé.",
   "otherNightReminder": "Réveillez la Harpie; elle pointe un jouer, puis un autre. Réveillez le 1er joueur que la Harpie a pointé, montrez lui la carte \"Ce personnage vous a choisis\", montrez leur le jeton de la Harpie, puis pointez le 2eme joueur que la Harpie a pointé.",
   "remindersGlobal": null,
-  "reminders": "Dément, 2eme"
+  "reminders": "Dément,2eme"
+ },
+ {
+  "id": "hatter",
+  "name": "Chapelier",
+  "ability": "Si vous mourez aujourd’hui ou cette nuit, le Démon et les Sbires peuvent choisir de devenir de nouveaux rôles de Démon et Sbires.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si le Chapelier est mort aujourd'hui: Réveillez les Sbires et le Démon. Montrez leur le jeton \"Ce personnage vous a choisi\", suivi du jeton du Chapelier. Chaque joueur secoue la tête pour dire \"non\", ou pointe un autre rôle du même type que leur rôle actuel. Si un second joueur devrait avoir le même rôle qu'un autre joueur, secouez la tête et indiquez-leur de choisir un autre rôle. Endormez-les, puis changez les personnages pour ceux qui ont été choisis.",
+  "remindersGlobal": null,
+  "reminders": "Soirée de Thé"
  },
  {
   "id": "hellslibrarian",
@@ -591,7 +600,7 @@
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Quelquechose de mal"
+  "reminders": "Quelque chose de mal"
  },
  {
   "id": "heretic",

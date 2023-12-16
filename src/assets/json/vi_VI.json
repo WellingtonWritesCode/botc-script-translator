@@ -585,6 +585,15 @@
   "reminders": "Điên, 2nd"
  },
  {
+  "id": "hatter",
+  "name": "Thợ làm mũ",
+  "ability": "Nếu bạn chết trong hôm nay hoặc đêm nay, Quỷ và Tay sai có thể chọn để trở thành nhân vật Quỷ và Tay sai mới.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nếu Thợ làm mũ chết trong hôm nay: Gọi Quỷ và Tay sai dậy. Cho họ thấy token \"Nhân vật này chọn bạn\", và token Thợ làm mũ. Mỗi người có thể lắc đầu hoặc chọn 1 nhân vật cùng loại với nhân vật của họ.  Nếu đó có 2 người cùng nhân vật, lắc đầu và ra dấu cho người sau chọn lại. Cho họ đi ngủ. Đổi nhân vật của họ bằng nhân vật họ chọn.",
+  "remindersGlobal": null,
+  "reminders": "Tiệc trà đêm nay"
+ },
+ {
   "id": "hellslibrarian",
   "name": "Thư viện Địa ngục",
   "ability": "Điều xấu có thể xảy ra với người nói khi Người kể chuyện cần im lặng.",

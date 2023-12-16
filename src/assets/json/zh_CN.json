@@ -585,6 +585,15 @@
   "reminders": "疯狂,第二名"
  },
  {
+  "id": "hatter",
+  "name": "Hatter",
+  "ability": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.",
+  "firstNightReminder": null,
+  "otherNightReminder": "If the Hatter died today: Wake the Minions and Demon. Show them the 'This Character Selected You' info token, then the Hatter token. Each player either shakes their head no or points to another character of the same type as their current character.  If a second player would end up with the same character as another player, shake your head no and gesture for them to choose again. Put them to sleep. Change each player to the character they chose.",
+  "remindersGlobal": null,
+  "reminders": "Tea Party Tonight"
+ },
+ {
   "id": "hellslibrarian",
   "name": "地狱藏书员",
   "ability": "当说书人宣布安静时，仍在说话的玩家可能会遭遇一些不好的事情。 ",

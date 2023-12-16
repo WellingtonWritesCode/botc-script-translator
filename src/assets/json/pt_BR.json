@@ -585,6 +585,15 @@
   "reminders": "Alucinando, 2º"
  },
  {
+  "id": "hatter",
+  "name": "Chapeleiro",
+  "ability": "Se você morreu hoje, os Lacaios e Demônio(s) podem escolher novos personagens de seu tipo para ser.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Se o Chapeleiro morreu hoje: Acorde os Lacaios e Demônio. Mostre o token 'Você foi alvo desta habilidade' e o token do Chapeleiro. Cada jogador sinaliza 'não' com a cabeça ou aponta para outro personagem do seu tipo. Se outro jogador teria o mesmo personagem que outro jogador, sinalize 'não' com a cabeça e peça que escolha de novo. Coloque-os para dormir. Mude cada jogador para o personagem que escolheu.",
+  "remindersGlobal": null,
+  "reminders": "Chá Esta Noite"
+ },
+ {
   "id": "hellslibrarian",
   "name": "Bibliotecário Infernal",
   "ability": "Algo ruim pode acontecer com quem falar quando o Narrador pedir silêncio.",
