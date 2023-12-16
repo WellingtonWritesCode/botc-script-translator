@@ -13,9 +13,10 @@ function stringToArray(string){
     };
 };
 
-function translateCharacter(character, translation, newId){
+function translateCharacter(character, translation, newId, secondLocale){
     const handleNullReminders = (reminders, defaultReminders) => reminders === null? defaultReminders : stringToArray(reminders);
-    character.name = translation.name??character.name;
+    let name = translation.name??character.name;
+    character.name = secondLocale?`${name} (${secondLocale.get(character.id).name})` : name;
     character.ability = translation.ability??character.ability;
     character.firstNightReminder = translation.firstNightReminder??character.firstNightReminder;
     character.otherNightReminder = translation.otherNightReminder??character.otherNightReminder;
@@ -24,7 +25,7 @@ function translateCharacter(character, translation, newId){
     character.id = newId;
 };
 
-function handleTranslation(script, locale, localeName){
+function handleTranslation(script, locale, localeName, secondLocale){
     const clean = id => id === "_meta"? id : id.toLocaleLowerCase().replace(/[^a-z0-9]/g, "");
     const charactersJson = JSON.parse(JSON.stringify(characters));
     const translationJson = locale;
@@ -41,7 +42,7 @@ function handleTranslation(script, locale, localeName){
 
     translation.forEach(character => {
         let newId = `${localeName}_${character.id}`;
-        translateCharacter(character, translationJsonById.get(character.id), newId);
+        translateCharacter(character, translationJsonById.get(character.id), newId, secondLocale);
     });
 
     translation.unshift(meta);
@@ -49,12 +50,12 @@ function handleTranslation(script, locale, localeName){
     return translation;
 }
 
-export function translate(script, localeName){
+export function translate(script, localeName, secondLocale){
     return import(`./assets/json/${localeName}.json`).then(function(result){
-        return handleTranslation(script, result.default, localeName);
+        return handleTranslation(script, result.default, localeName, secondLocale);
     });
 };
 
-export function translateCustomLocale(script, locale, localeName){
-    return handleTranslation(script, locale, localeName);
+export function translateCustomLocale(script, locale, localeName, secondLocale){
+    return handleTranslation(script, locale, localeName, secondLocale);
 }

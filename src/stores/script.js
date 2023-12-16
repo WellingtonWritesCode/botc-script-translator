@@ -7,7 +7,10 @@ export const useScriptStore = defineStore('script', {
         name: "",
         useCustomLocale: false,
         customLocale: null,
-        customLocaleName: ""
+        customLocaleName: "",
+        bilingualMode: "Off",
+        secondLocale: "en_GB",
+        custom2ndLocale: null,
     }),
 
     getters: {
@@ -18,7 +21,17 @@ export const useScriptStore = defineStore('script', {
             } else {
                 return this.customLocale != null;
             }
-        }
+        },
+        isValid2ndLocale(state) {
+            switch(this.bilingualMode){
+                case 'List':
+                    return true;//state.secondLocale != "Select a locale";
+                case 'Custom':
+                    return this.custom2ndLocale != null;
+                default:
+                    return true;
+            }
+        },
     },
 
     actions: {
@@ -35,8 +48,17 @@ export const useScriptStore = defineStore('script', {
             this.customLocale = customLocale;
             this.customLocaleName = customLocaleName;
         },
-        toggle(){
+        toggleCustomLocale(){
             this.useCustomLocale = !this.useCustomLocale;
-        }
+        },
+        setBilingualMode(mode){
+            this.bilingualMode = mode;
+        },
+        set2ndLocale(locale){
+            this.secondLocale = locale;
+        },
+        setCustom2ndLocale(customLocale){
+            this.custom2ndLocale = customLocale;
+        },
     }
 });

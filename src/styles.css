@@ -95,7 +95,7 @@
     border: solid .2rem var(--secondary);
     overflow-y: auto;
     flex-direction: column;
-    max-height: 40vh;
+    max-height: 30vh;
     scrollbar-color: var(--secondary) var(--primary);
     scrollbar-width: thin;
     width: auto;
@@ -120,6 +120,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.button--row{
+    display: flex;
+    gap: 4rem;
 }
 
 body{
