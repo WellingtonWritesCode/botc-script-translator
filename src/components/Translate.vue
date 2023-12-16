@@ -96,11 +96,12 @@
     }
 
     async function getRolesFrom2ndLocale(){
-        const output = async(roles) => new Map(roles.default.map(character => [character.id, character]))
+        const output = async(roles) => new Map(roles.map(character => [character.id, character]))
         
         switch(store.bilingualMode){
             case 'List':
-                return output(await import(`../assets/json/${store.secondLocale}.json`));
+                let roles = await import(`../assets/json/${store.secondLocale}.json`);
+                return output(roles.default);
             case 'Custom':
                 return output(store.custom2ndLocale);
             default:
