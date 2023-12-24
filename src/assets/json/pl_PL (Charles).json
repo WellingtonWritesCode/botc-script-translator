@@ -586,12 +586,12 @@
  },
  {
   "id": "hatter",
-  "name": "Hatter",
-  "ability": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.",
+  "name": "Kapelusznik",
+  "ability": "Jeśli zginąłeś tego dnia lub tej nocy, Sługusi i Demon mogą wybrać nowye postacie Sługusów i Demona.",
   "firstNightReminder": null,
-  "otherNightReminder": "If the Hatter died today: Wake the Minions and Demon. Show them the 'This Character Selected You' info token, then the Hatter token. Each player either shakes their head no or points to another character of the same type as their current character.  If a second player would end up with the same character as another player, shake your head no and gesture for them to choose again. Put them to sleep. Change each player to the character they chose.",
+  "otherNightReminder": "Jeśli kapelusznik zginął dzisiaj: Obudź Sługusów i Demona. Pokaż im kartę „Ta postać cię wybrała”, a następnie żeton Kapelusznika. Każdy gracz albo kiwa głową „nie”, albo wskazuje na postać swojego typu na swoim arkuszu postaci. Jeśli inny gracz miałby otrzymać tą samą postać, kiwnij głową „nie”, i gestem powiedz, żeby spróbował jeszcze raz. Uśpij graczy. Zamień żetony postaci każdego gracza na które zostały wybrane przez nich.",
   "remindersGlobal": null,
-  "reminders": "Tea Party Tonight"
+  "reminders": "Będzie pita herbata"
  },
  {
   "id": "hellslibrarian",
@@ -677,7 +677,7 @@
  {
   "id": "king",
   "name": "Król",
-  "ability": "Każdej nocy, jeśli zmarli mają przewagę liczebną nad żywymi, dowiadujesz się o 1 żywej postaci. Demon wie, kim jesteś.",
+  "ability": "Każdej nocy, jeśli jest więcej umarłych niż żywych, dowiadujesz się o 1 żywej postaci. Demon wie, kim jesteś.",
   "firstNightReminder": "Obudź Demona, pokaż mu kartę „Ta postać Cię wybrała”, pokaż żeton Króla i wskaż gracza Króla.",
   "otherNightReminder": "Jeśli jest więcej martwych niż żywych, pokaż Królowi żeton żywego gracza.",
   "remindersGlobal": null,
@@ -1104,7 +1104,7 @@
   "firstNightReminder": "Żeglarz wskazuje na żywego gracza. Albo Żeglarz, albo wybrany gracz jest pijany.",
   "otherNightReminder": "Poprzednio pijany gracz nie jest już pijany. Żeglarz wskazuje na żywego gracza. Albo Żeglarz, albo wybrany gracz jest pijany.",
   "remindersGlobal": null,
-  "reminders": "Pijak"
+  "reminders": "Pijany"
  },
  {
   "id": "saint",

@@ -227,7 +227,7 @@
  {
   "id": "chambermaid",
   "name": "Husan",
-  "ability": "Välj 2 levande spelare varje natt (inte dig själv); du får veta hur många som vaknade den natten pga. sin förmåga.",
+  "ability": "Välj 2 levande spelare varje natt (inte dig själv); du får veta hur många som vaknade den natten p.g.a. sin förmåga.",
   "firstNightReminder": "Husan pekar på två spelare. Signalera hur många av dem som vaknade inatt för sin förmåga (0, 1 eller 2).",
   "otherNightReminder": "Husan pekar på två spelare. Signalera hur många av dem som vaknade inatt för sin förmåga (0, 1 eller 2).",
   "remindersGlobal": null,
@@ -541,10 +541,10 @@
  },
  {
   "id": "gossip",
-  "name": "Pratkvarnen",
+  "name": "Skvallerbyttan",
   "ability": "Varje dag kan du öppet påstå något. Om påståendet stämmer dör en spelare samma natt.",
   "firstNightReminder": null,
-  "otherNightReminder": "Om Pratkvarnens offentliga påstående stämde så välj en spelare som inte är skyddad från att dö. Den spelaren dör på natten.",
+  "otherNightReminder": "Om Skvallerbyttans offentliga påstående stämde så välj en spelare som inte är skyddad från att dö. Den spelaren dör på natten.",
   "remindersGlobal": null,
   "reminders": "Död"
  },
@@ -794,7 +794,7 @@
  {
   "id": "mathematician",
   "name": "Matematikern",
-  "ability": "Varje natt får du veta hur många spelares förmågor som fungerat onormalt sedan gryningen pga. andras förmågor.",
+  "ability": "Varje natt får du veta hur många spelares förmågor som fungerat onormalt sedan gryningen p.g.a. andras förmågor.",
   "firstNightReminder": "Signalera med fingrarna (0, 1, 2 osv.) hur många spelare vars förmåga inte fungerade normalt på grund av andras förmågor.",
   "otherNightReminder": "Signalera med fingrarna (0, 1, 2 osv.) hur många spelare vars förmåga inte fungerade normalt på grund av andras förmågor.",
   "remindersGlobal": null,
@@ -1270,10 +1270,10 @@
  },
  {
   "id": "tinker",
-  "name": "Mekanikern",
+  "name": "Mekaren",
   "ability": "Du kan dö när som helst.",
   "firstNightReminder": null,
-  "otherNightReminder": "Mekanikern kan dö.",
+  "otherNightReminder": "Mekaren kan dö.",
   "remindersGlobal": null,
   "reminders": "Död"
  },
