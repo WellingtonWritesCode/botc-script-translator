@@ -675,6 +675,15 @@
   "reminders": "Correct"
  },
  {
+  "id": "kazali",
+  "name": "Kazali",
+  "ability": "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]",
+  "firstNightReminder": "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep.",
+  "otherNightReminder": "The Kazali points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
   "id": "king",
   "name": "Kuningas",
   "ability": "Each night, if the dead outnumber the living, you learn 1 alive character. The Demon knows who you are.",

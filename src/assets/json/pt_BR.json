@@ -675,6 +675,15 @@
   "reminders": "Correto"
  },
  {
+  "id": "kazali",
+  "name": "Kazali",
+  "ability": "A cada noite*, escolha um jogador: ele morre. [Você escolhe quais jogadores são Lacaios. -? a +? Forasteiros]",
+  "firstNightReminder": "O Kazali aponta para um jogador e um Lacaio na lista. Acorde o alvo. Mostre o token: 'Você é', o token de Lacaio e sinalize 'mau' (polegar para baixo). Repita até que o número normal de Lacaios exista. Ponha o Kazali para dormir.",
+  "otherNightReminder": "O Kazali aponta para um jogador: O alvo morre.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
   "id": "king",
   "name": "Rei",
   "ability": "A cada noite, se os mortos são maioria, saiba um personagem vivo. O Demônio conhece você.",

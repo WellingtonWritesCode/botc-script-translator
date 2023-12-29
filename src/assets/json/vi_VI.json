@@ -675,6 +675,15 @@
   "reminders": "Đúng"
  },
  {
+  "id": "kazali",
+  "name": "Kazali",
+  "ability": "Mỗi đêm* chọn 1 người: họ chết. [Bạn chọn những ai là Tay sai. -? đến +? Lữ khách]",
+  "firstNightReminder": "Kazali chỉ 1 người và nhân vật trong tờ nhân vật. Đổi nhân vật cũ của họ với nhân vật Tay sai mới, cho họ thấy token \"Bạn là\" và nhân vật Tay sai đó, và giơ ngón cái xuống. Lặp đi lặp lại cho đến khi đủ số Tay sai. Cho Kazali đi ngủ.",
+  "otherNightReminder": "Kazali chỉ 1 người. Người đó chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
   "id": "king",
   "name": "Ông vua",
   "ability": "Mỗi đêm, nếu người chết nhiều hơn người sống, bạn biết nhân vật của người sống. Quỷ biết bạn là ai.",
