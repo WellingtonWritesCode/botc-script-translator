@@ -533,7 +533,7 @@
  {
   "id": "goon",
   "name": "Hejduken",
-  "ability": "Varje natt blir den första spelaren som väljer dig med sin förmåga full till skymningen. Du går över till hens lag.",
+  "ability": "Varje natt blir den första spelaren som väljer dig med sin förmåga full fram till skymningen. Du går över till hens lag.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -677,11 +677,11 @@
  {
   "id": "kazali",
   "name": "Kazali",
-  "ability": "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]",
-  "firstNightReminder": "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep.",
-  "otherNightReminder": "The Kazali points to a player. That player dies.",
+  "ability": "Välj en spelare varje natt*; hen dör. [Du väljer vilka spelare som är Hantlangare. ±? Utbölingar]",
+  "firstNightReminder": "Kazali pekar på en spelare och en Hantlangare på rollarket. Byt ut den spelarens rollbricka mot den valda Hantlangarbrickan, visa hen infobrickan ”Du är” följt av Hantlangarbrickan, och visa tummen ner för ond. Upprepa detta tills rätt antal spelare är Hantlangare. Låt Kazali somna.",
+  "otherNightReminder": "Kazali pekar på en spelare. Den spelaren dör.",
   "remindersGlobal": null,
-  "reminders": "Dead"
+  "reminders": "Död"
  },
  {
   "id": "king",
@@ -839,7 +839,7 @@
  {
   "id": "minstrel",
   "name": "Trubaduren",
-  "ability": "Om en Hantlangare avrättas och dör blir alla andra spelare (utom Resenärer) fulla till skymningen nästa dag.",
+  "ability": "Om en Hantlangare avrättas och dör blir alla andra spelare (utom Resenärer) fulla fram till skymningen nästa dag.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1100,7 +1100,7 @@
  {
   "id": "sailor",
   "name": "Matrosen",
-  "ability": "Välj en levande spelare varje natt; hen eller du blir full till skymningen. Du kan inte dö.",
+  "ability": "Välj en levande spelare varje natt; hen eller du blir full fram till skymningen. Du kan inte dö.",
   "firstNightReminder": "Matrosen pekar på en levande spelare. Antingen Matrosen eller den valda spelaren är full.",
   "otherNightReminder": "Den spelare som var full igår blir nykter. Matrosen pekar på en levande spelare. Antingen Matrosen eller den valda spelaren är full.",
   "remindersGlobal": null,

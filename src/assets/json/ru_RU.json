@@ -676,12 +676,12 @@
  },
  {
   "id": "kazali",
-  "name": "Kazali",
-  "ability": "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]",
-  "firstNightReminder": "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep.",
-  "otherNightReminder": "The Kazali points to a player. That player dies.",
+  "name": "Казалич",
+  "ability": "Каждой ночью* выберите игрока: он умирает. [Вы выбираете, кто станет каким Приспешником. -?\/+? Изгоев]",
+  "firstNightReminder": "Казали указывает на игрока и Приспешника в списке ролей. Замените жетон этого игрока на жетон Приспешника, покажите ему карточку \"Вы являетесь\", жетон Приспешника и жест, обозначающий зло (палец вниз). Повторяйте, пока не будет создано обычное количество Приспешников. Казали засыпает.",
+  "otherNightReminder": "Казали указывает на игрока. Этот игрок умирает.",
   "remindersGlobal": null,
-  "reminders": "Dead"
+  "reminders": "Мертв"
  },
  {
   "id": "king",
