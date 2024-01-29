@@ -605,7 +605,7 @@
  {
   "id": "heretic",
   "name": "Єретик",
-  "ability": "Хто переможе, програє, і хто програє, переможе, навіть після смерті.",
+  "ability": "Хто переможе - програє, і хто програє - переможе, навіть після смерті.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1321,6 +1321,15 @@
   "otherNightReminder": "Вігормортіс вказує на гравця. Цей гравець помирає. Якщо Міньон, вони залишаються зі здібністю і одного з їх сусідів-Міщан отруєно.",
   "remindersGlobal": null,
   "reminders": "Мертв,Має здібність,Отруєно"
+ },
+ {
+  "id": "villageidiot",
+  "name": "Village Idiot",
+  "ability": "Щоночі обирайте гравця: Ви дізнаєтеся їх команду. [+0 до +2 Village Idiots. 1 з додаткових - п'ян]",
+  "firstNightReminder": "The Village Idiot вказує на гравця; якщо цей гравець за добро, покажи великий палець вгору, якщо за зло - великий палець вниз.",
+  "otherNightReminder": "The Village Idiot вказує на гравця; якщо цей гравець за добро, покажи великий палець вгору, якщо за зло - великий палець вниз.",
+  "remindersGlobal": null,
+  "reminders": "П'ян"
  },
  {
   "id": "virgin",

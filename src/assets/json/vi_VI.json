@@ -1323,6 +1323,15 @@
   "reminders": "Chết,Có chức năng,Trúng độc"
  },
  {
+  "id": "villageidiot",
+  "name": "Ngố làng",
+  "ability": "Mỗi đêm, chọn 1 người: bạn biết phe của họ. [+0 đến +2 Ngố làng. 1 trong số người được thêm bị say]",
+  "firstNightReminder": "Ngỗ làng chỉ 1 người: giơ ngón cái lên nếu họ là người tốt, ngón cái xuống nếu họ là người xấu.",
+  "otherNightReminder": "Ngỗ làng chỉ 1 người: giơ ngón cái lên nếu họ là người tốt, ngón cái xuống nếu họ là người xấu.",
+  "remindersGlobal": null,
+  "reminders": "Say"
+ },
+ {
   "id": "virgin",
   "name": "Trinh nữ",
   "ability": "Lần đầu bạn bị Biểu Quyết, nếu người chọn bạn là Dân Làng, họ bị Hành Quyết ngay lập tức.",

@@ -1323,6 +1323,15 @@
   "reminders": "Dead,Has ability,Poisoned"
  },
  {
+  "id": "villageidiot",
+  "name": "Village Idiot",
+  "ability": "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]",
+  "firstNightReminder": "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil.",
+  "otherNightReminder": "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil.",
+  "remindersGlobal": null,
+  "reminders": "Drunk"
+ },
+ {
   "id": "virgin",
   "name": "Neitsyt",
   "ability": "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.",

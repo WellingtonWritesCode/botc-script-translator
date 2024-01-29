@@ -154,9 +154,9 @@
  },
  {
   "id": "bootlegger",
-  "name": "Bootlegger",
+  "name": "Contrebandier",
   "ability": "Le script a des personnages ou règles personnalisés.",
-  "firstNightReminder": "Annoncez que le Bootlegger est en jeu et informez le groupe de tous les personnages et\/ou règles personnalisées que vous utilisez pour cette partie.",
+  "firstNightReminder": "Annoncez que le Contrebandier est en jeu et informez le groupe de tous les personnages et\/ou règles personnalisées que vous utilisez pour cette partie.",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null
@@ -236,7 +236,7 @@
  {
   "id": "chef",
   "name": "Cuistot",
-  "ability": "Votre première nuit, le Conteur vous indique combien il y a de joueurs maléfiques assis côte à côte dans la partie.",
+  "ability": "Votre première nuit, le Conteur vous indique combien de paires de joueurs maléfiques il y a assis côte à côte.",
   "firstNightReminder": "Donner le nombre de paires de joueurs maléfiques assis côte à côte. Forte suggestion : inclure le Reclus et exclure l'Espion.",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -632,9 +632,9 @@
  {
   "id": "imp",
   "name": "Diablotin",
-  "ability": "Chaque nuit*, choisissez un joueur : il meurt. Si vous vous choisissez, vous mourez et un Sbire vivant devient le Diablotin.",
+  "ability": "Chaque nuit*, choisissez un joueur : il meurt. Si vous vous choisissez, vous mourez et un Sbire devient le Diablotin.",
   "firstNightReminder": null,
-  "otherNightReminder": "Choisit un joueur qui est aussitôt assassiné. S’il se choisit, réveiller un Sbire vivant qui devient le nouveau Démon.",
+  "otherNightReminder": "Choisit un joueur qui est aussitôt assassiné. S’il se choisit, réveiller un Sbire qui devient le nouveau Diablotin.",
   "remindersGlobal": null,
   "reminders": "Assassiné"
  },
@@ -650,7 +650,7 @@
  {
   "id": "investigator",
   "name": "Enquêteur",
-  "ability": "Votre première nuit, le Conteur vous désigne 2 joueurs. Il vous donne ensuite le rôle de Sbire de l’un des deux.",
+  "ability": "Votre première nuit, le Conteur vous désigne 2 joueurs: vous apprenez ensuite le rôle de Sbire de l’un des deux.",
   "firstNightReminder": "Désigner 2 joueurs et présenter le jeton rôle Sbire de l'un d'eux.",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -731,7 +731,7 @@
  {
   "id": "librarian",
   "name": "Archiviste",
-  "ability": "Votre première nuit, le Conteur vous désigne 2 joueurs. Il vous donne ensuite le rôle d’Étranger de l’un des deux (ou que zéro sont en jeu).",
+  "ability": "Votre première nuit, le Conteur vous désigne 2 joueurs: vous apprenez ensuite le rôle d’Étranger de l’un des deux (ou que zéro sont en jeu).",
   "firstNightReminder": "Désigner 2 joueurs et présenter le jeton rôle Étranger de l'un d'eux.",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1307,7 +1307,7 @@
  {
   "id": "undertaker",
   "name": "Croque-mort",
-  "ability": "Chaque nuit*, vous apprenez quel est le rôle du joueur qui vient d’être exécuté le jour dernier.",
+  "ability": "Chaque nuit*, vous apprenez quel est le rôle du joueur qui est mort par exécution le jour dernier.",
   "firstNightReminder": null,
   "otherNightReminder": "Si un joueur est mort par exécution aujourd'hui, montrer lui le jeton rôle de ce joueur.",
   "remindersGlobal": null,
@@ -1323,9 +1323,18 @@
   "reminders": "Assassiné,Capacité Active,Empoisonné"
  },
  {
+  "id": "villageidiot",
+  "name": "Idiot du Village",
+  "ability": "Chaque nuit, choisissez un joueur: vous apprenez leur alignement. [+0 à +2 Idiots du Village. 1 des extras est ivre.]",
+  "firstNightReminder": "L'Idiot du Village pointe vers un joueur: montrez un pouce vers le haut s'il est bon, et un pouce vers le bas s'il est maléfique.",
+  "otherNightReminder": "L'Idiot du Village pointe vers un joueur: montrez un pouce vers le haut s'il est bon, et un pouce vers le bas s'il est maléfique.",
+  "remindersGlobal": null,
+  "reminders": "Ivre"
+ },
+ {
   "id": "virgin",
   "name": "Vierge",
-  "ability": "La première fois que vous êtes mise en nomination, si le proposant est un Villageois, il est exécuté immédiatement.",
+  "ability": "La première fois que vous êtes nominé, si le nominateur est un Villageois, il est exécuté immédiatement.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1361,7 +1370,7 @@
  {
   "id": "washerwoman",
   "name": "Lavandière",
-  "ability": "Votre première nuit, le Conteur vous désigne 2 joueurs. Il vous donne ensuite le rôle de Villageois de l’un des deux.",
+  "ability": "Votre première nuit, le Conteur vous désigne 2 joueurs: vous apprenez ensuite le rôle de Villageois de l’un des deux.",
   "firstNightReminder": "Désigner 2 joueurs et présenter le jeton rôle Villageois de l'un d'eux.",
   "otherNightReminder": null,
   "remindersGlobal": null,

@@ -586,12 +586,12 @@
  },
  {
   "id": "hatter",
-  "name": "Hatter",
-  "ability": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.",
+  "name": "帽匠",
+  "ability": "如果你在今天或今晚死亡，惡魔和僕從們都可以選擇自己的新角色。",
   "firstNightReminder": null,
-  "otherNightReminder": "If the Hatter died today: Wake the Minions and Demon. Show them the 'This Character Selected You' info token, then the Hatter token. Each player either shakes their head no or points to another character of the same type as their current character.  If a second player would end up with the same character as another player, shake your head no and gesture for them to choose again. Put them to sleep. Change each player to the character they chose.",
+  "otherNightReminder": "如果理髮師在今天死亡，喚醒惡魔和僕從們並展示「這個能力選擇你」提示卡 + 帽匠角色代幣，他們可以選擇一個自己類型的角色，如果有多位玩家的角色相同，則示意他們重新選擇，將他們的角色代幣替換成他們選擇的角色。",
   "remindersGlobal": null,
-  "reminders": "Tea Party Tonight"
+  "reminders": "今晚開茶會"
  },
  {
   "id": "hellslibrarian",
@@ -676,12 +676,12 @@
  },
  {
   "id": "kazali",
-  "name": "Kazali",
-  "ability": "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]",
-  "firstNightReminder": "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep.",
-  "otherNightReminder": "The Kazali points to a player. That player dies.",
+  "name": "卡札力",
+  "ability": "每天晚上*，選擇一位玩家，該玩家死亡。[你選擇哪些玩家是哪些僕從，且出現任意數量城外人]",
+  "firstNightReminder": "卡札力指向一位玩家及一個僕從角色，將他的角色代幣替換成該僕從的角色代幣，喚醒他並展示「你是」提示卡 + 他的角色代幣，並倒讚表示邪惡，重複等同正常僕從數量的次數。",
+  "otherNightReminder": "卡札力指向一位玩家，該玩家死亡。",
   "remindersGlobal": null,
-  "reminders": "Dead"
+  "reminders": "死亡"
  },
  {
   "id": "king",
@@ -1321,6 +1321,15 @@
   "otherNightReminder": "食屍魔指向一位玩家，該玩家死亡。如果該玩家是僕從，以「具有能力」標記該玩家並讓他的一位鎮民鄰居中毒。",
   "remindersGlobal": null,
   "reminders": "中毒,具有能力,死亡"
+ },
+ {
+  "id": "villageidiot",
+  "name": "Village Idiot",
+  "ability": "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]",
+  "firstNightReminder": "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil.",
+  "otherNightReminder": "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil.",
+  "remindersGlobal": null,
+  "reminders": "Drunk"
  },
  {
   "id": "virgin",

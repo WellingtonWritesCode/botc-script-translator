@@ -199,10 +199,10 @@
  },
  {
   "id": "butler",
-  "name": "Betjänten",
+  "name": "Butlern",
   "ability": "Välj en spelare varje natt (inte dig själv); nästa dag får du bara rösta om hen också röstar.",
-  "firstNightReminder": "Betjänten pekar på en spelare. Markera den spelaren som ”Husbonde”.",
-  "otherNightReminder": "Betjänten pekar på en spelare. Markera den spelaren som ”Husbonde”.",
+  "firstNightReminder": "Butlern pekar på en spelare. Markera den spelaren som ”Husbonde”.",
+  "otherNightReminder": "Butlern pekar på en spelare. Markera den spelaren som ”Husbonde”.",
   "remindersGlobal": null,
   "reminders": "Husbonde"
  },
@@ -262,10 +262,10 @@
  },
  {
   "id": "courtier",
-  "name": "Servitören",
+  "name": "Hovmästaren",
   "ability": "En gång per spel, på natten, kan du välja en roll; den spelaren är full i 3 dygn.",
-  "firstNightReminder": "Servitören skakar på huvudet för nej, eller pekar på en roll på sitt ark. Om Servitören använder sin förmåga och den utpekade rollen är i spel blir den spelaren full.",
-  "otherNightReminder": "Minska antalet dagar som den markerade spelaren är förgiftad. Om Servitören inte har använt sin förmåga: Servitören skakar på huvudet för nej, eller pekar på en roll på sitt ark. Om Servitören använder sin förmåga och den utpekade rollen är i spel blir den spelaren full.",
+  "firstNightReminder": "Hovmästaren skakar på huvudet för nej, eller pekar på en roll på sitt ark. Om Hovmästaren använder sin förmåga och den utpekade rollen är i spel blir den spelaren full.",
+  "otherNightReminder": "Minska antalet dagar som den markerade spelaren är förgiftad. Om Hovmästaren inte har använt sin förmåga: Hovmästaren skakar på huvudet för nej, eller pekar på en roll på sitt ark. Om Hovmästaren använder sin förmåga och den utpekade rollen är i spel blir den spelaren full.",
   "remindersGlobal": null,
   "reminders": "Full 3,Full 2, Full 1, Ingen förmåga"
  },
@@ -273,8 +273,8 @@
   "id": "cultleader",
   "name": "Kultledaren",
   "ability": "Varje natt hamnar du på en levande grannes lag. Om alla goda spelare går med i din kult vinner ditt lag.",
-  "firstNightReminder": "Om kultledaren bytt lag, visa hen tummen upp för goda laget eller tummen ner för onda laget.",
-  "otherNightReminder": "Om kultledaren bytt lag, visa hen tummen upp för goda laget eller tummen ner för onda laget.",
+  "firstNightReminder": "Om Kultledaren bytt lag, visa hen tummen upp för goda laget eller tummen ner för onda laget.",
+  "otherNightReminder": "Om Kultledaren bytt lag, visa hen tummen upp för goda laget eller tummen ner för onda laget.",
   "remindersGlobal": null,
   "reminders": null
  },
@@ -1234,7 +1234,7 @@
  },
  {
   "id": "steward",
-  "name": "Hovmästaren",
+  "name": "Uppassaren",
   "ability": "Du vet från början 1 god spelare.",
   "firstNightReminder": "Peka på 1 god spelare.",
   "otherNightReminder": null,
@@ -1321,6 +1321,15 @@
   "otherNightReminder": "Vigormortis pekar på en spelare. Den spelaren dör. Om spelaren är Hantlangare behåller hen sin förmåga, och en av hens grannar blir förgiftad om den grannen är Bybo.",
   "remindersGlobal": null,
   "reminders": "Död,Har förmåga,Förgiftad"
+ },
+ {
+  "id": "villageidiot",
+  "name": "Byfånen",
+  "ability": "Välj en spelare varje natt; du får veta hens lag. [+0 till +2 extra Byfånar. En av de extra är full.]",
+  "firstNightReminder": "Byfånen pekar på en spelare; ge tummen upp om den spelaren är god, och tummen ner om den spelaren är ond.",
+  "otherNightReminder": "Byfånen pekar på en spelare; ge tummen upp om den spelaren är god, och tummen ner om den spelaren är ond.",
+  "remindersGlobal": null,
+  "reminders": "Full"
  },
  {
   "id": "virgin",

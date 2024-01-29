@@ -677,11 +677,11 @@
  {
   "id": "kazali",
   "name": "Kazali",
-  "ability": "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]",
+  "ability": "Ogni notte*, scegli un giocatore: muore. [Scegli Tu quali giocatori sono quali Seguaci. Da -? a +? Forestieri]",
   "firstNightReminder": "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep.",
   "otherNightReminder": "The Kazali points to a player. That player dies.",
   "remindersGlobal": null,
-  "reminders": "Dead"
+  "reminders": "Morto"
  },
  {
   "id": "king",
@@ -1321,6 +1321,15 @@
   "otherNightReminder": "Il Vigormortis indica un giocatore. Quel giocatore more. Se è un Seguace, mantiene la sua abilità e uno dei suoi vicini di posto Cittadini è avvelenato.",
   "remindersGlobal": null,
   "reminders": "Avvelenato,Ha abilità,Morto"
+ },
+ {
+  "id": "villageidiot",
+  "name": "Village Idiot",
+  "ability": "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]",
+  "firstNightReminder": "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil.",
+  "otherNightReminder": "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil.",
+  "remindersGlobal": null,
+  "reminders": "Drunk"
  },
  {
   "id": "virgin",

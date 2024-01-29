@@ -676,12 +676,12 @@
  },
  {
   "id": "kazali",
-  "name": "Kazali",
-  "ability": "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]",
-  "firstNightReminder": "The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep.",
-  "otherNightReminder": "The Kazali points to a player. That player dies.",
+  "name": "卡扎力",
+  "ability": "每个夜晚*，你要选择一名玩家：他死亡。[由你决定谁是什么爪牙，-或+任意数量外来者]",
+  "firstNightReminder": "让卡扎力指向一名玩家，和角色列表上的一个爪牙角色。用这个爪牙的角色标记替换该玩家原本的角色标记，然后唤醒该玩家，对他展示“你是”信息标记和这个爪牙角色标记，然后展示向下的大拇指。重复这个流程，直到场上有与初始设置时同等数量的爪牙。让卡扎力重新入睡。",
+  "otherNightReminder": "让卡扎力指向任意一名玩家。那名玩家死亡——在他角色标记旁放置“死亡”提示标记。让卡扎力重新入睡。",
   "remindersGlobal": null,
-  "reminders": "Dead"
+  "reminders": "死亡"
  },
  {
   "id": "king",
@@ -1321,6 +1321,15 @@
   "otherNightReminder": "让亡骨魔选择一名玩家。标记那名玩家死亡。如果该玩家是爪牙，标记该玩家保留能力，并标记与该玩家邻近的镇民玩家之一中毒。",
   "remindersGlobal": null,
   "reminders": "死亡,保留能力,中毒"
+ },
+ {
+  "id": "villageidiot",
+  "name": "村夫",
+  "ability": " 每个夜晚，你要选择一名玩家：你会得知他的阵营。[+0~2村夫，复数村夫中有一人醉酒] ",
+  "firstNightReminder": "在为首个夜晚做准备时，如果有超过一名村夫在场，将村夫的“醉酒”提示标记放置到其中一个村夫角色标记旁。唤醒一名村夫。让他指向一名玩家。对他给出拇指向上或向下的手势。让他重新入睡。重复这个操作，直到所有村夫玩家都进行了夜晚行动。",
+  "otherNightReminder": "唤醒一名村夫。让他指向一名玩家。对他给出拇指向上或向下的手势。让他重新入睡。重复这个操作，直到所有村夫玩家都进行了夜晚行动。",
+  "remindersGlobal": null,
+  "reminders": "醉酒"
  },
  {
   "id": "virgin",
