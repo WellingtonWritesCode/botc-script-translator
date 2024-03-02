@@ -1395,6 +1395,15 @@
   "reminders": "Cursed"
  },
  {
+  "id": "yaggababble",
+  "name": "Yaggababble",
+  "ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
+  "firstNightReminder": "Show the Yaggababble their secret phrase.",
+  "otherNightReminder": "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
   "id": "zombuul",
   "name": "ゾンブール",
   "ability": "毎夜(*)、今日の昼に誰も死亡していない場合、プレイヤーを1人選ぶ。そのプレイヤーは死亡する。最初にあなたが死亡する場合、あなたは死亡しないが、死亡したように見える。",

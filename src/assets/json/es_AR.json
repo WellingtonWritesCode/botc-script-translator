@@ -1326,10 +1326,10 @@
   "id": "villageidiot",
   "name": "Village Idiot",
   "ability": "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]",
-  "firstNightReminder": "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil.",
-  "otherNightReminder": "The Village Idiot points to a player; give a thumbs up if that player is good or a thumbs down if that player is evil.",
+  "firstNightReminder": "El Tonto de Pueblo señala a un jugador; muéstrale la señal con el pulgar hacia arriba si es bueno o con el pulgar hacia abajo si es malo.",
+  "otherNightReminder": "El Tonto de Pueblo señala a un jugador; muéstrale la señal con el pulgar hacia arriba si es bueno o con el pulgar hacia abajo si es malo.",
   "remindersGlobal": null,
-  "reminders": "Drunk"
+  "reminders": "Borracho"
  },
  {
   "id": "virgin",
@@ -1393,6 +1393,15 @@
   "otherNightReminder": "Si hay 4 o más jugadores vivos: La Bruja apunta a un jugador. Si el jugador nomina mañana muere instantáneamente.",
   "remindersGlobal": null,
   "reminders": "Maldito"
+ },
+ {
+  "id": "yaggababble",
+  "name": "Yaggababble",
+  "ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
+  "firstNightReminder": "Show the Yaggababble their secret phrase.",
+  "otherNightReminder": "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
  },
  {
   "id": "zombuul",

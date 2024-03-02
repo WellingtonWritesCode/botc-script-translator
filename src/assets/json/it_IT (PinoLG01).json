@@ -478,7 +478,7 @@
  },
  {
   "id": "gambler",
-  "name": "Scommettitore",
+  "name": "Ludopatico",
   "ability": "Ogni notte*, scegli un giocatore & prova a indovinare il suo personaggio: se sbagli, muori.",
   "firstNightReminder": null,
   "otherNightReminder": "The Gambler points to a player, and a character on their sheet. If incorrect, the Gambler dies.",
@@ -1163,7 +1163,7 @@
  {
   "id": "shabaloth",
   "name": "Shabaloth",
-  "ability": "Ogni notte*, scegli 2 giocatori: muoiono. Un giocatore morto che hai scelto la notte scorsa potrebbe essere rigurgitato.",
+  "ability": "Shabaloth",
   "firstNightReminder": null,
   "otherNightReminder": "1 giocatore che lo Shabaloth ha scelto la notte scorsa potrebbe essere resuscitato. Lo Shabaloth indica 2 giocatori. Quei giocatori muoiono.",
   "remindersGlobal": null,
@@ -1393,6 +1393,15 @@
   "otherNightReminder": "Se ci sono 4 o più giocatori in vita: la Strega indica un giocatore. Se quel giocatore domani nomina, muore immediatamente.",
   "remindersGlobal": null,
   "reminders": "Maledetto"
+ },
+ {
+  "id": "yaggababble",
+  "name": "Yaggababble",
+  "ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
+  "firstNightReminder": "Show the Yaggababble their secret phrase.",
+  "otherNightReminder": "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
  },
  {
   "id": "zombuul",

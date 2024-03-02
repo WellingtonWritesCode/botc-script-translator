@@ -101,7 +101,7 @@
  {
   "id": "barista",
   "name": "Barista",
-  "ability": "Chaque nuit et jusqu'au crépuscule suivant, un autre joueur apprend que : 1- Il est Sobre, en Santé et reçoit de vraies informations ou 2- sa capacité fonctionne deux fois.",
+  "ability": "Chaque nuit et jusqu'au crépuscule suivant, un autre joueur apprend que : 1- Il est sobre, sain, et reçoit de vraies informations ou 2- sa capacité fonctionne deux fois.",
   "firstNightReminder": "Placez le jeton « Sobre et sain » ou « Capacité 2x » sous n'importe quel joueur. Réveillez ce joueur et montrez-lui la carte « Ce joueur vous a sélectionné » et le jeton Barista, puis un pouce (sobre et en bonne santé) ou deux doigts (il agira deux fois).",
   "otherNightReminder": "Placez le jeton « Sobre et sain » ou « Capacité 2x » sous n'importe quel joueur. Réveillez ce joueur et montrez-lui la carte « Ce joueur vous a sélectionné » et le jeton Barista, puis un pouce (sobre et en bonne santé) ou deux doigts (il agira deux fois).",
   "remindersGlobal": null,
@@ -470,7 +470,7 @@
  {
   "id": "fortuneteller",
   "name": "Voyante",
-  "ability": "Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est un Démon. Un joueur bon vous apparaît comme un Démon.",
+  "ability": "Chaque nuit, choisissez 2 joueurs : vous apprenez si l’un d’eux est un Démon. Un des joueurs bons vous apparaît comme un Démon.",
   "firstNightReminder": "Elle pointe deux joueurs. Si l'un d’eux est un Démon ou son faux positif, hocher la tête, sinon, secouez la tête.",
   "otherNightReminder": "Elle pointe deux joueurs. Si l'un d’eux est un Démon ou son faux positif, hocher la tête, sinon, secouez la tête.",
   "remindersGlobal": null,
@@ -821,7 +821,7 @@
  {
   "id": "mayor",
   "name": "Maire",
-  "ability": "Si aucune exécution n'a lieu quand il ne reste que 3 joueurs en vie (dont vous), votre équipe gagne. Si vous deviez mourir la nuit, un autre joueur peut mourir à la place.",
+  "ability": "Si aucune exécution n'a lieu quand il ne reste que 3 joueurs en vie (dont vous), votre équipe gagne. Si vous mourez la nuit, un autre joueur pourrait mourir à la place.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1091,7 +1091,7 @@
  {
   "id": "sage",
   "name": "Sage",
-  "ability": "Si le Démon vous tue, vous apprenez de qui il s'agit entre deux joueurs.",
+  "ability": "Si le Démon vous tue, vous apprenez qu'il est parmi deux joueurs.",
   "firstNightReminder": null,
   "otherNightReminder": "S’il a été tué par le Démon, pointez deux joueurs (dont le Démon).",
   "remindersGlobal": null,
@@ -1393,6 +1393,15 @@
   "otherNightReminder": "Elle désigne un joueur. Ce joueur est maudit pour le lendemain.",
   "remindersGlobal": null,
   "reminders": "Maudit"
+ },
+ {
+  "id": "yaggababble",
+  "name": "Yaggababble",
+  "ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
+  "firstNightReminder": "Show the Yaggababble their secret phrase.",
+  "otherNightReminder": "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
  },
  {
   "id": "zombuul",

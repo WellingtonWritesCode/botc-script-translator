@@ -1413,6 +1413,15 @@
   "reminders": "מקולל"
  },
  {
+  "id": "yaggababble",
+  "name": "Yaggababble",
+  "ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
+  "firstNightReminder": "Show the Yaggababble their secret phrase.",
+  "otherNightReminder": "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
   "id": "zombuul",
   "name": "זומבול",
   "ability": "בכל לילה*, אם אף אחד לא מת היום, בחר שחקן: הוא מת. הפעם הראשונה שאתה מת, אתה חי אבל נחשב כמת.",
