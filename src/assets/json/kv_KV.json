@@ -560,7 +560,7 @@
  {
   "id": "gunslinger",
   "name": "Стрелок",
-  "ability": "Каждый день, после первого голосования вы можете выбрать игрока, который в нем голосовал. Этот игрок умирает.",
+  "ability": "Каждый день, после первого голосования вы можете выбрать игрока, который в нем голосовал: этот игрок умирает.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -865,7 +865,7 @@
  },
  {
   "id": "mutant",
-  "name": "Фрик",
+  "name": "Тихоня",
   "ability": "Если вы будете отыгрывать роль Аутсайдера, Рассказчик может казнить вас без голосования.",
   "firstNightReminder": null,
   "otherNightReminder": null,
@@ -895,7 +895,7 @@
   "name": "Но Даши",
   "ability": "Каждую ночь*, выберите игрока: он умирает. Два ваших ближайших соседа из Местных жителей отравлены.",
   "firstNightReminder": null,
-  "otherNightReminder": "Но Дащи указывает на игрока. Этот игрок умирает.",
+  "otherNightReminder": "Но Даши указывает на игрока. Этот игрок умирает.",
   "remindersGlobal": null,
   "reminders": "Мертв,Отравлен"
  },
@@ -904,7 +904,7 @@
   "name": "Охо",
   "ability": "Каждую ночь*, выберите роль: игрок с этой ролью умирает. Если этой роли нет в игре, Рассказчик решает, кто умирает.",
   "firstNightReminder": null,
-  "otherNightReminder": "Око указывает на роль в списке. Если эта роль в игре, игрок с этой ролью умирает. Если этой роли в игре нет, Рассказчик решает кто умирает.",
+  "otherNightReminder": "Охо указывает на роль в списке. Если эта роль в игре, игрок с этой ролью умирает. Если этой роли в игре нет, Рассказчик решает кто умирает.",
   "remindersGlobal": null,
   "reminders": "Мертв"
  },
@@ -1288,7 +1288,7 @@
  },
  {
   "id": "towncrier",
-  "name": "Глашатай",
+  "name": "Герольд",
   "ability": "Каждую ночь*, вы узнаёте, номинировал ли днем Приспешник.",
   "firstNightReminder": null,
   "otherNightReminder": "Кивните (да) или покачайте головой (нет) в зависимости от того, выдвигал ли днем кто-то из Приспешников кого-либо. Разместите жетон \"Приспешники не выдвигали\", а жетон \"Приспешник выдвигал\" уберите, если он размещен.",
@@ -1396,12 +1396,12 @@
  },
  {
   "id": "yaggababble",
-  "name": "Yaggababble",
-  "ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
-  "firstNightReminder": "Show the Yaggababble their secret phrase.",
-  "otherNightReminder": "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die.",
+  "name": "Злоязык",
+  "ability": "В начале игры вы узнаёте фразу. Каждый раз, когда вы публично произносите эту фразу днём: любой из игроков может умереть (до конца следующей ночи).",
+  "firstNightReminder": "Покажите игроку фразу",
+  "otherNightReminder": "Выберите игроков, которые умрут.",
   "remindersGlobal": null,
-  "reminders": "Dead"
+  "reminders": "Мертв"
  },
  {
   "id": "zombuul",

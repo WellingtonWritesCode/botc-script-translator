@@ -28,5 +28,9 @@ export const locales = [
     "zh_CN (Anlijie)",
     "he_IL",
     "vi_VI",
-    "slv_SLV",
+    "kv_KV",
+    "sl_SI",
+    "uk_UA (Imze)",
+    "uk_UA",
+    "zh_HK",
 ];
