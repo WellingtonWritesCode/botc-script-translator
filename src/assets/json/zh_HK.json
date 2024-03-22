@@ -183,8 +183,8 @@
   "id": "bureaucrat",
   "name": "官員",
   "ability": "每天晚上，選擇一位其他玩家，明天該玩家投的票計為三票。",
-  "firstNightReminder": "官僚指向一位玩家，以「票數x3」標記該玩家。",
-  "otherNightReminder": "官僚指向一位玩家，以「票數x3」標記該玩家。",
+  "firstNightReminder": "官員指向一位玩家，以「票數x3」標記該玩家。",
+  "otherNightReminder": "官員指向一位玩家，以「票數x3」標記該玩家。",
   "remindersGlobal": null,
   "reminders": "票數x3"
  },
@@ -361,7 +361,7 @@
  },
  {
   "id": "empath",
-  "name": "讀心術師",
+  "name": "讀心術師\/共情者",
   "ability": "每天晚上，你得知你活著的鄰居中有幾位是邪惡的(0\/1\/2)。",
   "firstNightReminder": "展示靈媒的邪惡鄰居數量。",
   "otherNightReminder": "展示靈媒的邪惡鄰居數量。",
@@ -613,7 +613,7 @@
  },
  {
   "id": "highpriestess",
-  "name": "女祭司",
+  "name": "大\/女祭司",
   "ability": "每天晚上，你得知說書人認為你最應該與之交談的一位玩家。",
   "firstNightReminder": "指向一位玩家。",
   "otherNightReminder": "指向一位玩家。",
@@ -1126,7 +1126,7 @@
  },
  {
   "id": "scapegoat",
-  "name": "替罪羔羊",
+  "name": "代罪羔羊",
   "ability": "如果你的隊伍的玩家被處死，則可能改為你被處死。",
   "firstNightReminder": null,
   "otherNightReminder": null,
@@ -1251,8 +1251,17 @@
   "reminders": "安全"
  },
  {
+  "id": "summoner",
+  "name": "Summoner",
+  "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+  "firstNightReminder": "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play.",
+  "otherNightReminder": "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon.",
+  "remindersGlobal": null,
+  "reminders": "Night 1,Night 2,Night 3"
+ },
+ {
   "id": "sweetheart",
-  "name": "甜心",
+  "name": "甜心\/心上人",
   "ability": "當你死亡時，一位玩家開始醉酒。",
   "firstNightReminder": null,
   "otherNightReminder": "選擇一位玩家，該玩家醉酒。",

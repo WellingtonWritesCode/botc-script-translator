@@ -164,7 +164,7 @@
  {
   "id": "bountyhunter",
   "name": "Prisjägaren",
-  "ability": "Du vet om 1 ond spelare från början. Om den spelaren dör får du veta en annan ond spelare samma natt. [1 Bybo är ond]",
+  "ability": "Du vet om 1 ond spelare från början. Om hen dör får du veta en annan ond spelare samma natt. [1 Bybo är ond]",
   "firstNightReminder": "Peka på 1 ond spelare. Väck den onda Bybon och visa kortet ”Du är” följt av tummen ner för ond.",
   "otherNightReminder": "Om den avslöjade onda spelaren har dött, peka på en annan ond spelare.",
   "remindersGlobal": null,
@@ -209,7 +209,7 @@
  {
   "id": "cannibal",
   "name": "Kannibalen",
-  "ability": "Du tar över förmågan från den som sist avrättades och dog. Om hen är ond blir du förgiftad tills en god spelare avrättas och dör.",
+  "ability": "Du har förmågan från den som sist dog av avrättning. Om hen är ond är du förgiftad tills en god spelare dör av avrättning.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -380,7 +380,7 @@
  {
   "id": "eviltwin",
   "name": "Dubbelgångaren",
-  "ability": "Du och en motspelare känner till varandra. Om den goda spelaren avrättas vinner de onda. De goda kan inte vinna om båda lever.",
+  "ability": "Du och en motspelare vet om varandra. Om den goda avrättas vinner de onda. De goda kan inte vinna om båda lever.",
   "firstNightReminder": "Väck Dubbelgångaren och den andra spelaren. Bekräfta att de har sett varandra. Peka på Dubbelgångaren och visa hens rollbricka för den andra spelaren. Peka på den andra spelaren och visa hens roll för Dubbelgångaren.",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1249,6 +1249,15 @@
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": "Skyddad"
+ },
+ {
+  "id": "summoner",
+  "name": "Summoner",
+  "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+  "firstNightReminder": "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play.",
+  "otherNightReminder": "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon.",
+  "remindersGlobal": null,
+  "reminders": "Night 1,Night 2,Night 3"
  },
  {
   "id": "sweetheart",

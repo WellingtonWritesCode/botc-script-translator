@@ -1251,6 +1251,15 @@
   "reminders": "仅死于处决"
  },
  {
+  "id": "summoner",
+  "name": "Summoner",
+  "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+  "firstNightReminder": "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play.",
+  "otherNightReminder": "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon.",
+  "remindersGlobal": null,
+  "reminders": "Night 1,Night 2,Night 3"
+ },
+ {
   "id": "sweetheart",
   "name": "心上人",
   "ability": "当你死亡时，会有一名玩家开始醉酒。",
@@ -1396,12 +1405,12 @@
  },
  {
   "id": "yaggababble",
-  "name": "Yaggababble",
-  "ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
-  "firstNightReminder": "Show the Yaggababble their secret phrase.",
-  "otherNightReminder": "Choose a number of players up to the total number of times the Yaggababble said their secret phrase publicly, those players die.",
+  "name": "牙噶巴卜",
+  "ability": "在你的首个夜晚，你会得知一段秘密短语。每次你在白天公开说出这段短语，当天便可能会有一名玩家在这之后死亡。",
+  "firstNightReminder": "在为首个夜晚做准备时，用纸条或手机便签或其他便捷的设备写下一段短语。在首个夜晚，唤醒牙噶巴卜，对他展示这段短语，然后让他重新入睡。",
+  "otherNightReminder": "每当牙噶巴卜在白天公开说出这段短语时，将一枚“死亡”提示标记放入魔典左侧的中央位置，用以提示你需要在今晚放置这个标记。每个夜晚，你需要选择是否将放入魔典中央的“死亡”提示标记放置在一名玩家的角色标记旁。如果你这么做，那么同时为放置了提示标记的角色标记上再放置帷幕标记。这些玩家死亡。",
   "remindersGlobal": null,
-  "reminders": "Dead"
+  "reminders": "死亡"
  },
  {
   "id": "zombuul",

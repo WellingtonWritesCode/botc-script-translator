@@ -668,7 +668,7 @@
  {
   "id": "juggler",
   "name": "Malabarista",
-  "ability": "Em seu primeiro dia, você pode tentar adivinhar publicamente até 5 personagens de até 5 jogadores. Á noite, você descobre quantos você acertou.",
+  "ability": "Em seu primeiro dia, você pode tentar adivinhar publicamente até 5 personagens de até 5 jogadores. À noite, você descobre quantos você acertou.",
   "firstNightReminder": null,
   "otherNightReminder": "Se hoje foi o primeiro dia do Malabarista e este usou sua habilidade:Mostre com os dedos o número de acertos.",
   "remindersGlobal": null,
@@ -1191,8 +1191,8 @@
   "id": "snakecharmer",
   "name": "Encantador",
   "ability": "A cada noite, escolha um jogador vivo: se o ele for um Demônio, troca de personagem e alinhamento com você, e então fica envenenado.",
-  "firstNightReminder": "O Encantador de Serpentes escolhe um jogador vivo. Se escolheu o Demônio: Mostre o token 'Você é' e o torn de personagem do Demônio. Mostre o polegar para baixo. Troque os tokens de personagem do Encantador de Serpentes com o do Demônio. Coloque o antigo Encantador de Serpentes para dormir. Acorde o Demônio antigo. Mostre o token 'Você é' e o token do Encantador de Serpentes e mostre o polegar para cima. (lembrete)",
-  "otherNightReminder": "O Encantador de Serpentes escolhe um jogador vivo. Se escolheu o Demônio: Mostre o token 'Você é' e o torn de personagem do Demônio. Mostre o polegar para baixo. Troque os tokens de personagem do Encantador de Serpentes com o do Demônio. Coloque o antigo Encantador de Serpentes para dormir. Acorde o Demônio antigo. Mostre o token 'Você é' e o token do Encantador de Serpentes e mostre o polegar para cima. (lembrete)",
+  "firstNightReminder": "O Encantador de Serpentes escolhe um jogador vivo. Se escolheu o Demônio: Mostre o token 'Você é' e o token de personagem do Demônio. Mostre o polegar para baixo. Troque os tokens de personagem do Encantador de Serpentes com o do Demônio. Coloque o antigo Encantador de Serpentes para dormir. Acorde o Demônio antigo. Mostre o token 'Você é' e o token do Encantador de Serpentes e mostre o polegar para cima. (lembrete)",
+  "otherNightReminder": "O Encantador de Serpentes escolhe um jogador vivo. Se escolheu o Demônio: Mostre o token 'Você é' e o token de personagem do Demônio. Mostre o polegar para baixo. Troque os tokens de personagem do Encantador de Serpentes com o do Demônio. Coloque o antigo Encantador de Serpentes para dormir. Acorde o Demônio antigo. Mostre o token 'Você é' e o token do Encantador de Serpentes e mostre o polegar para cima. (lembrete)",
   "remindersGlobal": null,
   "reminders": "Envenenado"
  },
@@ -1200,7 +1200,7 @@
   "id": "snitch",
   "name": "Dedo-duro",
   "ability": "Lacaios começam sabendo de 3 personagens fora de jogo.",
-  "firstNightReminder": "Após a etapa de informar Lacaios, acorde ca Lacaios e mostre 3 tokens de personagens fora do jogo.",
+  "firstNightReminder": "Após a etapa de informar Lacaios, acorde cada Lacaio e mostre 3 tokens de personagens fora do jogo.",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null
@@ -1249,6 +1249,15 @@
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": "Imune"
+ },
+ {
+  "id": "summoner",
+  "name": "Invocador",
+  "ability": "Você começa sabendo 3 personagens fora de jogo. Na 3ª noite, escolha um jogador: ele se torna um Demônio do mal de sua escolha. [Sem Demônio]",
+  "firstNightReminder": "Mostre o token 'Esses não estão no jogo'. Mostre 3 tokens de personagem do bem fora de jogo.",
+  "otherNightReminder": "Se for a 3ª noite, acorde o invocador. Ele escolhe um jogador e um Demônio - Aquele jogador vira aquele Demônio.",
+  "remindersGlobal": null,
+  "reminders": "Noite 1,Noite 2,Noite 3"
  },
  {
   "id": "sweetheart",
