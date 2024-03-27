@@ -1253,9 +1253,9 @@
  {
   "id": "summoner",
   "name": "Invocador",
-  "ability": "Você começa sabendo 3 personagens fora de jogo. Na 3ª noite, escolha um jogador: ele se torna um Demônio do mal de sua escolha. [Sem Demônio]",
+  "ability": "Você começa sabendo 3 blefes. Na 3ª noite, escolha um jogador: ele se torna um Demônio do mal de sua escolha. [Sem Demônio]",
   "firstNightReminder": "Mostre o token 'Esses não estão no jogo'. Mostre 3 tokens de personagem do bem fora de jogo.",
-  "otherNightReminder": "Se for a 3ª noite, acorde o invocador. Ele escolhe um jogador e um Demônio - Aquele jogador vira aquele Demônio.",
+  "otherNightReminder": "Se for a 3ª noite, acorde o Invocador. Ele escolhe um jogador e um Demônio - Aquele jogador vira aquele Demônio.",
   "remindersGlobal": null,
   "reminders": "Noite 1,Noite 2,Noite 3"
  },

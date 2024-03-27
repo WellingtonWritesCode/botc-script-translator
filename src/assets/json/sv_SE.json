@@ -19,10 +19,10 @@
  },
  {
   "id": "alhadikhia",
-  "name": "al-Hadikhia",
+  "name": "al Hadikhia",
   "ability": "Välj 3 spelare varje natt* (alla spelare vet vilka du valt); de väljer tyst att leva eller dö. Om alla lever dör alla tre.",
   "firstNightReminder": null,
-  "otherNightReminder": "al-Hadikhia väljer 3 spelare. Tillkännage och väck den första spelaren; hen nickar för att leva eller skakar på huvudet för att dö; markera hen som död eller återupplivad; spelaren somnar. Upprepa för de två andra spelarna. Om alla 3 lever efter detta dör alla 3.",
+  "otherNightReminder": "al Hadikhia väljer 3 spelare. Tillkännage och väck den första spelaren; hen nickar för att leva eller skakar på huvudet för att dö; markera hen som död eller återupplivad; spelaren somnar. Upprepa för de två andra spelarna. Om alla 3 lever efter detta dör alla 3.",
   "remindersGlobal": null,
   "reminders": "1,2,3,Valt att dö,Valt att leva"
  },
@@ -469,10 +469,10 @@
  },
  {
   "id": "fortuneteller",
-  "name": "Sierskan",
+  "name": "Spådamen",
   "ability": "Välj två spelare varje natt; du får veta om någon av dem är Demon. 1 god spelare registreras som Demon för dig.",
-  "firstNightReminder": "Sierskan pekar på två spelare. Nicka om någon av dem är Demonen, och skaka annars på huvudet.",
-  "otherNightReminder": "Sierskan pekar på två spelare. Nicka om någon av dem är Demonen, och skaka annars på huvudet.",
+  "firstNightReminder": "Spådamen pekar på två spelare. Nicka om någon av dem är Demonen, och skaka annars på huvudet.",
+  "otherNightReminder": "Spådamen pekar på två spelare. Nicka om någon av dem är Demonen, och skaka annars på huvudet.",
   "remindersGlobal": null,
   "reminders": "Falsklarm"
  },
@@ -1252,12 +1252,12 @@
  },
  {
   "id": "summoner",
-  "name": "Summoner",
-  "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
-  "firstNightReminder": "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play.",
-  "otherNightReminder": "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon.",
+  "name": "Åkallaren",
+  "ability": "Du får 3 bluffar. Välj en spelare 3:e natten: hen blir en ond Demon du väljer. [Ingen Demon]",
+  "firstNightReminder": "Visa kortet ”De här rollerna är inte i spel”. Visa tre rollbrickor för goda roller som inte är i spel.",
+  "otherNightReminder": "Väck åkallaren om det är tredje natten. Hen pekar på en spelare och en Demon på sitt rollark. Den spelaren blir till den Demonen.",
   "remindersGlobal": null,
-  "reminders": "Night 1,Night 2,Night 3"
+  "reminders": "Natt 1,Natt 2,Natt 3"
  },
  {
   "id": "sweetheart",
@@ -1307,8 +1307,8 @@
  {
   "id": "toymaker",
   "name": "Leksaksmakaren",
-  "ability": "Demonen kan välja att inte attackera, och måste välja detta minst en gång per spel. Onda spelare får vanlig startinfo.",
-  "firstNightReminder": null,
+  "ability": "Demonen kan välja att inte attackera, och måste välja detta minst en gång per spel. De onda får vanlig startinfo.",
+  "firstNightReminder": "Väck Hantlangarna och visa Demonen, och väck Demonen och visa Hantlangarna samt tre roller som inte är i spel, även om det är färre än 7 spelare.",
   "otherNightReminder": "Om Demonens attack skulle avsluta spelet inatt och Demonen inte är märkt med brickan ”Ingen attack” så får Demonen inte vakna och agera inatt.",
   "remindersGlobal": null,
   "reminders": "Ingen attack"
@@ -1405,10 +1405,10 @@
  },
  {
   "id": "yaggababble",
-  "name": "Yaggababble",
+  "name": "Yaggababbel",
   "ability": "Du vet en hemlig fras från början. För varje gång du sagt den öppet under dagen kan en spelare dö.",
-  "firstNightReminder": "Visa Yaggababble den hemliga frasen.",
-  "otherNightReminder": "Välj högst så många spelare som antalet gånger Yaggababble öppet sa sin fras. De valda spelarna dör.",
+  "firstNightReminder": "Visa Yaggababbel den hemliga frasen.",
+  "otherNightReminder": "Välj högst så många spelare som antalet gånger Yaggababbel öppet sa sin fras. De valda spelarna dör.",
   "remindersGlobal": null,
   "reminders": "Död"
  },

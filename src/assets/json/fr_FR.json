@@ -1244,7 +1244,7 @@
  {
   "id": "stormcatcher",
   "name": "Attrape-tempête",
-  "ability": "Nommez un rôle bon. S'il est en jeu, le joueur qui l'incarne ne peut mourir que par exécution, mais les joueurs malfaisants apprennent de qui il s'agit.",
+  "ability": "Nommez un rôle bon. S'il est en jeu, le joueur qui l'incarne ne peut mourir que par exécution, mais les joueurs maléfiques apprennent de qui il s'agit.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1252,12 +1252,12 @@
  },
  {
   "id": "summoner",
-  "name": "Summoner",
-  "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
-  "firstNightReminder": "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play.",
-  "otherNightReminder": "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon.",
+  "name": "Invocateur",
+  "ability": "Vous connaissez 3 bluffs. La 3e nuit, choisissez un joueur: il devient un Démon maléfique de votre choix. [Pas de Démon]",
+  "firstNightReminder": "Montrez la carte « Ces personnages ne sont pas en jeu », puis 3 jetons de personnages Bons qui ne sont pas en jeu.",
+  "otherNightReminder": "S'il s'agit de la 3e nuit, réveillez l'Invocateur. Il pointe un joueur et un Démon sur la fiche de personnage - ce joueur devient ce Démon.",
   "remindersGlobal": null,
-  "reminders": "Night 1,Night 2,Night 3"
+  "reminders": "Nuit 1,Nuit 2,Nuit 3"
  },
  {
   "id": "sweetheart",

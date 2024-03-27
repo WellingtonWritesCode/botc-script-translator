@@ -1252,12 +1252,12 @@
  },
  {
   "id": "summoner",
-  "name": "Summoner",
-  "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
-  "firstNightReminder": "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play.",
-  "otherNightReminder": "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon.",
+  "name": "Призыватель",
+  "ability": "Ты получаешь три добрые роли вне игры. Во время третьей ночи, выберите игрока: он становится злым выбранным вам Демоном [Нет Демона]",
+  "firstNightReminder": "Покажите карточку 'Эти роли находятся вне игры'. Покажите три жетона добрых персонажей, не находящихся в игре.",
+  "otherNightReminder": "Если сейчас третья ночь, разбудите Призыватели. Он указывает на игрока и на роль Демона в списке - этот игрок становится этим демоном.",
   "remindersGlobal": null,
-  "reminders": "Night 1,Night 2,Night 3"
+  "reminders": "1я Ночь, 2я Ночь, 3я Ночь"
  },
  {
   "id": "sweetheart",

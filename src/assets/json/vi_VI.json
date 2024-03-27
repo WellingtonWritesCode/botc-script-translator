@@ -1252,12 +1252,12 @@
  },
  {
   "id": "summoner",
-  "name": "Summoner",
-  "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
-  "firstNightReminder": "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play.",
-  "otherNightReminder": "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon.",
+  "name": "Kẻ triệu hồi",
+  "ability": "Bạn biết 3 bluff. Đêm thứ 3, chọn 1 người: người đó trở thành Quỷ xấu do bạn chọn. [Không có Quỷ]",
+  "firstNightReminder": "Cho xem lá \"Những nhân vật sau không có trong game\". Cho xem 3 nhân vật tốt không có trong game..",
+  "otherNightReminder": "Nếu đây là đêm thứ 3, gọi Kẻ triệu hồi dậy. Họ chỉ 1 người và 1 Quỷ trong tờ nhân vật - người đó trở thành Quỷ đó.",
   "remindersGlobal": null,
-  "reminders": "Night 1,Night 2,Night 3"
+  "reminders": "Đêm 1,Đêm 2,Đêm 3"
  },
  {
   "id": "sweetheart",
