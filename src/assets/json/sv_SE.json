@@ -379,12 +379,12 @@
  },
  {
   "id": "eviltwin",
-  "name": "Dubbelgångaren",
+  "name": "Onda tvillingen",
   "ability": "Du och en motspelare vet om varandra. Om den goda avrättas vinner de onda. De goda kan inte vinna om båda lever.",
-  "firstNightReminder": "Väck Dubbelgångaren och den andra spelaren. Bekräfta att de har sett varandra. Peka på Dubbelgångaren och visa hens rollbricka för den andra spelaren. Peka på den andra spelaren och visa hens roll för Dubbelgångaren.",
+  "firstNightReminder": "Väck Onda tvillingen och den andra spelaren. Bekräfta att de har sett varandra. Peka på Onda tvillingen och visa hens rollbricka för den andra spelaren. Peka på den andra spelaren och visa hens roll för Onda tvillingen.",
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Dubbelgångare"
+  "reminders": "Tvilling"
  },
  {
   "id": "exorcist",
@@ -424,7 +424,7 @@
  },
  {
   "id": "fibbin",
-  "name": "Hittepåaren",
+  "name": "Lögnaren",
   "ability": "En gång per spel kanske 1 god spelare får falsk info.",
   "firstNightReminder": null,
   "otherNightReminder": null,
@@ -1171,9 +1171,9 @@
  },
  {
   "id": "shugenja",
-  "name": "Shugenja",
+  "name": "Shugenjan",
   "ability": "Du vet från början om den närmsta onda spelaren är medurs eller moturs från dig. Om det är lika blir svaret godtyckligt.",
-  "firstNightReminder": "Väck Shugenja och peka horisontellt åt det håll där den närmaste onda spelaren sitter. Om de två närmaste onda spelarna är lika långt borta så peka åt valfritt av de två hållen.",
+  "firstNightReminder": "Väck Shugenjan och peka horisontellt åt det håll där den närmaste onda spelaren sitter. Om de två närmaste onda spelarna är lika långt borta så peka åt valfritt av de två hållen.",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null
@@ -1198,7 +1198,7 @@
  },
  {
   "id": "snitch",
-  "name": "Tjallaren",
+  "name": "Golaren",
   "ability": "Hantlangare vet från början 3 roller som inte är i spel.",
   "firstNightReminder": "Efter att Hantlangarna fått sin första information, väck varje Hantlangare för sig och visa tre rollbrickor för roller som inte är i spel. Hantlangarna kan se samma brickor som varandra eller Demonen, eller olika.",
   "otherNightReminder": null,
@@ -1234,7 +1234,7 @@
  },
  {
   "id": "steward",
-  "name": "Uppassaren",
+  "name": "Kammartjänaren",
   "ability": "Du vet från början 1 god spelare.",
   "firstNightReminder": "Peka på 1 god spelare.",
   "otherNightReminder": null,

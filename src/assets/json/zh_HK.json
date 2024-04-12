@@ -893,7 +893,7 @@
  {
   "id": "nodashii",
   "name": "諾達西",
-  "ability": "每天晚上*，選擇一位玩家，該玩家死亡。在你兩側離你最近且活著的鎮民中毒。",
+  "ability": "每天晚上*，選擇一位玩家，該玩家死亡。在你兩側離你最近的鎮民中毒。",
   "firstNightReminder": null,
   "otherNightReminder": "諾達西指向一位玩家，該玩家死亡。",
   "remindersGlobal": null,
