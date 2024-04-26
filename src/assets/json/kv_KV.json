@@ -90,6 +90,15 @@
   "reminders": "Видел Горожанина,Видел Демона,Видел Изгоя,Видел Приспешника,Видел Странника"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "Барбер",
   "ability": "Когда вы умерли, ночью Демон может выбрать двух игроков и поменять их роли между собой.",

@@ -90,6 +90,15 @@
   "reminders": "Nähnyt kyläläisenä, Nähnyt kätyrinä, Nähnyt ulkopuolisena, Nähnyt demonina, Nähnyt matkaajana"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "Parturi",
   "ability": "Jos kuolit tänään päivällä tai yöllä, demoni voi valita kaksi pelaajaa (ei toista demonia) ja vaihtaa heidän hahmonsa.",

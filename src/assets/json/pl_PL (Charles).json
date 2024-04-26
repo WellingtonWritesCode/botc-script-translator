@@ -90,6 +90,15 @@
   "reminders": "Zauważony Mieszczanin,Zauważony Outsider,Zauważony Sługus,Zauważony Demon,Zauważony Wędrowiec"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "Fryzjer",
   "ability": "Jeśli umarłeś dzisiaj lub dziś nocą, Demon może wybrać 2 graczy (nie innego Demona), aby zamienić się postaciami.",

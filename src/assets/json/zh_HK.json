@@ -90,6 +90,15 @@
   "reminders": "已得知(爪牙),已得知(城外人),已得知(惡魔),已得知(旅行者),已得知(鎮民)"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "理髮師",
   "ability": "如果你在今天或今晚死亡，惡魔可以選擇兩位玩家(非另一位惡魔)交換角色。",

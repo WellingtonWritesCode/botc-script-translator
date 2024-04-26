@@ -90,6 +90,15 @@
   "reminders": "Sett Borger,Sett Einstøing,Sett Lakei,Sett Demon,Sett Omreisende"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "Frisør",
   "ability": "Om du døde i dag eller i natt, kan Demonen velge 2 spillere utenom en annen Demon: de bytter rolle.",

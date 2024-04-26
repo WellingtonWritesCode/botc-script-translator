@@ -90,6 +90,15 @@
   "reminders": "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "Фриз'єр",
   "ability": "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters.",

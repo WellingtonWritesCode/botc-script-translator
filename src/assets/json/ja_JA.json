@@ -90,6 +90,15 @@
   "reminders": "見える悪魔、見えるミニオン、見えるアウトサイダー、見える町民、見える旅人"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "床屋",
   "ability": "あなたが死亡した場合、いずれかの悪魔はプレイヤーを2人選んでよい（もう1人の悪魔は不可）。そうしたなら、今夜その人物を入れ替える。",

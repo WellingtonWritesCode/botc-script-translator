@@ -38,7 +38,7 @@
  {
   "id": "angel",
   "name": "Ангел",
-  "ability": "Щось погане станеться з тим, через кого помер новий гравець",
+  "ability": "Щось погане станеться з тим, через кого помер новий гравець.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -90,6 +90,15 @@
   "reminders": "Знає: Міщан,Знає: Приїжджий,Знає: Міньон,Знає: Демон"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "Перукар",
   "ability": "Якщо цього дня чи цієї ночі ти помер, Демон може обрати двох гравців (не іншого Демона); вони міняються персонажами.",
@@ -119,7 +128,7 @@
  {
   "id": "beggar",
   "name": "Злидар",
-  "ability": "Тобі потрібен жетон голосу, щоб голосувати. Мертві гравці можуть віддати тобі свій; тоді ти дізнаєтеся їх команду. Ти тверез і здоров.",
+  "ability": "Тобі потрібен жетон голосу, щоб голосувати. Мертві гравці можуть віддати тобі свій; тоді ти дізнаєшся їх команду. Ти тверез і здоров.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -155,7 +164,7 @@
  {
   "id": "bootlegger",
   "name": "Контрабандист",
-  "ability": "Цей скрипт має інші правила або саморобних персонажей",
+  "ability": "Цей скрипт має інші правила або саморобних персонажей.",
   "firstNightReminder": "Оголосіть що Контрабандист в грі і поясніть гравцям всі нові правила чи персонажей, які будуть використані в грі.",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -173,7 +182,7 @@
  {
   "id": "buddhist",
   "name": "Буддист",
-  "ability": "Перші дві хвилини дня гравці-ветерани не можуть говорити",
+  "ability": "Перші дві хвилини дня гравці-ветерани не можуть говорити.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -236,7 +245,7 @@
  {
   "id": "chef",
   "name": "Шеф",
-  "ability": "Ви одразу знаєте скільки злих гравців сидять поряд одне з одним.",
+  "ability": "Ти одразу знаєш скільки пар злих гравців сидять поруч одне з одним.",
   "firstNightReminder": "Покажи числовий сигнал (0, 1, 2, ...), що відповідає кількості злих гравців, що сидять поруч одне з одним.",
   "otherNightReminder": null,
   "remindersGlobal": null,

@@ -90,6 +90,15 @@
   "reminders": "Vu Démon,Vu Sbire,Vu Villageois,Vu Voyageur,Vu Étranger"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "Barbier",
   "ability": "Si vous mourez aujourd’hui ou cette nuit, le Démon peut choisir deux joueurs (pas un autre Démon) pour échanger leurs rôles entre eux cette nuit, sans pour autant changer leur alignement.",

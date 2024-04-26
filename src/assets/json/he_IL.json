@@ -90,6 +90,15 @@
   "reminders": "ראה תושב-עיירה, ראה זר, ראה משרת, ראה שד, ראה מטייל"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "ספר",
   "ability": "אם מתת היום או הלילה, השד רשאי לבחור 2 שחקנים (לא שד אחר) כך שיחליפו דמויות.",

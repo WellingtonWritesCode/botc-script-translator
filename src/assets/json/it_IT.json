@@ -90,6 +90,15 @@
   "reminders": "Visto Cittadino,Visto Demone,Visto Forestiero,Visto Seguace,Visto Viaggiatore"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "Barbiere",
   "ability": "Quando muori (sia durante la notte che per un'esecuzione), il Demone può scegliere, nella notte successiva, 2 giocatori (che non siano Demoni) per scambiare i loro ruoli.",

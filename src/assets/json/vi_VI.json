@@ -90,6 +90,15 @@
   "reminders": "Dân làng đã biết,Lữ khách đã biết,Tay sai đã biết,Quỷ đã biết,Du khách đã biết"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "Thợ cắt tóc",
   "ability": "Nếu bạn chết hôm nay, trong đêm Quỷ có thể chọn 2 người (không phải Quỷ khác) để tráo nhân vật.",

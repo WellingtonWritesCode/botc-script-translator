@@ -90,6 +90,15 @@
   "reminders": "Widział Demona,Widział Sługusa,Widział Outsidera,Widział Mieszczanina,Widział Podróżnika"
  },
  {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Announce that the Banshee has died.",
+  "remindersGlobal": null,
+  "reminders": "Has Ability"
+ },
+ {
   "id": "barber",
   "name": "Balwierz",
   "ability": "Jeśli umrzesz dziś za dnia bądź tej nocy, Demon może wybrać 2 graczy (ale nie innego demona), którzy zamienią się postaciami.",
