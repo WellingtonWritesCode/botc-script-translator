@@ -83,9 +83,9 @@
  {
   "id": "balloonist",
   "name": "Balonista",
-  "ability": "A cada noite, saiba um jogador de um tipo de personagem diferente, até que você saiba um jogador para cada tipo de personagem possível. [+1 Forasteiro]",
-  "firstNightReminder": "Escolha um tipo de personagem. Aponte para um jogador cujo personagem é desse tipo. Coloque o lembrete 'Visto' do Balonista ao lado desse personagem.",
-  "otherNightReminder": "Escolha um tipo de personagem que você ainda não escolheu. Informe ao Balonista um jogador cujo personagem é desse tipo, se houver algum. Coloque o lembrete 'Visto' do Balonista ao lado desse personagem.",
+  "ability": "A cada noite, saiba um jogador de cada tipo de personagem, até não sobrar mais tipos de personagem. [+1 Forasteiro]",
+  "firstNightReminder": "Mostre qualquer jogador. :reminder:",
+  "otherNightReminder": "Aponte para um jogador que tenha um tipo personagem diferente dos mostrados anteriormente. :reminder:",
   "remindersGlobal": null,
   "reminders": "Cidadão Visto,Demônio Visto,Forasteiro Visto,Lacaio Visto,Viajante Visto"
  },
@@ -103,16 +103,16 @@
   "name": "Barbeiro",
   "ability": "Se você morreu hoje, o Demônio poderá escolher dois jogadores (exceto outro Demônio): eles trocam de personagens entre si.",
   "firstNightReminder": null,
-  "otherNightReminder": "Se o Barbeiro morreu hoje: Acorde o Demônio. Mostre o token 'Você foi alvo desta habilidade' e o token do Barbeiro. O Demônio pode recusar usar a habilidade do Barbeiro ou escolher 2 jogadores que não sejam Demônio. Se ele escolher jogadores: Troque as fichas de personagem dos alvos. Acorde cada jogador escolhido. Informe-os quais são seus novos personagens.",
+  "otherNightReminder": "\"Se o Barbeiro morreu, imediatamente acorde o Demônio. Mostre o token *ESSE PERSONAGEM TE ESCOLHEU* & o token de personagem do Barbeiro. Se o Demônio escolheu 2 jogadores, acorde um de cada vez. Mostre os tokens *VOCÊ É* e o token de seu novo personagem. :reminder:",
   "remindersGlobal": null,
   "reminders": "Cortes de Cabelo hoje"
  },
  {
   "id": "barista",
   "name": "Barista",
-  "ability": "A cada noite, até o anoitecer, 1) um jogador fica sóbrio, desenvenenado e ganha informações verdadeiras, ou 2) a habilidade de um jogador funciona 2x. O jogador afetado sabe o efeito.",
-  "firstNightReminder": "Escolha um jogador, acorde-o e mostre-o qual poder do Barista o está afetando (1 ou 2).",
-  "otherNightReminder": "Escolha um jogador, acorde-o e mostre-o qual poder do Barista o está afetando (1 ou 2).",
+  "ability": "A cada noite, até o anoitecer: 1) Um jogador fica são, sóbrio e saudável e obtém informações verdadeiras, ou; 2) Uma habilidade funciona duas vezes. O jogador afetado sabe qual é o efeito.",
+  "firstNightReminder": "Escolha um jogador, acorde-o e informe-o qual dos poderes da Barista está o afetando. Trate-o da forma correspondente (sóbrio, são e informação verdadeira ou ative a habilidade duas vezes)",
+  "otherNightReminder": "Escolha um jogador, acorde-o e informe-o qual dos poderes da Barista está o afetando. Trate-o da forma correspondente (sóbrio, são e informação verdadeira ou ative a habilidade duas vezes)",
   "remindersGlobal": null,
   "reminders": "Habilidade 2x,Sóbrio e Desenvenenado"
  },
@@ -128,7 +128,7 @@
  {
   "id": "beggar",
   "name": "Pedinte",
-  "ability": "Você precisa de um token de voto para votar. Jogadores mortos podem escolher doar os deles a você. Caso o façam, saiba o alinhamento deles. Você está sóbrio & sadio",
+  "ability": "Você precisa de um token de voto para votar. Jogadores mortos podem escolher doar os deles a você. Caso o façam, saiba o alinhamento deles. Você está são & sóbrio",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -148,7 +148,7 @@
   "name": "Coletor de Ossos",
   "ability": "Uma vez por jogo, à noite, escolha um jogador morto: ele recupera a habilidade até o anoitecer.",
   "firstNightReminder": null,
-  "otherNightReminder": "O Coletor de Ossos pode sinalizar 'não' com a cabeça ou apontar para um jogador morto. Se apontar para um jogador morto, marque o alvo com o token 'Tem habilidade' e marque o Coletor de Ossos com o token 'Sem habilidade'.",
+  "otherNightReminder": "Se não estiver marcado com *SEM HABILIDADE*, o Coletor de Ossos faz 'não' com a cabeça ou aponta para um jogador morto. Se apontou para um morto coloque o marcador *TEM HABILIDADE* sobre o token do jogador escolhido. (ele talvez precise ser acordado essa noite para utiliza-la.)",
   "remindersGlobal": null,
   "reminders": "Sem habilidade,Tem habilidade"
  },
@@ -173,9 +173,9 @@
  {
   "id": "bountyhunter",
   "name": "Mercenário",
-  "ability": "Você começa o jogo sabendo 1 jogador do mal. Quando esse jogador morrer, saiba outro jogador do mal esta noite. [1 Cidadão é do mal]",
-  "firstNightReminder": "Aponte para 1 jogador mau. Acorde o Cidadão mau e mostre o token 'Você é' e sinalize 'mau' (polegar para baixo).",
-  "otherNightReminder": "Se o alvo morreu, aponte para outro jogador mau.",
+  "ability": "\"Você começa sabendo 1 jogador do mal. Se esse jogador morrer, saiba outro jogador do mal esta noite. [1 Cidadão é do mal]",
+  "firstNightReminder": "Aponte para o jogador marcado com *ALVO*.",
+  "otherNightReminder": "Se o *ALVO* do Mercenário morreu desde a noite anterior, aponte para o novo *ALVO*.",
   "remindersGlobal": null,
   "reminders": "Alvo"
  },
@@ -228,8 +228,8 @@
   "id": "cerenovus",
   "name": "Cerenovus",
   "ability": "A cada noite, escolha um personagem do bem e um jogador: ele deve alucinar ser esse personagem amanhã, ou pode ser executado.",
-  "firstNightReminder": "O Cerenovus escolhe um jogador e um personagem bom. (lembrete) Coloque o Cerenovus para dormir. Acorde o alvo. Mostre o token 'Você foi alvo desta habilidade', o token do Cerenovus e o token do personagem escolhido.",
-  "otherNightReminder": "O Cerenovus escolhe um jogador e um personagem bom. (lembrete) Coloque o Cerenovus para dormir. Acorde o alvo. Mostre o token 'Você foi alvo desta habilidade', o token do Cerenovus e o token do personagem escolhido.",
+  "firstNightReminder": "O Cerenovus escolhe um jogador e um personagem bom. :reminder: Coloque o Cerenovus para dormir. Acorde esse jogador. Mostre o token *ESSE PERSONAGEM TE ESCOLHEU* e os tokens de personagens do Cerenovus e do personagem escolhido por ele.",
+  "otherNightReminder": "O Cerenovus escolhe um jogador e um personagem bom. :reminder: Coloque o Cerenovus para dormir. Acorde esse jogador. Mostre o token *ESSE PERSONAGEM TE ESCOLHEU* e os tokens de personagens do Cerenovus e do personagem escolhido por ele.",
   "remindersGlobal": null,
   "reminders": "Alucinando"
  },
@@ -307,7 +307,7 @@
  },
  {
   "id": "deviant",
-  "name": "Esquisito",
+  "name": "Desviado",
   "ability": "Se você foi divertido hoje, não pode morrer por exílio.",
   "firstNightReminder": null,
   "otherNightReminder": null,
@@ -334,7 +334,7 @@
  },
  {
   "id": "doomsayer",
-  "name": "Agoureiro",
+  "name": "Apocalíptico",
   "ability": "Se 4 ou mais jogadores estiverm vivos, cada jogador vivo pode (uma vez por jogo) pedir que um jogador do mesmo alinhamento morra.",
   "firstNightReminder": null,
   "otherNightReminder": null,
@@ -344,7 +344,7 @@
  {
   "id": "dreamer",
   "name": "Sonhador",
-  "ability": "A cada noite, escolha um jogador (exceto você ou Viajantes): saiba 1 personagem do bem e 1 do mal, um deles é o correto.",
+  "ability": "A cada noite, escolha um jogador (exceto você ou Viajantes): saiba 1 personagem do bem e 1 do mal, um deles corresponde ao jogador escolhido.",
   "firstNightReminder": "O Sonhador escolhe um jogador. Mostre 1 personagem do bem e 1 do mal, sendo 1 deles o personagem do jogador escolhido.",
   "otherNightReminder": "O Sonhador escolhe um jogador. Mostre 1 personagem do bem e 1 do mal, sendo 1 deles o personagem do jogador escolhido.",
   "remindersGlobal": null,
@@ -389,7 +389,7 @@
  {
   "id": "eviltwin",
   "name": "Gêmea Má",
-  "ability": "Você e um oponente se conhecem. Se o jogador do bem for executado, o Mal vence. O Bem não pode vencer enquanto ambos viverem.",
+  "ability": "Você e um oponente se conhecem e sabem o personagem um do outro. Se o jogador do bem for executado, o Mal vence. O Bem não pode vencer enquanto ambos viverem.",
   "firstNightReminder": "Acorde as gêmeas. Deixe que façam contato visual. Mostre o token de personagem da Gêmea Má para sua gêmea e vice-versa.",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -409,7 +409,7 @@
   "name": "Fang Gu",
   "ability": "A cada noite*, você escolhe um jogador: ele morre. O primeiro Forasteiro a ser morto assim, torna-se um Fang Gu do mal e você morre em vez dele. [+1 Forasteiro]",
   "firstNightReminder": null,
-  "otherNightReminder": "O Fang Gu escolhe um jogador. O alvo morre. Ou, se esse jogador for o Primeiro Forasteiro escolhido por um Fang Gu no Jogo: • O Fang Gu morre em vez do alvo. O alvo agora é um Fang Gu mau. • Acorde o novo Fang Gu. Informe-o que ele é um Fang Gu mau. Esta troca não poderá mais acontecer durante este jogo.",
+  "otherNightReminder": "O Fang Gu escolhe um jogador. :reminder: Se este jogador for um Forasteiro (apenas uma vez): Substitua o token de Forasteiro com um token de Fang Gu sobrando. Coloque o Fang Gu para dormir. Acorde o alvo. Mostre os tokens *VOCÊ É* e do Fang Gu & mostre um joinha para baixo. :reminder:",
   "remindersGlobal": null,
   "reminders": "Morto"
  },
@@ -463,7 +463,7 @@
   "name": "Florista",
   "ability": "A cada noite*, saiba se um Demônio votou hoje.",
   "firstNightReminder": null,
-  "otherNightReminder": "Sinalize 'sim' ou 'não' com a cabeça para indicar se o Demônio votou. Coloque o lembrete 'Demônio não votou' (remova 'Demônio votou', se for o caso).",
+  "otherNightReminder": "Sinalize com a cabeça (sim ou não).",
   "remindersGlobal": null,
   "reminders": "Demônio não votou,Demônio votou"
  },
@@ -507,8 +507,8 @@
   "id": "general",
   "name": "General",
   "ability": "A cada noite, saiba qual time o Narrador acredita que está vencendo: Bem, Mal ou nenhum.",
-  "firstNightReminder": "Informe ao General qual time você acha que está vencendo usando seu polegar: Bem (polegar para cima), Mal (polegar para baixo) ou nenhum (polegar para o lado).",
-  "otherNightReminder": "Informe ao General qual time você acha que está vencendo usando seu polegar: Bem (polegar para cima), Mal (polegar para baixo) ou nenhum (polegar para o lado).",
+  "firstNightReminder": "Faça um joinha em alguma direção.",
+  "otherNightReminder": "Faça um joinha em alguma direção.",
   "remindersGlobal": null,
   "reminders": null
  },
@@ -580,7 +580,7 @@
   "name": "Meretriz",
   "ability": "A cada noite*, escolha um jogador vivo: se ele concordar, saiba o personagem dele, mas ambos podem morrer.",
   "firstNightReminder": null,
-  "otherNightReminder": "A Meretriz aponta para um jogador. Adormeça a Meretriz e acorde o alvo. Mostre o token 'Você foi alvo desta habilidade' e o token da Meretriz. O jogar pode sinalizar 'sim' ou 'não' com a cabeça. Se o alvo sinalizou 'sim', Acorde a Meretriz e mostre o token de personagem do alvo. Então decida se ambos morrem.",
+  "otherNightReminder": "A Meretriz escolhe um jogador, Coloque-o para dormir. Acorde o jogador escolhido, mostre os tokens *ESSE PERSONAGEM TE ESCOLHEU* e o da Meretriz, ele pode com a cabeça escolher 'sim' ou 'não'. Se sim acorde a Meretriz e mostre o token de personagem do jogador escolhido. Então, você decide se ambos ou nenhum morre.",
   "remindersGlobal": null,
   "reminders": "Morto"
  },
@@ -679,7 +679,7 @@
   "name": "Malabarista",
   "ability": "Em seu primeiro dia, você pode tentar adivinhar publicamente até 5 personagens de até 5 jogadores. À noite, você descobre quantos você acertou.",
   "firstNightReminder": null,
-  "otherNightReminder": "Se hoje foi o primeiro dia do Malabarista e este usou sua habilidade:Mostre com os dedos o número de acertos.",
+  "otherNightReminder": "Faça um número com os dedos.",
   "remindersGlobal": null,
   "reminders": "Correto"
  },
@@ -695,9 +695,9 @@
  {
   "id": "king",
   "name": "Rei",
-  "ability": "A cada noite, se os mortos são maioria, saiba um personagem vivo. O Demônio conhece você.",
-  "firstNightReminder": "Acorde o Demônio, mostre o token do Rei e aponte para o jogador correspondente.",
-  "otherNightReminder": "Se a maioria dos jogadores está morta, mostre oao rei o token de um personagem vivo.",
+  "ability": "A cada noite, se os vivos não são maioria, saiba um personagem vivo. O Demônio sabe quem você é.",
+  "firstNightReminder": "Acorde o Demônio, mostre os tokens *ESSE JOGADOR É* e do Rei e aponte para o Rei.",
+  "otherNightReminder": "Se os vivos não são maioria, mostre ao Rei o token de personagem de um jogador vivo.",
   "remindersGlobal": null,
   "reminders": null
  },
@@ -875,7 +875,7 @@
  {
   "id": "mutant",
   "name": "Mutante",
-  "ability": "Se você alucinar ser um Forasteiro, você pode ser executado.",
+  "ability": "Se você alucinar que é um Forasteiro, você pode ser executado.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -894,7 +894,7 @@
   "id": "noble",
   "name": "Nobre",
   "ability": "Você começa sabendo 3 jogadores. Exatamente 1 deles é do mal.",
-  "firstNightReminder": "Aponte para 3 jogadores incluindo exatamente 1 do mal em qualquer ordem.",
+  "firstNightReminder": "Aponte para os 3 jogadores marcados com *VISTO*",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": "Visto"
@@ -907,6 +907,15 @@
   "otherNightReminder": "O No Dashii escolhe um jogador. O alvo morre.",
   "remindersGlobal": null,
   "reminders": "Envenenado,Morto"
+ },
+ {
+  "id": "ogre",
+  "name": "Ogro",
+  "ability": "Na sua primeira noite, escolha um jogador (exceto você): você se torna seu alinhamento (você não sabe qual) mesmo se estiver bêbado ou envenenado.",
+  "firstNightReminder": "O Ogro aponta para outro jogador e se torna seu alinhamento.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
  },
  {
   "id": "ojo",
@@ -922,7 +931,7 @@
   "name": "Oráculo",
   "ability": "A cada noite*, saiba quantos jogadores mortos são do mal.",
   "firstNightReminder": null,
-  "otherNightReminder": "Mostre com os dedos o número de jogadores maus mortos.",
+  "otherNightReminder": "Faça um número com os dedos.",
   "remindersGlobal": null,
   "reminders": null
  },
@@ -948,28 +957,28 @@
   "id": "philosopher",
   "name": "Filósofo",
   "ability": "Uma vez por jogo, à noite, escolha um personagem do bem: ganhe aquela habilidade. Se esse personagem estiver em jogo, ele fica bêbado.",
-  "firstNightReminder": "O Filósofo pode escolher um personagem. Se necessário, troque seu token de personagem. (lembrete)",
-  "otherNightReminder": "O Filósofo pode escolher um personagem. Se necessário, troque seu token de personagem. (lembrete)",
+  "firstNightReminder": "O Filósofo pode escolher um personagem do bem, se necessário troque os tokens de personagens. :reminder:",
+  "otherNightReminder": "O Filósofo pode escolher um personagem do bem, se necessário troque os tokens de personagens. :reminder:",
   "remindersGlobal": "Bêbado,É o Filósofo",
   "reminders": null
  },
  {
   "id": "pithag",
   "name": "Bruxa do Fosso",
-  "ability": "A cada noite*, escolha um jogador para se tornar um novo personagem (não funciona se já estiver em jogo). Se o personagem escolhido for um Demônio, as mortes serão arbitrárias esta noite.",
+  "ability": "A cada noite*, escolha um jogador e um personagem para ele se tornar (se não estiver em jogo). Se um Demônio é criado, as mortes serão arbitrárias esta noite.",
   "firstNightReminder": null,
-  "otherNightReminder": "A Bruxa do Fosso escolhe um jogador e um personagem. Se escolher um personagem que não está em jogo: Ponha a Bruxa do fosso para dormir. Acorde o alvo. Mostre o token: 'Você é' e o token de seu novo personagem.",
+  "otherNightReminder": "A Bruxa do Fosso escolhe um jogador & um personagem :reminder: Coloque a Bruxa do Fosso para dormir. Caso o personagem escolhido não esteja em jogo, acorde a pessoa esclhida mostre os tokens *VOCÊ É* & do personagem escolhido.",
   "remindersGlobal": null,
   "reminders": null
  },
  {
   "id": "pixie",
   "name": "Pixie",
-  "ability": "Você começa sabendo um personagem Cidadão em jogo. Se você alucinar ser esse personagem, você ganha aquela habilidade quando ele morrer.",
-  "firstNightReminder": "Mostre o token de um Cidadão que está em jogo.",
+  "ability": "Você começa o sabendo 1 Cidadão em jogo. Se você estava alucinando ser esse personagem, você ganha a habilidade dele quando ele morrer.",
+  "firstNightReminder": "Mostre-a o token de personagem do Cidadão marcado com *ALUCINANDO*.",
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Alucinando,Tem habilidade"
+  "reminders": "Alucinando, Habilidade adquirida"
  },
  {
   "id": "plaguedoctor",
@@ -1019,9 +1028,9 @@
  {
   "id": "preacher",
   "name": "Pregador",
-  "ability": "A cada noite, escolha um jogador: caso ele seja um Lacaio, saberá que foi escolhido. Todos os Lacaios escolhidos não têm habilidade.",
-  "firstNightReminder": "O Pregador escolhe um jogador. Se esse jogador for um Lacaio: Acorde o alvo. Informe-o que foi escolhido pelo Pregador. O alvo não tem habilidade a partir de agora.",
-  "otherNightReminder": "O Pregador escolhe um jogador. Se esse jogador for um Lacaio: Acorde o alvo. Informe-o que foi escolhido pelo Pregador. O alvo não tem habilidade a partir de agora.",
+  "ability": "A cada noite, escolha um jogador: um Lacaio, se escolhido, saberá disso. Todos os Lacaios escolhidos não têm habilidade.",
+  "firstNightReminder": "O Pregador escolhe um jogador :reminder:, coloque o Pregador para dormir. Se o jogador escolhido for um Lacaio acorde-o. Mostre-o os tokens *ESSE PERSONAGEM TE ESCOLHEU* e do Pregador.",
+  "otherNightReminder": "O Pregador escolhe um jogador :reminder:, coloque o Pregador para dormir. Se o jogador escolhido for um Lacaio acorde-o. Mostre-o os tokens *ESSE PERSONAGEM TE ESCOLHEU* e do Pregador.",
   "remindersGlobal": null,
   "reminders": "Sem habilidade"
  },
@@ -1155,8 +1164,8 @@
   "id": "seamstress",
   "name": "Costureira",
   "ability": "Uma vez por jogo, à noite, você pode escolher 2 jogadores (exceto você): você descobre se eles têm o mesmo alinhamento.",
-  "firstNightReminder": "A Costureira pode escolhe 2 jogadores. Sinalize 'sim' ou 'não' com a cabeça. (lembrete)",
-  "otherNightReminder": "A Costureira pode escolhe 2 jogadores. Sinalize 'sim' ou 'não' com a cabeça. (lembrete)",
+  "firstNightReminder": "A Costureira pode escolher 2 jogadores. Sinalize 'sim' ou 'não' com a cabeça. :reminder:",
+  "otherNightReminder": "Se não estiver marcada com *SEM HABILIDADE*, a Costureira pode escolher 2 jogadores. Sinalize 'sim' ou 'não' com a cabeça. :reminder:",
   "remindersGlobal": null,
   "reminders": "Sem habilidade"
  },
@@ -1199,9 +1208,9 @@
  {
   "id": "snakecharmer",
   "name": "Encantador",
-  "ability": "A cada noite, escolha um jogador vivo: se o ele for um Demônio, troca de personagem e alinhamento com você, e então fica envenenado.",
-  "firstNightReminder": "O Encantador de Serpentes escolhe um jogador vivo. Se escolheu o Demônio: Mostre o token 'Você é' e o token de personagem do Demônio. Mostre o polegar para baixo. Troque os tokens de personagem do Encantador de Serpentes com o do Demônio. Coloque o antigo Encantador de Serpentes para dormir. Acorde o Demônio antigo. Mostre o token 'Você é' e o token do Encantador de Serpentes e mostre o polegar para cima. (lembrete)",
-  "otherNightReminder": "O Encantador de Serpentes escolhe um jogador vivo. Se escolheu o Demônio: Mostre o token 'Você é' e o token de personagem do Demônio. Mostre o polegar para baixo. Troque os tokens de personagem do Encantador de Serpentes com o do Demônio. Coloque o antigo Encantador de Serpentes para dormir. Acorde o Demônio antigo. Mostre o token 'Você é' e o token do Encantador de Serpentes e mostre o polegar para cima. (lembrete)",
+  "ability": "A cada noite, escolha um jogador vivo: um Demônio escolhido desta forma troca de personagem e alinhamento com você, e então fica envenenado.",
+  "firstNightReminder": "O Encantador aponta para um jogador vivo. Se esse jogador for um Demônio: Mostre o token *VOCÊ É* & o token de personagem do demônio e um joinha para baixo. Troque os tokens do Dêmonio e Encantador no grimório. Coloque o antigo Encantador para dormir. Acorde o antigo Demônio e mostre-o o token *VOCÊ É*, o token de personagem do Encantador e um joinha para cima. :reminder:",
+  "otherNightReminder": "O Encantador aponta para um jogador vivo. Se esse jogador for um Demônio: Mostre o token *VOCÊ É* & o token de personagem do demônio e um joinha para baixo. Troque os tokens do Dêmonio e Encantador no grimório. Coloque o antigo Encantador para dormir. Acorde o antigo Demônio e mostre-o o token *VOCÊ É*, o token de personagem do Encantador e um joinha para cima. :reminder:",
   "remindersGlobal": null,
   "reminders": "Envenenado"
  },
@@ -1271,9 +1280,9 @@
  {
   "id": "sweetheart",
   "name": "Queridinha",
-  "ability": "Se você morrer, um jogador está bêbado.",
+  "ability": "Se você morrer, um jogador fica bêbado.",
   "firstNightReminder": null,
-  "otherNightReminder": "Se a Queridinha morreu, marque um jogador como 'Bêbado'.",
+  "otherNightReminder": "Se a Queridinha morreu, um jogador ficou bêbado imediatamente. Se não fez isso ainda, faça agora. :reminder:",
   "remindersGlobal": null,
   "reminders": "Bêbado"
  },
@@ -1334,9 +1343,9 @@
  {
   "id": "vigormortis",
   "name": "Vigormortis",
-  "ability": "A cada noite*, você escolhe um jogador: ele morre. Lacaios que você mata mantêm suas habilidades e envenenam um vizinho cidadão. [-1 Forasteiro].",
+  "ability": "A cada noite*, você escolhe um jogador: ele morre. Lacaios que você mata mantêm suas habilidades e envenenam um vizinho Cidadão. [-1 Forasteiro].",
   "firstNightReminder": null,
-  "otherNightReminder": "O Vigormortis escolhe um jogador. O jogador morre. Se o alvo for Lacaio, mantêm sua habilidade e um de seus vizinhos Cidadãos é envenenado.",
+  "otherNightReminder": "O Vigormortis escolhe um jogador. :reminder: Se for um Lacaio envenene um vizinho Cidadão. :reminder: :reminder:",
   "remindersGlobal": null,
   "reminders": "Envenenado,Morto,Tem Habilidade"
  },
@@ -1372,7 +1381,7 @@
   "name": "Vortox",
   "ability": "A cada noite*, escolha um jogador: ele morre. Habilidades de Cidadão geram informações falsas. A cada dia, se ninguém for executado, o Mal vence.",
   "firstNightReminder": null,
-  "otherNightReminder": "O Vortox escolhe um jogador, o alvo morre.",
+  "otherNightReminder": "O Vortox escolhe um jogador. :reminder:",
   "remindersGlobal": null,
   "reminders": "Morto"
  },
@@ -1406,18 +1415,18 @@
  {
   "id": "witch",
   "name": "Feiticeira",
-  "ability": "A cada noite, escolha um jogador: se ele nomear durante o dia, morre. Se apenas 3 jogadores estão vivos, você perde esta habilidade.",
-  "firstNightReminder": "A Feiticeira escolhe um jogador. (lembrete)",
+  "ability": "A cada noite, escolha um jogador: se ele nomear amanhã, morre. Se apenas 3 jogadores estão vivos, você perde essa habilidade.",
+  "firstNightReminder": "A Feiticeira escolhe um jogador. :reminder:",
   "otherNightReminder": "A Feiticeira escolhe um jogador. (lembrete)",
   "remindersGlobal": null,
   "reminders": "Amaldiçoado"
  },
  {
   "id": "yaggababble",
-  "name": "Yaggamatraca",
+  "name": "Yaggarela",
   "ability": "Você começa sabendo uma frase secreta. Para cada vez que você a disser publicamente hoje, um jogador pode morrer.",
-  "firstNightReminder": "Mostre a Yaggamatraca sua frase secreta.",
-  "otherNightReminder": "Escolha um número de jogadores até o total número de vezes que a Yaggamatraca disse sua frase secreta publicamente, esses jogadores morrem.",
+  "firstNightReminder": "Mostre a Yaggarela sua frase secreta.",
+  "otherNightReminder": "Escolha um número de jogadores até o total número de vezes que a Yaggarela disse sua frase secreta publicamente, esses jogadores morrem.",
   "remindersGlobal": null,
   "reminders": "Morto"
  },

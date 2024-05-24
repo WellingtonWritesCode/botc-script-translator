@@ -91,12 +91,12 @@
  },
  {
   "id": "banshee",
-  "name": "Banshee",
-  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "name": "Quỷ báo tử",
+  "ability": "Nếu Quỷ giết bạn, tất cả người chơi biết điều đó. Từ lúc đó, bạn có thể biểu quyết 2 lần 1 ngày và bỏ 2 phiếu cho mỗi lần biểu quyết.",
   "firstNightReminder": null,
-  "otherNightReminder": "Announce that the Banshee has died.",
+  "otherNightReminder": "Thông báo Quỷ báo tử đã chết.",
   "remindersGlobal": null,
-  "reminders": "Has Ability"
+  "reminders": "Có chức năng"
  },
  {
   "id": "barber",
@@ -695,9 +695,9 @@
  {
   "id": "king",
   "name": "Ông vua",
-  "ability": "Mỗi đêm, nếu người chết nhiều hơn người sống, bạn biết nhân vật của người sống. Quỷ biết bạn là ai.",
+  "ability": "Mỗi đêm, nếu người chết nhiều hơn hoặc bằng người sống, bạn biết nhân vật của người sống. Quỷ biết bạn là ai.",
   "firstNightReminder": "Gọi Quỷ dậy, cho xem lá 'Nhân vật này chọn bạn', cho xem thẻ Ông vua và chỉ vào Ông vua.",
-  "otherNightReminder": "Nếu người chết nhiều hơn người sống, cho Ông vua xem thẻ nhân vật của người sống.",
+  "otherNightReminder": "Nếu người chết nhiều hơn hoặc bằng người sống, cho Ông vua xem thẻ nhân vật của người sống.",
   "remindersGlobal": null,
   "reminders": null
  },
@@ -907,6 +907,15 @@
   "otherNightReminder": "No Dashii chỉ 1 người. Người đó chết.",
   "remindersGlobal": null,
   "reminders": "Chết,Trúng độc"
+ },
+ {
+  "id": "ogre",
+  "name": "Ogre",
+  "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
+  "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
  },
  {
   "id": "ojo",

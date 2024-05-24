@@ -91,12 +91,12 @@
  },
  {
   "id": "banshee",
-  "name": "Banshee",
-  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "name": "女妖",
+  "ability": "如果惡魔殺死了你，所有玩家得知此事。從現在開始，你每天可以提名兩次，每次投票也可以投下兩票。",
   "firstNightReminder": null,
-  "otherNightReminder": "Announce that the Banshee has died.",
+  "otherNightReminder": "宣布女妖已死亡(如果有的話)。",
   "remindersGlobal": null,
-  "reminders": "Has Ability"
+  "reminders": "具有能力"
  },
  {
   "id": "barber",
@@ -907,6 +907,15 @@
   "otherNightReminder": "諾達西指向一位玩家，該玩家死亡。",
   "remindersGlobal": null,
   "reminders": "中毒,死亡"
+ },
+ {
+  "id": "ogre",
+  "name": "Ogre",
+  "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
+  "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
  },
  {
   "id": "ojo",

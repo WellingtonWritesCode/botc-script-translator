@@ -14,6 +14,7 @@ export const locales = [
     "fa_IR",
     "fr_FR",
     "sv_SE",
+    "th_TH",
     "es_ES",
     "ru_RU",
     "pt_BR",

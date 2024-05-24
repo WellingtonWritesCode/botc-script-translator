@@ -918,6 +918,15 @@
   "reminders": "Umiera,Zatruty"
  },
  {
+  "id": "ogre",
+  "name": "Ogre",
+  "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
+  "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "ojo",
   "name": "Ojo",
   "ability": "Każdej nocy* wybierz postać: umiera. Jeśli nie ma ich w grze, Bajarz wybiera, kto umrze.",

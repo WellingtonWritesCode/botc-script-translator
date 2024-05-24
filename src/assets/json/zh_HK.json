@@ -909,6 +909,15 @@
   "reminders": "中毒,死亡"
  },
  {
+  "id": "ogre",
+  "name": "Ogre",
+  "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
+  "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "ojo",
   "name": "眼魔",
   "ability": "每天晚上*，選擇一個角色，該角色的玩家死亡，如果該角色不在遊戲中，則由說書人決定哪位玩家死亡。",

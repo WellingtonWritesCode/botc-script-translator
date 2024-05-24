@@ -91,12 +91,12 @@
  },
  {
   "id": "banshee",
-  "name": "Banshee",
-  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "name": "Баньши",
+  "ability": "Если Демон вас убьет, все игроки узнают об этом. С этого момента вы можете выдвигать дважды за день и голосовать по два раза в каждом выдвижении.",
   "firstNightReminder": null,
-  "otherNightReminder": "Announce that the Banshee has died.",
+  "otherNightReminder": "Объявите, что Баньши умерла.",
   "remindersGlobal": null,
-  "reminders": "Has Ability"
+  "reminders": "Имеет способность"
  },
  {
   "id": "barber",
@@ -173,7 +173,7 @@
  {
   "id": "bountyhunter",
   "name": "Охотник за головами",
-  "ability": "--",
+  "ability": "Вы начинаете игру, зная 1 злого игрока. Если этот игрок умирает, ночью вы узнаете нового злого игрока. [1 Горожанин - злой]",
   "firstNightReminder": "Укажите на 1 злого игрока. Разбудите злого Горожанина, покажите ему карточку \"Вы являетесь\" и жест, обозначающий зло (палец вниз).",
   "otherNightReminder": "Если известный Охотнику за головами злой игрок умер, укажите на другого злого игрока.",
   "remindersGlobal": null,
@@ -907,6 +907,15 @@
   "otherNightReminder": "Но Дащи указывает на игрока. Этот игрок умирает.",
   "remindersGlobal": null,
   "reminders": "Мертв,Отравлен"
+ },
+ {
+  "id": "ogre",
+  "name": "Ogre",
+  "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
+  "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
  },
  {
   "id": "ojo",

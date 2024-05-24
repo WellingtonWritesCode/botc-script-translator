@@ -909,6 +909,15 @@
   "reminders": "Мертв,Отравлен"
  },
  {
+  "id": "ogre",
+  "name": "Ogre",
+  "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
+  "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "ojo",
   "name": "Охо",
   "ability": "Каждую ночь*, выберите роль: игрок с этой ролью умирает. Если этой роли нет в игре, Рассказчик решает, кто умирает.",

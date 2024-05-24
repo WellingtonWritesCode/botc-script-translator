@@ -74,7 +74,7 @@
  {
   "id": "atheist",
   "name": "Athée",
-  "ability": "Le Conteur peut ignorer les règles du jeu et s'il est exécuté, le Bien gagne, même si vous êtes mort. [Pas de personnage Maléfique]",
+  "ability": "Le Conteur peut ignorer les règles du jeu et s'il est exécuté, le Bien gagne, même si vous êtes mort. [Pas de rôle Maléfique]",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -92,11 +92,11 @@
  {
   "id": "banshee",
   "name": "Banshee",
-  "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+  "ability": "Si le démon vous tue, tous les joueurs l'apprennent. A partir de maintenant, vous pourrez nommer 2 fois par jour et voter 2 fois par nomination.",
   "firstNightReminder": null,
-  "otherNightReminder": "Announce that the Banshee has died.",
+  "otherNightReminder": "Annoncez que la Banshee est morte",
   "remindersGlobal": null,
-  "reminders": "Has Ability"
+  "reminders": "Capacité active"
  },
  {
   "id": "barber",
@@ -146,7 +146,7 @@
  {
   "id": "bonecollector",
   "name": "Collecteur d'os",
-  "ability": "Une fois par partie, au crépuscule, choisissez un joueur mort: il retrouvera ses capacités jusqu'au crépuscule suivant.",
+  "ability": "Une fois par partie, la nuit, choisissez un joueur mort: il retrouvera ses capacités jusqu'au crépuscule suivant.",
   "firstNightReminder": null,
   "otherNightReminder": "Il secoue la tête ou désigne un joueur mort. Ce joueur retrouve ses capacités jusqu'au crépuscule.",
   "remindersGlobal": null,
@@ -154,7 +154,7 @@
  },
  {
   "id": "boomdandy",
-  "name": "Boomdandy",
+  "name": "Dynamiteur",
   "ability": "Si vous êtes exécuté, tous les joueurs sauf 3 meurent. 1 minute plus tard, le joueur désigné par le plus grand nombre de joueurs meurt.",
   "firstNightReminder": null,
   "otherNightReminder": null,
@@ -164,8 +164,8 @@
  {
   "id": "bootlegger",
   "name": "Contrebandier",
-  "ability": "Le script a des personnages ou règles personnalisés.",
-  "firstNightReminder": "Annoncez que le Contrebandier est en jeu et informez le groupe de tous les personnages et\/ou règles personnalisées que vous utilisez pour cette partie.",
+  "ability": "Le script a des rôles ou règles personnalisés.",
+  "firstNightReminder": "Annoncez que le Contrebandier est en jeu et informez le groupe de tous les rôles et\/ou règles personnalisées que vous utilisez pour cette partie.",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null
@@ -227,7 +227,7 @@
  {
   "id": "cerenovus",
   "name": "Manipulateur",
-  "ability": "Chaque nuit, choisissez un joueur et un rôle « bon » de la partie : il est Dément d’être publiquement ce rôle le jour suivant ou pourrait être exécuté.",
+  "ability": "Chaque nuit, choisissez un joueur et un rôle « bon » de la partie : il est Dément d’être ce rôle le jour suivant ou pourrait être exécuté.",
   "firstNightReminder": "Il pointe un joueur et un rôle sur sa feuille. Ce joueur devient Dément et est obligé d’être ce rôle le jour suivant. Réveillez ce joueur. Montrez la carte verte « Ce rôle vous a sélectionné », puis le jeton Manipulateur. Montrez le jeton Dément, puis le jeton de rôle.",
   "otherNightReminder": "Il pointe un joueur et un rôle sur sa feuille. Ce joueur devient Dément et est obligé d’être ce rôle le jour suivant. Réveillez ce joueur. Montrez la carte verte « Ce rôle vous a sélectionné », puis le jeton Manipulateur. Montrez le jeton Dément, puis le jeton de rôle.",
   "remindersGlobal": null,
@@ -290,8 +290,8 @@
  {
   "id": "damsel",
   "name": "Demoiselle",
-  "ability": "Tous les Sbires savent qu'une Demoiselle est dans la partie. Si un Sbire vous désigne publiquement comme la Demoiselle (usage unique), alors votre camp perd la partie.",
-  "firstNightReminder": "Réveillez tous les Sbires et montrez leur la carte 'Ce personnage est en jeu' ainsi que le jeton de la Demoiselle.",
+  "ability": "Tous les Sbires savent que vous êtes en jeu. Si un Sbire vous désigne publiquement comme la Demoiselle (usage unique), alors votre camp perd la partie.",
+  "firstNightReminder": "Réveillez tous les Sbires et montrez leur la carte 'Ce rôle est en jeu' ainsi que le jeton de la Demoiselle.",
   "otherNightReminder": "Si elle a été désignée par le Chasseur, réveillez la Demoiselle et montrez lui la carte 'Vous êtes désormais' ainsi que le jeton d'un rôle de Villageois qui n'est pas déjà en jeu.",
   "remindersGlobal": null,
   "reminders": "Supposition utilisée"
@@ -353,7 +353,7 @@
  {
   "id": "drunk",
   "name": "Soûlard",
-  "ability": "Vous ne savez pas que vous êtes soûlard. Vous pensez que vous êtes un Villageois, mais vous ne l’êtes pas.",
+  "ability": "Vous ne savez pas que vous êtes le Soûlard. Vous pensez que vous êtes un Villageois, mais vous ne l’êtes pas.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": "Soûlard",
@@ -371,7 +371,7 @@
  {
   "id": "empath",
   "name": "Empathique",
-  "ability": "Chaque nuit, vous apprenez combien de vos voisins survivants sont maléfiques.",
+  "ability": "Chaque nuit, vous apprenez combien de vos voisins vivants sont maléfiques.",
   "firstNightReminder": "Montrer le nombre de ses voisins vivants et maléfique. Forte suggestion : inclure le Reclus et exclure l'Espion.",
   "otherNightReminder": "Montrer le nombre de ses voisins vivants et maléfique. Forte suggestion : inclure le Reclus et exclure l'Espion.",
   "remindersGlobal": null,
@@ -381,15 +381,15 @@
   "id": "engineer",
   "name": "Ingénieur",
   "ability": "Une fois par partie, pendant la nuit, choisissez quels Sbires ou quel Démon sont en jeu.",
-  "firstNightReminder": "L'Ingénieur secoue la tête «Non» OU pointe vers un Démon OU pointe vers le nombre de Sbire approprié. Si l'Ingénieur a choisi des personnages, remplacez le Démon ou les Sbires avec ses choix, puis réveillez les joueurs concernés et montrez-leur la carte «Vous êtes» et les jetons de personnages correspondants.",
-  "otherNightReminder": "L'Ingénieur secoue la tête «Non» OU pointe vers un Démon OU pointe vers le nombre de Sbire approprié. Si l'Ingénieur a choisi des personnages, remplacez le Démon ou les Sbires avec ses choix, puis réveillez les joueurs concernés et montrez-leur la carte «Vous êtes» et les jetons de personnages correspondants.",
+  "firstNightReminder": "L'Ingénieur secoue la tête «Non» OU pointe vers un Démon OU pointe vers le nombre de Sbire approprié. Si l'Ingénieur a choisi des rôles, remplacez le Démon ou les Sbires avec ses choix, puis réveillez les joueurs concernés et montrez-leur la carte «Vous êtes» et les jetons de rôles correspondants.",
+  "otherNightReminder": "L'Ingénieur secoue la tête «Non» OU pointe vers un Démon OU pointe vers le nombre de Sbire approprié. Si l'Ingénieur a choisi des rôles, remplacez le Démon ou les Sbires avec ses choix, puis réveillez les joueurs concernés et montrez-leur la carte «Vous êtes» et les jetons de rôles correspondants.",
   "remindersGlobal": null,
-  "reminders": "Utilisé"
+  "reminders": "Inactif"
  },
  {
   "id": "eviltwin",
   "name": "Jumeau Maléfique",
-  "ability": "Vous et un joueur adverse vous connaissez. Si le joueur bon est exécuté, le mal gagne. Le bien ne peut pas gagner si vous êtes tous les deux en vie.",
+  "ability": "Vous et un joueur d'alignement opposé vous connaissez. Si le joueur bon est exécuté, le mal gagne. Le bien ne peut pas gagner si vous êtes tous les deux en vie.",
   "firstNightReminder": "Réveillez le Jumeau Maléfique et son jumeau. Confirmez qu'ils se sont reconnus. Pointez le Jumeau Maléfique et montrez son jeton rôle au joueur jumeau. Pointer le jumeau et montrez son jeton rôle au joueur Jumeau Maléfique.",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -418,7 +418,7 @@
   "name": "Fermier",
   "ability": "Si vous mourrez pendant la nuit, un autre joueur bon et vivant devient le Fermier.",
   "firstNightReminder": null,
-  "otherNightReminder": "Si le Fermier est mort cette nuit, choisissez un autre joueur bon. Réveillez ce joueur et montrer lui la carte 'Vous êtes désormais' ainsi que le jeton du Fermier.",
+  "otherNightReminder": "Si le Fermier est mort cette nuit, choisissez un autre joueur bon. Réveillez ce joueur et montrer lui la carte « Vous êtes » ainsi que le jeton du Fermier.",
   "remindersGlobal": null,
   "reminders": null
  },
@@ -490,7 +490,7 @@
   "name": "Parieur",
   "ability": "Chaque nuit*, choisissez un joueur et tentez de deviner son rôle, si vous faites erreur, vous mourrez.",
   "firstNightReminder": null,
-  "otherNightReminder": "Choisit un joueur et tente de deviner son rôle puis s’endors. S’il fait erreur, il meurt, ajouter le jeton Mort.",
+  "otherNightReminder": "Il choisit un joueur et tente de deviner son rôle puis s’endors. S’il fait erreur, il meurt, ajouter le jeton Mort.",
   "remindersGlobal": null,
   "reminders": "Mort"
  },
@@ -525,7 +525,7 @@
   "id": "godfather",
   "name": "Parrain",
   "ability": "Vous commencez en sachant quels Étrangers sont en jeu. Si l’un d’entre eux est mort aujourd'hui, choisissez un joueur cette nuit: il meurt. [+1\/-1 Étranger].",
-  "firstNightReminder": "Indiquer les rôle d'Étrangers sont en jeu [+\/-1 Étrangers].",
+  "firstNightReminder": "Indiquer les rôle d'Étrangers qui sont en jeu [+\/-1 Étrangers].",
   "otherNightReminder": "Si un Étranger est mort aujourd'hui, le Parrain choisit un joueur qui meurt.",
   "remindersGlobal": null,
   "reminders": "Mort,Mort Aujourd'hui"
@@ -542,9 +542,9 @@
  {
   "id": "goon",
   "name": "Brute",
-  "ability": "La capacité du 1er rôle qui vous vise chaque nuit ne fonctionne pas. Celui-ci devient ivre jusqu’au crépuscule et vous changez pour son alignement.",
-  "firstNightReminder": "Le premier joueur qui a utilisé sa capacité sur la Brute ne fonctionne pas, ajouter le jeton ivre à ce joueur. Il change d’alignement pour ce joueur. Si c’est le cas: Le réveiller et montrez-lui la carte violette « Vous êtes », puis un signal de la main (pouce vers le haut « bon », pouce vers le bas maléfique) pour son nouvel alignement.",
-  "otherNightReminder": "Le premier joueur qui a utilisé sa capacité sur la Brute ne fonctionne pas, ajouter le jeton ivre à ce joueur. Il change d’alignement pour ce joueur. Si c’est le cas: Le réveiller et montrez-lui la carte violette « Vous êtes », puis un signal de la main (pouce vers le haut « bon », pouce vers le bas maléfique) pour son nouvel alignement.",
+  "ability": "Chaque nuit, le 1er joueur qui vous choisit avec sa capacité devient ivre jusqu'au crépuscule et vous changez pour son alignement.",
+  "firstNightReminder": "Le premier joueur qui a utilisé sa capacité sur la Brute est ivre, ajouter le jeton ivre à ce joueur. Il change d’alignement pour ce joueur. Si c’est le cas: Le réveiller et montrez-lui la carte violette « Vous êtes », puis un signal de la main (pouce vers le haut « bon », pouce vers le bas maléfique) pour son nouvel alignement.",
+  "otherNightReminder": "Le premier joueur qui a utilisé sa capacité sur la Brute est ivre, ajouter le jeton ivre à ce joueur. Il change d’alignement pour ce joueur. Si c’est le cas: Le réveiller et montrez-lui la carte violette « Vous êtes », puis un signal de la main (pouce vers le haut « bon », pouce vers le bas maléfique) pour son nouvel alignement.",
   "remindersGlobal": null,
   "reminders": "Ivre"
  },
@@ -588,8 +588,8 @@
   "id": "harpy",
   "name": "Harpie",
   "ability": "Chaque nuit, choisissez 2 joueurs: demain, le 1er joueur est Dément que le 2nd est Maléfique, ou les deux pourraient mourir.",
-  "firstNightReminder": "Réveillez la Harpie; elle pointe un jouer, puis un autre. Réveillez le 1er joueur que la Harpie a pointé, montrez lui la carte \"Ce personnage vous a choisis\", montrez leur le jeton de la Harpie, puis pointez le 2eme joueur que la Harpie a pointé.",
-  "otherNightReminder": "Réveillez la Harpie; elle pointe un jouer, puis un autre. Réveillez le 1er joueur que la Harpie a pointé, montrez lui la carte \"Ce personnage vous a choisis\", montrez leur le jeton de la Harpie, puis pointez le 2eme joueur que la Harpie a pointé.",
+  "firstNightReminder": "Réveillez la Harpie; elle pointe un joueur, puis un autre. Réveillez le 1er joueur que la Harpie a pointé, montrez lui la carte \"Ce rôle vous a choisis\", montrez leur le jeton de la Harpie, puis pointez le 2eme joueur que la Harpie a pointé.",
+  "otherNightReminder": "Réveillez la Harpie; elle pointe un joueur, puis un autre. Réveillez le 1er joueur que la Harpie a pointé, montrez lui la carte \"Ce rôle vous a choisis\", montrez leur le jeton de la Harpie, puis pointez le 2eme joueur que la Harpie a pointé.",
   "remindersGlobal": null,
   "reminders": "Dément,2eme"
  },
@@ -598,13 +598,13 @@
   "name": "Chapelier",
   "ability": "Si vous mourez aujourd’hui ou cette nuit, le Démon et les Sbires peuvent choisir de devenir de nouveaux rôles de Démon et Sbires.",
   "firstNightReminder": null,
-  "otherNightReminder": "Si le Chapelier est mort aujourd'hui: Réveillez les Sbires et le Démon. Montrez leur le jeton \"Ce personnage vous a choisi\", suivi du jeton du Chapelier. Chaque joueur secoue la tête pour dire \"non\", ou pointe un autre rôle du même type que leur rôle actuel. Si un second joueur devrait avoir le même rôle qu'un autre joueur, secouez la tête et indiquez-leur de choisir un autre rôle. Endormez-les, puis changez les personnages pour ceux qui ont été choisis.",
+  "otherNightReminder": "Si le Chapelier est mort aujourd'hui: Réveillez les Sbires et le Démon. Montrez leur le jeton \"Ce rôle vous a choisi\", suivi du jeton du Chapelier. Chaque joueur secoue la tête pour dire \"non\", ou pointe un autre rôle du même type que leur rôle actuel. Si un second joueur devrait avoir le même rôle qu'un autre joueur, secouez la tête et indiquez-leur de choisir un autre rôle. Endormez-les, puis changez les rôles pour ceux qui ont été choisis.",
   "remindersGlobal": null,
   "reminders": "Soirée de Thé"
  },
  {
   "id": "hellslibrarian",
-  "name": "Archiviste de l'enfer",
+  "name": "Bibliothécaire de l'enfer",
   "ability": "Quelque chose de grave peut arriver au joueur qui parle lorsque le conteur a demandé le silence.",
   "firstNightReminder": null,
   "otherNightReminder": null,
@@ -623,7 +623,7 @@
  {
   "id": "highpriestess",
   "name": "Grande Prêtresse",
-  "ability": "Chaque nuit, apprenez quel joueur auquel le Conteur crois que vous avez le plus besoin de parler.",
+  "ability": "Chaque nuit, apprenez quel joueur le Conteur crois que vous avez le plus besoin de parler.",
   "firstNightReminder": "Pointez un joueur.",
   "otherNightReminder": "Pointez un joueur.",
   "remindersGlobal": null,
@@ -632,9 +632,9 @@
  {
   "id": "huntsman",
   "name": "Chasseur",
-  "ability": "Une fois par partie, pendant la nuit, choisissez un joueur vivant. Si la Demoiselle est choisie, son rôle est remplacé par un autre qui n'est pas déjà en jeu. [+ Demoiselle]",
-  "firstNightReminder": "Le chasseur fait signe 'non' de la tête ou choisit un joueur. S'il choisit la Demoiselle, réveiller ce joueur et montrer la carte 'Vous êtes désormais' ainsi qu'un rôle qui n'est pas déjà en jeu.",
-  "otherNightReminder": "Le chasseur fait signe 'non' de la tête ou choisit un joueur. S'il choisit la Demoiselle, réveiller ce joueur et montrer la carte 'Vous êtes désormais' ainsi qu'un rôle qui n'est pas déjà en jeu.",
+  "ability": "Une fois par partie, pendant la nuit, choisissez un joueur vivant. Si la Demoiselle est choisie, son rôle est remplacé par un Villageois qui n'est pas en jeu. [+ Demoiselle]",
+  "firstNightReminder": "Le chasseur fait signe 'non' de la tête ou choisit un joueur. S'il choisit la Demoiselle, réveiller ce joueur et montrer la carte 'Vous êtes désormais' ainsi qu'un rôle Villageois qui n'est pas en jeu.",
+  "otherNightReminder": "Le chasseur fait signe 'non' de la tête ou choisit un joueur. S'il choisit la Demoiselle, réveiller ce joueur et montrer la carte 'Vous êtes désormais' ainsi qu'un rôle Villageois qui n'est pas en jeu.",
   "remindersGlobal": null,
   "reminders": "Inactif"
  },
@@ -687,7 +687,7 @@
   "id": "kazali",
   "name": "Kazali",
   "ability": "Chaque nuit*, choisissez un joueur: il meurt. [Vous choisissez quels joueurs sont quels Sbires. -?\/+? Etrangers]",
-  "firstNightReminder": "Le Kazali pointe un joueur et montre un rôle de Sbire sur la fiche de personnages. Remplacez le jeton de personnage de ce joueur avec celui du Sbire choisi, réveillez le joueur, puis montrez le jeton d'information \"Tu es\" suivi du jeton de Sbire et d'un pouce vers le bas. Répétez cette opération jusqu'à ce que le nombre normal de Sbires existent. Endormez le Kazali.",
+  "firstNightReminder": "Le Kazali pointe un joueur et montre un rôle de Sbire sur la fiche de rôles. Remplacez le jeton de rôle de ce joueur avec celui du Sbire choisi, réveillez le joueur, puis montrez le jeton d'information \"Tu es\" suivi du jeton de Sbire et d'un pouce vers le bas. Répétez cette opération jusqu'à ce que le nombre normal de Sbires existent. Endormez le Kazali.",
   "otherNightReminder": "Le Kazali pointe un joueur. Ce joueur meurt.",
   "remindersGlobal": null,
   "reminders": "Mort"
@@ -695,7 +695,7 @@
  {
   "id": "king",
   "name": "Roi",
-  "ability": "Chaque nuit, si les morts sont plus nombreux que les vivants, le Conteur vous désigne un rôle d’un joueur vivant. Le Démon sait qui vous êtes.",
+  "ability": "Chaque nuit, si les morts sont plus ou aussi nombreux que les vivants, le Conteur vous désigne un rôle d’un joueur vivant. Le Démon sait qui vous êtes.",
   "firstNightReminder": "Réveillez le Démon, montrez-lui la carte verte « Ce rôle vous a sélectionné », montrez le jeton Roi et pointez le joueur Roi.",
   "otherNightReminder": "Si les morts sont plus nombreux que les vivants, montrer le rôle d'un joueur vivant.",
   "remindersGlobal": null,
@@ -722,7 +722,7 @@
  {
   "id": "legion",
   "name": "Légion",
-  "ability": "Chaque nuit*, un joueur peut mourir. Les exécutions échouent si seulement les maléfiques ont votés. Vous êtes reconnu comme étant un Sbire. [La majorité des joueurs sont des Légions].",
+  "ability": "Chaque nuit*, un joueur peut mourir. Les exécutions échouent si uniquement des maléfiques ont votés. Vous êtes reconnu comme étant un Sbire. [La majorité des joueurs sont des Légions].",
   "firstNightReminder": null,
   "otherNightReminder": "Choisissez un joueur, il meurt.",
   "remindersGlobal": null,
@@ -885,8 +885,8 @@
   "id": "nightwatchman",
   "name": "Veilleur de Nuit",
   "ability": "Une fois par partie, de nuit, choisissez un joueur qui apprendra qui vous êtes.",
-  "firstNightReminder": "Le Veilleur de Nuit peut pointer un joueur. Réveillez ce joueur, montrez-lui la carte « Ce personnage vous a choisi » et le jeton du Veilleur de Nuit, puis pointez le joueur qui est Veilleur de Nuit.",
-  "otherNightReminder": "Le Veilleur de Nuit peut pointer un joueur. Réveillez ce joueur, montrez-lui la carte « Ce personnage vous a choisi » et le jeton du Veilleur de Nuit, puis pointez le joueur qui est Veilleur de Nuit.",
+  "firstNightReminder": "Le Veilleur de Nuit peut pointer un joueur. Réveillez ce joueur, montrez-lui la carte « Ce rôle vous a choisi » et le jeton du Veilleur de Nuit, puis pointez le joueur qui est Veilleur de Nuit.",
+  "otherNightReminder": "Le Veilleur de Nuit peut pointer un joueur. Réveillez ce joueur, montrez-lui la carte « Ce rôle vous a choisi » et le jeton du Veilleur de Nuit, puis pointez le joueur qui est Veilleur de Nuit.",
   "remindersGlobal": null,
   "reminders": "Utilisé"
  },
@@ -909,9 +909,18 @@
   "reminders": "Assassiné,Empoisonné"
  },
  {
+  "id": "ogre",
+  "name": "Ogre",
+  "ability": "Durant votre première nuit, choisissez un autre joueur: vous changez secrètement pour son alignement (sans apprendre lequel) même si vous êtes ivres ou empoisonnés",
+  "firstNightReminder": "L'Ogre choisit un joueur: il change d'alignement pour ce joueur. Ne lui annoncez pas son nouvel alignement.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "ojo",
   "name": "Ojo",
-  "ability": "Chaque nuit*, choisissez un personnage: il meurt. S'il n'est pas en jeu, le Conteur choisit qui meurt.",
+  "ability": "Chaque nuit*, choisissez un rôle: il meurt. S'il n'est pas en jeu, le Conteur choisit qui meurt.",
   "firstNightReminder": null,
   "otherNightReminder": "L'Ojo pointe un joueur sur la feuille; s'il est en jeu, ce joueur meurt. S'il n'est pas en jeu, le Conteur choisit qui meurt à la place.",
   "remindersGlobal": null,
@@ -929,7 +938,7 @@
  {
   "id": "organgrinder",
   "name": "Joueur d'Orgue",
-  "ability": "Tout les joueurs gardent leur yeux fermés pendant les votes et le décompte des votes est secret. Les votes pour vous ne compte que si vous votez.",
+  "ability": "Tout les joueurs gardent leur yeux fermés pendant les votes et le décompte des votes est secret. Les votes pour vous ne comptent que si vous votez.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1263,8 +1272,8 @@
   "id": "summoner",
   "name": "Invocateur",
   "ability": "Vous connaissez 3 bluffs. La 3e nuit, choisissez un joueur: il devient un Démon maléfique de votre choix. [Pas de Démon]",
-  "firstNightReminder": "Montrez la carte « Ces personnages ne sont pas en jeu », puis 3 jetons de personnages Bons qui ne sont pas en jeu.",
-  "otherNightReminder": "S'il s'agit de la 3e nuit, réveillez l'Invocateur. Il pointe un joueur et un Démon sur la fiche de personnage - ce joueur devient ce Démon.",
+  "firstNightReminder": "Montrez la carte « Ces rôles ne sont pas en jeu », puis 3 jetons de rôles Bons qui ne sont pas en jeu.",
+  "otherNightReminder": "S'il s'agit de la 3e nuit, réveillez l'Invocateur. Il pointe un joueur et un Démon sur la fiche de rôles - ce joueur devient ce Démon.",
   "remindersGlobal": null,
   "reminders": "Nuit 1,Nuit 2,Nuit 3"
  },
