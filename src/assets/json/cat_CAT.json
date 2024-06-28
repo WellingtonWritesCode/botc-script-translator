@@ -1127,16 +1127,16 @@
  {
   "id": "sailor",
   "name": "Mariner",
-  "ability": "Each night, choose an alive player: either you or they are drunk until dusk. You can't die.",
-  "firstNightReminder": "The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk.",
-  "otherNightReminder": "The previously drunk player is no longer drunk. The Sailor points to a living player. Either the Sailor, or the chosen player, is drunk.",
+  "ability": "No pots morir. Cada nit tria a 1 jugador viu: tu o aquest jugador esteu borratxos fins al capvespre.",
+  "firstNightReminder": "El Mariner assenyala a un jugador viu. El Mariner o el jugador assenyalat estarà borratxo.",
+  "otherNightReminder": "El jugador que estava borratxo prèviament ja no ho està. El Mariner assenyala a un jugador viu. El Mariner o el jugador assenyalat estarà borratxo.",
   "remindersGlobal": null,
-  "reminders": "Drunk"
+  "reminders": "Borratxo"
  },
  {
   "id": "saint",
   "name": "Sant",
-  "ability": "If you die by execution, your team loses.",
+  "ability": "Si mors per execució, el teu equip perd.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1145,7 +1145,7 @@
  {
   "id": "savant",
   "name": "Prodigi",
-  "ability": "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false.",
+  "ability": "Cada dia, pots visitar al narrador que et dirà dues coses: 1 vertadera i 1 falsa.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
