@@ -92,9 +92,9 @@
  {
   "id": "balloonist",
   "name": "Balloonist",
-  "ability": "Each night, you learn 1 player of each character type, until there are no more types to learn. [+1 Outsider]",
+  "ability": "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]",
   "firstNightReminder": "Choose a character type. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character.",
-  "otherNightReminder": "Choose a character type that does not yet have a Seen reminder next to a character of that type. Point to a player whose character is of that type, if there are any. Place the Balloonist's Seen reminder next to that character.",
+  "otherNightReminder": "Choose a character type different to the previous night. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character, remove the Seen reminder from the previous character.",
   "remindersGlobal": null,
   "reminders": "Seen Townsfolk,Seen Outsider,Seen Minion,Seen Demon,Seen Traveller"
  },
@@ -596,7 +596,7 @@
  {
   "id": "harpy",
   "name": "Harpy",
-  "ability": "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or both might die.",
+  "ability": "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die.",
   "firstNightReminder": "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to.",
   "otherNightReminder": "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to.",
   "remindersGlobal": null,
@@ -704,7 +704,7 @@
  {
   "id": "king",
   "name": "King",
-  "ability": "Each night, if the dead outnumber the living, you learn 1 alive character. The Demon knows who you are.",
+  "ability": "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows who you are.",
   "firstNightReminder": "Wake the Demon, show them the 'This Player is' card, show the King token and point to the King player.",
   "otherNightReminder": "If there are more dead than living, show the King a character token of a living player.",
   "remindersGlobal": null,
@@ -758,7 +758,7 @@
  {
   "id": "lilmonsta",
   "name": "Lil' Monsta",
-  "ability": "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". A player dies each night*. [+1 Minion]",
+  "ability": "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". Each night*, a player might die. [+1 Minion]",
   "firstNightReminder": "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta.",
   "otherNightReminder": "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta. Choose a player, that player dies.",
   "remindersGlobal": "Is the Demon,Dead",
@@ -924,7 +924,7 @@
   "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": null
+  "reminders": "Friend"
  },
  {
   "id": "ojo",
@@ -992,7 +992,7 @@
  {
   "id": "plaguedoctor",
   "name": "Plague Doctor",
-  "ability": "If you die, the Storyteller gains a not-in-play Minion ability.",
+  "ability": "If you die, the Storyteller gains a Minion ability.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
