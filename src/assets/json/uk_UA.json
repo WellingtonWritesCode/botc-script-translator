@@ -28,8 +28,8 @@
  },
  {
   "id": "alsaahir",
-  "name": "Alsaahir",
-  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "name": "Азахір",
+  "ability": "Раз в день, якщо публічно вгадаєш які гравці Міньони і які - Демони, добро перемагає.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
