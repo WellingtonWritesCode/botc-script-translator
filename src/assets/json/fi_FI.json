@@ -27,6 +27,15 @@
   "reminders": "1,2,3, Valitse elämä, Valitse kuolema"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Muistinsa menettänyt",
   "ability": "Et tiedä mikä kykysi on. Joka päivä, voit yksityisesti arvata mikä kykysi on: saat tietää kuinka lähellä olet.",

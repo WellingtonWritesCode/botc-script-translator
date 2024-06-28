@@ -27,6 +27,15 @@
   "reminders": "زندگی,مرگ,۱,۲,۳"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "فراموشگر",
   "ability": "شما قابلیت خود را نمی‌دانید. هر روز، خصوصی آن را حدس بزنید. شما می‌فهمید چه‌قدر نزدیک هستید",

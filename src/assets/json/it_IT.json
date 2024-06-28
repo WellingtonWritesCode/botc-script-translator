@@ -27,6 +27,15 @@
   "reminders": null
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Smemorato",
   "ability": "Non sai quale sia la tua abilità. Ogni giorno, prova a indovinare in privato quale sia: apprendi quanto ci sei andato vicino.",
@@ -56,7 +65,7 @@
  {
   "id": "artist",
   "name": "Artista",
-  "ability": "Una volta per partita, durante il giorno, puoi porgere privatamente al Narratore una qualsiasi domanda a cui è possibile rispondere con sì\/no.\n",
+  "ability": "Una volta per partita, durante il giorno, puoi porgere privatamente al Narratore una qualsiasi domanda a cui è possibile rispondere con sì\/no.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -172,9 +181,9 @@
  },
  {
   "id": "bountyhunter",
-  "name": "Mercenario",
+  "name": "Cacciatore di Taglie",
   "ability": "Inizi conoscendo un giocatore malvagio. Se quel giocatore muore (di notte o di giorno), la notte stessa o la notte successiva scopri un altro giocatore malvagio. [1 Cittadino è malvagio]",
-  "firstNightReminder": "Sveglia il Cittadino designato da te come malvagio e mostragli la carta \"Tu sei\" con il segno del pollice in giù \"malvagio\". Sveglia il Mercenario e indica 1 giocatore Malvagio (oppure il Cittadino malvagio). ",
+  "firstNightReminder": "Sveglia il Cittadino designato da te come malvagio e mostragli la carta \"Tu sei\" con il segno del pollice in giù \"malvagio\". Sveglia il Cacciatore di Taglie e indica 1 giocatore Malvagio (oppure il Cittadino malvagio). ",
   "otherNightReminder": "Se il giocatore malvagio conosciuto è morto, indica un altro giocatore malvagio (o il Cittadino malvagio, o lo stesso giocatore malvagio già conosciuto).",
   "remindersGlobal": null,
   "reminders": "Conosce"
@@ -355,7 +364,7 @@
   "name": "Ubriaco",
   "ability": "Non sai di essere l'Ubriaco. Pensi di essere un Cittadino, ma non lo sei.",
   "firstNightReminder": null,
-  "otherNightReminder": "Wake each player marked “Visitor” or “False Info” one at a time. Show them the Duchess token, then fingers (1, 2, 3) equaling the number of evil players marked “Visitor” or, if you are waking the player marked “False Info,” show them any number of fingers except the number of evil players marked “Visitor.”",
+  "otherNightReminder": null,
   "remindersGlobal": "Ubriaco",
   "reminders": null
  },
@@ -883,10 +892,10 @@
  },
  {
   "id": "nightwatchman",
-  "name": "Sentinella",
+  "name": "Vedetta",
   "ability": "Una volta per partita, di notte, scegli un giocatore: scopre chi sei.",
-  "firstNightReminder": "La Sentinella può indicare un giocatore. Sveglia quel giocatore, mostragli la tessera \"Questo personaggio ha scelto te\", il gettone della Sentinella e indica il giocatore Sentinella.",
-  "otherNightReminder": "La Sentinella può indicare un giocatore. Sveglia quel giocatore, mostragli la tessera \"Questo personaggio ha scelto te\", il gettone del Sentinella e indica il giocatore Sentinella.",
+  "firstNightReminder": "La Vedetta può indicare un giocatore. Sveglia quel giocatore, mostragli la tessera \"Questo personaggio ha scelto te\", il gettone della Vedetta e indica il giocatore Vedetta.",
+  "otherNightReminder": "La Vedetta può indicare un giocatore. Sveglia quel giocatore, mostragli la tessera \"Questo personaggio ha scelto te\", il gettone della Vedetta e indica il giocatore Vedetta.",
   "remindersGlobal": null,
   "reminders": "Nessuna abilità"
  },
@@ -910,9 +919,9 @@
  },
  {
   "id": "ogre",
-  "name": "Ogre",
-  "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
-  "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
+  "name": "Orco",
+  "ability": "Durante la tua 1ᵃ notte scegli un giocatore (non te stesso): diventi della sua fazione (non sai quale) anche se sei avvelenato o ubriaco.",
+  "firstNightReminder": "L'Orco indica un giocatore (non sé stesso) e diventa della sua fazione.",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null

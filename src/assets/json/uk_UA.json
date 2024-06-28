@@ -27,6 +27,15 @@
   "reminders": "1,2,3,Обрали жити,Обрали вмерти"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Амнезіак",
   "ability": "Ти не знаєш своєї здібності. Щодня спробуй (приватно) вгадати її; ти дізнаєшся наскільки ти близько.",
@@ -695,7 +704,7 @@
  {
   "id": "king",
   "name": "Король",
-  "ability": "Щоночі, якщо мертвих більше ніж живих, дізнайся живого персонажа. Демон знає хто ти.",
+  "ability": "Щоночі, якщо живих не більше мертвих, дізнайся живого персонажа. Демон знає хто ти.",
   "firstNightReminder": "Розбудіть Демона, покажіть картку 'Вас обрав персонаж' і жетон Короля. Вкажіть на гравця-Короля.",
   "otherNightReminder": "Якщо більше мертвих аніж живих гравців: покажіть Королю жетон персонажа живого гравця.",
   "remindersGlobal": null,
@@ -910,9 +919,9 @@
  },
  {
   "id": "ogre",
-  "name": "Ogre",
-  "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
-  "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
+  "name": "Огр",
+  "ability": "Першої своєї ночі обери гравця (не себе): ти переходиш на їх сторону (не дізнаєшся яку), навіть якщо п'ян чи отруєн.",
+  "firstNightReminder": "Огр вказує на гравця (не себе) і переходить в їх команду.",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null
@@ -1271,7 +1280,7 @@
  {
   "id": "summoner",
   "name": "Заклинач",
-  "ability": "Ти отримуєш блефи. На третю ніч обери гравця: той стають обраним Демоном. [Нема Демона]",
+  "ability": "Ти отримуєш блефи. На третю ніч обери гравця: той стає обраним Демоном. [Нема Демона]",
   "firstNightReminder": "Покажи карту \"Ці персонажі не в грі\". Покажи жетони трьох персонажів що не в грі.",
   "otherNightReminder": "Якщо це ніч 3 - розбуди Заклинача;  той вказує на гравця і на Демона в списку персонажів - той гравець стає цим Демоном.",
   "remindersGlobal": null,

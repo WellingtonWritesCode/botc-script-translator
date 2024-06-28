@@ -27,6 +27,15 @@
   "reminders": "1,2,3,Scelto Morte,Scelto Vita"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Smemorato",
   "ability": "Non sai quale sia la tua abilità. Ogni giorno, prova a indovinare in privato quale sia: apprendi quanto ci sei andato vicino.",

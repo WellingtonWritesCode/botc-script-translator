@@ -27,6 +27,15 @@
   "reminders": "1,2,3,选择死,选择生"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "追忆者",
   "ability": "你不知道你的技能是什么。直到你猜中为止。你每个白天都可以向说书人猜测一次。",

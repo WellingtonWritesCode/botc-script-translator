@@ -27,6 +27,15 @@
   "reminders": "1,2,3,Bewnans dewisys,Mernans dewisys"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Kovgollor",
   "ability": "You do not know what your ability is. Pub jydh, privately guess what it is: you learn how accurate you are.",

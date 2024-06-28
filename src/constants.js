@@ -1,5 +1,6 @@
 export const locales = [
     "en_GB",
+    "cat_CAT",
     "nn_NO",
     "nb_NO",
     "ar_AR",

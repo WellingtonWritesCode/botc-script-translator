@@ -27,6 +27,15 @@
   "reminders": "1,2,3,死を選んだ、生を選んだ"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Amnesiac",
   "ability": "あなたは自分の能力が何であるかを知りません。毎日、それが何であるかを個人的に推測してください。自分がどれだけ正確であるかを学びます。",

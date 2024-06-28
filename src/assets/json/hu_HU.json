@@ -27,6 +27,15 @@
   "reminders": "1,2,3, Válassz halált, Válassz életet"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Amnéziás",
   "ability": "Nem tudod mi a képességed. Minden nap privátban találgathatsz mi is az: megtudod mennyire tippeltél pontosan.",

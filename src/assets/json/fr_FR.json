@@ -27,6 +27,15 @@
   "reminders": "1,2,3,Veut mourir,Veut vivre"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Chaque jour, si vous devinez publiquement quels joueurs est\/sont Sbires et quels joueurs est\/sont Démons, les Bons gagnent.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Amnésique",
   "ability": "Vous ne connaissez pas votre capacité. Chaque jour, tentez de la deviner en privé: vous apprenez à quel point vous êtes précis.",
@@ -83,11 +92,11 @@
  {
   "id": "balloonist",
   "name": "Aéronaute",
-  "ability": "Chaque nuit, vous apprenez 1 joueur de chaque type, jusqu'à ce qu'il n'y ait plus de types à découvrir [+1 Étranger].",
+  "ability": "Chaque nuit, vous apprenez un joueur d'un type différent de la nuit dernière. [+1 Étranger]",
   "firstNightReminder": "Choisissez un type de rôle. Pointez un joueur dont le rôle est de ce type. Placez le rappel « Vu » de l'Aéronaute sous ce rôle.",
-  "otherNightReminder": "Choisissez un type de rôle que vous n'avez pas encore choisi. Pointez un joueur dont le rôle est de ce type. Placez le rappel « Vu » de l'Aéronaute sous ce rôle.",
+  "otherNightReminder": "Choisissez un type de rôle différent de la nuit dernière. Pointez un joueur dont le rôle est de ce type. Placez le rappel « Vu » de l'Aéronaute sous ce rôle.",
   "remindersGlobal": null,
-  "reminders": "Vu Démon,Vu Sbire,Vu Villageois,Vu Voyageur,Vu Étranger"
+  "reminders": "vu"
  },
  {
   "id": "banshee",
@@ -587,7 +596,7 @@
  {
   "id": "harpy",
   "name": "Harpie",
-  "ability": "Chaque nuit, choisissez 2 joueurs: demain, le 1er joueur est Dément que le 2nd est Maléfique, ou les deux pourraient mourir.",
+  "ability": "Chaque nuit, choisissez 2 joueurs: demain, le 1er joueur est Dément que le 2nd est Maléfique, ou l'un ou les deux pourraient mourir.",
   "firstNightReminder": "Réveillez la Harpie; elle pointe un joueur, puis un autre. Réveillez le 1er joueur que la Harpie a pointé, montrez lui la carte \"Ce rôle vous a choisis\", montrez leur le jeton de la Harpie, puis pointez le 2eme joueur que la Harpie a pointé.",
   "otherNightReminder": "Réveillez la Harpie; elle pointe un joueur, puis un autre. Réveillez le 1er joueur que la Harpie a pointé, montrez lui la carte \"Ce rôle vous a choisis\", montrez leur le jeton de la Harpie, puis pointez le 2eme joueur que la Harpie a pointé.",
   "remindersGlobal": null,
@@ -749,9 +758,9 @@
  {
   "id": "lilmonsta",
   "name": "P'tit monstre",
-  "ability": "Chaque nuit, les Sbires choisissent qui garde le jeton P’tit Monstre et « est le Démon ». Un joueur meurt chaque nuit* [+1 Sbire].",
+  "ability": "Chaque nuit, les Sbires choisissent qui garde le jeton P’tit Monstre et « est le Démon ». Un joueur peut mourrir chaque nuit* [+1 Sbire].",
   "firstNightReminder": "Au début de la nuit, réveillez tous les Sbires. Les Sbires désignent un joueur qui reçoit le jeton P'tit Monstre et devient le Démon.",
-  "otherNightReminder": "Au début de la nuit, réveillez tous les Sbires. Les Sbires désignent un joueur qui reçoit le jeton P'tit Monstre et devient le Démon. Plus tard pendant la nuit, le Conteur désigne un joueur qui est aussitôt assassiné (vous pouvez demander la préférence du gardien du P’tit Monstre pour déterminer la cible de celui-ci).",
+  "otherNightReminder": "Au début de la nuit, réveillez tous les Sbires. Les Sbires désignent un joueur qui reçoit le jeton P'tit Monstre et devient le Démon. Plus tard pendant la nuit, vous pouvez désigner un joueur qui est aussitôt assassiné (vous pouvez demander la préférence du gardien du P’tit Monstre pour déterminer la cible de celui-ci).",
   "remindersGlobal": "Assassiné,P’tit Monstre",
   "reminders": null
  },
@@ -911,11 +920,11 @@
  {
   "id": "ogre",
   "name": "Ogre",
-  "ability": "Durant votre première nuit, choisissez un autre joueur: vous changez secrètement pour son alignement (sans apprendre lequel) même si vous êtes ivres ou empoisonnés",
+  "ability": "Durant votre première nuit, choisissez un autre joueur: vous changez secrètement pour son alignement (sans apprendre lequel) même si vous êtes ivre ou empoisonné.",
   "firstNightReminder": "L'Ogre choisit un joueur: il change d'alignement pour ce joueur. Ne lui annoncez pas son nouvel alignement.",
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": null
+  "reminders": "Ami"
  },
  {
   "id": "ojo",
@@ -982,8 +991,8 @@
  },
  {
   "id": "plaguedoctor",
-  "name": "Médecin de Peste",
-  "ability": "Si vous mourrez, le Conteur gagne la capacité d'un Sbire pas en jeu.",
+  "name": "Médecin de la Peste",
+  "ability": "Si vous mourrez, le Conteur gagne la capacité d'un Sbire.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,

@@ -27,6 +27,15 @@
   "reminders": "1,2,3,اختار الموت,اختار الحياة\n"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "فاقد الذاكرة",
   "ability": "أنت لاتعرف ماهي ميزتك وقدراتك. في كل يوم، تخمن ميزتك وتعرف مدى صحة هذا التخمين.",

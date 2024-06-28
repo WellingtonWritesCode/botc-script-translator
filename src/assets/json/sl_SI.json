@@ -27,6 +27,15 @@
   "reminders": "1,2,3,Izbral smrt,Izbral življenje"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Pozabljivec",
   "ability": "Imaš moč, a ne veš, kaj je. Vsak dan lahko Pripovedovalca na samem vprašaš nekaj o njej. Izveš, kako blizu si.",

@@ -27,6 +27,15 @@
   "reminders": "1,2,3,Wähle Leben,Wähle Tod"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Amnesiker",
   "ability": "Du kennst deine Fähigkeit nicht. Jeden Tag, versuche, sie privat zu erraten: du erfährst, wie richtig du liegst.",
@@ -128,7 +137,7 @@
  {
   "id": "beggar",
   "name": "Bettler",
-  "ability": "Du benötigst einen Spielstein zum Abstimmen. Tote Spiele dürfen Dir ihren Stein abgeben. Wenn sie das tun, lernst Du ihre Gesinnung (gut\/böse)",
+  "ability": "Du benötigst einen Spielstein zum Abstimmen. Tote Spiele dürfen Dir ihren Stein abgeben. Wenn sie das tun, lernst Du ihre Gesinnung (gut\/böse). Du bist nüchtern und gesund.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -191,7 +200,7 @@
  {
   "id": "bureaucrat",
   "name": "Bürokrat",
-  "ability": "Jede Nacht, wähle einen Spieler (nicht dich selbst): die Stimme dieses Spieler zählt für 3 Stimmen bei der Abstimmung am folgenden Tag.",
+  "ability": "Jede Nacht, wähle einen Spieler (nicht dich selbst): dessen Stimme zählt als 3 Stimmen bei der Abstimmung am folgenden Tag.",
   "firstNightReminder": "Der Bürokrat zeigt auf einen Spieler. Lege den '3 Stimmen' reminder neben die Karte des ausgewählten Spielers.",
   "otherNightReminder": "Der Bürokrat zeigt auf einen Spieler. Lege den '3 Stimmen' reminder neben die Karte des ausgewählten Spielers.",
   "remindersGlobal": null,
@@ -1145,7 +1154,7 @@
  {
   "id": "scapegoat",
   "name": "Sündenbock",
-  "ability": "Wenn ein Spieler deiner Gesinnung am Tag hingerichtet wurde, kannst Du Dich stattdessen opfern.",
+  "ability": "Falls ein Spieler deiner Gesinnung am Tag hingerichtet wird, könntest du stattdessen hingerichtet werden.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,

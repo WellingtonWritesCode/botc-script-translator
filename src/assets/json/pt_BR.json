@@ -27,6 +27,15 @@
   "reminders": "1,2,3,Morte,Vida"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Uma vez por dia, se você publicamente adivinhar quais jogadores são Lacaio(s) e quais são Demônio(s), o bem vence.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Esquecido",
   "ability": "Você não sabe qual é a sua habilidade. A cada dia, visite o Narrador para tentar adivinhar a sua habilidade: saiba o quão perto está da resposta.",
@@ -83,9 +92,9 @@
  {
   "id": "balloonist",
   "name": "Balonista",
-  "ability": "A cada noite, saiba um jogador de cada tipo de personagem, até não sobrar mais tipos de personagem. [+1 Forasteiro]",
+  "ability": "A cada noite, saiba um jogador de um tipo de personagem diferente da última noite. [+0 ou +1 Forasteiro]",
   "firstNightReminder": "Mostre qualquer jogador. :reminder:",
-  "otherNightReminder": "Aponte para um jogador que tenha um tipo personagem diferente dos mostrados anteriormente. :reminder:",
+  "otherNightReminder": "Aponte para um jogador que tenha um tipo personagem diferente do anterior. :reminder:",
   "remindersGlobal": null,
   "reminders": "Cidadão Visto,Demônio Visto,Forasteiro Visto,Lacaio Visto,Viajante Visto"
  },
@@ -587,7 +596,7 @@
  {
   "id": "harpy",
   "name": "Harpia",
-  "ability": "A cada noite, escolha 2 jogadores: amanhã o 1º alucina que o 2º é do mal, ou ambos podem morrer.",
+  "ability": "A cada Noite, escolha 2 jogadores: amanhã o 1º alucina que o 2º é do mal, ou um ou ambos podem morrer.",
   "firstNightReminder": "Acorde a Harpia; ela aponta para um jogador, depois outro. Acorde o 1º jogador que a Harpia apontou, mostre o token 'Você foi alvo desta habilidade' e o token da Harpia, aponte para o 2º jogador escolhido.",
   "otherNightReminder": "Acorde a Harpia; ela aponta para um jogador, depois outro. Acorde o 1º jogador que a Harpia apontou, mostre o token 'Você foi alvo desta habilidade' e o token da Harpia, aponte para o 2º jogador escolhido.",
   "remindersGlobal": null,
@@ -749,7 +758,7 @@
  {
   "id": "lilmonsta",
   "name": "Monstrinho",
-  "ability": "A cada noite os Lacaios escolhem quem cuidará do Monstrinho e \"é o Demônio\". A cada noite*, um jogador morre. [+1 Lacaio]",
+  "ability": "A cada noite os Lacaios escolhem quem cuidará do Monstrinho e 'é o Demônio'. A cada noite* um jogador pode morrer. [+1 Lacaio]",
   "firstNightReminder": "Acorde todos os Lacaios juntos, permita que eles votem apontando para quem eles querem que tome conta do Monstrinho.",
   "otherNightReminder": "Acorde todos os Lacaios juntos, permita que eles votem apontando para quem eles querem que tome conta do Monstrinho. Escolha um jogador, aquele jogador morre.",
   "remindersGlobal": "É o Demônio,Morto",
@@ -911,11 +920,11 @@
  {
   "id": "ogre",
   "name": "Ogro",
-  "ability": "Na sua primeira noite, escolha um jogador (exceto você): você se torna seu alinhamento (você não sabe qual) mesmo se estiver bêbado ou envenenado.",
+  "ability": "Na sua primeira noite, escolha um jogador (exceto você): você se torna do seu alinhamento (você não sabe qual) mesmo se estiver bêbado ou envenenado.",
   "firstNightReminder": "O Ogro aponta para outro jogador e se torna seu alinhamento.",
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": null
+  "reminders": "Amigo"
  },
  {
   "id": "ojo",
@@ -983,7 +992,7 @@
  {
   "id": "plaguedoctor",
   "name": "Médico da Peste",
-  "ability": "Se você morrer, o Narrador recebe a habilidade de um Lacaio que não está em jogo.",
+  "ability": "Se você morrer, o Narrador ganha a habilidade de um Lacaio.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,

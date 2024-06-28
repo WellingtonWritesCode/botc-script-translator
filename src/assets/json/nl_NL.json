@@ -27,6 +27,15 @@
   "reminders": "1,2,3,Koos sterven,Koos leven"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Geheugenverliezer",
   "ability": "Je weet niet wat je eigenschap is. Iedere dag, raad in privé wat het is: je leert hoe correct je bent.",

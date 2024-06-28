@@ -27,6 +27,15 @@
   "reminders": "1,2,3,Valde dauden,Valde livet"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "Forgløymd",
   "ability": "Du veit ikkje kva evna di er. Kvar dag, giss i fortrulegheit kva ho er: lær kor presis du er.",

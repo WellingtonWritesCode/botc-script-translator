@@ -27,6 +27,15 @@
   "reminders": "1,2,3,选择死,选择生"
  },
  {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "amnesiac",
   "name": "失忆者",
   "ability": "你不知道你的能力是什么。每个白天你可以找说书人猜测一次，你会得知你的猜测有多准确。",
@@ -910,9 +919,9 @@
  },
  {
   "id": "ogre",
-  "name": "Ogre",
-  "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
-  "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
+  "name": "食人魔",
+  "ability": "在你的首个夜晚，你要选择除你以外的一名玩家：你转变为他的阵营，即使你已醉酒或中毒，但你不知道你转变后的阵营。",
+  "firstNightReminder": "在首个夜晚，唤醒食人魔。让食人魔指向一名玩家。让食人魔重新入睡。如果食人魔指向了一名邪恶玩家，将食人魔的角色标记倒转放置，代表食人魔现在属于邪恶阵营。",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null
