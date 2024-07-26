@@ -1440,6 +1440,15 @@
   "reminders": "Dead"
  },
  {
+  "Column1": "zealot",
+  "name": "Zealot",
+  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "Column1": "zombuul",
   "name": "Zombuul",
   "ability": "Cada noche*, si nadie ha muerto durante el día, elige 1 jugador: muere. La primera vez que mueras, vives pero apareces como malo.",

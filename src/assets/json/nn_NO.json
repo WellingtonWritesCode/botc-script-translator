@@ -1440,6 +1440,15 @@
   "reminders": "Dead"
  },
  {
+  "id": "zealot",
+  "name": "Zealot",
+  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "zombuul",
   "name": "Dauguul",
   "ability": "Kvar natt*, om ingen døydde i dag, vel ein spelar: dei døyr. Fyrste gongen du døyr, lever du i staden, men vert av alle andre tydd som daud.",

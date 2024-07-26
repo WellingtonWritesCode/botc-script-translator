@@ -1,0 +1,1460 @@
+[
+ {
+  "id": "acrobat",
+  "name": "Acròbata",
+  "ability": "Cada nit*, si algun dels teus veïns vius i de l'equip del bé, està borratxo o emmetzinat, mors.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si algun dels veïns vius de l'Acròbata és de l'equip del bé, i està borratxo o emmetzinat, l'Acròbata mor.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "alchemist",
+  "name": "Alquimista",
+  "ability": "Tens l'habilitat d'un sequaç que no està en joc.",
+  "firstNightReminder": "Mostra-li a l'Alquimista una fitxa de sequaç que no estigui en joc.",
+  "otherNightReminder": null,
+  "remindersGlobal": "És l'Alquimista",
+  "reminders": null
+ },
+ {
+  "id": "alhadikhia",
+  "name": "Al-Hadikhia",
+  "ability": "Cada nit*, tria tres jugadors (tots els jugadors sabran quins has triat): cadascun tria en silenci viure o morir, però si tots trien viure, tots moriran.",
+  "firstNightReminder": null,
+  "otherNightReminder": "L'Al-Hadikhia tria a tres jugadors. Anuncia en veu alta el primer jugador i desperta'l. Si assenteix viu, si nega amb el cap, mor. Actualitza el grimori en conseqüència. Després posa'l a dormir i anuncia el següent jugador. Si en acabat els tres són vius, tots moren.",
+  "remindersGlobal": null,
+  "reminders": "1, 2, 3, tria viure, tria morir"
+ },
+ {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "Un cop al dia, si encertes públicament quins jugadors són els sequaços i quins els dimonis, l'equip del bé guanya la partida.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "amnesiac",
+  "name": "Amnèsic",
+  "ability": "No saps quina és la teva habilitat. Cada dia, en privat, intenta endevinar quina és: sabràs com d'encertat has estat.",
+  "firstNightReminder": "Decideix l'habilitat de l'Amnèsic. Si l'habilitat el fa despertar aquesta nit: desperta'l i executa-la.",
+  "otherNightReminder": "Si l'habilitat de l'Amnèsic el fa despertar aquesta nit: desperta'l i executa-la.",
+  "remindersGlobal": null,
+  "reminders": "?"
+ },
+ {
+  "id": "angel",
+  "name": "Àngel",
+  "ability": "Quelcom dolent li podria passar al responsable de la mort d'un nou jugador.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Protegir, Quelcom dolent"
+ },
+ {
+  "id": "apprentice",
+  "name": "Aprenent",
+  "ability": "En la teva primera nit, obtens una habilitat de vilatà (si ets de l'equip del bé), o una de sequaç (si ets de l'equip del mal).",
+  "firstNightReminder": "Mostra-li a l'Aprenent el missatge 'Tu ets...', després una fitxa de vilatà o de sequaç. Al grimori, substitueix la fitxa de l'Aprenent per la fitxa del personatge escollit, i col·loca-li el recordatori de 'És l'Aprenent'.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "És l'Aprenent"
+ },
+ {
+  "id": "artist",
+  "name": "Artista",
+  "ability": "Una vegada per partida, durant el dia, fes-li al narrador, en privat, una pregunta de sí o no.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Sense habilitat"
+ },
+ {
+  "id": "assassin",
+  "name": "Assassí",
+  "ability": "Una vegada per partida, a la nit*, tria un jugador: mor, encara que per alguna raó no pugui fer-ho.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si l'Assassí encara no ha utilitzat la seva habilitat: L'Assassí o bé nega amb el cap, o assenyala a un jugador. Aquest jugador mor.",
+  "remindersGlobal": null,
+  "reminders": "Mort, sense habilitat"
+ },
+ {
+  "id": "atheist",
+  "name": "Ateu",
+  "ability": "El narrador pot trencar les regles del joc i, si és executat, guanyarà l'equip del bé, fins i tot si ets mort [no hi ha personatges malvats].",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "balloonist",
+  "name": "Aeronauta",
+  "ability": "Cada nit descobreixes que un jugador és d'un tipus de personatge, fins que no hi hagi més tipus de personatge per descobrir. [+1 FORASTER]",
+  "firstNightReminder": "Tria un tipus de personatge. Assenyala a un jugador el personatge del qual sigui d'aquest tipus. Col·loca el recordatori de vist per l'Aeronauta al costat d'aquest personatge.",
+  "otherNightReminder": "Tria un tipus de personatge que encara no hagi descobert el jugador. Per recordar quin tipus encara no ha descobert, assegura't que no hi ha cap recordatori de vist al costat d'un personatge d'aquest tipus. Assenyala a un jugador, el personatge del qual és d'aquest tipus, si n'hi ha. Col·loca el recordatori de vist per l'Aeronauta al costat d'aquest personatge.",
+  "remindersGlobal": null,
+  "reminders": "Vilatà vist, foraster vist, sequaç vist, dimoni vist, viatger vist"
+ },
+ {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "Si el dimoni et mata, tots els jugadors ho sabran. A partir d'aquest moment, es podrà acusar dues vegades al dia i votar dues vegades en cada acusació.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Anuncia que el Banshee ha mort.",
+  "remindersGlobal": null,
+  "reminders": "Té l'habilitat"
+ },
+ {
+  "id": "barber",
+  "name": "Barber",
+  "ability": "Si has mort (ja sigui durant el dia o la nit), el dimoni pot triar a dos jugadors (no pot triar un altre dimoni) perquè intercanviïn els seus personatges.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si el Barber ha mort avui: Desperta el dimoni. Mostra-li la carta 'Aquest jugador t'ha seleccionat' i, a continuació, la fitxa de Barber. El dimoni pot negar amb el cap, o bé pot assenyalar a dos jugadors. Si assenyala jugadors: intercanvia les fitxes de personatge. Desperta cada jugador. Mostra 'Tu ets...', després mostra-li la seva nova fitxa de personatge.",
+  "remindersGlobal": null,
+  "reminders": "Tallades de cabells aquesta nit"
+ },
+ {
+  "id": "barista",
+  "name": "Barista",
+  "ability": "Cada nit, el narrador tria a un jugador i fins al vespre: a) Es torna sobri i sa i rep informació veritable, o b) La seva habilitat s'activa dues vegades.",
+  "firstNightReminder": "Tria un jugador, desperta'l i digues-li quin poder del Barista l'està afectant. Tracta'l en conseqüència (informació sòbria\/sana\/certa o activa la seva habilitat dues vegades).",
+  "otherNightReminder": "Tria un jugador, desperta'l i digues-li quin poder del Barista l'està afectant. Tracta'l en conseqüència (informació sòbria\/sana\/certa o activa la seva habilitat dues vegades).",
+  "remindersGlobal": null,
+  "reminders": "Sobri i sa, habilitat doble"
+ },
+ {
+  "id": "baron",
+  "name": "Baró",
+  "ability": "Hi ha foresters addicionals en joc. [+2 FORASTERS]",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "beggar",
+  "name": "Captaire",
+  "ability": "Necessites un vot fantasma per a votar. Si un jugador mort te'l dona, descobreixes el seu equip. Tu estàs sobri i sa.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bishop",
+  "name": "Bisbe",
+  "ability": "Només el narrador pot acusar. Com a mínim ha d'acusar a un jugador de l'equip contrari al del Bisbe.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Acusat del bé, acusat del mal"
+ },
+ {
+  "id": "bonecollector",
+  "name": "Col·leccionista d'ossos",
+  "ability": "Una vegada per partida, a la nit, tria a un jugador mort; aquest recupera la seva habilitat fins al vespre.",
+  "firstNightReminder": null,
+  "otherNightReminder": "El Col·leccionista d'ossos nega amb el cap o assenyala qualsevol jugador mort. Si assenyala qualsevol jugador mort, col·loca al costat de la fitxa del personatge escollit el recordatori de 'Té l'habilitat' (és possible que l'hagis de despertar aquesta nit per utilitzar-la).",
+  "remindersGlobal": null,
+  "reminders": "Sense habilitat, té l'habilitat"
+ },
+ {
+  "id": "boomdandy",
+  "name": "Bombat",
+  "ability": "Si ets executat, tots els jugadors menys tres moren. Un minut més tard, el jugador amb més jugadors assenyalant-lo també mor.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bootlegger",
+  "name": "Contrabandista",
+  "ability": "Aquest guió té personatges i regles casolanes.",
+  "firstNightReminder": "Anuncia que el Contrabandista està en joc i informa el grup de tots els personatges i\/o regles casolanes que esteu utilitzant en aquesta partida.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bountyhunter",
+  "name": "Caça-recompenses",
+  "ability": "Comences coneixent que un jugador és malvat. Si el jugador en qüestió mor, descobriràs un altre jugador malvat aquesta nit. [1 VILATÀ ÉS MALVAT]",
+  "firstNightReminder": "Assenyala al jugador malvat. Desperta al vilatà que és malvat i mostra-li la carta \"Tu ets...\" i el signe del mal.",
+  "otherNightReminder": "Si el jugador malvat descobert ha mort, assenyala a un altre jugador malvat.",
+  "remindersGlobal": null,
+  "reminders": "Malvat conegut"
+ },
+ {
+  "id": "buddhist",
+  "name": "Budista",
+  "ability": "Durant els dos primers minuts de cada dia, els jugadors veterans no poden parlar.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bureaucrat",
+  "name": "Buròcrata",
+  "ability": "Cada nit, tria a un jugador (no a tu mateix): demà el seu vot comptarà com a tres vots.",
+  "firstNightReminder": "El Buròcrata assenyala un jugador. Al costat de la fitxa de personatge del jugador escollit col·loca-hi el recordatori de «Tres vots» per recordar-ho.",
+  "otherNightReminder": "El Buròcrata assenyala un jugador. Al costat de la fitxa de personatge del jugador escollit col·loca-hi el recordatori de «Tres vots» per recordar-ho.",
+  "remindersGlobal": null,
+  "reminders": "Tres vots"
+ },
+ {
+  "id": "butcher",
+  "name": "Carnisser",
+  "ability": "Cada dia, després de la primera execució, pots acusar novament.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "butler",
+  "name": "Majordom",
+  "ability": "Cada nit tria a un jugador que no siguis tu mateix (pots repetir l'anterior). Durant el dia tan sols pots votar si ell també ho fa.",
+  "firstNightReminder": "El Majordom assenyala a un jugador. Marca aquest jugador com a 'Amo'.",
+  "otherNightReminder": "El Majordom assenyala a un jugador. Marca aquest jugador com a 'Amo'.",
+  "remindersGlobal": null,
+  "reminders": "Amo"
+ },
+ {
+  "id": "cannibal",
+  "name": "Caníbal",
+  "ability": "Tens l'habilitat de l'últim jugador mort per execució. Si és malvat, estàs emmetzinat fins que un jugador de l'equip del bé mori per execució.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Emmetzinat, mort avui"
+ },
+ {
+  "id": "cerenovus",
+  "name": "Cerenovus",
+  "ability": "Cada nit tria a un jugador i a un personatge del bé: demà s'haurà de mostrar convençut de ser aquest personatge, en cas contrari pot ser executat.",
+  "firstNightReminder": "El Cerenovus assenyala a un jugador i després a un personatge del guió. Desperta al jugador assenyalat. Mostra-li la carta 'Aquest personatge t'ha seleccionat' seguit de la fitxa del Cerenovus. Mostra-li també la fitxa del personatge seleccionat. Si demà el jugador no està boig per ser aquest personatge, pot ser executat.",
+  "otherNightReminder": "El Cerenovus assenyala a un jugador i després a un personatge del guió. Desperta al jugador assenyalat. Mostra-li la carta 'Aquest personatge t'ha seleccionat' seguit de la fitxa del Cerenovus. Mostra-li també la fitxa del personatge seleccionat. Si demà el jugador no està boig per ser aquest personatge, pot ser executat.",
+  "remindersGlobal": null,
+  "reminders": "Boig"
+ },
+ {
+  "id": "chambermaid",
+  "name": "Minyona",
+  "ability": "Cada nit tria a dos jugadors vius (no a tu mateix): descobreixes quants d'aquests jugadors s'han despertat per la seva habilitat.",
+  "firstNightReminder": "La Minyona assenyala a dos jugadors. Mostra amb els dits (0, 1, 2) quants d'aquests jugadors han despertat aquesta nit per la seva habilitat.",
+  "otherNightReminder": "La Minyona assenyala a dos jugadors. Mostra amb els dits (0, 1, 2) quants d'aquests jugadors han despertat aquesta nit per la seva habilitat.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "chef",
+  "name": "Xef",
+  "ability": "Comences descobrint quantes parelles de jugadors malvats hi ha (asseguts un al costat de l'altre).",
+  "firstNightReminder": "Mostra amb els dits (0, 1, 2...) el nombre de parelles de jugadors malvats hi ha.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "choirboy",
+  "name": "Escolanet",
+  "ability": "Si el dimoni mata el Rei, descobriràs quin jugador és el dimoni (i també quin és el Rei).",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si el Rei ha estat assassinat pel dimoni, desperta a l'Escolanet i assenyala al jugador que és el dimoni.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "clockmaker",
+  "name": "Rellotger",
+  "ability": "Comences descobrint a quants jugadors està el dimoni del seu sequaç més proper.",
+  "firstNightReminder": "Mostra amb els dits el nombre (1, 2, 3, etc.) de jugadors que hi ha des del dimoni fins al sequaç més proper.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "courtier",
+  "name": "Cortesà",
+  "ability": "Una vegada per partida, a la nit, tria un personatge: estarà borratxo durant tres nits i tres dies.",
+  "firstNightReminder": "El Cortesà o bé nega amb el cap, o bé assenyala a un personatge del guió. Si el Cortesà utilitza la seva habilitat i el personatge assenyalat està en joc, aquest jugador estarà borratxo.",
+  "otherNightReminder": "Redueix el nombre de dies restants que el jugador marcat estarà borratxo. Si el Cortesà encara no ha utilitzat la seva habilitat: el Cortesà o bé nega amb el cap, o bé assenyala a un personatge del guió. Si el Cortesà utilitza la seva habilitat i el personatge assenyalat està en joc, aquest jugador estarà borratxo.",
+  "remindersGlobal": null,
+  "reminders": "Borratxo 3, borratxo 2, borratxo 1, sense habilitat"
+ },
+ {
+  "id": "cultleader",
+  "name": "Líder de culte",
+  "ability": "Cada nit, et fas del mateix equip que el d'un dels teus dos veïns vius. Si tots els jugadors del bé trien unir-se al teu culte, el teu equip guanya.",
+  "firstNightReminder": "Si el Líder de culte ha canviat d'equip, mostra-li el polze cap amunt o cap avall en conseqüència, perquè pugui saber de quin equip és.",
+  "otherNightReminder": "Si el Líder de culte ha canviat d'equip, mostra-li el polze cap amunt o cap avall en conseqüència, perquè pugui saber de quin equip és.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "damsel",
+  "name": "Damisel·la",
+  "ability": "Tots els sequaços saben que estàs en joc. Si un sequaç et descobreix públicament (en una primera acusació), el teu equip perd.",
+  "firstNightReminder": "Desperta tots els sequaços, mostra'ls la carta 'Aquest personatge t'ha seleccionat' i la fitxa de la Damisel·la.",
+  "otherNightReminder": "Si la selecciona el Caçador, desperta-la i mostra-li la carta 'Tu ets...' i una fitxa de vilatà que no estigui en joc.",
+  "remindersGlobal": null,
+  "reminders": "Acusació feta"
+ },
+ {
+  "id": "deusexfiasco",
+  "name": "Deus ex Fiasco",
+  "ability": "Una vegada per partida, el narrador cometrà un \"error\", el corregirà i l'admetrà públicament.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Ups!"
+ },
+ {
+  "id": "deviant",
+  "name": "Desviat",
+  "ability": "Si avui has estat graciós, no pots morir a l'exili.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "devilsadvocate",
+  "name": "Advocat del diable",
+  "ability": "Cada nit, tria un jugador viu (diferent del que vas elegir la nit anterior): si és executat demà, no morirà.",
+  "firstNightReminder": "L'Advocat del diable assenyala a un jugador viu. Aquest jugador sobreviurà si és executat l'endemà.",
+  "otherNightReminder": "L'Advocat del diable assenyala a un jugador viu, diferent del de la nit anterior. Aquest jugador sobreviurà si és executat l'endemà.",
+  "remindersGlobal": null,
+  "reminders": "Sobreviu en cas d'execució"
+ },
+ {
+  "id": "djinn",
+  "name": "Jinn",
+  "ability": "Utilitza la regla especial del Jinn. Tots els jugadors han de saber quina és.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "doomsayer",
+  "name": "Malastruc",
+  "ability": "Si hi ha quatre o més jugadors vius, cada jugador viu pot triar públicament (una vegada per partida) que un jugador del seu propi equip mori (escollit pel narrador).",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "dreamer",
+  "name": "Somniador",
+  "ability": "Cada nit, tria un jugador (no pots triar-te a tu mateix ni a un viatger): descobreix un personatge del bé i un del mal, un d'ells és el personatge del jugador seleccionat.",
+  "firstNightReminder": "El Somniador assenyala a un jugador. Mostra-li una fitxa de personatge del bé i una del mal; una d'elles és la correcta.",
+  "otherNightReminder": "El Somniador assenyala a un jugador. Mostra-li una fitxa de personatge del bé i una del mal; una d'elles és la correcta.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "drunk",
+  "name": "Borratxo",
+  "ability": "No saps que ets el Borratxo. Creus que ets un personatge vilatà, però no ho ets.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": "Borratxo",
+  "reminders": null
+ },
+ {
+  "id": "duchess",
+  "name": "Duquessa",
+  "ability": "Cada dia, tres jugadors poden escollir visitar-te. A la nit*, cada visitant sabrà quants dels visitants són malvats, però un d'ells rebrà informació falsa.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Visitant, informació falsa"
+ },
+ {
+  "id": "empath",
+  "name": "Empàtic",
+  "ability": "Cada nit, descobreixes quants dels teus dos veïns vius són malvats.",
+  "firstNightReminder": "Mostra amb els dits (0, 1, 2) quants veïns vius de l'Empàtic són malvats.",
+  "otherNightReminder": "Mostra amb els dits (0, 1, 2) quants veïns vius de l'Empàtic són malvats.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "engineer",
+  "name": "Enginyer",
+  "ability": "Una vegada per partida, a la nit, tria quins sequaços o quin dimoni estan en joc.",
+  "firstNightReminder": "L'Enginyer nega amb el cap o assenyala un dimoni o el nombre de sequaços pertinents, segons el nombre de jugadors. Si l'Enginyer decideix triar personatges, substitueix al dimoni o als sequaços per les seves eleccions, després desperta als jugadors implicats i mostra'ls la carta \"Tu ets...\" i la fitxa de personatge pertinent.",
+  "otherNightReminder": "L'Enginyer nega amb el cap o assenyala un dimoni o el nombre de sequaços pertinents, segons el nombre de jugadors. Si l'Enginyer decideix triar personatges, substitueix al dimoni o als sequaços per les seves eleccions, després desperta als jugadors implicats i mostra'ls la carta \"Tu ets...\" i la fitxa de personatge pertinent.",
+  "remindersGlobal": null,
+  "reminders": "Sense habilitat"
+ },
+ {
+  "id": "eviltwin",
+  "name": "Bessó malvat",
+  "ability": "Tu i un jugador del bé us coneixeu. Si el jugador del bé és executat, el mal guanya. L'equip del bé no pot guanyar si ambdós bessons estan vius.",
+  "firstNightReminder": "Desperta al Bessó malvat i el seu bessó. Assegura't que es reconeixen mútuament. Apunta al Bessó malvat i mostra la seva fitxa de Bessó malvat al jugador bessó. Apunta al bessó i mostra la fitxa del seu personatge al jugador Bessó malvat.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Bessó"
+ },
+ {
+  "id": "exorcist",
+  "name": "Exorcista",
+  "ability": "Cada nit*, tria un jugador (diferent del que vas triar la nit anterior): si és escollit el jugador que porta el dimoni, aquest descobrirà qui ets i no es despertarà durant la nit en curs.",
+  "firstNightReminder": null,
+  "otherNightReminder": "L'Exorcista assenyala a un jugador, diferent del de la nit anterior. Si aquest jugador és el dimoni: desperta el dimoni i mostra-li la fitxa de personatge de l'Exorcista i assenyala el jugador Exorcista. El dimoni no actua aquesta nit.",
+  "remindersGlobal": null,
+  "reminders": "Escollit"
+ },
+ {
+  "id": "fanggu",
+  "name": "Fang Gu",
+  "ability": "Cada nit*, tria un jugador: el jugador morirà. El primer foraster que matis es convertirà en el malvat Fang Gu i tu moriràs. [+1 FORASTER]",
+  "firstNightReminder": null,
+  "otherNightReminder": "El Fang Gu assenyala a un jugador. Aquest jugador mor. O, si aquest jugador era un foraster i no hi ha cap altre Fang Gu en joc: El Fang Gu mor en comptes del jugador escollit. El jugador escollit és ara un malvat Fang Gu. Desperta el nou Fang Gu, mostra-li la carta 'Tu ets...', i després la fitxa del Fang Gu. Mostra-li altra vegada la carta 'Tu ets...', i fes el signe del mal amb la mà.",
+  "remindersGlobal": null,
+  "reminders": "Mort, una vegada"
+ },
+ {
+  "id": "farmer",
+  "name": "Granger",
+  "ability": "Si mors durant la nit, un altre jugador del bé viu es convertirà en el Granger.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si el Granger ha mort aquesta nit, tria un altre jugador del bé i converteix-lo en el Granger. Desperta aquest jugador, mostra-li la carta de 'Tu ets...' i la fitxa de personatge del Granger.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "fearmonger",
+  "name": "Alarmista",
+  "ability": "Cada nit, tria un jugador. Si durant el dia l'acuses i acaba executat, el seu equip perd. Tots els jugadors saben si tries un nou jugador.",
+  "firstNightReminder": "L'Alarmista assenyala a un jugador. Col·loca el recordatori de 'Terroritzat' al costat d'aquest jugador i anuncia que l'Alarmista ha seleccionat un nou jugador amb la seva habilitat.",
+  "otherNightReminder": "L'Alarmista assenyala a un jugador. Si és diferent del de la nit anterior, col·loca el recordatori de 'Terroritzat' al costat d'aquest jugador i anuncia que l'Alarmista ha seleccionat un nou jugador amb la seva habilitat.",
+  "remindersGlobal": null,
+  "reminders": "Terroritzat"
+ },
+ {
+  "id": "fibbin",
+  "name": "Barater",
+  "ability": "Una vegada per partida, un jugador del bé pot obtenir informació falsa.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Utilitzat"
+ },
+ {
+  "id": "fiddler",
+  "name": "Violinista",
+  "ability": "Una vegada per partida, el dimoni triarà en secret a un jugador de l'equip contrari: tots els jugadors triaran quin dels dos jugadors guanya. Guanyarà el seu equip.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "fisherman",
+  "name": "Pescador",
+  "ability": "Una vegada per partida, durant el dia, visita al narrador perquè t'aconselli sobre com pot guanyar el teu equip.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Sense habilitat"
+ },
+ {
+  "id": "flowergirl",
+  "name": "Florista",
+  "ability": "Cada nit* descobreixes si el dimoni ha votat durant el dia.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Afirma o nega amb el cap depenent de si el dimoni ha votat o no durant el dia. Col·loca el recordatori \"El dimoni no ha votat\", o treu el recordatori \"El dimoni ha votat\", si hi és.",
+  "remindersGlobal": null,
+  "reminders": "El dimoni ha votat, el dimoni no ha votat"
+ },
+ {
+  "id": "fool",
+  "name": "Bufó",
+  "ability": "La primera vegada que moris, no mors.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Sense habilitat"
+ },
+ {
+  "id": "fortuneteller",
+  "name": "Endevinador",
+  "ability": "Cada nit, tria a dos jugadors: sabràs si algun d'ells és un dimoni. Hi ha un jugador del bé que el perceps com a dimoni.",
+  "firstNightReminder": "L'Endevinador assenyala a dos jugadors. Afirma o nega amb el cap en funció de si un d'aquests jugadors és el dimoni.",
+  "otherNightReminder": "L'Endevinador assenyala a dos jugadors. Afirma o nega amb el cap en funció de si un d'aquests jugadors és el dimoni.",
+  "remindersGlobal": null,
+  "reminders": "Esquer"
+ },
+ {
+  "id": "gambler",
+  "name": "Tafur",
+  "ability": "Cada nit*, tria un jugador i intenta endevinar el seu personatge: si falles, mors.",
+  "firstNightReminder": null,
+  "otherNightReminder": "El jugador assenyala a un jugador i un personatge del guió. Si no és correcte, el Tafur mor.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "gangster",
+  "name": "Gàngster",
+  "ability": "Una vegada al dia, pots matar un dels teus veïns viu, si l'altre veí viu hi està d'acord.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "general",
+  "name": "General",
+  "ability": "Cada nit, saps quin equip creu el narrador que està guanyant: l'equip del bé, l'equip del mal o cap d'ells.",
+  "firstNightReminder": "Mostra-li al General el polze amunt si creus que està guanyant l'equip del bé, el polze avall si creus que està guanyant l'equip del mal o el polze de costat si creus que no està guanyant cap dels dos equips. ",
+  "otherNightReminder": "Mostra-li al General el polze amunt si creus que està guanyant l'equip del bé, el polze avall si creus que està guanyant l'equip del mal o el polze de costat si creus que no està guanyant cap dels dos equips. ",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "goblin",
+  "name": "Follet",
+  "ability": "Si en el moment de ser acusat reveles públicament que ets el Follet, si acabes sent executat aquell dia, el teu equip venç.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Acusat"
+ },
+ {
+  "id": "godfather",
+  "name": "Padrí",
+  "ability": "Comences sapiguent quins forasters estan en joc. Si un d'ells mor durant el dia, tria a un jugador aquesta nit: mor [-1 O +1 FORASTER]",
+  "firstNightReminder": "Mostra-li totes les fitxes de foraster presents en la partida.",
+  "otherNightReminder": "Si un foraster ha mort durant el dia: el Padrí assenyala a un jugador. El jugador assenyalat mor.",
+  "remindersGlobal": null,
+  "reminders": "Mort avui, mort"
+ },
+ {
+  "id": "golem",
+  "name": "Gólem",
+  "ability": "Tan sols pots acusar una vegada. Quan ho fas, si l'acusat no és el dimoni, mors.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "No pot acusar"
+ },
+ {
+  "id": "goon",
+  "name": "Pinxo",
+  "ability": "Cada nit, el primer jugador que et tria com a objectiu de la seva habilitat quedarà borratxo fins al següent capvespre. Passes a ser del seu equip.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Borratxo"
+ },
+ {
+  "id": "gossip",
+  "name": "Xafarder",
+  "ability": "Cada dia pots fer una declaració pública. Si és certa, durant la nit mor un jugador.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si la declaració pública del Xafarder era certa: tria un jugador que no estigui protegit de morir aquesta nit. Aquest jugador mor.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "grandmother",
+  "name": "Àvia",
+  "ability": "Comences coneixent a un jugador del bé i el seu personatge. Si el dimoni el mata, tu també mors.",
+  "firstNightReminder": "Mostra la fitxa del personatge marcat. Assenyala al jugador marcat.",
+  "otherNightReminder": "Si el dimoni mata al net de l'Àvia: l'Àvia mor.",
+  "remindersGlobal": null,
+  "reminders": "Net"
+ },
+ {
+  "id": "gunslinger",
+  "name": "Pistoler",
+  "ability": "Cada dia, després que s'hagi dut a terme la primera votació, pots triar 1 jugador que hagi votat: mor.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "harlot",
+  "name": "Meretriu",
+  "ability": "Cada nit*, tria a un jugador viu: si aquest et dona el seu consentiment, sabràs quin és el seu personatge, però ambdós jugadors podrien morir.",
+  "firstNightReminder": null,
+  "otherNightReminder": "La Meretriu assenyala a un jugador. La Meretriu torna a dormir. Desperta al jugador escollit, mostra-li la carta \"Aquest personatge t'ha seleccionat\" i la fitxa de la Meretriu. El jugador escollit pot afirmar o negar amb el cap. Si afirma, desperta a la Meretriu i mostra-li la fitxa de personatge del jugador escollit. Després, decideix si ambdós jugadors moren.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "harpy",
+  "name": "Harpia",
+  "ability": "Cada nit tria a dos jugadors: demà, el primer jugador estarà boig sobre que el segon és malvat o ambdós poden morir.",
+  "firstNightReminder": "Desperta a l'Harpia; aquesta assenyala a un jugador, després a un altre. Desperta al primer jugador al qual ha assenyalat l'Harpia, mostra-li la carta \"Aquest personatge t'ha seleccionat\", mostra-li la fitxa de l'Harpia i en acabat assenyala al segon jugador al qual ha assenyalat l'Harpia.",
+  "otherNightReminder": "Desperta a l'Harpia; aquesta assenyala a un jugador, després a un altre. Desperta al primer jugador al qual ha assenyalat l'Harpia, mostra-li la carta \"Aquest personatge t'ha seleccionat\", mostra-li la fitxa de l'Harpia i en acabat assenyala al segon jugador al qual ha assenyalat l'Harpia.",
+  "remindersGlobal": null,
+  "reminders": "Boig, segon"
+ },
+ {
+  "id": "hatter",
+  "name": "Barreter",
+  "ability": "Si mors avui o aquesta nit, els sequaços i el dimoni poden canviar els seus personatges per altres sequaços i dimonis.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si el Barreter ha mort avui: Desperta als sequaços i al dimoni. Mostra'ls-hi la fitxa d'informació \"Aquest personatge t'ha seleccionat\" i després la fitxa del Barreter. Cada jugador nega amb el cap o assenyala un altre personatge del mateix tipus que el seu personatge actual. Si un segon jugador acaba amb el mateix personatge que un altre jugador, nega amb el cap i fes-li un gest perquè torni a triar. Posa a ambdós jugadors a dormir novament. Canvia el personatge de cada jugador pel personatge que ha escollit.",
+  "remindersGlobal": null,
+  "reminders": "Aquesta nit festa del te"
+ },
+ {
+  "id": "hellslibrarian",
+  "name": "Bibliotecari de l'infern",
+  "ability": "Quelcom dolent li pot passar a qui parli quan el narrador demani silenci.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Quelcom dolent"
+ },
+ {
+  "id": "heretic",
+  "name": "Heretge",
+  "ability": "Qui guanya, perd i qui perd guanya, encara que estiguis mort.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "highpriestess",
+  "name": "Summa sacerdotessa",
+  "ability": "Cada nit saps amb quin jugador hauries de parlar més, segons el criteri del narrador.",
+  "firstNightReminder": "Assenyala a un jugador.",
+  "otherNightReminder": "Assenyala a un jugador.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "huntsman",
+  "name": "Caçador",
+  "ability": "Una vegada per partida, durant la nit, tria a un jugador viu: si és la Damisel·la, es converteix en un vilatà que no està en joc. [+ DAMISEL·LA]",
+  "firstNightReminder": "El Caçador pot negar amb el cap o assenyalar a un jugador. Si assenyala a la Damisel·la, desperta a aquest jugador, mostra-li la carta \"Tu ets...\" fitxa de personatge d'un vilatà no present en la partida.",
+  "otherNightReminder": "El Caçador pot negar amb el cap o assenyalar a un jugador. Si assenyala a la Damisel·la, desperta a aquest jugador, mostra-li la carta \"Tu ets...\" fitxa de personatge d'un vilatà no present en la partida.",
+  "remindersGlobal": null,
+  "reminders": "Sense habilitat"
+ },
+ {
+  "id": "imp",
+  "name": "Diabló",
+  "ability": "Cada nit* tria a un jugador: mor. Si et mates a tu mateix d'aquesta manera, un sequaç es converteix en el Diabló.",
+  "firstNightReminder": null,
+  "otherNightReminder": "El Diabló assenyala a un jugador. Aquest jugador mor. Si el Diabló s'assenyala a si mateix: substitueix la fitxa de personatge d'un sequaç viu per una fitxa addicional de Diabló. Mostra-li la carta \"Tu ets...\" i la fitxa de Diabló.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "innkeeper",
+  "name": "Hostaler",
+  "ability": "Cada nit* tria a dos jugadors: no poden morir aquesta nit, però un estarà borratxo fins el proper capvespre.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Retira els recordatoris (protegit i borratxo) dels jugadors seleccionats la nit anterior. L'Hostaler assenyala a dos jugadors. Aquests jugadors estan protegits. Un d'ells, però, està borratxo.",
+  "remindersGlobal": null,
+  "reminders": "Protegit, borratxo"
+ },
+ {
+  "id": "investigator",
+  "name": "Investigator",
+  "ability": "Comences sabent que un de dos jugadors és un sequaç en concret.",
+  "firstNightReminder": "Mostra-li la fitxa de personatge d'un sequaç present en la partida. Assenyala a dos jugadors, un d'ells ha de ser el sequaç mostrat.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Sequaç, incorrecte"
+ },
+ {
+  "id": "judge",
+  "name": "Judge",
+  "ability": "Una vegada per partida, si un altre jugador ha fet una acusació, pots forçar l'execució o impedir-la.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Sense habilitat"
+ },
+ {
+  "id": "juggler",
+  "name": "Malabarista",
+  "ability": "En el teu primer dia declara públicament els personatges de fins a cinc jugadors. Durant la nit saps quants n'has encertat.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si avui ha estat el primer dia del Malabarista: mostra-li amb els dits el nombre (0, 1, 2, etc.) d'encerts. Ja pots treure els recordatoris.",
+  "remindersGlobal": null,
+  "reminders": "Correcte"
+ },
+ {
+  "id": "kazali",
+  "name": "Kazali",
+  "ability": "Cada nit* tria a un jugador: mor. [Tria els sequaços en joc i quins jugadors són. -? a +? FORASTERS]",
+  "firstNightReminder": "El Kazali assenyala a un jugador i a un sequaç del guió. Reemplaça la seva fitxa de personatge per la fitxa del sequaç, mostra-li la carta d'informació \"Tu ets...\", després la fitxa de personatge sequaç i posa'l a dormir. Repeteix fins que hi hagi la quantitat habitual de sequaços. Posa a dormir al Kazali.",
+  "otherNightReminder": "El Kazali assenyala a un jugador. Aquest jugador mor.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "king",
+  "name": "Rei",
+  "ability": "Cada nit, si hi ha més morts que vius, descobreixes el personatge d'un jugador viu. El dimoni sap qui ets.",
+  "firstNightReminder": "Desperta al dimoni, mostra-li la carta \"Aquest personatge t'ha seleccionat\", mostra-li la fitxa del Rei i assenyala al jugador que és el Rei.",
+  "otherNightReminder": "Si hi ha més jugadors morts que vius, mostra-li al Rei la fitxa de personatge d'un jugador viu.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "klutz",
+  "name": "Maldestre",
+  "ability": "Quan descobreixis que has mort, tria públicament a un jugador viu: si és malvat, el teu equip perd.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "knight",
+  "name": "Cavaller",
+  "ability": "Comences sabent que dos jugadors en concret no són el dimoni.",
+  "firstNightReminder": "Assenyala a dos jugadors que no siguin el dimoni.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Conegut, conegut"
+ },
+ {
+  "id": "legion",
+  "name": "Legió",
+  "ability": "Cada nit* un jugador pot morir. Les execucions fallen si tan sols voten els malvats. Comptes com a sequaç. [La majoria dels jugadors són Legió]",
+  "firstNightReminder": null,
+  "otherNightReminder": "Tria un jugador, aquest jugador mor.",
+  "remindersGlobal": null,
+  "reminders": "A punt de morir, mort"
+ },
+ {
+  "id": "leviathan",
+  "name": "Leviatan",
+  "ability": "Si més d'un jugador del bé és executat, els malvats guanyen. Tots els jugadors saben que estàs en joc. Passat el cinquè dia, els malvats guanyen.",
+  "firstNightReminder": "Col·loca el recordatori \"Dia 1\" del Leviatan. Anuncia 'El Leviatan està entre nosaltres, aquest és Dia 1'.",
+  "otherNightReminder": "Canvia el recordatori de dia del Leviatan pel del dia següent.",
+  "remindersGlobal": null,
+  "reminders": "Dia 1, dia 2, dia 3, dia 4, dia 5, jugador del bé executat"
+ },
+ {
+  "id": "librarian",
+  "name": "Bibliotecari",
+  "ability": "Comences sabent que un de dos jugadors és un foraster en concret (o que no n'hi ha cap en joc).",
+  "firstNightReminder": "Mostra-li la fitxa de personatge d'un foraster present en la partida. Assenyala a dos jugadors, un dels quals és el personatge mostrat.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Forester, incorrecte"
+ },
+ {
+  "id": "lilmonsta",
+  "name": "P'tit monstre",
+  "ability": "Cada nit, els sequaços trien quin d'ells cuida la fitxa del P'tit monstre i serà considerat el dimoni. Un jugador mor cada nit*. [+1 SEQUAÇ]",
+  "firstNightReminder": "Desperta a tots els sequaços junts, permet-los votar assenyalant qui volen que cuidi al P'tit monstre.",
+  "otherNightReminder": "Desperta a tots els sequaços junts, permet-los votar assenyalant qui volen que cuidi al P'tit monstre. Tria un jugador, aquest jugador mor.",
+  "remindersGlobal": "És el dimoni, mort",
+  "reminders": null
+ },
+ {
+  "id": "lleech",
+  "name": "Sangonera",
+  "ability": "Cada nit* tria a un jugador: mor. Comences escollint un jugador viu: està emmetzinat. Mors tan sols si aquest jugador mor.",
+  "firstNightReminder": "La Sangonera assenyala a un jugador. Col·loca-li el recordatori d'\"Emmetzinat\".",
+  "otherNightReminder": "La Sangonera assenyala a un jugador. Aquest jugador mor.",
+  "remindersGlobal": null,
+  "reminders": "Mort, emmetzinat"
+ },
+ {
+  "id": "lunatic",
+  "name": "Llunàtic",
+  "ability": "Creus que ets el dimoni, però no l'ets. El dimoni sap qui ets i a qui tries a les nits.",
+  "firstNightReminder": "Si hi ha 7 o més jugadors: mostra-li al Llunàtic els sequaços que es corresponen segons el nombre de jugadors en la partida. Mostra-li també tres personatges del bé aleatoris. Si la fitxa rebuda pel Llunàtic és un dimoni que ha de despertar-se aquesta nit: permet-lo realitzar les accions del dimoni. Col·loca els seus recordatoris d'atac. Desperta al dimoni. Mostra-li la fitxa de personatge de dimoni en joc. Mostra-li el jugador Llunàtic. Si el Llunàtic ha atacat a jugadors: mostra-li al dimoni real els jugadors atacats. Retira tots els recordatoris d'atac del Llunàtic.",
+  "otherNightReminder": "Permet al Llunàtic que realitzi les accions del dimoni. Col·loca els seus recordatoris d'atac. Si el Llunàtic ha atacat a algun jugador: desperta al dimoni. Mostra-li els recordatoris d'atac i assenyala a cada jugador atacat. Retira tots els recordatoris d'atac del Llunàtic.",
+  "remindersGlobal": null,
+  "reminders": "Atac 1, atac 2, atac 3"
+ },
+ {
+  "id": "lycanthrope",
+  "name": "Licantrop",
+  "ability": "Cada nit* tria a un jugador viu. Si és del bé, mor, però no hi poden haver més morts aquesta nit.",
+  "firstNightReminder": null,
+  "otherNightReminder": "El Licantrop assenyala a un jugador viu: si és del bé, mor i ningú més pot morir aquesta nit.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "magician",
+  "name": "Mag",
+  "ability": "El dimoni creu que ets un sequaç. Els sequaços creuen que ets un dimoni.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "marionette",
+  "name": "Marioneta",
+  "ability": "Creus que ets un personatge del bé, però no ho ets. El dimoni sap qui ets. [Estàs adjacent al dimoni]",
+  "firstNightReminder": "Selecciona a un dels jugadors del bé asseguts al costat del dimoni i col·loca-li-li el recordatori \"És la Marioneta\". Desperta al dimoni i indica-li qui és la Marioneta.",
+  "otherNightReminder": null,
+  "remindersGlobal": "És la Marioneta",
+  "reminders": null
+ },
+ {
+  "id": "mastermind",
+  "name": "Geni",
+  "ability": "Si el dimoni mor per execució (acabant així la partida), jugueu un dia més. Si un jugador és executat durant aquest dia, el seu equip perd.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "mathematician",
+  "name": "Matemàtic",
+  "ability": "Cada nit saps quantes habilitats de personatges han funcionat erròniament (des de l'alba) per les habilitats d'altres personatges.",
+  "firstNightReminder": "Mostra amb els dits de la mà el nombre (0, 1, 2, etc.) de jugadors els quals la seva habilitat ha funcionat de manera errònia degut a altres habilitats.",
+  "otherNightReminder": "Mostra amb els dits de la mà el nombre (0, 1, 2, etc.) de jugadors els quals la seva habilitat ha funcionat de manera errònia degut a altres habilitats.",
+  "remindersGlobal": null,
+  "reminders": "Anormal"
+ },
+ {
+  "id": "matron",
+  "name": "Matrona",
+  "ability": "Cada dia pots triar fins a tres parelles de jugadors perquè canviïn de seients. Els jugadors no poden aixecar-se per parlar en privat.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "mayor",
+  "name": "Batlle",
+  "ability": "Si tan sols queden tres jugadors vius i no hi ha cap execució, el teu equip guanya. Si mors a la nit, en comptes de tu, pot morir un altre jugador.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "mezepheles",
+  "name": "Mezepheles",
+  "ability": "Comences coneixent una paraula secreta. El primer jugador del bé en dir-la es converteix en malvat aquella mateixa nit.",
+  "firstNightReminder": "Mostra-li al Mezepheles la seva paraula secreta.",
+  "otherNightReminder": "Desperta al primer jugador del bé que hagi dit la paraula secreta del Mezepheles i mostra-li la carta \"Tu ets...\" i el signe de malvat amb el polze cap avall.",
+  "remindersGlobal": null,
+  "reminders": "Es torna malvat, sense habilitat"
+ },
+ {
+  "id": "minstrel",
+  "name": "Joglar",
+  "ability": "Quan un sequaç mori per execució, tots els jugadors (excepte els viatgers) estan borratxos fins al capvespre de l'endemà.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Tots borratxos"
+ },
+ {
+  "id": "monk",
+  "name": "Monjo",
+  "ability": "Cada nit* tria a un jugador (no pots triar-te a tu mateix): està protegit del dimoni aquesta nit.",
+  "firstNightReminder": null,
+  "otherNightReminder": "L'anterior jugador protegit ja no ho està. El Monjo assenyala a un jugador (no a si mateix). Marca el jugador assenyalat com a \"Protegit\".",
+  "remindersGlobal": null,
+  "reminders": "Protected"
+ },
+ {
+  "id": "moonchild",
+  "name": "Fill de la lluna",
+  "ability": "Quan descobreixis que has mort, tria públicament a un jugador viu. Aquesta nit, si era un jugador del bé, mor.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si el Fill de la lluna ha emprat la seva habilitat per triar a un jugador: si el jugador és del bé, mor.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "mutant",
+  "name": "Mutant",
+  "ability": "Si estàs boig per ser un foraster, pots ser executat.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "nightwatchman",
+  "name": "Vigilant nocturn",
+  "ability": "Una vegada per partida, a la nit, tria a un jugador: descobreix qui ets.",
+  "firstNightReminder": "El Vigilant nocturn pot assenyalar a un jugador. Desperta a aquest jugador, mostra-li la carta \"Aquest personatge t'ha seleccionat\" i la fitxa del Vigilant nocturn. Després, assenyala al jugador Vigilant nocturn.",
+  "otherNightReminder": "El Vigilant nocturn pot assenyalar a un jugador. Desperta a aquest jugador, mostra-li la carta \"Aquest personatge t'ha seleccionat\" i la fitxa del Vigilant nocturn. Després, assenyala al jugador Vigilant nocturn.",
+  "remindersGlobal": null,
+  "reminders": "Sense habilitat"
+ },
+ {
+  "id": "noble",
+  "name": "Noble",
+  "ability": "Comences coneixent a tres jugadors. Un i tan sols un d'ells és malvat.",
+  "firstNightReminder": "Assenyala a tres jugadors incloent a un malvat, sense cap ordre específic.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Vist"
+ },
+ {
+  "id": "nodashii",
+  "name": "No Dashii",
+  "ability": "Cada nit* tria a un jugador: mor. Els teus dos veïns vilatans estan emmetzinats.",
+  "firstNightReminder": null,
+  "otherNightReminder": "El No Dashii assenyala a un jugador. Aquest jugador mor.",
+  "remindersGlobal": null,
+  "reminders": "Mort, emmetzinat"
+ },
+ {
+  "id": "ogre",
+  "name": "Ogre",
+  "ability": "En la teva primera nit, tria a un jugador (no a tu mateix): passes a ser del seu equip (sense saber-ho) encara que estigui borratxo o emmetzinat.",
+  "firstNightReminder": "L'Ogre assenyala a un jugador (no a si mateix) i passa a ser del mateix equip que el jugador assenyalat.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "ojo",
+  "name": "Ojo",
+  "ability": "Cada nit* tria a un personatge: mor. Si no està en joc, el narrador decideix qui mor.",
+  "firstNightReminder": null,
+  "otherNightReminder": "L'Ojo assenyala un personatge del guió; si està en joc, el jugador que el porta mor. Si no està en joc, el narrador decideix qui mor enlloc seu.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "oracle",
+  "name": "Oracle",
+  "ability": "Cada nit* saps quants jugadors morts són malvats.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Mostra-li amb els dits el nombre (0, 1, 2, etc.) de jugadors malvats d'entre els jugadors morts.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "organgrinder",
+  "name": "Organista",
+  "ability": "Tots els jugadors tanquen els ulls en votar i els vots es compten en secret. Els vots en contra teu tan sols compten si tu votes.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "A punt de morir"
+ },
+ {
+  "id": "pacifist",
+  "name": "Pacifista",
+  "ability": "Els jugadors del bé executats poden no morir.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "philosopher",
+  "name": "Filòsof",
+  "ability": "Una vegada per partida, a la nit, tria a un personatge del bé: obtens la seva habilitat. Si el personatge està en joc, està borratxo.",
+  "firstNightReminder": "El Filòsof pot negar amb el cap o assenyalar a un personatge del bé del guió. Si tria a un personatge: substitueix la fitxa de personatge del Filòsof per la del personatge no present en la partida. O, si el personatge està present en la partida, col·loca-li el recordatori de \"Borratxo\" al costat del jugador que el porta i el de \"És el Filòsof\" al costat del Filòsof.",
+  "otherNightReminder": "Si el Filòsof no ha emprat la seva habilitat: El Filòsof pot negar amb el cap o assenyalar a un personatge del bé del guió. Si tria a un personatge: substitueix la fitxa de personatge del Filòsof per la del personatge no present en la partida. O, si el personatge està present en la partida, col·loca-li el recordatori de \"Borratxo\" al costat del jugador que el porta i el de \"És el Filòsof\" al costat del Filòsof.",
+  "remindersGlobal": "Borratxo, és el Filòsof",
+  "reminders": null
+ },
+ {
+  "id": "pithag",
+  "name": "Fetiller",
+  "ability": "Cada nit*, tria a un jugador i el personatge en el qual es convertirà (si no està ja en joc). Si crees un dimoni, aquesta nit les morts seran aleatòries.",
+  "firstNightReminder": null,
+  "otherNightReminder": "El Fetiller assenyala a un jugador i a un personatge del guió. Si el personatge no està present en la partida, desperta al jugador assenyalat i mostra-li la carta \"Tu ets...\" i la fitxa de personatge pertinent. Si el personatge ja està en joc, no passa res.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "pixie",
+  "name": "Follet",
+  "ability": "Comences coneixent a un vilatà en joc. Si estàs boig per ser aquest personatge, obtens la seva habilitat quan mori.",
+  "firstNightReminder": "Mostra-li al Follet la fitxa de personatge d'un vilatà en joc.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Boig, amb habilitat"
+ },
+ {
+  "id": "plaguedoctor",
+  "name": "Metge de la pesta",
+  "ability": "Si mors, el narrador obté l'habilitat d'un sequaç que no està en joc.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Habilitat del narrador"
+ },
+ {
+  "id": "po",
+  "name": "Po",
+  "ability": "Cada nit* pots triar a un jugador: mor. Si la teva darrera elecció va ser no triar a ningú, tria a tres jugadors aquesta nit.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si el Po no va triar a ningú la nit anterior: el Po assenyala a tres jugadors. Altrament: el Po nega amb el cap o assenyala a un jugador. Els jugadors assenyalats moren.",
+  "remindersGlobal": null,
+  "reminders": "Mort, 3 atacs"
+ },
+ {
+  "id": "poisoner",
+  "name": "Emmetzinador",
+  "ability": "Cada nit, tria a un jugador: estarà emmetzinat aquesta nit i durant el dia de demà.",
+  "firstNightReminder": "L'Emmetzinador assenyala a un jugador. El jugador assenyalat estarà emmetzinat.",
+  "otherNightReminder": "El jugador emmetzinat prèviament ja no ho està. L'Emmetzinador assenyala a un jugador. El jugador assenyalat estarà emmetzinat.",
+  "remindersGlobal": null,
+  "reminders": "Emmetzinat"
+ },
+ {
+  "id": "politician",
+  "name": "Polític",
+  "ability": "Si durant el transcurs de la partida has estat el jugador amb més responsabilitat en la derrota del teu equip, canvies d'equip i guanyes, fins i tot si estàs mort.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "poppygrower",
+  "name": "Conreador de roselles",
+  "ability": "Els sequaços i el dimoni no es coneixen entre ells. Si mors, sabran qui són cadascun d'ells aquella mateixa nit.",
+  "firstNightReminder": "No informis el dimoni ni als sequaços sobre qui és cadascú.",
+  "otherNightReminder": "Si el Conreador de roselles ha mort, mostra-li al dimoni i als sequaços qui és qui, com si fos la primera nit.",
+  "remindersGlobal": null,
+  "reminders": "El mal desperta"
+ },
+ {
+  "id": "preacher",
+  "name": "Predicador",
+  "ability": "Cada nit tria a un jugador: si és un sequaç, ho sabrà. Els sequaços escollits no tenen habilitat.",
+  "firstNightReminder": "El Predicador tria a un jugador. Si escull a un sequaç, desperta'l i mostra-li la carta \"Aquest personatge t'ha seleccionat\" i la fitxa del Predicador.",
+  "otherNightReminder": "El Predicador tria a un jugador. Si escull a un sequaç, desperta'l i mostra-li la carta \"Aquest personatge t'ha seleccionat\" i la fitxa del Predicador.",
+  "remindersGlobal": null,
+  "reminders": "Escoltant el sermó"
+ },
+ {
+  "id": "professor",
+  "name": "Professor",
+  "ability": "Una vegada per partida, a la nit*, tria a un jugador mort. Si és vilatà, ressuscita.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si el Professor no ha emprat la seva habilitat: el Professor pot negar amb el cap o assenyalar a un jugador. Si el jugador assenyalat és un vilatà, ressuscita.",
+  "remindersGlobal": null,
+  "reminders": "Viu, sense habilitat"
+ },
+ {
+  "id": "psychopath",
+  "name": "Psicòpata",
+  "ability": "Cada dia, abans de les acusacions, pots triar públicament a un jugador: mor. Si ets executat, tan sols mors si perds al pedra-paper-tisores contra el jugador que t'ha acusat.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "pukka",
+  "name": "Pukka",
+  "ability": "Cada nit tria a un jugador: està emmetzinat. L'anterior jugador emmetzinat mor i deixa d'estar emmetzinat.",
+  "firstNightReminder": "El Pukka assenyala a un jugador. El jugador assenyalat és emmetzinat.",
+  "otherNightReminder": "El Pukka assenyala a un jugador. El jugador assenyalat és emmetzinat. El jugador emmetzinat prèviament mor i deixa d'estar emmetzinat.",
+  "remindersGlobal": null,
+  "reminders": "Emmetzinat, mort"
+ },
+ {
+  "id": "puzzlemaster",
+  "name": "Geni dels trencaclosques",
+  "ability": "Un jugador està borratxo, encara que moris. Si endevines qui és (una vegada per partida), descobreixes qui és el dimoni, però si falles reps informació falsa.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Borratxo, intent esgotat"
+ },
+ {
+  "id": "ravenkeeper",
+  "name": "Criador de corbs",
+  "ability": "Si mors a la nit, et despertes per escollir a un jugador: descobreixes el seu personatge.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si el Criador de corbs ha mort aquesta nit: el Criador de corbs assenyala a un jugador. Mostra-li la fitxa de personatge del jugador assenyalat.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "recluse",
+  "name": "Reclús",
+  "ability": "Pots ser percebut com a malvat, tant com a sequaç com a dimoni. Fins i tot estant mort.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "revolutionary",
+  "name": "Revolucionari",
+  "ability": "Dos jugadors veïns són del mateix equip. Una vegada per partida, un d'ells serà percebut com si fos de l'equip contrari.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Percebut falsament?"
+ },
+ {
+  "id": "riot",
+  "name": "Esvalotador",
+  "ability": "Els jugadors que són acusats moren, però poden acusar immediatament (el tercer dia, estan obligats a acusar). Després del tercer dia, guanya l'equip malvat. [Tots els sequaços són Esvalotadors]",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "sage",
+  "name": "Savi",
+  "ability": "Si el dimoni et mata descobreixes que és un de dos jugadors.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si el dimoni mata al Savi: assenyala a dos jugadors, un d'ells ha de ser el dimoni.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "sailor",
+  "name": "Mariner",
+  "ability": "No pots morir. Cada nit tria a un jugador viu: tu o aquest jugador esteu borratxos fins al capvespre.",
+  "firstNightReminder": "El Mariner assenyala a un jugador viu. El Mariner o el jugador assenyalat estarà borratxo.",
+  "otherNightReminder": "El jugador que estava borratxo prèviament ja no ho està. El Mariner assenyala a un jugador viu. El Mariner o el jugador assenyalat estarà borratxo.",
+  "remindersGlobal": null,
+  "reminders": "Borratxo"
+ },
+ {
+  "id": "saint",
+  "name": "Sant",
+  "ability": "Si mors per execució, el teu equip perd.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "savant",
+  "name": "Prodigi",
+  "ability": "Cada dia, pots visitar al narrador que et dirà dues coses: una vertadera i una falsa.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "scapegoat",
+  "name": "Boc expiatori",
+  "ability": "Si un jugador del teu equip és executat, pots ser executat enlloc seu.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "scarletwoman",
+  "name": "Dona escarlata",
+  "ability": "Si hi han cinc o més jugadors vius (no compten els viatgers) i el dimoni mor, et converteixes en el dimoni.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si la Dona escarlata s'ha convertit avui en el dimoni: mostra-li la carta \"Tu ets...\" i la fitxa del dimoni.",
+  "remindersGlobal": null,
+  "reminders": "Dimoni"
+ },
+ {
+  "id": "seamstress",
+  "name": "Costurera",
+  "ability": "Una vegada per partida, a la nit, tria a dos jugadors (no a tu mateix): descobreixes si són del mateix equip.",
+  "firstNightReminder": "La Costurera pot negar amb el cap, o assenyalar a dos jugadors. Si la Costurera assenyala a jugadors, afirma o nega amb el cap per confirmar si són o no del mateix equip.",
+  "otherNightReminder": "Si la Costurera no ha emprat encara la seva habilitat: la Costurera pot negar amb el cap, o assenyalar a dos jugadors. Si la Costurera assenyala a jugadors, afirma o nega amb el cap per confirmar si són o no del mateix equip.",
+  "remindersGlobal": null,
+  "reminders": "Sense habilitat"
+ },
+ {
+  "id": "sentinel",
+  "name": "Sentinella",
+  "ability": "Hi pot haver un foraster més o un foraster menys.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "shabaloth",
+  "name": "Shabaloth",
+  "ability": "Cada nit* tria a dos jugadors: moren. Un jugador mort, escollit la nit anterior, pot ser regurgitat.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Un dels jugadors escollits la nit anterior pel Shabaloth pot ressuscitar. El Shabaloth assenyala a dos jugadors. Aquests jugadors moren.",
+  "remindersGlobal": null,
+  "reminders": "Mort, viu"
+ },
+ {
+  "id": "shugenja",
+  "name": "Shugenja",
+  "ability": "Comences sabent si el jugador malvat més proper està a la teva esquerra o a la teva dreta. En cas d'equidistància, la informació és arbitrària.",
+  "firstNightReminder": "Desperta al Shugenja; apunta horitzontalment en direcció al jugador malvat més proper. Si els dos jugadors malvats més propers estan equidistants, apunta amb el dit en qualsevol direcció.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "slayer",
+  "name": "Matador",
+  "ability": "Una vegada per partida, durant el dia, tria públicament a un jugador: si és el dimoni, mor.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Sense habilitat"
+ },
+ {
+  "id": "snakecharmer",
+  "name": "Encantador de serps",
+  "ability": "Cada nit tria a un jugador viu: si és el dimoni intercanvieu els personatges i l'equip i després el deixes emmetzinat.",
+  "firstNightReminder": "L'Encantador de serps assenyala a un jugador. Si el jugador assenyalat és el dimoni: intercanvia els personatges i l'equip del dimoni i l'Encantador de serps. Desperta a cada jugador per informar-los del seu nou personatge i equip. El nou Encantador de serps estarà emmetzinat.",
+  "otherNightReminder": "L'Encantador de serps assenyala a un jugador. Si el jugador assenyalat és el dimoni: intercanvia els personatges i l'equip del dimoni i l'Encantador de serps. Desperta a cada jugador per informar-los del seu nou personatge i equip. El nou Encantador de serps estarà emmetzinat.",
+  "remindersGlobal": null,
+  "reminders": "Emmetzinat"
+ },
+ {
+  "id": "snitch",
+  "name": "Delator",
+  "ability": "Els sequaços comencen coneixen a tres personatges que no estan en joc.",
+  "firstNightReminder": "Després de la informació dels sequaços, desperta a cada sequaç i mostra-li tres fitxes de personatges que no estan en joc. Aquests poden ser iguals o diferents entre si i iguals o diferents dels que li mostres al dimoni.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "soldier",
+  "name": "Soldat",
+  "ability": "Ets immune als atacs del dimoni.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "spiritofivory",
+  "name": "Esperit d'ivori",
+  "ability": "No hi pot haver més d'un jugador malvat addicional.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "No extra evil"
+ },
+ {
+  "id": "spy",
+  "name": "Espia",
+  "ability": "Cada nit pots veure el grimori. Pots ser percebut com a personatge del bé i com a vilatà o foraster, fins i tot quan ets mort.",
+  "firstNightReminder": "Mostra-li el grimori a l'Espia tot el temps que necessiti.",
+  "otherNightReminder": "Mostra-li el grimori a l'Espia tot el temps que necessiti.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "steward",
+  "name": "Administrador",
+  "ability": "Comences coneixent a un jugador del bé.",
+  "firstNightReminder": "Marca a un jugador del bé.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Conegut"
+ },
+ {
+  "id": "stormcatcher",
+  "name": "Caçador de tempestes",
+  "ability": "Nomena un personatge del bé. Si està en joc tan sols pot morir per execució, però els jugadors malvats saben qui és.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "A resguard"
+ },
+ {
+  "id": "summoner",
+  "name": "Invocador",
+  "ability": "Comptes amb tres coartades. A la tercera nit, tria a un jugador: aquest passa a ser un malvat dimoni de la teva elecció. [Sense dimoni]",
+  "firstNightReminder": "Mostra-li la carta «Aquests personatges no estan en joc». Mostra tres fitxes de personatge del bé que no estiguin en joc.",
+  "otherNightReminder": "Si és la tercera nit, desperta a l'Invocador. L'Invocador assenyala a un jugador i a un dimoni del guió - el jugador assenyalat es converteix en aquest dimoni.",
+  "remindersGlobal": null,
+  "reminders": "Nit 1, nit 2, nit 3"
+ },
+ {
+  "id": "sweetheart",
+  "name": "Estimada",
+  "ability": "Quan mors, un jugador passarà a estar borratxo.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Tria al jugador que estarà borratxo.",
+  "remindersGlobal": null,
+  "reminders": "Borratxo"
+ },
+ {
+  "id": "tealady",
+  "name": "Dama del te",
+  "ability": "Si els teus dos veïns vius són del bé, no poden morir.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "No poden morir"
+ },
+ {
+  "id": "thief",
+  "name": "Lladre",
+  "ability": "Cada nit tria un jugador (no pots triar-te a tu mateix): l'endemà el seu vot comptarà com a negatiu.",
+  "firstNightReminder": "El Lladre assenyala a un jugador. Al costat del jugador assenyalat, col·loca-hi el recordatori de vot negatiu del Lladre.",
+  "otherNightReminder": "El Lladre assenyala a un jugador. Al costat del jugador assenyalat, col·loca-hi el recordatori de vot negatiu del Lladre.",
+  "remindersGlobal": null,
+  "reminders": "Vot negatiu"
+ },
+ {
+  "id": "tinker",
+  "name": "Manetes",
+  "ability": "Pots morir en qualsevol moment.",
+  "firstNightReminder": null,
+  "otherNightReminder": "El Manetes podria morir.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "towncrier",
+  "name": "Pregoner",
+  "ability": "Cada nit* descobreixes si un sequaç ha acusat algú avui.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Indica sí o no amb el cap per indicar si un sequaç ha acusat algú avui. Col·loca el recordatori \"el sequaç no ha acusat\" (i treu \"el sequaç ha acusat\", si hi és).",
+  "remindersGlobal": null,
+  "reminders": "El sequaç no ha acusat, el sequaç ha acusat"
+ },
+ {
+  "id": "toymaker",
+  "name": "Joguinaire",
+  "ability": "El dimoni pot decidir no atacar una nit i ha de fer-ho almenys una vegada per partida. Els malvats reben informació inicial com és habitual amb set o més jugadors.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Sense atac"
+ },
+ {
+  "id": "undertaker",
+  "name": "Enterramorts",
+  "ability": "Cada nit* descobreixes quin personatge ha mort durant el dia per execució.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si durant el dia s'ha executat algun jugador: mostra-li la fitxa de personatge del jugador executat.",
+  "remindersGlobal": null,
+  "reminders": "Executat"
+ },
+ {
+  "id": "vigormortis",
+  "name": "Vigormortis",
+  "ability": "Cada nit* tria a un jugador: mor. Els sequaços que mates mantenen la seva habilitat i emmetzinen a un veí vilatà. [-1 FORASTER]",
+  "firstNightReminder": null,
+  "otherNightReminder": "El Vigormortis assenyala a un jugador. El jugador assenyalat mor. Si el jugador que ha mort és un sequaç, manté la seva habilitat i emmetzina a un veí vilatà.",
+  "remindersGlobal": null,
+  "reminders": "Mort, amb habilitat, emmetzinat"
+ },
+ {
+  "id": "villageidiot",
+  "name": "Ximplet",
+  "ability": "Cada nit tria a un jugador: descobreixes de quin equip és. [Fins a tres Ximples en joc. Si n'hi ha més d'un, un d'ells estarà borratxo].",
+  "firstNightReminder": "El Ximple assenyala a un jugador, mostra-li el senyal del bé amb el polze cap amunt o el del mal amb el polze cap avall.",
+  "otherNightReminder": "El Ximple assenyala a un jugador, mostra-li el senyal del bé amb el polze cap amunt o el del mal amb el polze cap avall.",
+  "remindersGlobal": null,
+  "reminders": "Borratxo"
+ },
+ {
+  "id": "virgin",
+  "name": "Verge",
+  "ability": "La primera vegada que t'acusin, si qui t'acusa és un vilatà, és executat immediatament.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Sense habilitat"
+ },
+ {
+  "id": "vizier",
+  "name": "Visir",
+  "ability": "Tots els jugadors saben qui ets. No pots morir durant el dia. Si algun jugador del bé vota durant una acusació, pots decidir que el jugador acusat sigui executat immediatament. Ja no hi haurà més acusacions durant el dia en curs.",
+  "firstNightReminder": "Anuncia \"el Visir està en joc\" i indica quin jugador és.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "vortox",
+  "name": "Vortox",
+  "ability": "Cada nit* tria a un jugador: mor. Les habilitats dels vilatans proporcionen informació falsa. Si durant un dia no hi ha cap execució, guanya l'equip del mal.",
+  "firstNightReminder": null,
+  "otherNightReminder": "El Vortox assenyala a un jugador. El jugador assenyalat mor.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "voudon",
+  "name": "Vodú",
+  "ability": "Tan sols tu i els jugadors morts podeu votar. Els morts no necessiten el vot fantasma. No és necessària una majoria per executar a algú.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "washerwoman",
+  "name": "Bugadera",
+  "ability": "Comences sabent que un de dos jugadors és un vilatà en concret.",
+  "firstNightReminder": "Mostra-li la fitxa de personatge d'un vilatà en joc. Assenyala a dos jugadors, un dels quals és el personatge en qüestió.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Vilatà, incorrecte"
+ },
+ {
+  "id": "widow",
+  "name": "Vídua",
+  "ability": "En la teva primera nit veus el grimori i tries a un jugador: està emmetzinat. Un jugador del bé sap que la Vídua està en joc.",
+  "firstNightReminder": "Mostra-li el grimori a la Vídua tot el temps que necessiti. La Vídua assenyala a un jugador. El jugador assenyalat és emmetzinat. Desperta a un jugador del bé. Mostra-li la carta \"Aquests personatges estan en joc\" i la fitxa de personatge de la Vídua.",
+  "otherNightReminder": null,
+  "remindersGlobal": "Ho sap",
+  "reminders": "Emmetzinat"
+ },
+ {
+  "id": "witch",
+  "name": "Bruixa",
+  "ability": "Cada nit tria a un jugador: si l'endemà acusa algú, mor. Si tan sols hi han tres jugadors vius, perds aquesta habilitat.",
+  "firstNightReminder": "La Bruixa assenyala a un jugador. Si el jugador assenyalat acusa algú l'endemà, morirà immediatament.",
+  "otherNightReminder": "Si hi ha quatre o més jugadors vius: la Bruixa assenyala a un jugador. Si el jugador assenyalat acusa algú l'endemà, morirà immediatament.",
+  "remindersGlobal": null,
+  "reminders": "Maleït"
+ },
+ {
+  "id": "yaggababble",
+  "name": "Yaggababble",
+  "ability": "Comences sabent una frase secreta. Cada vegada que la diguis públicament durant el dia, un jugador podria morir.",
+  "firstNightReminder": "Mostra-li al Yaggababble la seva frase secreta.",
+  "otherNightReminder": "Tria un nombre de jugadors igual o menor al nombre de vegades que el Yaggababble ha dit la seva frase secreta públicament; aquests jugadors moren.",
+  "remindersGlobal": null,
+  "reminders": "Mort"
+ },
+ {
+  "id": "zealot",
+  "name": "Zealot",
+  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "zombuul",
+  "name": "Zombuul",
+  "ability": "Cada nit*, si ningú ha mort durant el dia, tria un jugador: el jugador mor. La primera vegada que mors, encara ets viu, però comptes com si estiguessis mort.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Si ningú ha mort durant el dia: El Zombuul assenyala a un jugador. El jugador assenyalat mor.",
+  "remindersGlobal": null,
+  "reminders": "Mort avui, mort"
+ }
+]

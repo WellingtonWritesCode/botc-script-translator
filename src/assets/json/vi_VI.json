@@ -29,7 +29,7 @@
  {
   "id": "alsaahir",
   "name": "Alsaahir",
-  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "ability": "Một lần mỗi ngày, nếu bạn công khai đoán được (những) ai là Quỷ và (những) ai là Tay sai, phe tốt thắng.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -92,11 +92,11 @@
  {
   "id": "balloonist",
   "name": "Khinh khí cầu gia",
-  "ability": "Mỗi đêm, bạn biết 1 người thuộc về mỗi loại nhân vật cho đến khi hết loại nhân vật. [+1 Lữ khách]",
+  "ability": "Mỗi đêm, bạn biết 1 người khác loại với với người bạn biết đêm qua. [+0 hoặc +1 Lữ khách]",
   "firstNightReminder": "Chọn 1 loại nhân vật. Chỉ người thuộc về loại nhân vật đó. Đặt đánh dấu Đã biết của Khinh khí cầu gia cạnh nhân vật đó.",
   "otherNightReminder": "Chọn 1 loại nhân vật chưa có thẻ đánh dấu Đã biết cạnh nhân vật. Chỉ 1 người có nhân vật thuộc loại đó, nếu còn. Đặt đánh dấu Đã biết của Khinh khí cầu gia cạnh nhân vật đó.",
   "remindersGlobal": null,
-  "reminders": "Dân làng đã biết,Lữ khách đã biết,Tay sai đã biết,Quỷ đã biết,Du khách đã biết"
+  "reminders": "Biết"
  },
  {
   "id": "banshee",
@@ -596,7 +596,7 @@
  {
   "id": "harpy",
   "name": "Người chim",
-  "ability": "Mỗi đêm, chọn 2 người: ngày mai, người thứ nhất điên rằng người thứ hai là xấu, hoặc cả hai có thể chết.",
+  "ability": "Mỗi đêm, chọn 2 người: ngày mai, người thứ nhất điên rằng người thứ hai là xấu, hoặc chỉ 1 hoặc cả hai có thể chết.",
   "firstNightReminder": "Gọi Người chim dậy; họ chỉ 1 người và 1 người khác. Gọi người đầu tiên được Người chim chỉ, cho họ xem lá 'Nhân vật này chọn bạn', và token Người chim, rồi chỉ người thứ hai được Người chim chỉ.",
   "otherNightReminder": "Gọi Người chim dậy; họ chỉ 1 người và 1 người khác. Gọi người đầu tiên được Người chim chỉ, cho họ xem lá 'Nhân vật này chọn bạn', và token Người chim, rồi chỉ người thứ hai được Người chim chỉ.",
   "remindersGlobal": null,
@@ -758,7 +758,7 @@
  {
   "id": "lilmonsta",
   "name": "Lil' Monsta",
-  "ability": "Mỗi đêm, Tay sai quyết định ai trông nom thẻ Lil' Monsta & \"là Quỷ\"..Một người chết mỗi đêm*. [+1 Tay sai]",
+  "ability": "Mỗi đêm, Tay sai quyết định ai trông nom thẻ Lil' Monsta & \"là Quỷ\".Mỗi đêm*, một người có thể chết. [+1 Tay sai]",
   "firstNightReminder": "Gọi tất cả Tay sai dậy, cho họ chỉ phiếu cho người họ muốn trông coi Lil' Monsta.",
   "otherNightReminder": "Gọi tất cả Tay sai dậy, cho họ chỉ phiếu cho người họ muốn trông coi Lil' Monsta.. Chọn 1 người, người đó chết.",
   "remindersGlobal": "là Quỷ,Chết",
@@ -924,7 +924,7 @@
   "firstNightReminder": "Orge chỉ 1 người (không phải chính họ) và trở thành phe đó.",
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": null
+  "reminders": "Bạn"
  },
  {
   "id": "ojo",
@@ -992,7 +992,7 @@
  {
   "id": "plaguedoctor",
   "name": "Bác sĩ dịch hạch",
-  "ability": "Khi bạn chết, Người kể chuyện có chức năng của Tay sai ngoài game.",
+  "ability": "Khi bạn chết, Người kể chuyện có chức năng của Tay sai.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1438,6 +1438,15 @@
   "otherNightReminder": "Chọn số người nhỏ hơn hoặc bằng số lần Yaggababble công khai nói câu bí mật, họ chết",
   "remindersGlobal": null,
   "reminders": "Chết"
+ },
+ {
+  "id": "zealot",
+  "name": "Zealot",
+  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
  },
  {
   "id": "zombuul",

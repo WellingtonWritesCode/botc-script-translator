@@ -1440,6 +1440,15 @@
   "reminders": "ตาย"
  },
  {
+  "id": "zealot",
+  "name": "Zealot",
+  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "zombuul",
   "name": "ซอมบูล",
   "ability": "ในทุกคืน* ถ้าวันนี้ไม่มีใครตาย เลือกผู้เล่นหนึ่งคน คนนั้นจะตาย ครั้งแรกที่คุณตาย คุณจะไม่ตาย แต่คนอื่นๆจะคิดว่าคุณตายไปแล้ว",

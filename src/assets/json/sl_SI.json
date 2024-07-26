@@ -1440,6 +1440,15 @@
   "reminders": "Dead"
  },
  {
+  "id": "zealot",
+  "name": "Zealot",
+  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "zombuul",
   "name": "Zombuul",
   "ability": "Vsako noč*, če ni bil nihče usmrčen prejšnji dan, umoriš enega igralca. Prvič ko umreš, na skrivaj preživiš.",

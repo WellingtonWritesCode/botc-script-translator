@@ -100,7 +100,7 @@
  },
  {
   "id": "banshee",
-  "name": "Banshee",
+  "name": "Banshee (Pleureuse?)",
   "ability": "Si le démon vous tue, tous les joueurs l'apprennent. A partir de maintenant, vous pourrez nommer 2 fois par jour et voter 2 fois par nomination.",
   "firstNightReminder": null,
   "otherNightReminder": "Annoncez que la Banshee est morte",
@@ -1438,6 +1438,15 @@
   "otherNightReminder": "Choisissez un nombre de joueurs entre zéro et le nombre de fois que le Yaggablabla a dit sa phrase aujourd'hui. Ces joueurs meurent.",
   "remindersGlobal": null,
   "reminders": "Dead"
+ },
+ {
+  "id": "zealot",
+  "name": "Zealot",
+  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
  },
  {
   "id": "zombuul",

@@ -1440,6 +1440,15 @@
   "reminders": "Dead"
  },
  {
+  "id": "zealot",
+  "name": "Zealot",
+  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "zombuul",
   "name": "僵尸",
   "ability": "每个夜晚*，当白天没有玩家死亡时，选择一名玩家，将他杀害。当你第一次死亡时，你仍然活着，但被视为死亡。",

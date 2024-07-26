@@ -1440,6 +1440,15 @@
   "reminders": "Morto"
  },
  {
+  "id": "zealot",
+  "name": "Zealot",
+  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "zombuul",
   "name": "Zombuul",
   "ability": "Ogni notte*, se oggi non è morto nessuno, scegli un giocatore: muore. La prima volta che muori, sopravvivi ma registri come morto.",

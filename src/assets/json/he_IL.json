@@ -1458,6 +1458,15 @@
   "reminders": "Dead"
  },
  {
+  "id": "zealot",
+  "name": "Zealot",
+  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "zombuul",
   "name": "זומבול",
   "ability": "בכל לילה*, אם אף אחד לא מת היום, בחר שחקן: הוא מת. הפעם הראשונה שאתה מת, אתה חי אבל נחשב כמת.",
