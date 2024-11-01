@@ -11,8 +11,8 @@
  {
   "id": "alchemist",
   "name": "Alchemist",
-  "ability": "Du hast die Fähigkeit eines Untergebenen, der nicht im Spiel ist.",
-  "firstNightReminder": "Zeige dem Alchemisten den Spielstein eines Untergebenen, der sich nicht im Spiel befindet",
+  "ability": "Du hast die Fähigkeit eines Schergen, der nicht im Spiel ist.",
+  "firstNightReminder": "Zeige dem Alchemisten den Spielstein eines Schergen, der sich nicht im Spiel befindet",
   "otherNightReminder": null,
   "remindersGlobal": "Ist der Alchimist",
   "reminders": null
@@ -24,7 +24,7 @@
   "firstNightReminder": null,
   "otherNightReminder": "Der Al-Hadikhia wählt 3 Spieler. Wecke nacheinander alle drei Spieler und frage sie ob sie leben (nicken) oder sterben wollen (Kopfschütteln). Wählen alle drei Spieler das Leben, sterben alle drei.",
   "remindersGlobal": null,
-  "reminders": "1,2,3,Wähle Leben,Wähle Tod"
+  "reminders": "1,2,3,Wählte Leben,Wählte Tod"
  },
  {
   "id": "alsaahir",
@@ -56,16 +56,16 @@
  {
   "id": "apprentice",
   "name": "Lehrling",
-  "ability": "In deiner ersten Nacht bekommst Du die Fähigkeit eines Dorfbewohners oder eines Untergebenen.",
-  "firstNightReminder": "Zeige dem Lehrling zuerst die \"Du bist\" Karte und dann die Karte eines Dorfbewohners oder eines Untergebenen. Im Grimoire, ersetze die Karte des Lehrlings mit der Karte des Charakters und lege den \"Ist der Lehrling\" reminders auf die Karte des Charakters.",
+  "ability": "In deiner ersten Nacht bekommst Du die Fähigkeit eines Bürgers oder eines Schergen.",
+  "firstNightReminder": "Zeige dem Lehrling zuerst die \"Du bist\" Karte und dann die Karte eines Bürgers oder eines Schergen. Im Grimoire, ersetze die Karte des Lehrlings mit der Karte des Charakters und lege den \"Ist der Lehrling\" reminders auf die Karte des Charakters.",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": "Ist der Lehrling"
  },
  {
   "id": "artist",
-  "name": "Künstlerin",
-  "ability": "Einmal pro Spiel, am Tag, stelle dem Erzähler privat 1 beliebge Ja\/Nein-Frage.",
+  "name": "Künstler",
+  "ability": "Einmal im Spiel, während des Tages, stelle dem Erzähler geheim 1 beliebige Ja\/Nein-Frage.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -73,10 +73,10 @@
  },
  {
   "id": "assassin",
-  "name": "Assassine",
-  "ability": "Einmal pro Spiel, in der Nacht*, wähle 1 Spieler: der Spieler stirbt, auch wenn er eigentlich aus irgendeinem Grund überleben sollte.",
+  "name": "Meuchelmörder",
+  "ability": "Einmal im Spiel, in der Nacht*, wähle 1 Spieler: Er stirbt, selbst wenn er es aus irgendeinem Grund nicht könnte.",
   "firstNightReminder": null,
-  "otherNightReminder": "Hat der Assassine seine Fähigkeit noch nicht verwendet: Der Assassnie zeigt entweder ein 'Nein' Signal mit dem Kopf oder zeigt auf einen Spieler. Dieser Spieler stirbt.",
+  "otherNightReminder": "Hat der Meuchelmörder seine Fähigkeit noch nicht verwendet: Der Meuchelmörder zeigt entweder ein 'Nein' Signal mit dem Kopf oder zeigt auf einen Spieler. Dieser Spieler stirbt.",
   "remindersGlobal": null,
   "reminders": "Keine Fähigkeit,Tot"
  },
@@ -96,7 +96,7 @@
   "firstNightReminder": "Wähle eine Charakterklasse. Zeige auf einen Spieler dessen Charakter dieser Klasse entspricht. Platziere den \"Gesehen\" Reminder neben den Charakter.",
   "otherNightReminder": "Wähle eine Charakterklasse neben dem noch kein \"Gesehen\" reminder liegt. Zeige auf einen Spieler dessen Charakter dieser Klasse entspricht. Platziere den \"Gesehen\" Reminder neben den Charakter.",
   "remindersGlobal": null,
-  "reminders": "Dorfbewohner gesehen,Dämon gesehen,Reisender gesehen,Untergebener gesehen"
+  "reminders": "Bürger gesehen,Außenseiter gesehen,Scherge gesehen,Dämon gesehen,Reisender gesehen"
  },
  {
   "id": "banshee",
@@ -109,8 +109,8 @@
  },
  {
   "id": "barber",
-  "name": "Friseur",
-  "ability": "Wenn du am Tag oder diese Nacht gestorben bist, kann der Dämon 2 Spieler wählen (nicht einen anderen Dämon), welche Charaktere tauschen.",
+  "name": "Barbier",
+  "ability": "Wenn du stirbst, darf der Dämon in dieser Nacht 2 Spieler (keinen anderen Dämon) auswählen, die ihre Charaktere tauschen.",
   "firstNightReminder": null,
   "otherNightReminder": "Wenn der Friseur heute gestorben ist: Wecke den Dämon. Zeige ihm die \"Dieser Charakter wählte dich aus\" Karte und dann die Karte des Friseurs. Der Dämon zeigt entweder ein \"Nein\" Signal mit dem Kopf oder zeigt auf zwei Spieler. Wenn er Spieler gewählt hat: Tausche die Charakterkarten. Wecke die Spieler. Zeige Ihnen: \"Du bist' und danach ihren neuen Charakter.",
   "remindersGlobal": null,
@@ -137,7 +137,7 @@
  {
   "id": "beggar",
   "name": "Bettler",
-  "ability": "Du benötigst einen Spielstein zum Abstimmen. Tote Spiele dürfen Dir ihren Stein abgeben. Wenn sie das tun, lernst Du ihre Gesinnung (gut\/böse). Du bist nüchtern und gesund.",
+  "ability": "Du benötigst einen Spielstein zum Abstimmen. Tote Spiele dürfen Dir ihren Stein abgeben. Wenn sie das tun, lernst Du ihre Fraktion (gut\/böse). Du bist nüchtern und gesund.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -151,6 +151,15 @@
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": "Nominiere Böse,Nominiere Gut"
+ },
+ {
+  "id": "boffin",
+  "name": "Boffin",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
  },
  {
   "id": "bonecollector",
@@ -182,8 +191,8 @@
  {
   "id": "bountyhunter",
   "name": "Kopfgeldjäger",
-  "ability": "Du beginnst das Spiel mit dem Wissen, dass 1 Spieler böse ist. Wenn dieser Spieler stirbt, lernst du in der Nacht einen anderen bösen Spieler kennen. [1 Dorfbewohner ist böse]",
-  "firstNightReminder": "Zeige auf 1 bösen Spieler. Wecke den Dorfbewohner, der böse ist und zeige Ihm die 'Du bist' Karte und das Daumen-runter böse Zeichen.",
+  "ability": "Du beginnst das Spiel mit dem Wissen, dass 1 Spieler böse ist. Wenn dieser Spieler stirbt, lernst du in der Nacht einen anderen bösen Spieler kennen. [1 Bürger ist böse]",
+  "firstNightReminder": "Zeige auf 1 bösen Spieler. Wecke den Bürger, der böse ist und zeige Ihm die 'Du bist' Karte und das Daumen-runter böse Zeichen.",
   "otherNightReminder": "Wenn der bekannte böse Spieler stirbt, zeige auf einen anderen bösen Spieler.",
   "remindersGlobal": null,
   "reminders": "Bekannt"
@@ -218,7 +227,7 @@
  {
   "id": "butler",
   "name": "Butler",
-  "ability": "Jede Nacht, wähle 1 Spieler (nicht dich selbst): am folgenden Tag kannst du nur abstimmen, wenn dieser Spieler auch abstimmt.",
+  "ability": "Wähle jede Nacht 1 Spieler (nicht dich selbst): Morgen darfst du nur abstimmen, wenn er auch abstimmt.",
   "firstNightReminder": "Der Butler zeigt auf einen Spieler. Markiere diesen Spieler als 'Meister'.",
   "otherNightReminder": "Der Butler zeigt auf einen Spieler. Markiere diesen Spieler als 'Meister'.",
   "remindersGlobal": null,
@@ -231,12 +240,12 @@
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Heute gestorben,vergiftet"
+  "reminders": "Heute gestorben,Vergiftet"
  },
  {
   "id": "cerenovus",
   "name": "Cerenovus",
-  "ability": "Jede Nacht, wähle 1 Spieler und 1 guten Charakter: der Spieler ist am kommenden Tag \"besessen\" davon, dass er dieser Charakter ist, ansonsten könnte er hingerichtet werden.",
+  "ability": "Wähle jede Nacht 1 Spieler & 1 guten Charakter: Der Spieler ist morgen \"besessen\" davon, dass er der Charakter ist, oder könnte hingerichtet werden.",
   "firstNightReminder": "Der Cerenovus zeigt auf einen Spieler, dann auf einen Charakter auf dem Charakterbogen. Wecke diesen Spieler. Zeige ihm die 'Dieser Charakter hat dich ausgewählt' Karte und den Token des Cerenovus. Zeige den ausgewählten Charaktertoken. Wenn der Spieler am nächten Tag nicht besessen von diesem Charakter ist, kann er exekutiert werden.",
   "otherNightReminder": "Der Cerenovus zeigt auf einen Spieler, dann auf einen Charakter auf dem Charakterbogen. Wecke diesen Spieler. Zeige ihm die 'Dieser Charakter hat dich ausgewählt' Karte und den Token des Cerenovus. Zeige den ausgewählten Charaktertoken. Wenn der Spieler am nächten Tag nicht besessen von diesem Charakter ist, kann er exekutiert werden.",
   "remindersGlobal": null,
@@ -244,8 +253,8 @@
  },
  {
   "id": "chambermaid",
-  "name": "Kammermädchen",
-  "ability": "Jede Nacht, wähle 2 lebende Spieler (nicht dich selbst): du erfährst, wie viele von ihnen diese Nacht aufgrund ihrer Charakterfähigkeit erwachten.",
+  "name": "Kammerzofe",
+  "ability": "Wähle jede Nacht 2 lebendige Spieler (nicht dich selbst): Du erfährst, wie viele davon heute Nacht wegen ihrer Fähigkeit aufgewacht sind.",
   "firstNightReminder": "Das Kammermädchen zeigt auf zwei Spieler. Zeige dem Spieler wieviele (0, 1 oder 2) dieser Spieler in der letzten Nacht erwacht sind um ihre Fähigkeit zu verwenden.",
   "otherNightReminder": "Das Kammermädchen zeigt auf zwei Spieler. Zeige dem Spieler wieviele (0, 1 oder 2) dieser Spieler in der letzten Nacht erwacht sind um ihre Fähigkeit zu verwenden.",
   "remindersGlobal": null,
@@ -254,7 +263,7 @@
  {
   "id": "chef",
   "name": "Koch",
-  "ability": "Du beginnst das Spiel mit dem Wissen, wie viele Paare von bösen Spielern nebeneinander sitzen.",
+  "ability": "Du weißt zu Beginn, wie viele direkt benachbarte Paare böser Spiele es gibt.",
   "firstNightReminder": "Zeige mit der Hand die Anzahl (0, 1, 2, …) von benachbarten bösen Spielern",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -272,7 +281,7 @@
  {
   "id": "clockmaker",
   "name": "Uhrmacher",
-  "ability": "Du beginnst das Spiel mit dem Wissen, wie viele Plätze der Dämon von seinem nähesten Untergebenen entfernt sitzt.",
+  "ability": "Du weißt zu Beginn, wie viele Schritte es vom Dämon zum nächsten Schergen sind.",
   "firstNightReminder": "Zeige mit der Hand die Zahl der Plätze zwischen Dämon und dem nächsten Minion.",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -280,8 +289,8 @@
  },
  {
   "id": "courtier",
-  "name": "Schmeichler",
-  "ability": "Einmal pro Spiel, in der Nacht, wähle 1 Charakter: falls im Spiel, ist dieser für 3 Nächte und 3 Tage betrunken.",
+  "name": "Höfling",
+  "ability": "Einmal im Spiel, in der Nacht, wähle 1 Charakter: Er ist 3 Nächte & 3 Tage lang betrunken.",
   "firstNightReminder": "Der Schmeichler schüttelt entweder den Kopf (Nein) oder zeigt auf einen Charakter am Charakterbogen. Wenn der Schmeichler seine Fähigkeit nutzt: Der ausgewählte Charakter ist für drei Tage und Nächte betrunken, wenn er sich im Spiel befindet.",
   "otherNightReminder": "Reduziere die Anzahl der Tage, die der ausgewählte Spieler betrunken ist. Falls der Schmeichler seine Fähigkeit noch nicht benutzt hat: Der Schmeichler schüttelt entweder den Kopf (Nein) oder zeigt auf einen Charakter am Charakterbogen. Wenn der Schmeichler seine Fähigkeit nutzt: Der ausgewählte Charakter ist für drei Tage und Nächte betrunken, wenn er sich im Spiel befindet.",
   "remindersGlobal": null,
@@ -290,7 +299,7 @@
  {
   "id": "cultleader",
   "name": "Kultführer",
-  "ability": "Du nimmst jede Nacht die Gesinnung eines lebenden Nachbars an. Wenn alle guten Spieler deinem Kult beitreten, gewinnt dein Team.",
+  "ability": "Du nimmst jede Nacht die Fraktion eines lebenden Nachbars an. Wenn alle guten Spieler deinem Kult beitreten, gewinnt dein Team.",
   "firstNightReminder": "Wenn sich die Ausrichtung des Kultführers ändert, zeige ihm\/ihr ein Daumen nach oben Signal für Gut oder ein Daumen nach unten Signal für böse.",
   "otherNightReminder": "Wenn sich die Ausrichtung des Kultführers ändert, zeige ihm\/ihr ein Daumen nach oben Signal für Gut oder ein Daumen nach unten Signal für böse.",
   "remindersGlobal": null,
@@ -299,9 +308,9 @@
  {
   "id": "damsel",
   "name": "Maid",
-  "ability": "Alle Untergebenen wissen, dass du im Spiel bist. Wenn dich ein Untergebener öffentlich errät (einmal), verliert dein Team.",
-  "firstNightReminder": "Wecke alle Untergebenen und zeige ihnen die 'Dieser Charakter hat Dich ausgewählt' Karte und die Karte der Holden Maid.",
-  "otherNightReminder": "Wecke die Holde Maid, wenn Sie vom Jäger ausgewählt wurde und zeige ihr die 'Du bist' Karte und einen Token eines Dorfbewohners, der sich nicht im Spiel befindet.",
+  "ability": "Alle Schergen wissen, dass du im Spiel bist. Wenn dich ein Scherge öffentlich errät (einmal), verliert dein Team.",
+  "firstNightReminder": "Wecke alle Schergen und zeige ihnen die 'Dieser Charakter hat Dich ausgewählt' Karte und die Karte der Holden Maid.",
+  "otherNightReminder": "Wecke die Holde Maid, wenn Sie vom Jäger ausgewählt wurde und zeige ihr die 'Du bist' Karte und einen Token eines Bürgers, der sich nicht im Spiel befindet.",
   "remindersGlobal": null,
   "reminders": "Rateversuch verbraucht"
  },
@@ -325,10 +334,10 @@
  },
  {
   "id": "devilsadvocate",
-  "name": "Anwalt des Teufels",
-  "ability": "Jede Nacht, wähle 1 lebenden Spieler (nicht denselben wie die Nacht zuvor): wird der Spieler morgen hingerichtet, stirbt er nicht.",
-  "firstNightReminder": "Der Anwalt des Teufels zeigt auf einen lebenden Spieler. Dieser Spieler übberlebt die Exekution morgen.",
-  "otherNightReminder": "Der Anwalt des Teufels zeigt auf einen (anderen) lebenden Spieler. Dieser Spieler übberlebt die Exekution morgen.",
+  "name": "Teufelsadvokat",
+  "ability": "Wähle jede Nacht 1 lebendigen Spieler (1 anderen als in der vorherigen Nacht): Falls er am nächsten Tag hingerichtet wird, stirbt er nicht.",
+  "firstNightReminder": "Der Teufelsadvokat zeigt auf einen lebenden Spieler. Dieser Spieler übberlebt die Exekution morgen.",
+  "otherNightReminder": "Der Teufelsadvokat zeigt auf einen (anderen) lebenden Spieler. Dieser Spieler übberlebt die Exekution morgen.",
   "remindersGlobal": null,
   "reminders": "Überlebt Exekution"
  },
@@ -344,7 +353,7 @@
  {
   "id": "doomsayer",
   "name": "Unheilsbringer",
-  "ability": "Wenn mehr als 4 Spieler leben: Jeder lebende Spieler kann öffentlich (einmal pro Spiel) bestimmen, dass ein Spieler seiner eigenen Gesinnung (Gut oder Böse) stirbt.",
+  "ability": "Wenn mehr als 4 Spieler leben: Jeder lebende Spieler kann öffentlich (einmal pro Spiel) bestimmen, dass ein Spieler seiner eigenen Fraktion (Gut oder Böse) stirbt.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -353,7 +362,7 @@
  {
   "id": "dreamer",
   "name": "Träumer",
-  "ability": "Jede Nacht, wähle 1 Spieler (nicht dich selbst): du erfährst 1 guten und 1 bösen Charakter, wovon einer richtig ist.",
+  "ability": "Wähle jede Nacht 1 Spieler (nicht dich selbst oder Reisende): Du erfährst 1 guten & 1 bösen Charakter, 1 davon ist korrekt.",
   "firstNightReminder": "Der Träumer zeigt auf einen Spieler. Zeige 1 guten und 1 bösen Charaktertoken: einer der Tokens ist richtig.",
   "otherNightReminder": "Der Träumer zeigt auf einen Spieler. Zeige 1 guten und 1 bösen Charaktertoken: einer der Tokens ist richtig.",
   "remindersGlobal": null,
@@ -361,8 +370,8 @@
  },
  {
   "id": "drunk",
-  "name": "Schnapsdrossel",
-  "ability": "Du weißt nicht, dass du die Schnapsdrossel bist. Du denkst, du seist ein Dorfbewohner, aber deine Fähigkeit schlägt fehl.",
+  "name": "Trunkenbold",
+  "ability": "Du weißt nicht, dass du der Trunkenbold bist. Du denkst, dass du ein Bürger-Charakter bist, aber das stimmt nicht.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": "Betrunken",
@@ -380,7 +389,7 @@
  {
   "id": "empath",
   "name": "Empath",
-  "ability": "Du erfährst jede Nacht, wie viele deiner beiden lebenden Nachbarn böse sind.",
+  "ability": "Jede Nacht erfährst du, wie viele deiner 2 lebendigen Nachbarn böse sind.",
   "firstNightReminder": "Zeige mit der Hand (0, 1, 2)  wieviele lebende Nachbarn des Empathen böse sind.",
   "otherNightReminder": "Zeige mit der Hand (0, 1, 2)  wieviele lebende Nachbarn des Empathen böse sind.",
   "remindersGlobal": null,
@@ -389,16 +398,16 @@
  {
   "id": "engineer",
   "name": "Ingenieur",
-  "ability": "Einmal pro Spiel, in der Nacht, wähle, welche Untergebenen oder welcher Dämon im Spiel ist.",
-  "firstNightReminder": "Der Ingenieur schüttelt den Kopf (Nein) oder zeigt auf einen Dämon oder auf die richtige Anzahl von Untergebebenen.Wenn der Ingenieur Charaktere wählt, ersetze den Dämon oder die Untergebenen mit der Auswahl des Ingnieurs, danach wecke die betroffenen Spieler, zeige Ihnen die 'Du bist' Karte und danach die relevanten Charaktertokens.",
-  "otherNightReminder": "Der Ingenieur schüttelt den Kopf (Nein) oder zeigt auf einen Dämon oder auf die richtige Anzahl von Untergebebenen.Wenn der Ingenieur Charaktere wählt, ersetze den Dämon oder die Untergebenen mit der Auswahl des Ingnieurs, danach wecke die betroffenen Spieler, zeige Ihnen die 'Du bist' Karte und danach die relevanten Charaktertokens.",
+  "ability": "Einmal pro Spiel, in der Nacht, wähle, welche Schergen oder welcher Dämon im Spiel ist.",
+  "firstNightReminder": "Der Ingenieur schüttelt den Kopf (Nein) oder zeigt auf einen Dämon oder auf die richtige Anzahl von Untergebebenen.Wenn der Ingenieur Charaktere wählt, ersetze den Dämon oder die Schergen mit der Auswahl des Ingnieurs, danach wecke die betroffenen Spieler, zeige Ihnen die 'Du bist' Karte und danach die relevanten Charaktertokens.",
+  "otherNightReminder": "Der Ingenieur schüttelt den Kopf (Nein) oder zeigt auf einen Dämon oder auf die richtige Anzahl von Untergebebenen.Wenn der Ingenieur Charaktere wählt, ersetze den Dämon oder die Schergen mit der Auswahl des Ingnieurs, danach wecke die betroffenen Spieler, zeige Ihnen die 'Du bist' Karte und danach die relevanten Charaktertokens.",
   "remindersGlobal": null,
   "reminders": "Keine Fähigkeit"
  },
  {
   "id": "eviltwin",
   "name": "Böser Zwilling",
-  "ability": "Du und ein Spieler des gegnerischen Teams kennen einander. Wenn der gute Spieler hingerichtet wird, gewinnt das böse Team. Das gute Team kann nicht gewinnen, wenn ihr beide noch lebt.",
+  "ability": "Du & ein gegnerischer Spieler kennen einander. Wird der gute Spieler hingerichtet, gewinnt das Böse. Gut kann nicht gewinnen, solange ihr beide lebt.",
   "firstNightReminder": "Wecke den bösen Zwilling und den Zwilling. Achte darauf, dass sich beide Zwillinge gefunden haben. Zeige auf den bösen Zwilling und zeige dem anderen Zwilling die Spielkarte des bösen Zwilling. Zeige auf den anderen Zwilling und zeige seine Spielkarte dem Spieler des bösen Zwilling.",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -416,7 +425,7 @@
  {
   "id": "fanggu",
   "name": "Fang Gu",
-  "ability": "Jede Nacht*, wähle 1 Spieler: er stirbt. Der erste Außenseiter, den du so tötest, wird zum bösen Fang Gu und du stirbst an seiner Stelle. [+1 Außenseiter]",
+  "ability": "Wähle jede Nacht* 1 Spieler: Er stirbt. Der 1. Außenseiter, der so stirbt, wird ein böser Fang Gu & du stirbst stattdessen. [+1 Außenseiter]",
   "firstNightReminder": null,
   "otherNightReminder": "Der Fang Gu zeigt auf einen Spieler. Dieser Spieler stirbt. Falls dieser Spieler ein Außenseiter war nud kein anderer Fang Gu im Spiel ist: Der Fang Gu stirbt an seiner Stelle. Der ausgewählte Spieler wird der neue Fang Gu. Wecke den neuen Fang Gu. Zeige ihm die 'Du bist' Karte und den Token des Fang Gu. Danach zeige ihm die 'Du bist' Karte und ein Daumen nach unten (böse) Zeichen",
   "remindersGlobal": null,
@@ -470,7 +479,7 @@
  {
   "id": "flowergirl",
   "name": "Blumenmädchen",
-  "ability": "Du erfährst jede Nacht*, ob ein Dämon am Tag abgestimmt hat.",
+  "ability": "Jede Nacht* erfährst du, ob heute ein Dämon für eine Hinrichtung gestimmt hat.",
   "firstNightReminder": null,
   "otherNightReminder": "Nicke (ja) mit dem Kopf wenn der Dämon am Tag abgestimmt hat, ansonsten schüttle den Kopf (nein). Platziere den 'Dämon nicht abgestimmt' Marker, bzw. entferne diesen.",
   "remindersGlobal": null,
@@ -479,7 +488,7 @@
  {
   "id": "fool",
   "name": "Narr",
-  "ability": "Das erste Mal, dass du sterben solltest, stirbst du nicht.",
+  "ability": "Wenn du zum 1. Mal sterben würdest, stirbst du stattdessen nicht.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -488,7 +497,7 @@
  {
   "id": "fortuneteller",
   "name": "Wahrsagerin",
-  "ability": "Jede Nacht, wähle 2 Spieler: du erfährst, ob sich unter ihnen ein Dämon befindet. Es gibt jedoch einen guten Spieler, der für dich auch als Dämon registriert.",
+  "ability": "Wähle jede Nacht 2 Spieler: Du erfährst, ob 1 davon der Dämon ist. Es gibt 1 guten Spieler, der dir als Dämon erscheint.",
   "firstNightReminder": "Die Wahrsagerin zeigt auf zwei Spieler. Ist einer dieser Spieler der Dämon nicke mit dem Kopf, andernfalls schūttle den Kopf.",
   "otherNightReminder": "Die Wahrsagerin zeigt auf zwei Spieler. Ist einer dieser Spieler der Dämon nicke mit dem Kopf, andernfalls schūttle den Kopf.",
   "remindersGlobal": null,
@@ -497,7 +506,7 @@
  {
   "id": "gambler",
   "name": "Glücksspieler",
-  "ability": "Jede Nacht*, wähle 1 Spieler und versuche, dessen Charakter zu erraten: rätst du falsch, stirbst du.",
+  "ability": "Wähle jede Nacht* 1 Spieler & rate seinen Charakter: Falls du falsch rätst, stirbst du.",
   "firstNightReminder": null,
   "otherNightReminder": "Der Glücksspieler zeigt auf einen Spieler und einen Charakter auf dem Charakterbogen. Liegt er falsch, stirbt der Glücksspieler.",
   "remindersGlobal": null,
@@ -515,7 +524,7 @@
  {
   "id": "general",
   "name": "General",
-  "ability": "Du erfährst jede Nacht, welche Gesinnung der Erzähler glaubt, sei am gewinnen: gut, böse oder weder noch.",
+  "ability": "Du erfährst jede Nacht, welche Fraktion der Erzähler glaubt, sei am gewinnen: gut, böse oder weder noch.",
   "firstNightReminder": "Zeige dem General ob gut im Vorteil ist (Daumen. nach oben), Böse im Vorteil ist (Daumen nach unten) oder es ausgeglichen ist (Daumen zur Seite).",
   "otherNightReminder": "Zeige dem General ob gut im Vorteil ist (Daumen. nach oben), Böse im Vorteil ist (Daumen nach unten) oder es ausgeglichen ist (Daumen zur Seite).",
   "remindersGlobal": null,
@@ -533,7 +542,7 @@
  {
   "id": "godfather",
   "name": "Pate",
-  "ability": "Du beginnst das Spiel mit dem Wissen, welche Außenseiter im Spiel sind. Wenn einer am Tag gestorben ist, wähle in der darauffolgenden Nacht 1 Spieler: er stirbt. [+1 oder -1 Außenseiter]",
+  "ability": "Du weißt zu Beginn, welche Außenseiter im Spiel sind. Falls 1 Außenseiter heute starb, wähle heute Nacht 1 Spieler: Er stirbt. [-1 oder +1 Außenseiter]",
   "firstNightReminder": "Zeige alle Außenseiter Spielsteine, die sich im Spiel befinden",
   "otherNightReminder": "Wenn heute ein Außenseiter stirbt: Der Pate zeigt auf einen Spieler, dieser Spieler stirbt.",
   "remindersGlobal": null,
@@ -550,8 +559,8 @@
  },
  {
   "id": "goon",
-  "name": "Trottel",
-  "ability": "Jede Nacht: der erste Spieler, der dich mit seiner Fähigkeit wählt, ist betrunken bis Sonnenuntergang. Du nimmst dessen Gesinnung an (gut oder böse).",
+  "name": "Schläger",
+  "ability": "Jede Nacht ist der 1. Spieler, der dich mit seiner Fähigkeit wählt, bis zur Abenddämmerung betrunken. Du wechselst zu seiner Fraktion.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -560,7 +569,7 @@
  {
   "id": "gossip",
   "name": "Schwätzer",
-  "ability": "Du darfst jeden Tag eine öffentliche Aussage treffen. Die darauffolgende Nacht, wenn die Aussage zutraf, stirbt ein Spieler.",
+  "ability": "Jeden Tag darfst du 1 öffentliche Aussage treffen. Falls sie wahr war, stirbt heute Nacht 1 Spieler.",
   "firstNightReminder": null,
   "otherNightReminder": "Wenn das öffentliche Statement des Schwätzers zutrifft: Wähle einen Spieler, der nicht vor dem Tod beschützt ist. Dieser Spieler stirbt",
   "remindersGlobal": null,
@@ -569,7 +578,7 @@
  {
   "id": "grandmother",
   "name": "Großmutter",
-  "ability": "Du beginnst das Spiel mit dem Wissen, dass ein bestimmter guter Spieler ein bestimmter Charakter ist. Wird der Spieler vom Dämon getötet, stirbst du auch.",
+  "ability": "Du weißt zu Beginn, dass 1 Spieler gut ist & kennst seinen Charakter. Falls der Dämon ihn tötet, stirbst du ebenfalls.",
   "firstNightReminder": "Zeige auf den als Enkel markierten Charaktertoken. Zeige auf den markierten Spieler.",
   "otherNightReminder": "Stirbt der Enkel der Großmutter heute Nacht: Die Großmutter stirbt.",
   "remindersGlobal": null,
@@ -641,7 +650,7 @@
  {
   "id": "huntsman",
   "name": "Jäger",
-  "ability": "Einmal pro Spiel, in der Nacht, wähle einen lebenden Spieler: wählst du die Maid, wird sie zu einem Dorfbewohner, der vorher nicht im Spiel war. [+ Maid]",
+  "ability": "Einmal pro Spiel, in der Nacht, wähle einen lebenden Spieler: wählst du die Maid, wird sie zu einem Bürger, der vorher nicht im Spiel war. [+ Maid]",
   "firstNightReminder": "Der Jäger schüttelt den Kopf für Nein oder zeigt auf einen Spieler. Wenn er auf die Maid zeigt, wecke diesen Spieler, zeige ihm die 'Du bist' Karte und einen neuen Token eines guten Charakters, der sich nicht im Spiel befindet.",
   "otherNightReminder": "Der Jäger schüttelt den Kopf für Nein oder zeigt auf einen Spieler. Wenn er auf die Maid zeigt, wecke diesen Spieler, zeige ihm die 'Du bist' Karte und einen neuen Token eines guten Charakters, der sich nicht im Spiel befindet.",
   "remindersGlobal": null,
@@ -650,16 +659,16 @@
  {
   "id": "imp",
   "name": "Imp",
-  "ability": "Jede Nacht*, wähle 1 Spieler: dieser Spieler stirbt. Wenn du dich selbst auf diesem Weg tötest, wird ein Untergebener zum Imp.",
+  "ability": "Wähle jede Nacht* 1 Spieler: Er stirbt. Falls du dich damit selbst tötest, wird ein Scherge zum Imp.",
   "firstNightReminder": null,
-  "otherNightReminder": "Der Imp zeigt auf einen Spieler. Dieser Spieler stirbt. Wenn sich der Imp selbst wählt: Ersetze den Charakter eines lebenden Untergebenen mit einem übrigen Imp Token. Zeige ihm die 'Du bist' Karte und dann den Imp Token.",
+  "otherNightReminder": "Der Imp zeigt auf einen Spieler. Dieser Spieler stirbt. Wenn sich der Imp selbst wählt: Ersetze den Charakter eines lebenden Schergen mit einem übrigen Imp Token. Zeige ihm die 'Du bist' Karte und dann den Imp Token.",
   "remindersGlobal": null,
   "reminders": "Tot"
  },
  {
   "id": "innkeeper",
   "name": "Gastwirt",
-  "ability": "Jede Nacht*, wähle 2 Spieler: beide können diese Nacht nicht sterben, aber 1 von ihnen ist bis Sonnenuntergang betrunken.",
+  "ability": "Wähle jede Nacht* 2 Spieler: Sie können heute Nacht nicht sterben, aber einer von ihnen ist bis zur Abenddämmerung betrunken.",
   "firstNightReminder": null,
   "otherNightReminder": "Die zuvor beschützten und betrunkenen Spieler verlieren die Marker. Der Gastwirt zeigt auf zwei Spieler. Diese Spieler sind beschützt. Einer von ihnen ist betrunken.",
   "remindersGlobal": null,
@@ -667,12 +676,12 @@
  },
  {
   "id": "investigator",
-  "name": "Ermittler",
-  "ability": "Du beginnst das Spiel mit dem Wissen, dass 1 von 2 Spielern ein spezifischer Untergebener ist.",
-  "firstNightReminder": "Zeige den Charaktertokens eines Untergebenen, der sich im Spiel befindet. Zeige auf zwei Spieler, von denen einer diesen Untergebenen spielt.",
+  "name": "Detektiv",
+  "ability": "Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter Scherge ist.",
+  "firstNightReminder": "Zeige den Charaktertokens eines Schergenn, der sich im Spiel befindet. Zeige auf zwei Spieler, von denen einer diesen Schergen spielt.",
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Untergebener,falsch"
+  "reminders": "Scherge,falsch"
  },
  {
   "id": "judge",
@@ -686,7 +695,7 @@
  {
   "id": "juggler",
   "name": "Jongleur",
-  "ability": "An deinem ersten Tag, versuche öffentlich die Charaktere von bis zu 5 Spielern zu erraten. In der darauffolgenden Nacht erfährst du, mit wie vielen du richtig lagst.",
+  "ability": "An deinem 1. Tag rate öffentlich den Charakter von bis zu 5 Spielern. In dieser Nacht erfährst du, wie viele davon korrekt waren.",
   "firstNightReminder": null,
   "otherNightReminder": "Wenn heute der erste Tag des Jongleurs war: Zeige mit der Hand wieviele Charaktere der Jongleur richtig erraten hat.",
   "remindersGlobal": null,
@@ -713,7 +722,7 @@
  {
   "id": "klutz",
   "name": "Tollpatsch",
-  "ability": "Wenn du erfährst, dass du gestorben bist, wähle öffentlich 1 lebenden Spieler. Wenn der Spieler böse ist, verliert dein Team.",
+  "ability": "Wenn du erfährst, dass du gestorben bist, wähle öffentlich 1 lebendigen Spieler: Falls er böse ist, verliert dein Team.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -731,7 +740,7 @@
  {
   "id": "legion",
   "name": "Legion",
-  "ability": "Jede Nacht* könnte ein Spieler sterben. Hinrichtungen schlagen fehl, wenn nur böse Spieler abgestimmt haben. Du registrierst auch als Untergebener. [Eine Mehrzahl von Spielern sind Legion]",
+  "ability": "Jede Nacht* könnte ein Spieler sterben. Hinrichtungen schlagen fehl, wenn nur böse Spieler abgestimmt haben. Du registrierst auch als Scherge. [Eine Mehrzahl von Spielern sind Legion]",
   "firstNightReminder": null,
   "otherNightReminder": "Wähle einen Spieler, dieser Spieler stirbt.",
   "remindersGlobal": null,
@@ -748,8 +757,8 @@
  },
  {
   "id": "librarian",
-  "name": "Bibliothekarin",
-  "ability": "Du beginnst das Spiel mit dem Wissen, dass 1 von 2 Spielern ein spezifischer Aussenseiter ist. (Oder, dass 0 im Spiel sind.)",
+  "name": "Bibliothekar",
+  "ability": "Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter Außenseiter ist. (Oder dass keine mitspielen.)",
   "firstNightReminder": "Zeige den Charaktertoken eines im Spiel befindlichen Außenseiters. Zeige auf zwei Spieler, von denen einer den Charakter spielt.",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -758,9 +767,9 @@
  {
   "id": "lilmonsta",
   "name": "Kleines Monsta",
-  "ability": "Jede Nacht entscheiden die Untergebenen, wer das Kleine Monsta Charakterplättchen babysittet & der Dämon \"ist\". Ein Spieler stirbt jede Nacht*. [+1 Untergebener]",
-  "firstNightReminder": "Wecke alle Untergebenen gemeinsam. Sie müssen sich einigen, wer von ihnen das Kleine Monsta babysittet.",
-  "otherNightReminder": "Wecke alle Untergebenen gemeinsam. Sie müssen sich einigen, wer von Ihnen das Kleine Monsta babysittet. Wähle einen Spieler, dieser Spieler stirbt.",
+  "ability": "Jede Nacht entscheiden die Schergen, wer das Kleine Monsta Charakterplättchen babysittet & der Dämon \\\"ist\\\". Ein Spieler stirbt jede Nacht*. [+1 Schergenr]",
+  "firstNightReminder": "Wecke alle Schergen gemeinsam. Sie müssen sich einigen, wer von ihnen das Kleine Monsta babysittet.",
+  "otherNightReminder": "Wecke alle Schergen gemeinsam. Sie müssen sich einigen, wer von Ihnen das Kleine Monsta babysittet. Wähle einen Spieler, dieser Spieler stirbt.",
   "remindersGlobal": "Tot,ist der Dämon",
   "reminders": null
  },
@@ -774,11 +783,20 @@
   "reminders": "Tot,Vergiftet"
  },
  {
+  "id": "lordoftyphon",
+  "name": "Lord of Typhon",
+  "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]",
+  "firstNightReminder": "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil.",
+  "otherNightReminder": "The Lord of Typhon points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
   "id": "lunatic",
-  "name": "Wahnsinniger",
-  "ability": "Du weißt nicht, dass du der Wahnsinnige bist. Du denkst, du seist ein Dämon, bist du aber nicht. Der Dämon weiß, wer du bist und wen du angreifst.",
-  "firstNightReminder": "Bei 7 oder mehr Spielern: Zeige dem Wahnisnnigen  die Anzahl an falschen 'Untergebenen', die im Spiel sind.Wenn der Dämon, den der Wahnsinnige sieht ein Dämon ist, der in der Nacht erwacht: Erlaube dem Wahnsinnigen Dämonenaktionen durchzuführen. Platziere den 'Attacke' Marker. Wenn der Wahnsinnige einen Spieler auswählt: Wecke den Dämon. Zeige ihm den 'Attackiere' Marker, dann zeige auf jeden vom Wahnsinnigen markierten Spieler. Entferne die Attacke Marker des Wahnsinnigen.",
-  "otherNightReminder": "Erlaube dem Wahnsinnigen Dämonenaktionen durchzuführen. Platziere den 'Attacke' Marker. Wenn der Wahnsinnige einen Spieler auswählt: Wecke den Dämon. Zeige ihm den 'Attackiere' Marker, dann zeige auf jeden vom Wahnsinnigen markierten Spieler. Entferne die Attacke Marker des Wahnsinnigen.",
+  "name": "Verrückte",
+  "ability": "Du denkst fälschlicherweise, dass du der Dämon bist. Der Dämon weiß, wer du bist & wen du in der Nacht gewählt hast.",
+  "firstNightReminder": "Bei 7 oder mehr Spielern: Zeige der Verrückten die Anzahl an falschen 'Schergen', die im Spiel sind.Wenn der Dämon, den die Verrückte sieht ein Dämon ist, der in der Nacht erwacht: Erlaube der Verrückten Dämonenaktionen durchzuführen. Platziere den 'Attacke' Marker. Wenn die Verrückte einen Spieler auswählt: Wecke den Dämon. Zeige ihm den 'Attackiere' Marker, dann zeige auf jeden von der Verrückten markierten Spieler. Entferne die Attacke Marker der Verrückten.",
+  "otherNightReminder": "Erlaube der Verrückten Dämonenaktionen durchzuführen. Platziere den 'Attacke' Marker. Wenn die Verrückte einen Spieler auswählt: Wecke den Dämon. Zeige ihm den 'Attackiere' Marker, dann zeige auf jeden von der Verrückten markierten Spieler. Entferne die Attacke Marker der Verrückten.",
   "remindersGlobal": null,
   "reminders": "Angriff 1,Angriff 2,Angriff 3"
  },
@@ -794,7 +812,7 @@
  {
   "id": "magician",
   "name": "Magier",
-  "ability": "Der Dämon denkt, du seist ein Untergebener. Untergebene denken, du seist ein Dämon.",
+  "ability": "Der Dämon denkt, du seist ein Scherge. Schergen denken, du seist ein Dämon.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -811,8 +829,8 @@
  },
  {
   "id": "mastermind",
-  "name": "Genie",
-  "ability": "Wenn der Dämon durch eine Hinrichtung stirbt (und das Spiel beenden würde), spiele für einen weiteren Tag. Wird am darauffolgenden Tag ein Spieler hingerichtet, verliert das Team mit derselben Gesinnung wie der Spieler.",
+  "name": "Strippenzieher",
+  "ability": "Falls der Dämon durch eine Hinrichtung stirbt (& das Spiel enden würde), spiele 1 weiteren Tag. Falls dann ein Spieler hingerichtet wird, verliert sein Team.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -821,7 +839,7 @@
  {
   "id": "mathematician",
   "name": "Mathematiker",
-  "ability": "Du erfährst jede Nacht, wie viele Fähigkeiten (seit Sonnenaufgang) aufgrund der Fähigkeit eines anderen Charakters nicht so funktionierten, wie sie sollten.",
+  "ability": "Jede Nacht erfährst du, bei wie vielen Spielern die Fähigkeit (seit dem Morgen) wegen der Fähigkeit eines anderen Charakters fehlerhaft gearbeitet hat.",
   "firstNightReminder": "Zeige die Anzahl der Spieler, deren Fähigkeiten beeinträchtigt wurden mit der Hand.",
   "otherNightReminder": "Zeige die Anzahl der Spieler, deren Fähigkeiten beeinträchtigt wurden mit der Hand.",
   "remindersGlobal": null,
@@ -839,7 +857,7 @@
  {
   "id": "mayor",
   "name": "Bürgermeister",
-  "ability": "Wenn nur noch 3 Spieler leben und am Tag keine Hinrichtung stattfindet, gewinnt dein Team. Wenn du in der Nacht sterben solltest, könnte ein anderer Spieler an deiner Stelle sterben.",
+  "ability": "Falls nur noch 3 Spieler leben & es keine Hinrichtung gibt, gewinnt dein Team. Falls du in der Nacht stirbst, könnte stattdessen ein anderer Spieler sterben.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -857,7 +875,7 @@
  {
   "id": "minstrel",
   "name": "Minnesänger",
-  "ability": "Wenn ein Untergebener durch eine Hinrichtung stirbt, sind alle anderen Spieler (mit Ausnahme von Reisenden) bis Sonnenuntergang des darauffolgenden Tages betrunken.",
+  "ability": "Falls ein Scherge durch Hinrichtung stirbt, sind alle anderen Spieler (außer Reisende) bis zur Abenddämmerung des nächsten Tages betrunken.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -866,7 +884,7 @@
  {
   "id": "monk",
   "name": "Mönch",
-  "ability": "Jede Nacht*, wähle 1 Spieler (nicht dich selbst): dieser Spieler ist vor dem Dämon geschützt.",
+  "ability": "Wähle jede Nacht* 1 Spieler (nicht dich selbst). Er ist heute Nacht sicher vor dem Dämon.",
   "firstNightReminder": null,
   "otherNightReminder": "Der zuvor beschützte Spieler ist nicht mehr beschützt. Der Spieler zeigt auf einen Spieler (nicht sich selbst). Markiere diesen Spieler als \"beschützt\".",
   "remindersGlobal": null,
@@ -875,7 +893,7 @@
  {
   "id": "moonchild",
   "name": "Mondkind",
-  "ability": "Wenn du erfährst, dass du gestorben bist, wähle öffentlich 1 lebenden Spieler. Die darauffolgende Nacht, wenn der  Spieler gut war, stirbt er.",
+  "ability": "Wenn du erfährst, dass du gestorben bist, wähle öffentlich 1 lebendigen Spieler. Falls es ein guter Spieler war, stirbt er heute Nacht.",
   "firstNightReminder": null,
   "otherNightReminder": "Wenn das Mondkind am Tag stirbt und seine Fähigkeit einsetzt um einen Spieler auszuwählen: Ist dieser Spieler gut, stirbt er.",
   "remindersGlobal": null,
@@ -884,7 +902,7 @@
  {
   "id": "mutant",
   "name": "Mutant",
-  "ability": "Wenn du \"besessen\" davon bist, ein Außenseiter zu sein, könntest du hingerichtet werden",
+  "ability": "Falls du \"besessen\" davon bist, ein Außenseiter zu sein, könntest du hingerichtet werden.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -911,7 +929,7 @@
  {
   "id": "nodashii",
   "name": "No Dashii",
-  "ability": "Jede Nacht*, wähle 1 Spieler: er stirbt. Deine beiden Dorfbewohner-Nachbarn sind vergiftet.",
+  "ability": "Wähle jede Nacht* 1 Spieler: Er stirbt. Deine 2 benachbarten Bürger sind vergiftet.",
   "firstNightReminder": null,
   "otherNightReminder": "Der No Dashii zeigt auf einen Spieler. Dieser Spieler stirbt.",
   "remindersGlobal": null,
@@ -938,7 +956,7 @@
  {
   "id": "oracle",
   "name": "Orakel",
-  "ability": "Du erfährst jede Nacht*, wie viele tote Spieler böse sind.",
+  "ability": "Jede Nacht* erfährst du, wie viele tote Spieler böse sind.",
   "firstNightReminder": null,
   "otherNightReminder": "Zeige mit deinen Fingern die Anzahl der bösen Spieler, die gestorben sind",
   "remindersGlobal": null,
@@ -956,7 +974,7 @@
  {
   "id": "pacifist",
   "name": "Pazifist",
-  "ability": "Hingerichtete gute Spieler könnten überleben.",
+  "ability": "Hingerichtete gute Spieler sterben möglicherweise nicht.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -965,26 +983,26 @@
  {
   "id": "philosopher",
   "name": "Philosoph",
-  "ability": "Einmal pro Spiel, in der Nacht, wähle 1 guten Charakter: du erhälst dessen Fähigkeit. Wählst du jedoch einen Charakter, der bereits im Spiel ist, ist dieser betrunken.",
+  "ability": "Einmal im Spiel, in der Nacht, wähle 1 guten Charakter: Erhalte seine Fähigkeit. Falls der Charakter im Spiel ist, ist er betrunken.",
   "firstNightReminder": "Der Philosoph schüttelt den Kopf (Nein) oder zeigt auf einen guten CHarakter am Charakterbogen. Wenn er einen Charakter gewählt hat: Tausche den Charaktertoken des Philosophs mit dem neuen Charaktertoken aus. Sollte sich der Charakter bereits im Spiel befunden wird der originale Spieler betrunken.",
   "otherNightReminder": "Wenn der Philosoph seine Fähigkeit noch nicht eingesetzt hat: Der Philosoph schüttelt den Kopf (Nein) oder zeigt auf einen guten CHarakter am Charakterbogen. Wenn er einen Charakter gewählt hat: Tausche den Charaktertoken des Philosophs mit dem neuen Charaktertoken aus. Sollte sich der Charakter bereits im Spiel befunden wird der originale Spieler betrunken.",
-  "remindersGlobal": "Betrunken,ist der Philosoph",
+  "remindersGlobal": "ist der Philosoph,Betrunken",
   "reminders": null
  },
  {
   "id": "pithag",
-  "name": "Trankbrauerin",
-  "ability": "Jede Nacht*, wähle 1 Spieler und 1 Charakter zu dem er wird (falls nicht bereits im Spiel). Wenn du auf diesem Weg einen Dämon erschaffst, sind Tode diese Nacht willkürlich. Spieler ändern nur Charakter, nicht Gesinnung.",
+  "name": "Grubenweib",
+  "ability": "Wähle jede Nacht* 1 Spieler & 1 guten Charakter, der er wird (falls nicht im Spiel). Falls ein Dämon erzeugt wird, wird willkürlich getötet.",
   "firstNightReminder": null,
-  "otherNightReminder": "Die Trankbrauerin zeigt auf einen Spieler und auf einen Charakter am Charakterbogen. Wenn dieser Charakter nicht im Spiel ist, wecke den Spieler und zeige ihm die 'Du bist' Karte und den Charaktertoken. Befindet sich der Charakter im Spiel, passiert nichts.",
+  "otherNightReminder": "Das Grubenweib zeigt auf einen Spieler und auf einen Charakter am Charakterbogen. Wenn dieser Charakter nicht im Spiel ist, wecke den Spieler und zeige ihm die 'Du bist' Karte und den Charaktertoken. Befindet sich der Charakter im Spiel, passiert nichts.",
   "remindersGlobal": null,
   "reminders": null
  },
  {
   "id": "pixie",
   "name": "Elfe",
-  "ability": "Du beginnst das Spiel mit dem Wissen, dass 1 Dorfbewohner im Spiel ist. Wenn du \"besessen\" davon bist, dass du dieser Charakter bist, erhätlst du seine Fähigkeit, wenn er stirbt.",
-  "firstNightReminder": "Zeige der Elfe das Charakterplättchen eines Dorfbewohners, der sich im Spiel befindet.",
+  "ability": "Du beginnst das Spiel mit dem Wissen, dass 1 Bürger im Spiel ist. Wenn du \"besessen\" davon bist, dass du dieser Charakter bist, erhätlst du seine Fähigkeit, wenn er stirbt.",
+  "firstNightReminder": "Zeige der Elfe das Charakterplättchen eines Bürger, der sich im Spiel befindet.",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": "Hat Fähigkeit,Verrückt"
@@ -992,7 +1010,7 @@
  {
   "id": "plaguedoctor",
   "name": "Pestdoktor",
-  "ability": "Wenn du stirbst, dann erhält der Erzähler die Fähigkeit eines Untergebenen der nicht im Spiel ist.",
+  "ability": "Wenn du stirbst, dann erhält der Erzähler die Fähigkeit eines Schergen der nicht im Spiel ist.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1000,17 +1018,17 @@
  },
  {
   "id": "po",
-  "name": "Pou",
-  "ability": "Jede Nacht* kannst du 1 Spieler wählen: er stirbt. Wenn deine letzte Wahl niemand war, wähle 3 Spieler diese Nacht.",
+  "name": "Poe",
+  "ability": "Jede Nacht* darfst du 1 Spieler wählen: Er stirbt. Falls du zuvor gewählt hast, niemanden zu töten, wähle heute Nacht 3 Spieler.",
   "firstNightReminder": null,
-  "otherNightReminder": "Wenn der Pou niemanden in der letzten Nacht gewählt hat: Der Pou zeigt auf drei Spieler. Andernfalls: Der Pou zeigt entweder Nein durch Kopfschütteln oder zeigt auf einen Spieler. Ausgewählte Spieler sterben.",
+  "otherNightReminder": "Wenn der Poe niemanden in der letzten Nacht gewählt hat: Der Poe zeigt auf drei Spieler. Andernfalls: Der Poe zeigt entweder Nein durch Kopfschütteln oder zeigt auf einen Spieler. Ausgewählte Spieler sterben.",
   "remindersGlobal": null,
   "reminders": "3 Angriffe,Tot"
  },
  {
   "id": "poisoner",
   "name": "Giftmischer",
-  "ability": "Jede Nacht, wähle 1 Spieler: der Spieler ist bis Sonnenuntergang vergiftet.",
+  "ability": "Wähle jede Nacht 1 Spieler: Er ist in dieser Nacht und am folgenden Tag vergiftet.",
   "firstNightReminder": "Der Giftmischer zeigt auf einen Spieler. Dieser Spieler ist vergiftet.",
   "otherNightReminder": "Der vorherige Spieler ist nicht mehr vergiftet. Der Giftmischer zeigt auf einen Spieler. Dieser Spieler ist vergiftet.",
   "remindersGlobal": null,
@@ -1019,7 +1037,7 @@
  {
   "id": "politician",
   "name": "Politiker",
-  "ability": "Wenn du am meisten dafür verantwortlich bist, dass dein Team verliert, wechselst du die Gesinnung und gewinnst, sogar wenn du tot bist.",
+  "ability": "Wenn du am meisten dafür verantwortlich bist, dass dein Team verliert, wechselst du die Fraktion und gewinnst, sogar wenn du tot bist.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1028,8 +1046,8 @@
  {
   "id": "poppygrower",
   "name": "Mohnzüchter",
-  "ability": "Untergebene & Dämonen kennen einander nicht. Wenn du stirbst, lernen sie einander in der Nacht kennen.",
-  "firstNightReminder": "Sage weder dem Dämon noch den Untergebenen, wer die anderen bösen Mitspieler sind.",
+  "ability": "Schergen & Dämonen kennen einander nicht. Wenn du stirbst, lernen sie einander in der Nacht kennen.",
+  "firstNightReminder": "Sage weder dem Dämon noch den Schergen, wer die anderen bösen Mitspieler sind.",
   "otherNightReminder": "Stirbt der Mohnzüchter: zeige den Unteregebenen und dem Dämon, wer die anderen Spieler sind.",
   "remindersGlobal": null,
   "reminders": "Böse erwacht"
@@ -1037,18 +1055,18 @@
  {
   "id": "preacher",
   "name": "Priester",
-  "ability": "Jede Nacht, wähle 1 Spieler: Wählst du einen Untergebenen, erfährt er davon. Alle gewählten Untergebenen haben keine Fähigkeit.",
-  "firstNightReminder": "Der Priester wählt einen Spieler. Wenn ein Untergebener gewählt wurde, wecke den Untergebenen und zeige ihm die 'Dieser Charakter hat dich ausgewählt' Karte und danach den Token des Priester.",
-  "otherNightReminder": "Der Priester wählt einen Spieler. Wenn ein Untergebener gewählt wurde, wecke den Untergebenen und zeige ihm die 'Dieser Charakter hat dich ausgewählt' Karte und danach den Token des Priester.",
+  "ability": "Jede Nacht, wähle 1 Spieler: Wählst du einen Schergen, erfährt er davon. Alle gewählten Schergen haben keine Fähigkeit.",
+  "firstNightReminder": "Der Priester wählt einen Spieler. Wenn ein Scherge gewählt wurde, wecke den Schergen und zeige ihm die 'Dieser Charakter hat dich ausgewählt' Karte und danach den Token des Priester.",
+  "otherNightReminder": "Der Priester wählt einen Spieler. Wenn ein Scherge gewählt wurde, wecke den Schergen und zeige ihm die 'Dieser Charakter hat dich ausgewählt' Karte und danach den Token des Priester.",
   "remindersGlobal": null,
   "reminders": "bei einer Predigt"
  },
  {
   "id": "professor",
   "name": "Professor",
-  "ability": "Einmal pro Spiel, in der Nacht*, wähle 1 toten Spieler: ist der Spieler ein Dorfbewohner, wird er wiederbelebt.",
+  "ability": "Einmal im Spiel, in der Nacht*, wähle 1 toten Spieler: Falls er ein Bürger ist, wird er wiederbelebt.",
   "firstNightReminder": null,
-  "otherNightReminder": "Wenn der Professor seine Fähigkeit noch nicht eingestzt hat: Der Professor zeigt Nein durch Kopfschütteln oder zeigt auf einen toten Spieler: Ist der Spieler ein Dorfbewohnerm wird er wiederbelebt.",
+  "otherNightReminder": "Wenn der Professor seine Fähigkeit noch nicht eingestzt hat: Der Professor zeigt Nein durch Kopfschütteln oder zeigt auf einen toten Spieler: Ist der Spieler ein Bürger wird er wiederbelebt.",
   "remindersGlobal": null,
   "reminders": "Am Leben,Keine Fähigkeit"
  },
@@ -1064,7 +1082,7 @@
  {
   "id": "pukka",
   "name": "Pukka",
-  "ability": "Jede Nacht, wähle 1 Spieler: er ist vergiftet. Der zuvor vergiftete Spieler stirbt und wird dann gesund.",
+  "ability": "Wähle jede Nacht 1 Spieler: Er wird vergiftet. Der zuvor vergiftete Spieler stirbt & ist dann nicht mehr vergiftet.",
   "firstNightReminder": "Der Pukka zeigt auf einen Spieler. Dieser Spieler ist vergiftet.",
   "otherNightReminder": "Der Pukka zeigt auf einen Spieler. Dieser Spieler ist vergiftet. Der Spieler der zuvor vergiftet wurde, stirbt.",
   "remindersGlobal": null,
@@ -1081,17 +1099,17 @@
  },
  {
   "id": "ravenkeeper",
-  "name": "Rabenwärter",
-  "ability": "Wenn du in der Nacht stirbst, wirst du geweckt, um einen Spieler auszusuchen: du erfährst den Charakter dieses Spielers.",
+  "name": "Rabenhüter",
+  "ability": "Falls du in der Nacht stirbst, wirst du aufgeweckt & wählst 1 Spieler: Du erfährst seinen Charakter.",
   "firstNightReminder": null,
-  "otherNightReminder": "Wenn der Rabenwärter heute starb: Der Rabenwärter zeigt auf einen Spieler. Zeige dem Rabenwärter den Charaktertoken des Spielers.",
+  "otherNightReminder": "Wenn der Rabenhüter heute starb: Der Rabenhüter zeigt auf einen Spieler. Zeige dem Rabenhüter den Charaktertoken des Spielers.",
   "remindersGlobal": null,
   "reminders": null
  },
  {
   "id": "recluse",
   "name": "Einsiedler",
-  "ability": "Du kannst kannst als böse, bzw. als Untergebener oder Dämon registrieren, sogar wenn du tot bist.",
+  "ability": "Du erscheinst möglicherweise als böse & als Scherge oder Dämon, sogar wenn du tot bist.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1100,7 +1118,7 @@
  {
   "id": "revolutionary",
   "name": "Revolutionär",
-  "ability": "Es wird bekannt, welche zwei benachbarten Spieler die gleiche Gesinnung haben. Einmal im Spiel wird einer der beiden falsch erkannt.",
+  "ability": "Es wird bekannt, welche zwei benachbarten Spieler die gleiche Fraktion haben. Einmal im Spiel wird einer der beiden falsch erkannt.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1109,7 +1127,7 @@
  {
   "id": "riot",
   "name": "Krawall",
-  "ability": "Nominierte Spieler sterben, können aber sofort nominieren (am 3. Tag müssen sie). Nach dem 3. Tag gewinnt das böse Team. [Alle Untergebenen sind Krawall]",
+  "ability": "Nominierte Spieler sterben, können aber sofort nominieren (am 3. Tag müssen sie). Nach dem 3. Tag gewinnt das böse Team. [Alle Schergen sind Krawall]",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1117,26 +1135,26 @@
  },
  {
   "id": "sage",
-  "name": "Weiser",
+  "name": "Weise",
   "ability": "Wenn der Dämon dich tötet, erfährst du, dass 1 von 2 Spielern der Dämon ist.",
   "firstNightReminder": null,
-  "otherNightReminder": "Wenn der Weise vom Dämon getötet wird: Zeige auf zwei Spieler, von denen einer der Dämon ist.",
+  "otherNightReminder": "Wenn die Weise vom Dämon getötet wird: Zeige auf zwei Spieler, von denen einer der Dämon ist.",
   "remindersGlobal": null,
   "reminders": null
  },
  {
   "id": "sailor",
-  "name": "Seemann",
-  "ability": "Jede Nacht, wähle 1 lebenden Spieler: entweder du oder er ist bis Sonnenuntergang betrunken. Du kannst nicht sterben.",
-  "firstNightReminder": "Der Seemann zeigt auf einen lebenden Spieler. Entweder der Seemann oder der gewählte Spieler ist betrunken.",
-  "otherNightReminder": "Der Spieler der zuvor betrunken wurde ist wieder nüchtern. Der Seemann zeigt auf einen lebenden Spieler. Entweder der Seemann oder der gewählte Spieler ist betrunken.",
+  "name": "Segler",
+  "ability": "Du kannst nicht sterben. Wähle jede Nacht 1 lebendigen Spieler: Einer von euch beiden ist bis zur Abenddämmerung betrunken.",
+  "firstNightReminder": "Der Segler zeigt auf einen lebenden Spieler. Entweder der Segler oder der gewählte Spieler ist betrunken.",
+  "otherNightReminder": "Der Spieler der zuvor betrunken wurde ist wieder nüchtern. Der Segler zeigt auf einen lebenden Spieler. Entweder der Segler oder der gewählte Spieler ist betrunken.",
   "remindersGlobal": null,
   "reminders": "Betrunken"
  },
  {
   "id": "saint",
-  "name": "Heiliger",
-  "ability": "Wenn du durch eine Hinrichtung stirbst, verliert dein Team.",
+  "name": "Heilige",
+  "ability": "Wenn du durch Hinrichtung stirbst, verliert dein Team.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1144,8 +1162,8 @@
  },
  {
   "id": "savant",
-  "name": "Gelehrter",
-  "ability": "Du kannst jeden Tag privat zum Erzähler gehen und 2 Aussagen erhalten: 1 stimmt, 1 ist falsch",
+  "name": "Savant",
+  "ability": "Jeden Tag darfst du den Erzähler besuchen, um geheim 2 Aussagen zu erfahren: 1 ist wahr & 1 ist falsch.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1154,7 +1172,7 @@
  {
   "id": "scapegoat",
   "name": "Sündenbock",
-  "ability": "Falls ein Spieler deiner Gesinnung am Tag hingerichtet wird, könntest du stattdessen hingerichtet werden.",
+  "ability": "Falls ein Spieler deiner Fraktion am Tag hingerichtet wird, könntest du stattdessen hingerichtet werden.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1162,19 +1180,19 @@
  },
  {
   "id": "scarletwoman",
-  "name": "Frau in Rot",
-  "ability": "Wenn 5 oder mehr Spieler noch am Leben sind und der Dämon stirbt, wirst du zum Dämon. (Reisende zählen nicht)",
+  "name": "Scharlachrote Frau",
+  "ability": "Falls 5 oder mehr Spieler lebendig sind & der Dämon stirbt, wirst du zum Dämon. (Reisende zählen nicht.)",
   "firstNightReminder": null,
-  "otherNightReminder": "Wenn die Frau in Rot heute der Dämon wurde: Zeige ihr die 'Du bist' Karte und dann den Dämontoken.",
+  "otherNightReminder": "Wenn die Scharlachrote Frau heute der Dämon wurde: Zeige ihr die 'Du bist' Karte und dann den Dämontoken.",
   "remindersGlobal": null,
   "reminders": "Dämon"
  },
  {
   "id": "seamstress",
   "name": "Schneiderin",
-  "ability": "Einmal pro Spiel, in der Nacht, wähle 2 Spieler (nicht dich selbst): du erfährst, ob sie die selbe Gesinnung besitzen.",
-  "firstNightReminder": "Die Schneiderin schüttelt entweder den Kopf (Nein) oder zeigt auf zwei Spieler. Sollte die Schneider Spieler auswählen, nicke (Ja) oder schüttle den Kopf (Nein) wenn die bbeiden Spieler die gleiche Gesinnung haben.",
-  "otherNightReminder": "Wenn die Schneider ihre Fähigkeit noch nicht einsetzt hat: Die Schneiderin schüttelt entweder den Kopf (Nein) oder zeigt auf zwei Spieler. Sollte die Schneider Spieler auswählen, nicke (Ja) oder schüttle den Kopf (Nein) wenn die bbeiden Spieler die gleiche Gesinnung haben.",
+  "ability": "Einmal im Spiel, in der Nacht, wähle 2 Spieler (nicht dich selbst): Du erfährst, ob sie die gleiche Fraktion haben.",
+  "firstNightReminder": "Die Schneiderin schüttelt entweder den Kopf (Nein) oder zeigt auf zwei Spieler. Sollte die Schneider Spieler auswählen, nicke (Ja) oder schüttle den Kopf (Nein) wenn die bbeiden Spieler die gleiche Fraktion haben.",
+  "otherNightReminder": "Wenn die Schneider ihre Fähigkeit noch nicht einsetzt hat: Die Schneiderin schüttelt entweder den Kopf (Nein) oder zeigt auf zwei Spieler. Sollte die Schneider Spieler auswählen, nicke (Ja) oder schüttle den Kopf (Nein) wenn die beiden Spieler die gleiche Fraktion haben.",
   "remindersGlobal": null,
   "reminders": "Keine Fähigkeit"
  },
@@ -1190,7 +1208,7 @@
  {
   "id": "shabaloth",
   "name": "Shabaloth",
-  "ability": "Jede Nacht*, wähle 2 Spieler: sie sterben. Ein toter Spieler, den du die Nacht zuvor gewählt hast, könnte wieder ausgespuckt werden.",
+  "ability": "Wähle jede Nacht* 2 Spieler: Sie sterben. Ein toter Spieler, den du in der vorherigen Nacht gewählt hast, könnte hochgewürgt werden.",
   "firstNightReminder": null,
   "otherNightReminder": "Einer der Spieler, die der Shabaloth in der vorherigen Nacht gewählt, hat kann wiederauferstehen. Der Shabaloth zeigt auf zwei Spieler. Diese Spieler sterben.",
   "remindersGlobal": null,
@@ -1207,8 +1225,8 @@
  },
  {
   "id": "slayer",
-  "name": "Schütze",
-  "ability": "Einmal pro Spiel, am Tag, wähle öffentlich einen Spieler: wenn dieser Spieler der Dämon ist, stirbt er.",
+  "name": "Dämonenjäger",
+  "ability": "Einmal im Spiel, während des Tages, wähle öffentlich 1 Spieler: Falls er der Dämon ist, stirbt er.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1217,17 +1235,17 @@
  {
   "id": "snakecharmer",
   "name": "Schlangenbeschwörer",
-  "ability": "Jede Nacht, wähle 1 lebenden Spieler: wählst du den Dämonen, so tauschst du Charakter und Gesinnung (gut oder böse) mit ihm und er wird vergiftet.",
-  "firstNightReminder": "Der Schlangenbeschwörer zeigt auf einen Spieler. Wenn dieser Spieler der Dämon ist: Tausche die Charaktere und die Gesinnung von Schlangenbeschwörer und Dämon. Wecke beide Spieler und informiere sie über die neue Rolle und die neue Gesinnung. Der neue Schlangenbeschwörer ist vergiftet.",
-  "otherNightReminder": "Der Schlangenbeschwörer zeigt auf einen Spieler. Wenn dieser Spieler der Dämon ist: Tausche die Charaktere und die Gesinnung von Schlangenbeschwörer und Dämon. Wecke beide Spieler und informiere sie über die neue Rolle und die neue Gesinnung. Der neue Schlangenbeschwörer ist vergiftet.",
+  "ability": "Wähle jede Nacht 1 lebendigen Spieler: Ein gewählter Dämon tauscht seinen Charakter & die Fraktion mit dir & ist dann vergiftet.",
+  "firstNightReminder": "Der Schlangenbeschwörer zeigt auf einen Spieler. Wenn dieser Spieler der Dämon ist: Tausche die Charaktere und die Fraktion von Schlangenbeschwörer und Dämon. Wecke beide Spieler und informiere sie über die neue Fähigkeit und die neue Fraktion. Der neue Schlangenbeschwörer ist vergiftet.",
+  "otherNightReminder": "Der Schlangenbeschwörer zeigt auf einen Spieler. Wenn dieser Spieler der Dämon ist: Tausche die Charaktere und die Fraktion von Schlangenbeschwörer und Dämon. Wecke beide Spieler und informiere sie über die neue Fähigkeit und die neue Fraktion. Der neue Schlangenbeschwörer ist vergiftet.",
   "remindersGlobal": null,
   "reminders": "Vergiftet"
  },
  {
   "id": "snitch",
   "name": "Petze",
-  "ability": "Untergebene beginnen das Spiel mit dem Wissen, dass 3 Charaktere nicht im Spiel sind.",
-  "firstNightReminder": "Nachdem die Untergebenen ihre Info bekommen haben, wecke jeden Minion und zeige ihm drei Charaktere, die nicht im Spiel sind. Es können die gleichen oder unterschiedliche, oder auch die Bluffs des Dämons sein.",
+  "ability": "Dieses Skript enthält Homebrew-Zeichen oder -Regeln.",
+  "firstNightReminder": "Nachdem die Schergen ihre Info bekommen haben, wecke jeden Minion und zeige ihm drei Charaktere, die nicht im Spiel sind. Es können die gleichen oder unterschiedliche, oder auch die Bluffs des Dämons sein.",
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": null
@@ -1235,7 +1253,7 @@
  {
   "id": "soldier",
   "name": "Soldat",
-  "ability": "Du bist vor dem Dämon geschützt.",
+  "ability": "Du bist sicher vor dem Dämon.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1253,7 +1271,7 @@
  {
   "id": "spy",
   "name": "Spion",
-  "ability": "Du darfst jede Nacht das Grimoire anschauen. Du kannst als gut, bzw. als Dorfbewohner oder Außenseiter registrieren, sogar wenn du tot bist.",
+  "ability": "Jede Nacht siehst du das Grimoire. Du erscheinst möglicherweise als gut & als ein Bürger oder Außenseiter, sogar wenn du tot bist.",
   "firstNightReminder": "Zeige dem Spion das Grimoire so lange er es braucht.",
   "otherNightReminder": "Zeige dem Spion das Grimoire so lange er es braucht.",
   "remindersGlobal": null,
@@ -1288,8 +1306,8 @@
  },
  {
   "id": "sweetheart",
-  "name": "Liebling",
-  "ability": "Wenn du stirbst, dann ist 1 Spieler von dem Moment an betrunken.",
+  "name": "Liebchen",
+  "ability": "Wenn du stirbst, ist 1 Spieler ab jetzt betrunken.",
   "firstNightReminder": null,
   "otherNightReminder": "Wähle einen Spieler, der betrunken wird.",
   "remindersGlobal": null,
@@ -1298,7 +1316,7 @@
  {
   "id": "tealady",
   "name": "Teedame",
-  "ability": "Wenn beide deiner lebenden Nachbarn gut sind, können sie nicht sterben.",
+  "ability": "Falls deine beiden lebendigen Nachbarn gut sind, können sie nicht sterben.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1315,21 +1333,21 @@
  },
  {
   "id": "tinker",
-  "name": "Erfinder",
-  "ability": "Du könntest zu jederzeit sterben.",
+  "name": "Bastler",
+  "ability": "Du könntest jederzeit sterben.",
   "firstNightReminder": null,
-  "otherNightReminder": "Der Erfinder könnte sterben.",
+  "otherNightReminder": "Der Bastler könnte sterben.",
   "remindersGlobal": null,
   "reminders": "Tot"
  },
  {
   "id": "towncrier",
-  "name": "Stadtschreier",
-  "ability": "Du erfährst jede Nacht*, ob ein Untergebener am Tag jemanden nominiert hat.",
+  "name": "Marktschreier",
+  "ability": "Jede Nacht* erfährst du, ob heute ein Scherge jemanden nominiert hat.",
   "firstNightReminder": null,
-  "otherNightReminder": "Nicke (Ja) oder schüttle den Kopf (Nein) um zu zeigen, ob ein Untergebener heute nominiert hat. Platziere den 'Untergebener hat nicht nominiert' bzw. 'Untergebener hat nominiert'.",
+  "otherNightReminder": "Nicke (Ja) oder schüttle den Kopf (Nein) um zu zeigen, ob ein Scherge heute nominiert hat. Platziere den 'Scherge hat nicht nominiert' bzw. 'Scherge hat nominiert'.",
   "remindersGlobal": null,
-  "reminders": "Untergebener nicht nominiert,Untergebener nominiert"
+  "reminders": "Scherge nicht nominiert,Scherge nominiert"
  },
  {
   "id": "toymaker",
@@ -1342,8 +1360,8 @@
  },
  {
   "id": "undertaker",
-  "name": "Bestatter",
-  "ability": "Du erfährst jede Nacht*, welcher Charakter bei der Hinrichtung des vorherigen Tages gestorben ist.",
+  "name": "Totengräber",
+  "ability": "Jede Nacht* erfährst du, welcher Charakter heute durch Hinrichtung gestorben ist.",
   "firstNightReminder": null,
   "otherNightReminder": "Wenn ein Spieler heute exekutiert wurde: Zeige dem Bestatter den Charaktertoken dieses Spielers.",
   "remindersGlobal": null,
@@ -1352,9 +1370,9 @@
  {
   "id": "vigormortis",
   "name": "Vigormortis",
-  "ability": "Jede Nacht*, wähle 1 Spieler: er stirbt. Untergebene, die du tötest, behalten ihre Fähigkeit und vergiften 1 ihrer Dorfbewohner-Nachbarn. [-1 Außenseiter]",
+  "ability": "Wähle jede Nacht* 1 Spieler: Er stirbt. Von dir getötete Schergen behalten ihre Fähigkeit & vergiften 1 benachbarten Bürger [-1 Außenseiter]",
   "firstNightReminder": null,
-  "otherNightReminder": "Der Vigormortis zeigt auf einen Spieler. Dieser Spieler stirbt. Ist es ein Untergebener, behält er seine Fähigkeit und ein Dorfbewohner ist vergiftet.",
+  "otherNightReminder": "Der Vigormortis zeigt auf einen Spieler. Dieser Spieler stirbt. Ist es ein Scherge, behält er seine Fähigkeit und ein Bürger ist vergiftet.",
   "remindersGlobal": null,
   "reminders": "Tot,hat Fähigkeit,vergiftet"
  },
@@ -1370,7 +1388,7 @@
  {
   "id": "virgin",
   "name": "Jungfrau",
-  "ability": "Wenn du das erste Mal zur Hinrichting nominiert wirst, falls der Nominierende ein Dorfbewohner ist, wird dieser sofort hingerichtet.",
+  "ability": "Wenn du zum 1. Mal nominiert wirst: Falls der Nominierende ein Bürger ist, wird er sofort hingerichtet.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1388,7 +1406,7 @@
  {
   "id": "vortox",
   "name": "Vortox",
-  "ability": "Jede Nacht*, wähle 1 Spieler: er stirbt. Dorfbewohner-Fähigkeiten erzielen ausschliesslich Falschinformationen. Jeden Tag, wenn niemand hingerichtet wird, gewinnt das böse Team.",
+  "ability": "Wähle jede Nacht* 1 Spieler: Er stirbt. Fähigkeiten von Bürgern liefern falsche Informationen. Falls an irgendeinem Tag keiner hingerichtet wird, gewinnt Böse.",
   "firstNightReminder": null,
   "otherNightReminder": "Der Vortox zeigt auf einen Spieler. Dieser Spieler stirbt.",
   "remindersGlobal": null,
@@ -1405,12 +1423,12 @@
  },
  {
   "id": "washerwoman",
-  "name": "Waschfrau",
-  "ability": "Du beginnst das Spiel mit dem Wissen, dass 1 von 2 Spielern ein spezifischer Dorfbewohner ist.",
-  "firstNightReminder": "Zeige den Charaktertoken eines Dorfbewohners im Spiel. Zeige auf zwei Spieler, von denen einer diesen Charakter spielt.",
+  "name": "Waschweib",
+  "ability": "Du weißt zu Beginn, dass 1 von 2 Spielern ein bestimmter Bürger ist.",
+  "firstNightReminder": "Zeige den Charaktertoken eines Bürgers im Spiel. Zeige auf zwei Spieler, von denen einer diesen Charakter spielt.",
   "otherNightReminder": null,
   "remindersGlobal": null,
-  "reminders": "Dorfbewohner,Falsch"
+  "reminders": "Bürger,Falsch"
  },
  {
   "id": "widow",
@@ -1424,7 +1442,7 @@
  {
   "id": "witch",
   "name": "Hexe",
-  "ability": "Jede Nacht, wähle 1 Spieler: wenn dieser Spieler am kommenden Tag jemanden nominiert, stirbt er. Wenn nur noch 3 Spieler leben, verlierst du diese Fähigkeit.",
+  "ability": "Wähle jede Nacht 1 Spieler: Falls er morgen nominiert, stirbt er. Falls nur noch 3 Spieler leben, verlierst du diese Fähigkeit.",
   "firstNightReminder": "Die Hexe zeigt auf einen Spieler. Wenn dieser Spieler morgen jemanden nominiert, stirbt er auf der Stelle.",
   "otherNightReminder": "Wenn vier oder mehr Spieler am Leben sind: Die Hexe zeigt auf einen Spieler. Wenn dieser Spieler morgen jemanden nominiert, stirbt er auf der Stelle.",
   "remindersGlobal": null,
@@ -1451,7 +1469,7 @@
  {
   "id": "zombuul",
   "name": "Zombuul",
-  "ability": "Jede Nacht*, wenn am Tag niemand gestorben ist, wähle 1 Spieler: er stirbt. Das erste Mal, dass du sterben solltest, stirbst du nicht, registrierst aber dennoch als tot.",
+  "ability": "Jede Nacht*, falls heute kein Spieler starb, wähle 1 Spieler: Er stirbt. Wenn du zum 1. Mal stirbst, überlebst du, aber erscheinst tot.",
   "firstNightReminder": null,
   "otherNightReminder": "Wenn niemand am Tag gestorben ist: Der Zombuul zeigt auf einen Spieler. Dieser Spieler stirbt.",
   "remindersGlobal": null,

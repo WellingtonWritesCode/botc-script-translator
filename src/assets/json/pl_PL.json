@@ -92,11 +92,11 @@
  {
   "id": "balloonist",
   "name": "Baloniarz",
-  "ability": "Każdej nocy dowiadujesz się o 1 graczu z każdego typu postaci, dopóki nie będzie już więcej typów do poznania. [+1 Outsider]",
-  "firstNightReminder": "Choose a character type. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character.",
-  "otherNightReminder": "Choose a character type that does not yet have a Seen reminder next to a character of that type. Point to a player whose character is of that type, if there are any. Place the Balloonist's Seen reminder next to that character.",
+  "ability": "Każdej nocy poznajesz gracza z innej grupy postaci niż poprzedniej nocy (grupy postaci to np: Mieszczanin, Sługus, Outsider, Demon), [+0 lub +1 Outsider]",
+  "firstNightReminder": "Wybierz grupę postaci. Wskaż na gracza, którego postać jest z danej grupy. Umieść żeton Baloniarza 'pokazany' obok danej postaci.",
+  "otherNightReminder": "Wybierz grupę postaci, która nie ma żetonu 'pokazany' obok postaci z tej grupy. Wskaż na gracza, którego postać jest z danej grupy. Usuń dotychczasowy żeton 'pokazany' i umieść nowy żeton 'pokazany' obok wskazanej postaci.",
   "remindersGlobal": null,
-  "reminders": "Widział Demona,Widział Sługusa,Widział Outsidera,Widział Mieszczanina,Widział Podróżnika"
+  "reminders": "\"Demon pokazany\", \"Sługus pokazany\", \"Outsider pokazany\", \"Mieszcznin pokazany\""
  },
  {
   "id": "banshee",
@@ -151,6 +151,15 @@
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": "Nominowany Zły,Nominowany Dobry"
+ },
+ {
+  "id": "boffin",
+  "name": "Boffin",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
  },
  {
   "id": "bonecollector",
@@ -282,8 +291,8 @@
   "id": "courtier",
   "name": "Dworzanin",
   "ability": "Raz w trakcie gry, w nocy, wybierasz postać:, jest pijana przez 3 noce i 3 dni.",
-  "firstNightReminder": "The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk.",
-  "otherNightReminder": "Reduce the remaining number of days the marked player is poisoned. If the Courtier has not yet used their ability: The Courtier either shows a 'no' head signal, or points to a character on the sheet. If the Courtier used their ability: If that character is in play, that player is drunk.",
+  "firstNightReminder": "Dworzanin albo kręci głową na 'nie', albo wskazuje tożsamość na karcie postaci. Jeśli Dworzanin użył swej zdolności: Jeśli ta tożsamość występuje w grze, ten gracz staje się pijany (na 3 dni i 3 noce).",
+  "otherNightReminder": "Zmniejsz licznik pozostałych dni 'pijaństwa' oznaczonego gracza. Jeśli Dworzanin jeszcze nie wykorzystał swej zdolności: Dworzanin albo kręci głową na 'nie', albo wskazuje tożsamość na karcie postaci. Jeśli ta tożsamość występuje w grze, ten gracz staje się pijany (na 3 dni i 3 noce).",
   "remindersGlobal": null,
   "reminders": "Pijany 1,Pijany 2,Pijany 3,Brak zdolności"
  },
@@ -398,7 +407,7 @@
  {
   "id": "eviltwin",
   "name": "Zły Bliźniak",
-  "ability": "Ty i gracz z przeciwnej drużyny wiecie, kim jesteście. Jeśli dobry gracz zostanie stracony, zło wygrywa. Dobro nie może wygrać, jeśli żyje oboje bliźniaków.",
+  "ability": "Ty i gracz z przeciwnej drużyny wiecie, kim jesteście. Jeśli Dobry gracz zostanie stracony, Zło wygrywa. Dobro nie może wygrać, jeśli żyją obaj bliźniacy.",
   "firstNightReminder": "Obudź Złego bliźniaka i jego bliźniaka. Potwierdź, że się zauważyli. Wskaż na Złego bliźniaka. Pokaż jego bliźniakowi żeton Złego bliźniaka. Wskaż na bliźniaka. Pokaż żeton jego postaci Złemu bliźniakowi.",
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -471,8 +480,8 @@
   "id": "flowergirl",
   "name": "Kwiaciarka",
   "ability": "Każdej nocy* dowiadujesz się, czy Demon dziś zagłosował.",
-  "firstNightReminder": "Umieść żeton 'demon nie głosował'.",
-  "otherNightReminder": "Pokiwaj głową na tak lub pokręć na nie w zależności od tego, czy demon dziś zagłosował. Umieść żeton 'demon nie głosował' (zabierz żeton 'demon głosował', jeśli tam jest).",
+  "firstNightReminder": "Umieść żeton 'Demon nie głosował'.",
+  "otherNightReminder": "Pokiwaj głową na tak lub pokręć na nie w zależności od tego, czy Demon dziś zagłosował. Umieść żeton 'Demon nie głosował' (zabierz żeton 'Demon głosował', jeśli tam jest).",
   "remindersGlobal": null,
   "reminders": "Demon głosował,Demon nie głosował"
  },
@@ -552,8 +561,8 @@
   "id": "goon",
   "name": "Zbir",
   "ability": "Każdej nocy pierwszy gracz, który wybierze Cię swoją umiejętnością, będzie pijany aż do zmierzchu. Przechodzisz na jego stronę.",
-  "firstNightReminder": "If a player used their character ability to choose the Goon: The ability does not work. Place the Drunk token on that player. The Goon becomes that player’s alignment. Show 'You are' card. Show thumbs-up good, thumbs-down 'evil' for the Goon’s current alignment.",
-  "otherNightReminder": "If a player used their character ability to choose the Goon: The Goon becomes that player’s alignment. Show the 'You are' card. Show the hand signal (thumbs-up 'good', thumbs-down 'evil') for the Goon’s current alignment.",
+  "firstNightReminder": "Jeśli gracz użył swej umiejętności by wybrać Zbira: Ta zdolność nie działa. Umieść znacznik 'Pijany' na tym graczu. Zbir przechodzi na stronę tego gracza. Pokaż kartę 'JESTEŚ'. Pokaż aktualne stronnictwo Zbira: kciuk w górę (Dobry), kciuk w dół (Zły).",
+  "otherNightReminder": "Jeśli gracz użył swej umiejętności by wybrać Zbira: Ta zdolność nie działa. Umieść znacznik 'Pijany' na tym graczu. Zbir przechodzi na stronę tego gracza. Pokaż kartę 'JESTEŚ'. Pokaż aktualne stronnictwo Zbira: kciuk w górę (Dobry), kciuk w dół (Zły).",
   "remindersGlobal": null,
   "reminders": "Pijany"
  },
@@ -774,6 +783,15 @@
   "reminders": "Ginie,Otruty"
  },
  {
+  "id": "lordoftyphon",
+  "name": "Lord of Typhon",
+  "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]",
+  "firstNightReminder": "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil.",
+  "otherNightReminder": "The Lord of Typhon points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
   "id": "lunatic",
   "name": "Szaleniec",
   "ability": "Myślisz, że jesteś Demonem, ale nim nie jesteś. Demon wie, kim jesteś, oraz kogo wybierasz nocą.",
@@ -859,7 +877,7 @@
   "name": "Minstrel",
   "ability": "Kiedy Sługus ginie przez egzekucję, wszyscy inni gracze (oprócz Podróżników) są pijani do jutrzejszego zmierzchu.",
   "firstNightReminder": null,
-  "otherNightReminder": "Remove the 'Everyone drunk' token. If a Minion died today: All players but the Minstrel are drunk. Place the 'Everyone drunk' token.",
+  "otherNightReminder": "Usuń znacznik 'Wszyscy pijani'. Jeśli Sługus zmarł w ciągu dnia: Wszyscy gracze poza Minstrelem (i Wędrowcami) są pijani. Umieść znacznik 'Wszyscy pijani'",
   "remindersGlobal": null,
   "reminders": "Wszyscy pijani"
  },

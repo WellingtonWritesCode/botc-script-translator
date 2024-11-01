@@ -153,6 +153,15 @@
   "reminders": "Accusato Bene,Accusato Male"
  },
  {
+  "id": "boffin",
+  "name": "Boffin",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bonecollector",
   "name": "Imbalsamatore",
   "ability": "Una volta durante la partita, di notte, scegli un giocatore morto: egli riacquisisce la sua abilità fino al tramonto.",
@@ -774,6 +783,15 @@
   "reminders": "Avvelenato,Morto"
  },
  {
+  "id": "lordoftyphon",
+  "name": "Lord of Typhon",
+  "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]",
+  "firstNightReminder": "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil.",
+  "otherNightReminder": "The Lord of Typhon points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
   "id": "lunatic",
   "name": "Lunatico",
   "ability": "Pensi di essere un Demone, ma non lo sei. Il Demone sa chi sei e chi scegli di notte.",
@@ -968,7 +986,7 @@
   "ability": "Una volta per partita, di notte, scegli un personaggio buono: ottieni quell'abilità. Se quel personaggio è in gioco, diventa ubriaco.",
   "firstNightReminder": "Il Filosofo fa segno di \"No\" con la testa, oppure indica un personaggio buono sulla lista. Se sceglie un personaggio: scambia il gettone del personaggio non in gioco con il gettone del Filosofo. Oppure, se il personaggio è in gioco, posiziona il promemoria \"Ubriaco\" accanto a quel giocatore e il promemoria \"È il filosofo\" accanto al filosofo.",
   "otherNightReminder": "Se il filosofo non ha ancora usato la sua abilità: il Filosofo fa segno di \"No\" con la testa, oppure indica un personaggio buono sulla lista. Se sceglie un personaggio: scambia il gettone del personaggio non in gioco con il gettone del Filosofo. Oppure, se il personaggio è in gioco, posiziona il promemoria \"Ubriaco\" accanto a quel giocatore e il promemoria \"È il filosofo\" accanto al filosofo.",
-  "remindersGlobal": "Ubriaco,È il Filosofo",
+  "remindersGlobal": "È il Filosofo,Ubriaco",
   "reminders": null
  },
  {

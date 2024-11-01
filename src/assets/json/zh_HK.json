@@ -153,6 +153,15 @@
   "reminders": "提名好人,提名邪惡"
  },
  {
+  "id": "boffin",
+  "name": "Boffin",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bonecollector",
   "name": "骨頭收藏家",
   "ability": "每場遊戲一次，晚上時，選擇一位死亡的玩家，該玩家恢復自己的能力直到隔天黃昏。",
@@ -772,6 +781,15 @@
   "otherNightReminder": "水蛭怪指向一位玩家，該玩家死亡。",
   "remindersGlobal": null,
   "reminders": "中毒,死亡"
+ },
+ {
+  "id": "lordoftyphon",
+  "name": "Lord of Typhon",
+  "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]",
+  "firstNightReminder": "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil.",
+  "otherNightReminder": "The Lord of Typhon points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
  },
  {
   "id": "lunatic",

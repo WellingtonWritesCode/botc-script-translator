@@ -153,6 +153,15 @@
   "reminders": "\n悪を指名し、善を指名する"
  },
  {
+  "id": "boffin",
+  "name": "Boffin",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bonecollector",
   "name": "骨拾い",
   "ability": "ゲーム中に1回、夜の間に、死亡したプレイヤーを1人選ぶ。次の夕暮れまで、そのプレイヤーは自身の能力を取り戻す。",
@@ -774,6 +783,15 @@
   "reminders": "Dead,Poisoned"
  },
  {
+  "id": "lordoftyphon",
+  "name": "Lord of Typhon",
+  "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]",
+  "firstNightReminder": "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil.",
+  "otherNightReminder": "The Lord of Typhon points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
   "id": "lunatic",
   "name": "狂人",
   "ability": "自分は悪魔だと思っているが、その能力は機能しない。悪魔はあなたが誰かや誰を攻撃したかを知ることができる。",
@@ -968,7 +986,7 @@
   "ability": "ゲーム中に1回、夜の間に、善良な人物を1人選び、その人物になる。すでにゲームにいる人物と重複した場合、その人物は泥酔する。",
   "firstNightReminder": "The Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token. Or, if the character is in play, place the drunk marker by that player and the Not the Philosopher token by the Philosopher.",
   "otherNightReminder": "If the Philosopher has not used their ability: the Philosopher either shows a 'no' head signal, or points to a good character on their sheet. If they chose a character: Swap the out-of-play character token with the Philosopher token. Or, if the character is in play, place the drunk marker by that player and the Not the Philosopher token by the Philosopher.",
-  "remindersGlobal": "Drunk,Is the Philosopher",
+  "remindersGlobal": "Is the Philosopher,Drunk",
   "reminders": null
  },
  {

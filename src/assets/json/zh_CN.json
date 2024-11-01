@@ -153,6 +153,15 @@
   "reminders": "提名善良玩家,提名邪恶玩家"
  },
  {
+  "id": "boffin",
+  "name": "Boffin",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bonecollector",
   "name": "集骨者",
   "ability": "每局游戏限一次，在夜晚时*，你可以选择一名死亡的玩家：他重新获得能力直到下个黄昏。",
@@ -774,6 +783,15 @@
   "reminders": "死亡,中毒"
  },
  {
+  "id": "lordoftyphon",
+  "name": "堤丰之首",
+  "ability": "每个夜晚*，你要选择一名玩家：他死亡。[邪恶玩家全部邻座，你靠近正中，+1爪牙，-或+任意数量外来者]",
+  "firstNightReminder": "在进行游戏设置时，将角色标记放入盲抽袋前，移除所有的爪牙角色标记，并加入等量的镇民或外来者角色标记作为补充。\n在首个夜晚，分别依次唤醒位于堤丰之首两侧的，等同于常规游戏爪牙数量加一的玩家。分别对这些玩家展示一个不同的爪牙角色标记和朝下的大拇指，再让他们重新入睡。再用展示给他们的爪牙角色标记替换魔典中这些玩家的善良角色标记。然后再如常进行爪牙信息和恶魔信息步骤。",
+  "otherNightReminder": "唤醒堤丰之首。让他指向任意一名玩家。那名玩家死亡——用“死亡”提示标记标记那名玩家。让堤丰之首重新入睡。",
+  "remindersGlobal": null,
+  "reminders": "死亡"
+ },
+ {
   "id": "lunatic",
   "name": "疯子",
   "ability": "你以为你是一个恶魔，但其实你不是。恶魔知道你是疯子以及你在每个夜晚选择了哪些玩家。",
@@ -968,7 +986,7 @@
   "ability": "每局游戏限一次，在夜晚时，你可以选择一个善良角色：你获得该角色的能力。如果这个角色在场，他醉酒。",
   "firstNightReminder": "哲学家可以选择一个角色。如果选择的角色不在场，将哲学家的角色标题替换成对应角色，并标记“是哲学家”，否则标记该角色对应的玩家醉酒。从现在开始，你需要以哲学家获得能力的那种角色的行动方式来唤醒哲学家。",
   "otherNightReminder": "哲学家可以选择一个角色。如果选择的角色不在场，将哲学家的角色标题替换成对应角色，并标记“是哲学家”，否则标记该角色对应的玩家醉酒。从现在开始，你需要以哲学家获得能力的那种角色的行动方式来唤醒哲学家。",
-  "remindersGlobal": "醉酒,是哲学家",
+  "remindersGlobal": "是哲学家,醉酒",
   "reminders": null
  },
  {
@@ -1441,8 +1459,8 @@
  },
  {
   "id": "zealot",
-  "name": "Zealot",
-  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "name": "狂热者",
+  "ability": "如果有大于等于五名玩家存活，你必须在所有提名中投票。",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,

@@ -153,6 +153,15 @@
   "reminders": "Nominar bueno,Nominar malo"
  },
  {
+  "Column1": "boffin",
+  "name": "Boffin",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "Column1": "bonecollector",
   "name": "Coleccionista de huesos",
   "ability": "Una vez por partida, por la noche, elige 1 jugador muerto: vuelve a ganar su habilidad hasta el crepúsculo.",
@@ -578,7 +587,7 @@
  {
   "Column1": "gunslinger",
   "name": "Pistolero",
-  "ability": "Cada día, despuás de que se haya contado la primera votación, puedes elegir 1 jugador que haya votado: muere.",
+  "ability": "Cada día, después de que se haya contado la primera votación, puedes elegir 1 jugador que haya votado: muere.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -772,6 +781,15 @@
   "otherNightReminder": "La Sanguijuela señala a un jugador. Ese jugador muere.",
   "remindersGlobal": null,
   "reminders": "Envenenado,Muerto"
+ },
+ {
+  "Column1": "lordoftyphon",
+  "name": "Lord of Typhon",
+  "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]",
+  "firstNightReminder": "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil.",
+  "otherNightReminder": "The Lord of Typhon points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
  },
  {
   "Column1": "lunatic",
@@ -968,7 +986,7 @@
   "ability": "Una vez por partida, por la noche, elige 1 personaje bueno: ganas su habilidad. Si el personaje está en juego, está borracho.",
   "firstNightReminder": "El Filósofo puede negar con la cabeza o señalar a un personaje bueno en la hoja. Si elige a un personaje: sustituye la ficha de personaje del Filósofo por la del personaje no presente en la partida. O, si el personaje está presente en la partida, pon el recordatorio de \"Borracho\" junto a ese jugador y el de \"Es el Filósofo\" junto al del Filósofo.",
   "otherNightReminder": "Si el Filósofo no ha usado su habilidad: el Filósofo puede negar con la cabeza o señalar a un personaje bueno en la hoja. Si elige a un personaje: sustituye la ficha de personaje del Filósofo por la del personaje no presente en la partida. O, si el personaje está presente en la partida, pon el recordatorio de \"Borracho\" junto a ese jugador y el de \"Es el Filósofo\" junto al del Filósofo.",
-  "remindersGlobal": "Borracho,Es el Filósofo",
+  "remindersGlobal": "Es el Filósofo,Borracho",
   "reminders": null
  },
  {

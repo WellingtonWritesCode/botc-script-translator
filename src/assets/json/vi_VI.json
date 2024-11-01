@@ -153,6 +153,15 @@
   "reminders": "Biểu quyết tốt,Biểu quyết xấu"
  },
  {
+  "id": "boffin",
+  "name": "Nhà nghiên cứu",
+  "ability": "Quỷ (ngay cả khi bị say hoặc độc) có chức năng của nhân vật tốt ngoài game. Cả 2 bạn biết chức năng đó là gì.",
+  "firstNightReminder": "Gọi Nhà nghiên cứu dậy và cho xem chức năng của Quỷ . Cho Nhà nghiên cứu ngủ. Gọi Quỷ dậy, cho xem token Nhà nghiên cứu, rồi cho họ xem token của chức năng tốt họ có.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bonecollector",
   "name": "Nhà sưu tầm xương",
   "ability": "Một lần trong game, vào buổi đêm, chọn người chết: họ lấy lại chức năng đến hoàng hôn.",
@@ -774,6 +783,15 @@
   "reminders": "Chết,Trúng độc"
  },
  {
+  "id": "lordoftyphon",
+  "name": "Thần Typhon",
+  "ability": "Mỗi đêm*, chọn 1 người: họ chết [Tất cả người xấu ngồi theo hàng. Bạn là người ở giữa. +1 Tay sai. -? đến +? Lữ khách]",
+  "firstNightReminder": "Gọi những người ngồi 2 bên của Quỷ dậy. Cho xem lá 'Bạn Là\", token Tay sai họ biến thành, và ngón cái xuống thể hiện họ là người xấu.",
+  "otherNightReminder": "Thần Typhon chỉ 1 người. Họ chết.",
+  "remindersGlobal": null,
+  "reminders": "Chết"
+ },
+ {
   "id": "lunatic",
   "name": "Người điên",
   "ability": "Bạn nghĩ bạn là Quỷ, nhưng bạn không phải. Quỷ biết bạn là ai & người bạn chọn trong đêm.",
@@ -884,7 +902,7 @@
  {
   "id": "mutant",
   "name": "Đột biến",
-  "ability": "Nếu bạn \"điên' rằng mình là Lữ khách, có thể bạn bị Hành Quyết.",
+  "ability": "Nếu bạn \"điên' rằng mình là Lữ khách, có thể bạn bị hành quyết.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -968,7 +986,7 @@
   "ability": "Chỉ 1 lần duy nhất, trong đêm, chọn 1 nhân vật Phe Tốt: nhận chức năng đó. Nếu nhân vật này đã có trong làng, họ sẽ bị say.",
   "firstNightReminder": "Nếu Triết gia không dùng chức năng, họ có thể lắc đầu. Nếu Triết gia muốn chọn nhân vật, họ chỉ vào tờ của họ. Tráo thẻ nhân vật của Triết gia với nhân vật ngoài cuộc. Hoặc, nếu nhân vật này trong cuộc, đánh dấu \"Say\" cạnh nhân vật đó và thẻ \"là Triết gia\" cạnh Triết gia.",
   "otherNightReminder": "Nếu Triết gia không dùng chức năng, họ có thể lắc đầu. Nếu Triết gia muốn chọn nhân vật, họ chỉ vào tờ của họ. Tráo thẻ nhân vật của Triết gia với nhân vật ngoài cuộc. Hoặc, nếu nhân vật này trong cuộc, đánh dấu \"Say\" cạnh nhân vật đó và thẻ \"là Triết gia\" cạnh Triết gia.",
-  "remindersGlobal": "Say,là Triết gia",
+  "remindersGlobal": "là Triết gia,Say",
   "reminders": null
  },
  {
@@ -1019,7 +1037,7 @@
  {
   "id": "politician",
   "name": "Chính trị gia",
-  "ability": "Nếu bạn chịu trách nhiệm lớn nhất đến sự thất bạn của đội bạn, bạn đổi phe và thắng, ngay cả khi chết.",
+  "ability": "Nếu bạn chịu trách nhiệm lớn nhất đến sự thất bại của đội bạn, bạn đổi phe và thắng, ngay cả khi chết.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -1218,8 +1236,8 @@
   "id": "snakecharmer",
   "name": "Nuôi rắn",
   "ability": "Mỗi đêm, chọn người sống: Quỷ được chọn sẽ hoán đổi nhân vật & phe với bạn & sau đó bị trúng độc.",
-  "firstNightReminder": "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ. \nNuôi rắn hoá thành Quỷ và đổi sang Phe Xấu.\nQuỷ cũ hoá thành Nuôi rắn, và đổi sang Phe Tốt và bị trúng độc (không còn chức năng).",
-  "otherNightReminder": "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ. \nNuôi rắn mới bị trúng độc (không còn chức năng).",
+  "firstNightReminder": "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ.  Nuôi rắn hoá thành Quỷ và đổi sang Phe Xấu. Quỷ cũ hoá thành Nuôi rắn, và đổi sang Phe Tốt và bị trúng độc (không còn chức năng).",
+  "otherNightReminder": "Nuôi rắn chỉ 1 người. Nếu người đó là Quỷ: hoán đổi nhân vật và phe của Quỷ và Nuôi rắn. Gọi mỗi người dậy để thông báo phe và nhân vật của họ.  Nuôi rắn mới bị trúng độc (không còn chức năng).",
   "remindersGlobal": null,
   "reminders": "Trúng độc"
  },
@@ -1441,8 +1459,8 @@
  },
  {
   "id": "zealot",
-  "name": "Zealot",
-  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "name": "Kẻ quá khích",
+  "ability": "Nếu có 5 người sống trở lên, bạn phải bỏ phiếu cho tất cả các biểu quyết.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,

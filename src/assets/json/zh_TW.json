@@ -153,6 +153,15 @@
   "reminders": "提名好人,提名邪惡"
  },
  {
+  "id": "boffin",
+  "name": "Boffin",
+  "ability": "惡魔擁有一個不在遊戲中的好人能力(儘管他醉酒或中毒)，你們都知道是哪種能力。",
+  "firstNightReminder": "喚醒瘋狂科學家與惡魔並展示「這個能力選擇你」提示卡 + 瘋狂科學家的角色代幣 + 該好人能力的角色代幣。",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bonecollector",
   "name": "集骨家",
   "ability": "每場遊戲一次，晚上時，選擇一位死亡的玩家，該玩家恢復自己的能力直到隔天黃昏。",
@@ -744,7 +753,7 @@
   "firstNightReminder": "以「第一天」標記利維坦。宣布「利維坦在遊戲中，今天是第一天。」",
   "otherNightReminder": "增加利維坦標記的天數。",
   "remindersGlobal": null,
-  "reminders": "第一天,第三天,第二天,第五天,第四天,好人被處決"
+  "reminders": "第一天,第二天,第三天,第四天,第五天,好人被處決"
  },
  {
   "id": "librarian",
@@ -772,6 +781,15 @@
   "otherNightReminder": "水蛭怪指向一位玩家，該玩家死亡。",
   "remindersGlobal": null,
   "reminders": "中毒,死亡"
+ },
+ {
+  "id": "lordoftyphon",
+  "name": "風暴領主",
+  "ability": "每天晚上*，選擇一位玩家，該玩家死亡。[邪惡玩家坐在一起，你坐在他們之間。+1僕從。+？～-？城外人]",
+  "firstNightReminder": "喚醒惡魔身旁的僕從們，分別展示「你是」提示卡 + 他們的角色代幣，並倒讚表示邪惡。",
+  "otherNightReminder": "風暴領主指向一位玩家，該玩家死亡。",
+  "remindersGlobal": null,
+  "reminders": "死亡"
  },
  {
   "id": "lunatic",
@@ -1424,7 +1442,7 @@
  {
   "id": "witch",
   "name": "女巫",
-  "ability": "每天晚上，選擇一位玩家，如果該玩家於明天提名，則他會死亡，如果只剩下三位玩家活著，你失去這個能力。",
+  "ability": "每天晚上，選擇一位玩家，如果該玩家於明天提名，則他會死亡，如果只剩下三位玩家存活，你失去這個能力。",
   "firstNightReminder": "女巫指向一位玩家，以「詛咒」標記該玩家。",
   "otherNightReminder": "如果有四位或以上玩家活著，女巫指向一位玩家，以「詛咒」標記該玩家。",
   "remindersGlobal": null,
@@ -1441,8 +1459,8 @@
  },
  {
   "id": "zealot",
-  "name": "Zealot",
-  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "name": "狂熱者",
+  "ability": "如果有五個或更多玩家存活，你在每次提名都需要投票。",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,

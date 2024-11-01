@@ -28,7 +28,7 @@
  },
  {
   "id": "alsaahir",
-  "name": "Alsaahir",
+  "name": "Алсахір",
   "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
   "firstNightReminder": null,
   "otherNightReminder": null,
@@ -100,7 +100,7 @@
  },
  {
   "id": "banshee",
-  "name": "Banshee",
+  "name": "Банші",
   "ability": "If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
   "firstNightReminder": null,
   "otherNightReminder": "Announce that the Banshee has died.",
@@ -153,6 +153,15 @@
   "reminders": "Nominate good,Nominate evil"
  },
  {
+  "id": "boffin",
+  "name": "Чорнокнижник",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bonecollector",
   "name": "Збирач Кісток",
   "ability": "Once per game, at night, choose a dead player: they regain their ability until dusk.",
@@ -163,7 +172,7 @@
  },
  {
   "id": "boomdandy",
-  "name": "Boomdandy",
+  "name": "Бахмотор",
   "ability": "If you are executed, all but 3 players die. 1 minute later, the player with the most players pointing at them dies.",
   "firstNightReminder": null,
   "otherNightReminder": null,
@@ -172,7 +181,7 @@
  },
  {
   "id": "bootlegger",
-  "name": "Bootlegger",
+  "name": "Пачкар",
   "ability": "This script has homebrew characters or rules.",
   "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and\/or rules you are using in this game.",
   "otherNightReminder": null,
@@ -289,7 +298,7 @@
  },
  {
   "id": "cultleader",
-  "name": "Cult Leader",
+  "name": "Лідер Культу",
   "ability": "Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins.",
   "firstNightReminder": "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly.",
   "otherNightReminder": "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly.",
@@ -298,7 +307,7 @@
  },
  {
   "id": "damsel",
-  "name": "Damsel",
+  "name": "Діва",
   "ability": "All Minions know you are in play. If a Minion publicly guesses you (once), your team loses.",
   "firstNightReminder": "Wake all the Minions, show them the 'This character selected you' card and the Damsel token.",
   "otherNightReminder": "If selected by the Huntsman, wake the Damsel, show 'You are' card and a not-in-play Townsfolk token.",
@@ -487,7 +496,7 @@
  },
  {
   "id": "fortuneteller",
-  "name": "Fortune Teller",
+  "name": "Ворожка",
   "ability": "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you.",
   "firstNightReminder": "The Fortune Teller points to two players. Give the head signal (nod yes, shake no) for whether one of those players is the Demon. ",
   "otherNightReminder": "The Fortune Teller points to two players. Show the head signal (nod 'yes', shake 'no') for whether one of those players is the Demon.",
@@ -774,6 +783,15 @@
   "reminders": "Dead,Poisoned"
  },
  {
+  "id": "lordoftyphon",
+  "name": "Lord of Typhon",
+  "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]",
+  "firstNightReminder": "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil.",
+  "otherNightReminder": "The Lord of Typhon points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
   "id": "lunatic",
   "name": "Юродовий",
   "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.",
@@ -1045,7 +1063,7 @@
  },
  {
   "id": "professor",
-  "name": "Professor",
+  "name": "Професор",
   "ability": "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected.",
   "firstNightReminder": null,
   "otherNightReminder": "If the Professor has not used their ability: The Professor either shakes their head no, or points to a player. If that player is a Townsfolk, they are now alive.",
@@ -1063,7 +1081,7 @@
  },
  {
   "id": "pukka",
-  "name": "Pukka",
+  "name": "Пукка",
   "ability": "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy.",
   "firstNightReminder": "The Pukka points to a player. That player is poisoned.",
   "otherNightReminder": "The Pukka points to a player. That player is poisoned. The previously poisoned player dies.",
@@ -1189,7 +1207,7 @@
  },
  {
   "id": "shabaloth",
-  "name": "Shabaloth",
+  "name": "Шабалот",
   "ability": "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated.",
   "firstNightReminder": null,
   "otherNightReminder": "One player that the Shabaloth chose the previous night might be resurrected. The Shabaloth points to two players. Those players die.",

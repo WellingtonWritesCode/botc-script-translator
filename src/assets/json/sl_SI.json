@@ -153,6 +153,15 @@
   "reminders": "Nominiraj dobro,Nominiraj zlo"
  },
  {
+  "id": "boffin",
+  "name": "Boffin",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
   "id": "bonecollector",
   "name": "Zbiralec kosti",
   "ability": "Enkrat na igro lahko ponoči izbereš mrtvega igralca. Do naslednjega mraka znova dobi svojo moč.",
@@ -443,7 +452,7 @@
  {
   "id": "fibbin",
   "name": "Šment",
-  "ability": "Enkrat na igrlo lahko 1 dober igralec dobi lažne podatke.",
+  "ability": "Enkrat na igro lahko 1 dober igralec dobi lažne podatke.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -774,6 +783,15 @@
   "reminders": "Mrtev,Zastrupljen"
  },
  {
+  "id": "lordoftyphon",
+  "name": "Lord of Typhon",
+  "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]",
+  "firstNightReminder": "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil.",
+  "otherNightReminder": "The Lord of Typhon points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
   "id": "lunatic",
   "name": "Blaznež",
   "ability": "Misliš, da si Demon, ampak nisi. Pravi Demon ve, kdo si in koga izbereš ponoči.",
@@ -968,7 +986,7 @@
   "ability": "Enkrat na igro lahko ponoči izbereš eno dobro vlogo. Dobiš njeno moč. Če je ta vloga v igri, postane pijana.",
   "firstNightReminder": "Filozof bodisi odkima za \"ne\" ali pokaže na dobro vlogo na seznamu. Če to stori, zamenjaj, žeton vloge tega karakterja z žetonom filozofa. Če je vloga v igri, jo označi s \"Pijan\" in filozofa z \"Ne več filozof\".",
   "otherNightReminder": "Če še ni uporabil moči, filozof bodisi odkima za \"ne\" ali pokaže na dobro vlogo na seznamu. Če to stori, zamenjaj, žeton vloge tega karakterja z žetonom filozofa. Če je vloga v igri, jo označi s \"Pijan\" in filozofa z \"Ne več filozof\".",
-  "remindersGlobal": "Drunk,Je filozof",
+  "remindersGlobal": "Je filozof,Pijan",
   "reminders": null
  },
  {
@@ -1109,7 +1127,7 @@
  {
   "id": "riot",
   "name": "Rogovil",
-  "ability": "Nominiranci takoj umrejo, a lahko spet nominirajo. (Tretji dan morejo) Po tretjem dnevu zlo zmaga. [Vsi Sledilci so Rogovili]",
+  "ability": "Nominiranci takoj umrejo, a lahko spet nominirajo. (Tretji dan morajo) Po tretjem dnevu zlo zmaga. [Vsi Sledilci so Rogovili]",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,

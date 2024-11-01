@@ -39,7 +39,7 @@
   "id": "amnesiac",
   "name": "Amnezjak",
   "ability": "Nie wiesz, jaka jest twoja zdolność. Każdego dnia, prywatnie zgadnij, co to jest: dowiadujesz się, jak bardzo trafiłeś.",
-  "firstNightReminder": "Zdecyduj o całej zdolności Amnezjaka. Jeśli zdolność Amnezjaka powoduje, że budzą się nocą: Obudź Amnezjaka i preprowadź ich zdolność.",
+  "firstNightReminder": "Zdecyduj o całej zdolności Amnezjaka. Jeśli zdolność Amnezjaka powoduje, że budzą się nocą: Obudź Amnezjaka i przeprowadź jego zdolność.",
   "otherNightReminder": "Jeśli zdolność Amnezjaka powoduje, że budzą się nocą: Obudź Amnezjaka i preprowadź ich zdolność.",
   "remindersGlobal": null,
   "reminders": "?"
@@ -151,6 +151,15 @@
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": "Nominowany dobry,Nominowany zły"
+ },
+ {
+  "id": "boffin",
+  "name": "Boffin",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
  },
  {
   "id": "bonecollector",
@@ -461,7 +470,7 @@
  {
   "id": "fisherman",
   "name": "Rybak",
-  "ability": "Raz na grę, w ciągu dnia, odwiedź Bajarza, aby uzyskać poradę, które pomoże Ci wygrać.",
+  "ability": "Raz na grę, w ciągu dnia, odwiedź Bajarza, aby uzyskać poradę, która pomoże Ci wygrać.",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -772,6 +781,15 @@
   "otherNightReminder": "Pijjawka wskazuje na gracza. Ten gracz umiera.",
   "remindersGlobal": null,
   "reminders": "Umiera,Zatruty"
+ },
+ {
+  "id": "lordoftyphon",
+  "name": "Lord of Typhon",
+  "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]",
+  "firstNightReminder": "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil.",
+  "otherNightReminder": "The Lord of Typhon points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
  },
  {
   "id": "lunatic",

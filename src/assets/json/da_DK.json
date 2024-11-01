@@ -1,0 +1,1478 @@
+[
+ {
+  "id": "acrobat",
+  "name": "Akrobaten",
+  "ability": "Hver Nat*, Hvis en af dine levende naboer er forgiftede eller fulde, Dør du.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis en levende , god nabo er forgiftet eller fuld, dør Akrobaten",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "alchemist",
+  "name": "alchemist",
+  "ability": "Alkymisten",
+  "firstNightReminder": "Du har en Håndlanger, der ikke er i spils, evne",
+  "otherNightReminder": "Vis Alkymisten en ikke-i-spil Håndlanger brik",
+  "remindersGlobal": null,
+  "reminders": "Er Alkymisten"
+ },
+ {
+  "id": "alhadikhia",
+  "name": "Al-Hadikhia",
+  "ability": "Hver nat*, Vælg 3 spillere (alle spillere ved hvem): hver af dem vælger tavst, om de vil leve eller dø, Men hvis alle vælger at leve, dør alle.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Al-Hadikhia vælger 3 spillere. udpeg den første spiller, væk dem, og be dem nikke for at leve eller ryste på hovedet for at dø, dræb eller genopliv alt efter valget, og læg dem derefter til at sove, Væk derefter næste spiller.Hvis alle 3 lever efter dette, dør de alle.",
+  "remindersGlobal": null,
+  "reminders": "1,2,3,Vælg død,vælg liv"
+ },
+ {
+  "id": "alsaahir",
+  "name": "Alsaahir",
+  "ability": "En gang om dagen, hvis du offentligt gætter, hvilke spillere der er Minion(s) og hvilke der er Dæmon(er), Vinder det gode hold\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "amnesiac",
+  "name": "Den Glemsomme",
+  "ability": "Du ved ikke hvad din evne er. Hver dag, kan du gætte hos spillederen, privat, hvad din rolle er. Du får at vide hvor tæt du er på din evne.",
+  "firstNightReminder": "Bestem dig for Den Glemsommes  evne.Hvis deres evne får dem til at vågne om natten: Væk Den Glemsomme, og udfør dens evne.",
+  "otherNightReminder": "Hvis Den Glemsomme evne får dem til at vågne om natten: Væk Den Glemsomme, og udfør dens evne.",
+  "remindersGlobal": null,
+  "reminders": "?"
+ },
+ {
+  "id": "angel",
+  "name": "Engel",
+  "ability": "Noget slemt sker måske for hvem end der var mest ansvarlig for en ny spillers død",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Beskyt,Noget Slemt"
+ },
+ {
+  "id": "apprentice",
+  "name": "Lærling",
+  "ability": "På den første nat, får du en Townsfolk Evne (hvis god), eller en Håndlanger evne (hvis ond).",
+  "firstNightReminder": "Vis Lærlingen \"Du er\" kortet, og derefter et Townsfolk eller minion kort. I Grimoiren, replace erstat Lærlingebrikken med denne Karakterbrik and put the Lærlingens 'Er Lærlingen' Påmindelsesbrik ved denne Karakter.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Er Lærlingen"
+ },
+ {
+  "id": "artist",
+  "name": "Kunstneren",
+  "ability": "En gang per spil, Spørg spillederen hemmeligt om et Ja eller Nej spørgsmål.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Ingen Evne"
+ },
+ {
+  "id": "assassin",
+  "name": "Snigmorder",
+  "ability": "En gang Per spil, om natten*, Vælg en spiller: De dør, Selv om de på en eller anden måde ikke kan dø.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis Snigmorderen ikke har brugt sin evne: Smigmorderen enten ryster på hovedet for 'nej', Eller Peger på en spiller. Denne spiller dør.",
+  "remindersGlobal": null,
+  "reminders": "Død,Ingen Evne"
+ },
+ {
+  "id": "atheist",
+  "name": "Ateisten",
+  "ability": "Spillederen kan bryde spillets regler & hvis han bliver henrettet, Vinder de gode, selv hvis de er døde [Ingen Onde Karakterer]",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "balloonist",
+  "name": "Ballonskipper",
+  "ability": "Hver nat, lærer du 1 spiller af hver Karakter type, indtil der ikke er flere typer at lære [+1 Fremmed]",
+  "firstNightReminder": "Vælg en karaktertype. peg på en spiller, hvis karakter er af den type. Placer Ballonskipperens \"Set\"  påmindelsesbrik ved siden af denne brik.",
+  "otherNightReminder": "Vælg en karaktertype, der endnu ikke har en \"Set\" påmindelsesbrik ved siden af en karakter af den type. Peg på en spiller, hvis karakter er af den type, hvis der er nogen. Placer Ballonkipperens Påmindelsesbrik ved denne karakter. ",
+  "remindersGlobal": null,
+  "reminders": "Set Byboer,Set Fremmed,Set Håndlanger,Set Dæmon,Set Rejsende"
+ },
+ {
+  "id": "banshee",
+  "name": "Banshee",
+  "ability": "Hvis Dæmonen dræber dig, lærer alle spillere dette. Fra nu af kan du nominere to gange om dagen og stemme to gange per nominering.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Erklær at Banshee er død",
+  "remindersGlobal": null,
+  "reminders": "Har Evne"
+ },
+ {
+  "id": "barber",
+  "name": "Barber",
+  "ability": "Hvis du døde i dag eller i nat, må dæmonen vælge 2 spillere (Ikke en anden Dæmon) Der bytter figur.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis barberen døde i nat: Væk dæmonen. Vis 'Denne Karakter Valgte dig' kortet, og så Barberbrikken. Enten Ryster Dæmonen på hovedet for nej, eller peger på to spillere. Hvis de vælger spillere: Byt rundt på de to Karakterbrikker. Væk hver spiller og vis dem 'Du er' kortet og deres nye karakterbrik.",
+  "remindersGlobal": null,
+  "reminders": "Klipninger i dag"
+ },
+ {
+  "id": "barista",
+  "name": "Barista",
+  "ability": "Hver nat, indtil skumringen, 1) bliver en spiller ædru, sund og får sand information, eller 2) deres evner virker to gange. De lærer hvilke.",
+  "firstNightReminder": "Vælg en spiller, væk dem og fortæl dem, hvilken Barista-kraft der påvirker dem. Behandl dem i overensstemmelse hermed (ædru\/sund\/sand info eller aktivér deres evne to gange).\n",
+  "otherNightReminder": "Vælg en spiller, væk dem og fortæl dem, hvilken Barista-kraft der påvirker dem. Behandl dem i overensstemmelse hermed (ædru\/sund\/sand info eller aktivér deres evne to gange).\n",
+  "remindersGlobal": null,
+  "reminders": "Sober & Sund,Evne to gange\n"
+ },
+ {
+  "id": "baron",
+  "name": "Baron",
+  "ability": "Der er ekstra Fremmede i spil. [+2 Fremmede]",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "beggar",
+  "name": "Tigger",
+  "ability": "Du skal bruge en stemmebrik for at stemme.. Døde spillere kan vælge at give dig deres. Hvis så, lærer du deres Allignment. Du er Sober og Rask.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bishop",
+  "name": "Biskop",
+  "ability": "Kun spillederen kan nominere. Mindst en spiller fra det modsatte hold skal nomineres hver dag.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "God Nomineret,Ond nomineret"
+ },
+ {
+  "id": "boffin",
+  "name": "Boffin",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bonecollector",
+  "name": "Knoglesamleren",
+  "ability": "En gang per spil, om natten, Vælg en død spiller: de genvinder deres evne indtil solnedgang",
+  "firstNightReminder": null,
+  "otherNightReminder": "Knoglesamleren endten ryster på hovedet for 'nej' eller peger på en hvilken som helst død spiller Hvis de pegede på en død spiller, sæt Knoglesamlerens påmindelsesbrik 'Har evne' ud for den valgte karakters brik. (De skal måske vækkes om natten for at bruge den)  ",
+  "remindersGlobal": null,
+  "reminders": "Ingen Evne,Har Evne"
+ },
+ {
+  "id": "boomdandy",
+  "name": "Bombemageren",
+  "ability": "Hvis du  bliver henrettet, dør alle andre end 3 spillere også. 1 minut senere, dør den spiller som flest peger på. ",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bootlegger",
+  "name": "Smugler",
+  "ability": "Dette Script har hjemmelavede Karakterer",
+  "firstNightReminder": "Annoncer, at Smugleren er i spil, og informer gruppen om alle hjemmelavede karakterer og\/eller regler, du bruger i dette spil.\n",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bountyhunter",
+  "name": "Dusørjæger",
+  "ability": "Du starter med at kende en Ond spiller. Hvis spilleren du kender dør, lærer du en ny ond spiller at kende. [1 Byboer er ond]",
+  "firstNightReminder": "Peg på en ond spiller. Væk den townsfolk der nu er ond, og vis dem 'du er' kortet, og peg tommelfingeren ned af for 'ond'",
+  "otherNightReminder": "Hvis den kendte onde spiller er død, Peg på en ny ond spillere",
+  "remindersGlobal": null,
+  "reminders": "Kendt"
+ },
+ {
+  "id": "buddhist",
+  "name": "Buddhist",
+  "ability": "De første to minutter af en dag, må Øvede spillere ikke tale",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "bureaucrat",
+  "name": "Bureaukrat",
+  "ability": "Hver nat, vælg en spiller (Ikke dig selv): Deres stemme tæller som tre stemmer i morgen.",
+  "firstNightReminder": "Bureaukraten peger på en spiller. Sæt Bureaukratens Påmindelsesbrikken '3 stemmer' ud for den valgte karakterbrik",
+  "otherNightReminder": "Bureaukraten peger på en spiller. Sæt Bureaukratens Påmindelsesbrikken '3 stemmer' ud for den valgte karakterbrik",
+  "remindersGlobal": null,
+  "reminders": "3 Stemmer"
+ },
+ {
+  "id": "butcher",
+  "name": "Slagter",
+  "ability": "Hver dag, efter den første henrettelse, må du nominere igen.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "butler",
+  "name": "Butler",
+  "ability": "Hver nat, Vælg en spiller (Ikke dig selv): I morgen må du kun stemme hvis de stemmer.",
+  "firstNightReminder": "Butleren peger på en spiller. Marker denne som 'Herre' ",
+  "otherNightReminder": "Butleren peger på en spiller. Marker denne som 'Herre' ",
+  "remindersGlobal": null,
+  "reminders": "Herre"
+ },
+ {
+  "id": "cannibal",
+  "name": "Kannibal",
+  "ability": "Du har den der sidst blev henrettets evne. Hvis de er onde, er du forgiftet til den næste gode spiller bliver henrettet. ",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Forgiftet,Døde idag"
+ },
+ {
+  "id": "cerenovus",
+  "name": "Cerenovus",
+  "ability": "Hver nat,  Vælg en spiller og en god Karakter: De er “Gal” om at de er denne karakter i morgen, ellers bliver de muligvis henrettet.",
+  "firstNightReminder": "Cerenovus peger på en spiller, Derefter en Karakter på deres ark. Væk den spiller. Vis dem 'Denne Karakter har valgt dig' kortet, og derefter Cerenovus brikken. Vis den valgte karakterbrik. hvis spilleren ikke er gal om at være den karakter i morgen, kan de blive henrettet.",
+  "otherNightReminder": "Cerenovus peger på en spiller, Derefter en Karakter på deres ark. Væk den spiller. Vis dem 'Denne Karakter har valgt dig' kortet, og derefter Cerenovus brikken. Vis den valgte karakterbrik. hvis spilleren ikke er gal om at være den karakter i morgen, kan de blive henrettet.",
+  "remindersGlobal": null,
+  "reminders": "Gal"
+ },
+ {
+  "id": "chambermaid",
+  "name": "Kammerpige",
+  "ability": "Hver nat skal du vælge 2 levende spillere (ikke dig selv): du lærer, hvor mange der vågnede i nat på grund af deres evner.\n",
+  "firstNightReminder": "Kammerpigen peger på to spillere. Vis talsignalet (0, 1, 2, …) for hvor mange af disse spillere, der vågner i nat for deres evner.\n",
+  "otherNightReminder": "Kammerpigen peger på to spillere. Vis talsignalet (0, 1, 2, …) for hvor mange af disse spillere, der vågner i nat for deres evner.\n",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "chef",
+  "name": "Kokken",
+  "ability": "Du starter med at vide hvor mange onde par der er tilstede",
+  "firstNightReminder": "Vis fingersignalet (0, 1, 2, …) For hvor mange gange to onde sidder ved siden af hinanden",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "choirboy",
+  "name": "Kordrengen",
+  "ability": "Hvis Dæmonen dræber kongen, får du at vide hvem Dæmonen er[+ Kongen]",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis kongen blev dræbt af Dæmonen, Væk Kordrengen, og peg på Dæmonen",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "clockmaker",
+  "name": "Urmager",
+  "ability": "Du starter med at vide hvor mange pladser Dæmonen sidder fra sin nærmeste Håndlanger",
+  "firstNightReminder": "Vis håndsignalet for antal (1, 2, 3, etc.) af hvor mange pladser Dæmonen sidder fra sin nærmeste Håndlanger",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "courtier",
+  "name": "Hofdame",
+  "ability": "En gang per spil, om natten, vælg en spiller. De er fulde i 3 nætter og 3 dage.",
+  "firstNightReminder": "Hofdamen enten ryster på hovedet for 'nej', eller peger på en karakter på arket. Hvis hofdamen bruger sin evne, og denne karakter er i spil, er denne spiller fuld.",
+  "otherNightReminder": "Reducer det tilbageværende antal dage karakteren er Forgiftet. Hvis Hofdamen ikke har brugt sin evne: Hofdamen enten ryster på hovedet for 'nej', eller peger på en karakter på arket. Hvis hofdamen bruger sin evne, og denne karakter er i spil, er denne spiller fuld.",
+  "remindersGlobal": null,
+  "reminders": "Fuld 3,Fuld 2,Fuld 1,Ingen evne"
+ },
+ {
+  "id": "cultleader",
+  "name": "Kultleder",
+  "ability": "Hver nat, bliver du samme alignment som en af dine levende naboer. hvis alle gode spiller vælger at tilslutte sig din kult, vinder dit hold.",
+  "firstNightReminder": "Hvis Kultlederen skiftede alignment, Vis dem det tommelfinger tegn, som passer til. Op (god) eller ned (ond).",
+  "otherNightReminder": "Hvis Kultlederen skiftede alignment, Vis dem det tommelfinger tegn, som passer til. Op (god) eller ned (ond).",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "damsel",
+  "name": "Skønjomfru",
+  "ability": "Alle Håndlangere ved du er i spil. Hvis en Håndlanger åbent gætter rigtigt (En gang per spil) at du er Kvinden i nød, taber dit hold",
+  "firstNightReminder": "Væk alle Håndlangere, vis dem kortet 'Denne karakter valgte dig' og \"Kvinde i nød\" brikken",
+  "otherNightReminder": "Hvis jægeren har valgt hende, skal du vække Kvinden i nød, vise 'Du er'-kortet og en ikke-i-spillet Byboer-brik.",
+  "remindersGlobal": null,
+  "reminders": "Gæt brugt\n"
+ },
+ {
+  "id": "deusexfiasco",
+  "name": "Deus ex Fiasco",
+  "ability": "Én gang pr. spil vil spillederen begå en \"fejl\", rette den og offentligt indrømme den.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Hovsa\n"
+ },
+ {
+  "id": "deviant",
+  "name": "Afvigeren",
+  "ability": "Hver aften skal du vælge en levende spiller (anden end i går aftes): hvis de bliver henrettet i morgen, dør de ikke.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "devilsadvocate",
+  "name": "Djævlens advokat\n",
+  "ability": "Hver aften skal du vælge en levende spiller (anderledes end i går aftes): hvis de bliver henrettet i morgen, dør de ikke.",
+  "firstNightReminder": "Djævelens advokat peger på en levende spiller. Den spiller overlever henrettelse i morgen.\n",
+  "otherNightReminder": "Djævelens advokat peger på en anden levende spiller end den foregående nat. Den spiller overlever henrettelse i morgen.\n",
+  "remindersGlobal": null,
+  "reminders": "Overlever henrettelse\n"
+ },
+ {
+  "id": "djinn",
+  "name": "Djinn",
+  "ability": "Brug Djinns særlige regel. Alle spillere ved, hvad det er.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "doomsayer",
+  "name": "Dommedagsprofet",
+  "ability": "Hvis 4 eller flere spillere lever, kan hver nulevende spiller offentligt vælge (én gang pr. spil), at en spiller i deres egen række dør.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "dreamer",
+  "name": "Drømmer",
+  "ability": "Hver aften skal du vælge en spiller (ikke dig selv eller rejsende): du lærer 1 god og 1 ond karakter, hvoraf 1 er korrekt",
+  "firstNightReminder": "Drømmeren peger på en spiller. Vis 1 god og 1 ond karakter token; en af ​​disse er korrekt.\n",
+  "otherNightReminder": "Drømmeren peger på en spiller. Vis 1 god og 1 ond karakter token; en af ​​disse er korrekt.\n",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "drunk",
+  "name": "Fulderik",
+  "ability": "Du ved ikke, at du er Fulderik. Du tror, ​​du er en Byboer-karakter, men det er du ikke.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": "Fulderik",
+  "reminders": null
+ },
+ {
+  "id": "duchess",
+  "name": "Hertuginde",
+  "ability": "Hver dag kan 3 spillere vælge at besøge dig. Om natten* lærer hver besøgende, hvor mange besøgende der er onde, men 1 får falsk information.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Besøgende,Falske oplysninger"
+ },
+ {
+  "id": "empath",
+  "name": "Empat",
+  "ability": "Hver nat lærer du, hvor mange af dine 2 levende naboer, der er onde.",
+  "firstNightReminder": "Vis fingersignalet (0, 1, 2) for antallet af onde levende naboer til Empath.",
+  "otherNightReminder": "Vis fingersignalet (0, 1, 2) for antallet af onde levende naboer til Empath.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "engineer",
+  "name": "Ingeniør",
+  "ability": "En gang pr. spil, om natten, kan du vælge, hvilke Håndlangere eller hvilken Dæmon, der er i spil.",
+  "firstNightReminder": "Ingeniøren viser et 'nej' hovedsignal, eller peger på en dæmon eller peger på det relevante antal Minions.\nHvis ingeniøren valgte karakterer, skal du erstatte Dæmonen eller Håndlangere med valgene, og derefter vække de relevante spillere og vise dem Du er-kortet og de relevante karakterbrikker.",
+  "otherNightReminder": "Ingeniøren viser et 'nej' hovedsignal, eller peger på en dæmon eller peger på det relevante antal Minions.\nHvis ingeniøren valgte karakterer, skal du erstatte Dæmonen eller Håndlangere med valgene, og derefter vække de relevante spillere og vise dem Du er-kortet og de relevante karakterbrikker.",
+  "remindersGlobal": null,
+  "reminders": "Ingen evne\n"
+ },
+ {
+  "id": "eviltwin",
+  "name": "Ond tvilling\n",
+  "ability": "Du og en modstander kender hinanden. Hvis den gode spiller bliver henrettet, vinder det onde. Godt kan ikke vinde, hvis I begge lever.",
+  "firstNightReminder": "Væk den onde tvilling og deres tvilling. Bekræft, at de har anerkendt hinanden. Peg på den onde tvilling. Vis deres Ond Tvilling-brik til tvillingespilleren. Peg på tvillingen. Vis deres karakterbrik til Ond Tvilling-spilleren.\n",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Tvilling"
+ },
+ {
+  "id": "exorcist",
+  "name": "Eksorcist",
+  "ability": "Hver nat*, vælg en spiller (anden end i går aftes): Hvis dæmonen bliver valgt, lærer den, hvem du er, og så vågner den ikke i nat.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Exorcisten peger på en spiller, der er forskellig fra den foregående nat. Hvis den spiller er Dæmonen: Væk Dæmonen. Vis Eksorcist-brikken. Peg på eksorcisten. Dæmonen handler ikke i aften.",
+  "remindersGlobal": null,
+  "reminders": "Valgt"
+ },
+ {
+  "id": "fanggu",
+  "name": "Fang Gu",
+  "ability": "Vælg en spiller hver nat*: de dør. Den 1. Fremmede, som denne dræber, bliver en ond Fang Gu, og du dør i stedet. [+1 Fremmed]",
+  "firstNightReminder": null,
+  "otherNightReminder": "Fang Gu peger på en spiller. Den spiller dør. Eller hvis den spiller var en Fremmed, og der ikke er andre Fang Gu i spil: Fang Gu dør i stedet for den valgte spiller. Den valgte spiller er nu en ond Fang Gu. Væk den nye Fang Gu. Vis kortet 'Du er' og derefter Fang Gu-tokenet. Vis kortet 'Du er' og derefter tommelfingeren nedad 'onde' håndtegnet.",
+  "remindersGlobal": null,
+  "reminders": "Død,1. gang"
+ },
+ {
+  "id": "farmer",
+  "name": "Bonde",
+  "ability": "Hvis du dør om natten, bliver en levende god spiller Bonde.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis en bonde døde i aften, så vælg en anden god spiller og gør dem til bonde. Væk denne spiller, vis dem 'Du er'-kortet og Bonde-karakteren.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "fearmonger",
+  "name": "Frygtspreder",
+  "ability": "Vælg en spiller hver aften. Hvis du nominerer og henretter dem, taber deres hold. Alle spillere ved, om du vælger en ny spiller.",
+  "firstNightReminder": "Frygtspreder peger på en spiller. Placer Frygt-brikken ved siden af ​​den spiller, og meddeler, at en ny spiller er blevet udvalgt med Frygtspreder-evnen.",
+  "otherNightReminder": "Frygtspreder peger på en anden spiller end sidst. Placer Frygt-brikken ved siden af ​​den spiller, og meddeler, at en ny spiller er blevet udvalgt med Frygtspreder-evnen.",
+  "remindersGlobal": null,
+  "reminders": "Frygt"
+ },
+ {
+  "id": "fibbin",
+  "name": "Løgner",
+  "ability": "Én gang pr. spil kan 1 god spiller få falsk information.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Brugt"
+ },
+ {
+  "id": "fiddler",
+  "name": "Violinist",
+  "ability": "Én gang pr. spil vælger Dæmonen i hemmelighed en modstander: alle spillere vælger, hvilken af ​​disse 2 spillere, der vinder.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "fisherman",
+  "name": "Fisker",
+  "ability": "Besøg historiefortælleren én gang pr. spil i løbet af dagen for at få nogle råd, der kan hjælpe dig med at vinde.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Ingen evne\n"
+ },
+ {
+  "id": "flowergirl",
+  "name": "Blomsterpige\n",
+  "ability": "Hver nat* lærer du, om en Dæmon stemte i dag.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nik 'ja' eller ryst på hovedet 'nej' for, om Dæmonen stemte i dag. Placer 'Dæmon stemte ikke-markøren (fjern 'Dæmon stemte', hvis nogen).\n",
+  "remindersGlobal": null,
+  "reminders": "Dæmon stemte,Dæmon stemte ikke"
+ },
+ {
+  "id": "fool",
+  "name": "Narren",
+  "ability": "Første gang du dør, dør du ikke",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Ingen evne\n"
+ },
+ {
+  "id": "fortuneteller",
+  "name": "Spåkone",
+  "ability": "Hver aften skal du vælge 2 spillere: du lærer, om en af ​​dem er en Dæmon. Der er en god spiller, der registrerer som en Dæmon for dig.",
+  "firstNightReminder": "Fortune Teller peger på to spillere. Giv hovedsignalet (nik ja, ryst nej) for, om en af ​​disse spillere er Dæmonen.",
+  "otherNightReminder": "Fortune Teller peger på to spillere. Giv hovedsignalet (nik ja, ryst nej) for, om en af ​​disse spillere er Dæmonen.",
+  "remindersGlobal": null,
+  "reminders": "Vildspor"
+ },
+ {
+  "id": "gambler",
+  "name": "Hasardspiller",
+  "ability": "Hver nat* skal du vælge en spiller og gætte deres karakter: Hvis du gætter forkert, dør du.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hasardspiller peger på en spiller og en karakter på deres ark. Hvis det er forkert, dør spilleren.\n",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "gangster",
+  "name": "Gangster",
+  "ability": "En gang om dagen kan du vælge at dræbe en levende nabo, hvis din anden levende nabo er enig.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "general",
+  "name": "General",
+  "ability": "Hver aften lærer du, hvilken side spillederen mener, der er ved at vinde: god, ond eller ingen af ​​delene.",
+  "firstNightReminder": "Vis generalen tommelfingeren op for god sejr, tommelfingeren ned for ond sejr eller tommelfingeren til siden for ingen af ​​dem.\n",
+  "otherNightReminder": "Vis generalen tommelfingeren op for god sejr, tommelfingeren ned for ond sejr eller tommelfingeren til siden for ingen af ​​dem.\n",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "goblin",
+  "name": "Goblin",
+  "ability": "Hvis du offentligt hævder at være Goblin, når du bliver nomineret og bliver henrettet den dag, vinder dit hold.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Påstået"
+ },
+ {
+  "id": "godfather",
+  "name": "Godfather",
+  "ability": "Du begynder at vide, hvilke Fremmede der er i spil. Hvis 1 døde i dag, så vælg en spiller i aften: de dør. [−1 eller +1 Fremmed]\n",
+  "firstNightReminder": "Vis hver af Fremmed-brikkerne i spil.\n",
+  "otherNightReminder": "Hvis en Fremmed døde i dag: Godfather peger på en spiller. Den spiller dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Døde i dag,død"
+ },
+ {
+  "id": "golem",
+  "name": "Golem",
+  "ability": "Du må kun nominere én gang pr. spil. Når du gør det, hvis den nominerede ikke er Dæmonen, dør de.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Kan ikke nominere\n"
+ },
+ {
+  "id": "goon",
+  "name": "Bølle",
+  "ability": "Hver nat er den første spiller, der vælger dig med deres evner, fuld indtil skumringen. Du bliver deres alignment.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Fuld"
+ },
+ {
+  "id": "gossip",
+  "name": "Sladrekælling",
+  "ability": "Hver dag kan du komme med en offentlig erklæring. I aften, hvis det var sandt, dør en spiller.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis Gossips offentlige udtalelse var sand: Vælg en spiller, der ikke er beskyttet mod at dø i aften. Den spiller dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "grandmother",
+  "name": "Bedstemor",
+  "ability": "Du begynder spillet med at kende en god spiller og deres karakter. Hvis Dæmonen dræber dem, dør du også.\n",
+  "firstNightReminder": "Vis det markerede tegn token. Peg på den markerede afspiller.\n",
+  "otherNightReminder": "Hvis bedstemoderens barnebarn blev dræbt af Dæmonen i aften: Bedstemoderen dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Barnebarn\n"
+ },
+ {
+  "id": "gunslinger",
+  "name": "Revolvermand",
+  "ability": "Hver dag, efter at 1. stemmerunde er blevet færdig, kan du vælge en spiller, der har stemt: de dør.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "harlot",
+  "name": "Skøge",
+  "ability": "Hver nat* skal du vælge en levende spiller: hvis de er enige, lærer du deres karakter, men I kan begge dø.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Skøgen peger på enhver spiller. Læg derefter skøgen til at sove. Væk den valgte spiller, vis dem kortet 'Denne karakter valgte dig' og derefter skøge-brikken. Den spiller nikker enten med hovedet ja eller ryster på hovedet nej. Hvis de nikkede ja, så væk skøgen og vis dem den valgte spillers karakterbrik. Derefter kan du beslutte, at begge spillere dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "harpy",
+  "name": "Harpy",
+  "ability": "Hver aften skal du vælge 2 spillere: i morgen er den første spiller \"Gal\" , at den anden er ond, ellers kan den ene eller begge dø.\n",
+  "firstNightReminder": "Væk Harpyen; de peger på én spiller, så en anden. Væk den 1. spiller, som Harpyen pegede på, vis dem kortet 'Denne karakter har valgt dig', vis dem Harpy-tokenet, og peg derefter på den 2. spiller, som Harpyen pegede på.\n",
+  "otherNightReminder": "Væk Harpyen; de peger på én spiller, så en anden. Væk den 1. spiller, som Harpyen pegede på, vis dem kortet 'Denne karakter har valgt dig', vis dem Harpy-tokenet, og peg derefter på den 2. spiller, som Harpyen pegede på.\n",
+  "remindersGlobal": null,
+  "reminders": "Gal, anden spiller"
+ },
+ {
+  "id": "hatter",
+  "name": "Hattemager",
+  "ability": "Hvis du døde i dag eller i aften, kan Håndlanger & Dæmon-spillerne vælge nye Håndlanger & Dæmon-karakterer.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis Hattemageren døde i dag: Væk håndlangerne og Dæmonen. Vis dem informationsbrikken: 'Denne karakter valgte dig' og derefter Hattemager-Brikken. Hver spiller enten ryster på hovedet nej eller peger på en anden karakter af samme type som deres nuværende karakter.\nHvis en anden spiller ville ende med den samme karakter som en anden spiller, så ryst på hovedet nej og tegn for, at de skal vælge igen. Læg dem til at sove. Skift hver spiller til den karakter, de har valgt.\n",
+  "remindersGlobal": null,
+  "reminders": "Teselskab i aften"
+ },
+ {
+  "id": "hellslibrarian",
+  "name": "Helvedes bibliotekar\n",
+  "ability": "Noget slemt kan ske med den, der taler, når spillederen har bedt om tavshed.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Noget slemt"
+ },
+ {
+  "id": "heretic",
+  "name": "Kætter",
+  "ability": "Dem, der vinder, taber og dem, der taber, vinder, selvom du er død.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "highpriestess",
+  "name": "Ypperstepræstinde",
+  "ability": "Lær hver aften, hvilken spiller historiefortælleren mener, du bør tale mest med.\n",
+  "firstNightReminder": "Peg på en spiller.\n",
+  "otherNightReminder": "Peg på en spiller.\n",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "huntsman",
+  "name": "Jæger",
+  "ability": "Én gang pr. spil, om natten, skal du vælge en levende spiller: Skønjomfruen, hvis den bliver valgt, bliver en Townsfolk, der ikke er i spil. [+Skønjomfru]\n",
+  "firstNightReminder": "Huntsman ryster på hovedet \"nej\" eller peger på en spiller. Hvis de peger på Skønjomfruen, skal du vække den spiller, vise 'Du er'-kortet og en ikke-i-spillet karakter-Brik.\n",
+  "otherNightReminder": "Huntsman ryster på hovedet \"nej\" eller peger på en spiller. Hvis de peger på Skønjomfruen, skal du vække den spiller, vise 'Du er'-kortet og en ikke-i-spillet karakter-Brik.\n",
+  "remindersGlobal": null,
+  "reminders": "Ingen evne"
+ },
+ {
+  "id": "imp",
+  "name": "Djævel",
+  "ability": "Vælg en spiller hver nat*: de dør. Hvis du dræber dig selv på denne måde, bliver en Minion Imp.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Djævel peger på en spiller. Den spiller dør. Hvis Djævel valgte sig selv: Erstat karakteren af ​​1 levende håndlangere med en ekstra Djævel Brik. Vis kortet 'Du er' og derefter Djævel Brikken.\n",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "innkeeper",
+  "name": "Kroejer",
+  "ability": "Hver nat* skal du vælge 2 spillere: de kan ikke dø i aften, men 1 er fuld indtil skumringen.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "De tidligere beskyttede og fulde spillere mister disse markører. Kroværten peger på to spillere. Disse spillere er beskyttet. Den ene er fuld.\n",
+  "remindersGlobal": null,
+  "reminders": "Beskyttet,Fuld"
+ },
+ {
+  "id": "investigator",
+  "name": "Efterforsker",
+  "ability": "Du begynder at vide, at 1 ud af 2 spillere er en bestemt Håndlanger.\n",
+  "firstNightReminder": "Vis karaktertokenet for en Håndlanger i spil. Peg på to spillere, hvoraf den ene er denne karakter.\n",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Håndlanger,Forkert"
+ },
+ {
+  "id": "judge",
+  "name": "Dommer",
+  "ability": "En gang pr. spil, hvis en anden spiller er nomineret, kan du vælge at tvinge den aktuelle udførelse til at gennemføres eller mislykkes.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Ingen evne"
+ },
+ {
+  "id": "juggler",
+  "name": "Jonglør",
+  "ability": "På din første dag kan du offentligt gætte op til 5 spilleres karakterer. Den aften lærer du, hvor mange du fik rigtige.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis i dag var jonglørens første dag: Vis håndsignalet for antallet (0, 1, 2 osv.) af 'Korrekte' markører. Fjern markører.",
+  "remindersGlobal": null,
+  "reminders": "Korrekt"
+ },
+ {
+  "id": "kazali",
+  "name": "Kazali",
+  "ability": "Hver nat*, Vælg en spiller, De dør. [Du bestemmer hvem der er hvilke håndlangere. -? to +? Fremmede]",
+  "firstNightReminder": "Kazali peger på en spiller og en Håndlanger på karakterarket. Erstat deres gamle karakter-token med Håndlanger-brik, vis dem \"Du er\"-informationstokenet og derefter Håndlanger-karaktertoken, og giv en tommelfinger ned. Gentag indtil det normale antal Håndlangere findes. Læg kazalien til at sove.\n",
+  "otherNightReminder": "Kazali peger på en spiller. Den spiller dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "king",
+  "name": "Konge",
+  "ability": "Hver nat, hvis de døde er flere end de levende, lærer du 1 levende karakter. Dæmonen ved, hvem du er.\n",
+  "firstNightReminder": "Væk dæmonen, vis dem kortet 'Denne karakter valgte dig', vis kongebrikken og peg på kongespilleren.",
+  "otherNightReminder": "Hvis der er flere døde end levende, skal du vise kongen et tegn på en levende spiller.\n",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "klutz",
+  "name": "Klodsmajor",
+  "ability": "Når du finder ud af, at du døde, skal du offentligt vælge 1 levende spiller: hvis de er onde, taber dit hold.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "knight",
+  "name": "Knight",
+  "ability": "Du starter med at vide 2 spillere der ikke er Dæmonen",
+  "firstNightReminder": "Peg på 2 Ikke-dæmon spillere",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Kendt, Kendt"
+ },
+ {
+  "id": "legion",
+  "name": "Legion",
+  "ability": "Hver nat* kan en spiller dø. Henrettelser mislykkes, hvis kun onde stemte. Du registrerer dig også som Håndlanger. [De fleste spillere er Legion]",
+  "firstNightReminder": null,
+  "otherNightReminder": "Vælg en spiller, den spiller dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Død,Vil snart dø"
+ },
+ {
+  "id": "leviathan",
+  "name": "Leviathan",
+  "ability": "Hvis mere end 1 god spiller bliver henrettet, vinder du. Alle spillere ved, at du er i spil. Efter dag 5 vinder det onde.\n",
+  "firstNightReminder": "Placer Leviathan 'Dag 1'-markøren. Meddel 'Leviathanen er i spil; det er dag 1.'",
+  "otherNightReminder": "Skift Leviathan Day-påmindelsen til den næste dag.\n",
+  "remindersGlobal": null,
+  "reminders": "Dag 1,Dag 2,Dag 3,Dag 4,Dag 5,God spiller henrettet"
+ },
+ {
+  "id": "librarian",
+  "name": "Bibliotekar",
+  "ability": "Du begynder at vide, at 1 ud af 2 spillere er en bestemt Fremmed. (Eller at nul er i spil.)\n",
+  "firstNightReminder": "Vis karaktersymbolet for en Fremmed i spil. Peg på to spillere, hvoraf den ene er denne karakter.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Outsider,Forkert"
+ },
+ {
+  "id": "lilmonsta",
+  "name": "Lil' Monsta",
+  "ability": "Hver aften vælger Håndlangerne, hvem der passer Lil' Monstas brik og \"er dæmonen\". En spiller dør hver nat*. [+1 Håndlanger]\n",
+  "firstNightReminder": "Hver aften vælger Håndlanger, hvem der passer Lil' Monstas token og \"er dæmonen\". En spiller dør hver nat*. [+1 Håndlanger]\n",
+  "otherNightReminder": "Væk alle Håndlangere sammen, lad dem stemme ved at pege på, hvem de vil have til at passe Lil' Monsta. Vælg en spiller, den spiller dør.\n",
+  "remindersGlobal": "Er Dæmonen,Død",
+  "reminders": null
+ },
+ {
+  "id": "lleech",
+  "name": "Lleech",
+  "ability": "Vælg en spiller hver nat*: de dør. Du starter med at vælge en levende spiller: de er forgiftede - du dør hvis & kun hvis de dør.\n",
+  "firstNightReminder": "Lleech peger på en spiller. Placer  forgiftet påmindelsesbrik.\n",
+  "otherNightReminder": "Lleech peger på en spiller. Den spiller dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Død,Forgiftet"
+ },
+ {
+  "id": "lordoftyphon",
+  "name": "Lord of Typhon",
+  "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]",
+  "firstNightReminder": "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil.",
+  "otherNightReminder": "The Lord of Typhon points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
+  "id": "lunatic",
+  "name": "Galning",
+  "ability": "Du tror, ​​du er en Dæmon, men det er du ikke. Dæmonen ved, hvem du er, og hvem du vælger om natten.\n",
+  "firstNightReminder": "Hvis 7 eller flere spillere: Vis galningen et antal vilkårlige 'Håndlangere', spillere svarende til antallet af Håndlangere i spil. Vis 3 tegn tokens af vilkårlige gode karakterer. Hvis tokenet modtaget af Lunatic er en Dæmon, der ville vågne i nat: Tillad Lunatic at udføre Dæmon-handlingerne. Placer deres 'angrebs'-markører. Væk Dæmonen. Vis Dæmonens rigtige karaktertoken. Vis dem Lunatic-spilleren. Hvis Lunatic angreb spillere: Vis den rigtige dæmon hver markeret spiller. Fjern eventuelle Lunatic 'angreb' markører.",
+  "otherNightReminder": "Tillad galningen at udføre Dæmonens handlinger. Placer deres 'angrebs'-markører. Hvis galningen valgte spillere: Væk dæmonen. Vis 'angrebs'-markøren, og peg derefter på hver markeret spiller. Fjern eventuelle Lunatic 'angreb' markører.",
+  "remindersGlobal": null,
+  "reminders": "Angreb 1,Angreb 2,Angreb 3"
+ },
+ {
+  "id": "lycanthrope",
+  "name": "Lycantrop",
+  "ability": "Vælg en levende spiller hver nat*: hvis god, dør de, men de er den eneste spiller, der kan dø i aften.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Lycanthropen peger på en levende spiller: hvis den er god, dør de, og ingen andre kan dø i aften.\n",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "magician",
+  "name": "Tryllekunstner",
+  "ability": "Dæmonen tror, ​​du er en Håndlanger. Håndlangere tror, ​​du er en Dæmon.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "marionette",
+  "name": "Marionet",
+  "ability": "Du synes, du er en god karakter, men det er du ikke. Dæmonen ved, hvem du er. [Du nabo til Dæmonen]\n",
+  "firstNightReminder": "Vælg en af ​​de gode spillere ved siden af ​​Dæmonen, og placer Er Marionetten-påmindelsen. Væk dæmonen og vis dem Marionetten.\n",
+  "otherNightReminder": null,
+  "remindersGlobal": "Er Marionetten",
+  "reminders": null
+ },
+ {
+  "id": "mastermind",
+  "name": "Bagmand",
+  "ability": "Hvis Dæmonen dør ved henrettelse (afslutning af spillet), skal du spille i 1 dag mere. Hvis en spiller derefter bliver henrettet, taber deres hold.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "mathematician",
+  "name": "Matematiker\n",
+  "ability": "Hver nat lærer du, hvor mange spilleres evner, der fungerede unormalt (siden daggry) på grund af en anden karakters evner.\n",
+  "firstNightReminder": "Vis håndsignalet for antallet (0, 1, 2 osv.) af spillere, hvis evner ikke fungerede på grund af andre evner.\n",
+  "otherNightReminder": "Vis håndsignalet for antallet (0, 1, 2 osv.) af spillere, hvis evner ikke fungerede på grund af andre evner.\n",
+  "remindersGlobal": null,
+  "reminders": "Abnorm"
+ },
+ {
+  "id": "matron",
+  "name": "Oldfrue",
+  "ability": "Hver dag kan du vælge op til 3 sæt af 2 spillere til at bytte plads. Spillere må ikke forlade deres pladser for at tale privat.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "mayor",
+  "name": "Borgmester",
+  "ability": "Hvis kun 3 spillere lever og ingen henrettelse finder sted, vinder dit hold. Hvis du dør om natten, kan en anden spiller dø i stedet.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "mezepheles",
+  "name": "Mezepheles",
+  "ability": "Du begynder at kende et hemmeligt ord. Den første gode spiller, der siger dette ord, bliver ond den nat.\n",
+  "firstNightReminder": "Vis Mezephele deres hemmelige ord.\n",
+  "otherNightReminder": "Væk den første gode spiller, der sagde Mezepheles' hemmelige ord, og vis dem kortet 'Du er' og det onde tommel ned.\n",
+  "remindersGlobal": null,
+  "reminders": "Bliver Ond,Ingen evne"
+ },
+ {
+  "id": "minstrel",
+  "name": "Gadesanger",
+  "ability": "Når en minion dør ved henrettelse, er alle andre spillere (undtagen rejsende) fulde indtil skumringen i morgen.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Alle Fulde"
+ },
+ {
+  "id": "monk",
+  "name": "Munk",
+  "ability": "Hver nat* skal du vælge en spiller (ikke dig selv): de er sikret mod Dæmonen i aften.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Den tidligere beskyttede afspiller er ikke længere beskyttet. Munken peger på en spiller, ikke dem selv. Marker denne afspiller 'Beskyttet'.",
+  "remindersGlobal": null,
+  "reminders": "Beskyttet"
+ },
+ {
+  "id": "moonchild",
+  "name": "Månebarn",
+  "ability": "Når du finder ud af, at du døde, skal du offentligt vælge 1 levende spiller. I aften, hvis det var en god spiller, dør de.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis Månebarnet brugte deres evne til at målrette mod en spiller i dag: Hvis denne spiller er god, dør de.\n",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "mutant",
+  "name": "Mutant",
+  "ability": "Hvis du er \"gal\" over at være en Outsider, kan du blive henrettet.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "nightwatchman",
+  "name": "Nattevagt",
+  "ability": "En gang pr. spil, om natten, vælger du en spiller: de lærer, hvem du er.\n",
+  "firstNightReminder": "Nattevagten kan pege på en spiller. Væk den spiller, vis kortet 'Denne karakter valgte dig' og Nattevagt-brikken, og peg derefter på Nattevagt-spilleren.\n",
+  "otherNightReminder": "Nattevagten kan pege på en spiller. Væk den spiller, vis kortet 'Denne karakter valgte dig' og Nattevagt-brikken, og peg derefter på Nattevagt-spilleren.\n",
+  "remindersGlobal": null,
+  "reminders": "Ingen Evne"
+ },
+ {
+  "id": "noble",
+  "name": "Adelig",
+  "ability": "Du begynder med at kende 3 spillere, hvoraf 1 og kun 1 er ond.",
+  "firstNightReminder": "Peg på 3 spillere, inklusive en ond spiller, uden bestemt rækkefølge.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Har set"
+ },
+ {
+  "id": "nodashii",
+  "name": "No Dashii",
+  "ability": "Vælg en spiller hver nat*: de dør. en byboer der sidder nærmest dig på hver side, er forgiftet.",
+  "firstNightReminder": null,
+  "otherNightReminder": "No Dashii peger på en spiller. Den spiller dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Død,Forgiftet"
+ },
+ {
+  "id": "ogre",
+  "name": "Ogre",
+  "ability": "På din 1. nat skal du vælge en spiller (ikke dig selv): du bliver deres alignment (du ved ikke hvilken), selvom du er fuld eller forgiftet.",
+  "firstNightReminder": "Ogre peger på en spiller (ikke sig selv) og bliver deres alignment.\n",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Ven"
+ },
+ {
+  "id": "ojo",
+  "name": "Ojo",
+  "ability": "Vælg en karakter hver nat*: de dør. Hvis de ikke er i spil, vælger historiefortælleren, hvem der dør.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Ojo'en peger på en karakter på arket; hvis i spil, dør den spiller. Hvis det ikke er i spil, vælger historiefortælleren, hvem der dør i stedet.\n",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "oracle",
+  "name": "Orakel",
+  "ability": "Hver nat* lærer du, hvor mange døde spillere der er onde.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Vis håndsignalet for antallet (0, 1, 2 osv.) af døde onde spillere.",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "organgrinder",
+  "name": "Orgelspilleren",
+  "ability": "Alle spillere holder øjnene lukkede, når de stemmer, og afstemningen er hemmelig. Stemmer på dig tæller kun, hvis du stemmer.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Skal til at dø"
+ },
+ {
+  "id": "pacifist",
+  "name": "Pacifist",
+  "ability": "Henrettede gode spillere dør måske ikke",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "philosopher",
+  "name": "Filosof",
+  "ability": "Vælg en god karakter én gang pr. spil om natten: få den evne. Hvis denne karakter er i spil, er de fulde.\n",
+  "firstNightReminder": "Filosoffen viser enten et 'nej' hovedsignal eller peger på en god karakter på deres ark. Hvis de valgte en karakter: Skift Filosof-brikken, ud med karakter-brikken,der er ikke er i spil. Eller, hvis karakteren er i spil, skal du placere 'Fuld' markøren ved denne spiller og 'Er filosoffen-markøren' ved filosoffen.",
+  "otherNightReminder": "Hvis Filosoffen ikke har brugt sin evne: Filosoffen viser enten et 'nej' hovedsignal eller peger på en god karakter på deres ark. Hvis de valgte en karakter: Skift Filosof-brikken, ud med karakter-brikken,der er ikke er i spil. Eller, hvis karakteren er i spil, skal du placere 'Fuld' markøren ved denne spiller og 'Er filosof-markøren' ved filosoffen.",
+  "remindersGlobal": "Fuld,Er Filosoffen",
+  "reminders": null
+ },
+ {
+  "id": "pithag",
+  "name": "Troldkælling",
+  "ability": "Hver aften* skal du vælge en spiller og en karakter, de bliver (hvis den ikke er i spil). Hvis der laves en dæmon, er dødsfaldene i aften vilkårlige",
+  "firstNightReminder": null,
+  "otherNightReminder": "Pit-Hag peger på en spiller og en karakter på arket. Hvis denne karakter ikke er i spil, skal du vække spilleren og vise dem kortet 'Du er' og det relevante karaktertoken. Hvis karakteren er i spil, sker der ikke noget",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "pixie",
+  "name": "Fe",
+  "ability": "Du begynder at kende 1 I-spil Byboer. Hvis du var 'gal' over, at du var denne karakter, får du deres evner, når de dør.",
+  "firstNightReminder": "Vis Feen 1 I-Spil Byboer karakter token.\n",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Gal,Has Har evne"
+ },
+ {
+  "id": "plaguedoctor",
+  "name": "Pestlæge",
+  "ability": "Hvis du dør, får historiefortælleren en Håndlanger-evne.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "historiefortæller-evne"
+ },
+ {
+  "id": "po",
+  "name": "Po",
+  "ability": "Hver nat* kan du vælge en spiller: de dør. Hvis dit sidste nat ikke valgte nogen, så vælg 3 spillere i aften.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis Po'en ikke valgte nogen den foregående nat: Po'en peger på tre spillere. Ellers: Po viser enten \"nej\" hovedsignalet eller peger på en spiller. Udvalgte spillere dør\n",
+  "remindersGlobal": null,
+  "reminders": "Død,3 angreb"
+ },
+ {
+  "id": "poisoner",
+  "name": "Giftblander",
+  "ability": "Vælg en spiller hver nat: de er forgiftet i aften og i morgen dag.",
+  "firstNightReminder": "Poisoneren peger på en spiller. Den spiller er forgiftet.\n",
+  "otherNightReminder": "Den tidligere forgiftede spiller er ikke længere forgiftet. Poisoneren peger på en spiller. Den spiller er forgiftet.\n",
+  "remindersGlobal": null,
+  "reminders": "Forgiftet"
+ },
+ {
+  "id": "politician",
+  "name": "Politiker",
+  "ability": "Hvis du var den spiller, der var mest ansvarlig for, at dit hold tabte, ændrer du alignment og vinder, selvom du er død.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "poppygrower",
+  "name": "Valmuedyrker",
+  "ability": "Håndlangere & Dæmoner kender ikke hinanden. Hvis du dør, lærer de, hvem hinanden er den aften",
+  "firstNightReminder": "Informer ikke Dæmonerne\/Håndlangerne, hvem hinanden er\n",
+  "otherNightReminder": "Hvis valmuedyrkeren er død, så vis håndlangere\/dæmoner, hvem hinanden er.\n",
+  "remindersGlobal": null,
+  "reminders": "Onde vågner\n"
+ },
+ {
+  "id": "preacher",
+  "name": "Prædikant",
+  "ability": "Vælg en spiller hver aften: en Håndlanger, hvis den bliver valgt, lærer dette. Alle udvalgte Håndlangere har ingen evner.\n",
+  "firstNightReminder": "Vælg en spiller hver aften: en Håndlanger, hvis den bliver valgt, lærer dette. Alle valgte Håndlangere har ingen evner.\n",
+  "otherNightReminder": "Prædikanten vælger en spiller. Hvis en Håndlanger er valgt, skal du vække Håndlangeren og vise kortet 'Denne karakter valgte dig' og derefter Prædiker-tokenet. Placer derefter 'ved en prædiken' ved karakteren",
+  "remindersGlobal": null,
+  "reminders": "Ved en prædiken\n"
+ },
+ {
+  "id": "professor",
+  "name": "Professor",
+  "ability": "Én gang pr. spil, om natten*, skal du vælge en død spiller: hvis de er byboer, genopstår de.",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis professoren ikke har brugt deres evner: Professoren ryster enten på hovedet nej eller peger på en spiller. Hvis den spiller er en byboer, er de nu i live.",
+  "remindersGlobal": null,
+  "reminders": "Levende,Ingen evne"
+ },
+ {
+  "id": "psychopath",
+  "name": "Psykopat",
+  "ability": "Hver dag, før nomineringer, kan du offentligt vælge en spiller: de dør. Hvis du bliver henrettet, dør du kun, hvis du taber i Sten-Saks-Papir.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "pukka",
+  "name": "Pukka",
+  "ability": "Vælg en spiller hver nat: de er forgiftede. Den tidligere forgiftede spiller dør og bliver derefter rask.",
+  "firstNightReminder": "Pukka peger på en spiller. Den spiller er forgiftet.\n",
+  "otherNightReminder": "Pukka peger på en spiller. Den spiller er forgiftet. Den tidligere forgiftede spiller dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Forgiftet,Død"
+ },
+ {
+  "id": "puzzlemaster",
+  "name": "Gådemesteren",
+  "ability": "1 spiller er fuld, selvom du dør. Hvis du gætter (en gang) hvem det er, identificerer du dæmonspilleren, men gæt forkert og få falsk information.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Fuld,Gæt brugt"
+ },
+ {
+  "id": "ravenkeeper",
+  "name": "Ravnevogter",
+  "ability": "Hvis du dør om natten, bliver du vækket til at vælge en spiller: du lærer deres karakter.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis Ravnevogteren døde i aften: Ravnevogteren peger på en spiller. Vis den spillers karaktertoken.\n",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "recluse",
+  "name": "Eneboer",
+  "ability": "Du kan registrere dig som ond og som en Håndlanger eller Dæmon, selvom du er død.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "revolutionary",
+  "name": "Revolutionær",
+  "ability": "2 nabospillere er kendt for at være den samme alignment. En gang pr. spil, registrerer en af ​​dem forkert\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Registrer forkert?"
+ },
+ {
+  "id": "riot",
+  "name": "Riot",
+  "ability": "Nominerede dør, men kan nominere igen med det samme (på dag 3 skal de). Efter dag 3 vinder det onde. [Alle håndlanger er Riot]",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "sage",
+  "name": "Vismand",
+  "ability": "Hvis Dæmonen dræber dig, lærer du, at det er 1 af 2 spillere.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis vismanden blev dræbt af en dæmon: Peg på to spillere, hvoraf den ene er den dæmon.\n",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "sailor",
+  "name": "Sømand",
+  "ability": "Hver nat skal du vælge en levende spiller: enten du eller de er fulde indtil skumringen. Du kan ikke dø.",
+  "firstNightReminder": "Sømanden peger på en levende spiller. Enten er sømanden eller den valgte spiller fuld.\n",
+  "otherNightReminder": "Den tidligere fulde spiller er ikke længere fuld. Sømanden peger på en levende spiller. Enten er sømanden eller den valgte spiller fuld.\n",
+  "remindersGlobal": null,
+  "reminders": "Fuld"
+ },
+ {
+  "id": "saint",
+  "name": "Helgen",
+  "ability": "Hvis du dør ved henrettelse, taber dit hold.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "savant",
+  "name": "Savant",
+  "ability": "Hver dag kan du besøge historiefortælleren for at lære 2 ting privat: 1 er sandt og 1 er falsk.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "scapegoat",
+  "name": "Syndebuk",
+  "ability": "Hvis en spiller i din rækkefølge bliver henrettet, kan du blive henrettet i stedet for.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "scarletwoman",
+  "name": "Fristerinden",
+  "ability": "Hvis der er 5 eller flere spillere i live & Dæmonen dør, bliver du Dæmonen. (Rejsende tæller ikke)",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis Fristerinden blev Dæmonen i dag: Vis 'Du er'-kortet, så dæmonen.",
+  "remindersGlobal": null,
+  "reminders": "Dæmon"
+ },
+ {
+  "id": "seamstress",
+  "name": "Syerske",
+  "ability": "Én gang pr. spil, om natten, skal du vælge 2 spillere (ikke dig selv): du lærer, om de er på samme hold.\n",
+  "firstNightReminder": "Syerskeren viser enten et 'nej' hovedsignal eller peger på to andre spillere. Hvis syerinden valgte spillere, nikke 'ja' eller ryste 'nej' for, om de er af samme linje.\n",
+  "otherNightReminder": "Hvis Syersken ikke har brugt sin evne endnu: Syerskeren viser enten et 'nej' hovedsignal eller peger på to andre spillere. Hvis syerinden valgte spillere, nikke 'ja' eller ryste 'nej' for, om de er af samme hold.\n",
+  "remindersGlobal": null,
+  "reminders": "Ingen evne"
+ },
+ {
+  "id": "sentinel",
+  "name": "Vagtpost",
+  "ability": "Der kan være 1 ekstra eller 1 færre Fremmed i spil.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "shabaloth",
+  "name": "Shabaloth",
+  "ability": "Hver nat* skal du vælge 2 spillere: de dør. En død spiller, du valgte i går aftes, kan blive spyttet ud igen (genoplivet).",
+  "firstNightReminder": null,
+  "otherNightReminder": "En spiller, som Shabaloth valgte den foregående nat, kan genopstå. Shabaloth peger på to spillere. De spillere dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Død,Levende"
+ },
+ {
+  "id": "shugenja",
+  "name": "Shugenja",
+  "ability": "Du begynder at vide, om din nærmeste onde spiller er med eller mod uret. Hvis den er lige langt, er denne information vilkårlig.\n",
+  "firstNightReminder": "Væk Shugenja; peg vandret i retning af den nærmeste onde spiller. Hvis de to nærmeste onde spillere er lige langt, skal du pege din finger vandret i begge retninger.\n",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "slayer",
+  "name": "Dæmondræber",
+  "ability": "En gang pr. spil, i løbet af dagen, må du offentligt vælge en spiller: hvis de er Dæmonen, dør de.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Ingen evne"
+ },
+ {
+  "id": "snakecharmer",
+  "name": "Slangehvisker",
+  "ability": "Hver nat skal du vælge en levende spiller: en udvalgt Dæmon bytter karakterer og justeringer med dig og bliver derefter forgiftet.",
+  "firstNightReminder": "Slangetæmmeren peger på en spiller. Hvis den spiller er dæmonen: skift dæmon- og slangetæmmerkarakteren og Alignment. Væk hver spiller for at informere dem om deres nye rolle og tilpasning. Den nye slangetæmmer er forgiftet.",
+  "otherNightReminder": "Slangetæmmeren peger på en spiller. Hvis den spiller er dæmonen: skift dæmon- og slangetæmmerkarakteren og Alignment. Væk hver spiller for at informere dem om deres nye rolle og tilpasning. Den nye slangetæmmer er forgiftet.",
+  "remindersGlobal": null,
+  "reminders": "Forgiftet"
+ },
+ {
+  "id": "snitch",
+  "name": "Stikker",
+  "ability": "Håndlangere begynder at kende 3 karakterer, der ikke er i spil.\n",
+  "firstNightReminder": "Efter Håndlanger-info vækkes hver Håndlanger og vise dem tre ikke-i-spillede karakterbrikker. Disse kan være ens eller forskellige fra hinanden og dem, der vises til Dæmonen.\n",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "soldier",
+  "name": "Soldat",
+  "ability": "Du er immun overfor dæmonen",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "spiritofivory",
+  "name": "Elfenbensånd",
+  "ability": "Der kan ikke være mere end 1 ekstra ond spiller.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Ingen ekstra ond"
+ },
+ {
+  "id": "spy",
+  "name": "Spion",
+  "ability": "Hver nat ser du Grimoire. Du kan registrere som en Byboer eller en fremmed, selv hvis du er død",
+  "firstNightReminder": "Vis Grimoire til spionen, så længe de har brug for det.\n",
+  "otherNightReminder": "Vis Grimoire til spionen, så længe de har brug for det.\n",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "steward",
+  "name": "Forvalter",
+  "ability": "Du begynder at kende 1 god spiller.\n",
+  "firstNightReminder": "Peg på 1 god spiller.\n",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Kendt"
+ },
+ {
+  "id": "stormcatcher",
+  "name": "Stormfanger",
+  "ability": "Nævn en god karakter. Hvis de er i spil, kan de kun dø ved henrettelse, men onde spillere lærer, hvilken spiller det er.",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Sikker"
+ },
+ {
+  "id": "summoner",
+  "name": "Summoner",
+  "ability": "Du får 3 bluffs. På den 3. nat skal du vælge en spiller: de bliver en ond dæmon efter eget valg. [Ingen dæmon]\n",
+  "firstNightReminder": "Vis kortet 'Disse karakterer er ikke i spil'. Vis 3 karaktertokens af gode karakterer, der ikke er i spil.\n",
+  "otherNightReminder": "Hvis det er den 3. nat, skal du vække Summoner. De peger på en spiller og en dæmon på karakterarket - den spiller bliver den dæmon.\n",
+  "remindersGlobal": null,
+  "reminders": "Nat 1,Nat 2,Nat 3"
+ },
+ {
+  "id": "sweetheart",
+  "name": "Kæreste",
+  "ability": "Når du dør, er 1 spiller fuld fra nu af.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Vælg en spiller. denne er fuld",
+  "remindersGlobal": null,
+  "reminders": "Fuld"
+ },
+ {
+  "id": "tealady",
+  "name": "Thedame",
+  "ability": "Hvis begge dine levende naboer er gode, kan de ikke dø.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Kan ikke dø"
+ },
+ {
+  "id": "thief",
+  "name": "Tyv",
+  "ability": "Hver aften skal du vælge en spiller (ikke dig selv): deres stemme tæller negativt i morgen.\n",
+  "firstNightReminder": "Tyven peger på en spiller. Sæt tyvens 'negative stemme'-påmindelse ved den valgte spillers karakterbrik.\n",
+  "otherNightReminder": "Tyven peger på en spiller. Sæt tyvens 'negative stemme'-påmindelse ved den valgte spillers karaktertoken.\n",
+  "remindersGlobal": null,
+  "reminders": "Negativ Stemme"
+ },
+ {
+  "id": "tinker",
+  "name": "Opfinder",
+  "ability": "Du kan dø når som helst",
+  "firstNightReminder": null,
+  "otherNightReminder": "Opfinderen dør måske",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "towncrier",
+  "name": "Opråber",
+  "ability": "Hvis begge dine levende naboer er gode, kan de ikke dø.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Nik 'ja' eller ryst på hovedet 'nej' for, om en Håndlanger er nomineret i dag. Placer 'Håndlanger ikke nomineret'-markøren (fjern 'Håndlanger nomineret', hvis nogen).\n",
+  "remindersGlobal": null,
+  "reminders": "Håndlanger ikke nomineret, Håndlanger nomineret\n"
+ },
+ {
+  "id": "toymaker",
+  "name": "Legetøjsmager",
+  "ability": "Dæmonen kan vælge ikke at angribe og skal gøre dette mindst én gang pr. spil. Onde spillere får normal startinformation.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Intet angreb"
+ },
+ {
+  "id": "undertaker",
+  "name": "Bedemand",
+  "ability": "Hver nat* lærer du, hvilken karakter der døde ved henrettelse i dag.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis en spiller blev henrettet i dag: Vis denne spillers Karakterbrik.\n",
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "vigormortis",
+  "name": "Vigormortis",
+  "ability": "Vælg en spiller hver nat*: de dør. Håndlangere du dræber bevarer deres evner og forgifter 1 Byboer nabo. [−1 Fremmed]\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Vigormortis peger på en spiller. Den spiller dør. Hvis det er en Håndlanger, beholder de deres evner, og en af ​​deres byboer-naboer bliver forgiftet.\n",
+  "remindersGlobal": null,
+  "reminders": "Død,Har Evne,Forgiftet"
+ },
+ {
+  "id": "villageidiot",
+  "name": "Landsbytosse",
+  "ability": "Hver aften skal du vælge en spiller: du lærer deres alignment. [+0 til +2 landsbyidioter. 1 af de ekstra er fuld]\n",
+  "firstNightReminder": "Landsbytossen peger på en spiller; giv en thumbs up, hvis den spiller er god, eller en thumbs down, hvis den spiller er ond.\n",
+  "otherNightReminder": "Landsbytossen peger på en spiller; giv en thumbs up, hvis den spiller er god, eller en thumbs down, hvis den spiller er ond.\n",
+  "remindersGlobal": null,
+  "reminders": "fuld"
+ },
+ {
+  "id": "virgin",
+  "name": "Jomfru",
+  "ability": "1. gang du bliver nomineret, hvis nomineren er en byboer, bliver de henrettet med det samme.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Ingen Evne"
+ },
+ {
+  "id": "vizier",
+  "name": "Vizier",
+  "ability": "Alle spillere ved, hvem du er. Du kan ikke dø i løbet af dagen. Hvis en god spiller stemt, kan du vælge at henrette med det samme.\n",
+  "firstNightReminder": "Annoncer 'Vizieren er i spil' og angiv, hvilken spiller de er.\n",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "vortox",
+  "name": "Vortox",
+  "ability": "Vælg en spiller hver nat*: de dør. Byboeres evner giver falsk information. Hver dag, hvis ingen bliver henrettet, vinder det onde.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Vortox peger på en spiller. Den spiller dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "voudon",
+  "name": "Voudon",
+  "ability": "Kun du og de døde kan stemme. De behøver ikke en stemmebrik for at gøre det. 50 % flertal er ikke påkrævet.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "washerwoman",
+  "name": "Vaskekone\n",
+  "ability": "Du starter med at vide, at 1 ud af 2 spillere er en bestemt Byboer",
+  "firstNightReminder": "Vis karaktersbrikken for en Byboer i spil. Peg på to spillere, hvoraf den ene er denne karakter.\n",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": "Byboer,Forkert"
+ },
+ {
+  "id": "widow",
+  "name": "Enke",
+  "ability": "På din 1. nat, se i Grimoire og vælg en spiller: de er forgiftet. 1 god spiller ved, at en enke er i spil.\n",
+  "firstNightReminder": "Vis Grimoire til enken, så længe de har brug for det. Enken peger på en spiller. Den spiller er forgiftet. Væk en god spiller. Vis kortet 'Disse karakterer er i spil' og derefter enkebrikken\n",
+  "otherNightReminder": null,
+  "remindersGlobal": "Ved det",
+  "reminders": "Forgiftet"
+ },
+ {
+  "id": "witch",
+  "name": "Heks",
+  "ability": "Hver aften: Vælg en spiller. Hvis de nominerer i morgen, dør de. Hvis kun 3 spillere lever, mister du denne evne.\n",
+  "firstNightReminder": "Heksen peger på en spiller. Hvis den spiller nominerer i morgen, dør de med det samme.\n",
+  "otherNightReminder": "Heksen peger på en spiller. Hvis den spiller nominerer i morgen, dør de med det samme.\n",
+  "remindersGlobal": null,
+  "reminders": "Forbandet"
+ },
+ {
+  "id": "yaggababble",
+  "name": "Yaggababble",
+  "ability": "Du begynder at kende en hemmelig sætning. For hver gang du sagde det offentligt i dag, kan en spiller dø.\n",
+  "firstNightReminder": "Vis Yaggababble deres hemmelige sætning.\n",
+  "otherNightReminder": "Vælg et antal spillere op til det samlede antal gange, Yaggababble sagde deres hemmelige sætning offentligt, disse spillere dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Død"
+ },
+ {
+  "id": "zealot",
+  "name": "Zelot",
+  "ability": "Hvis der er 5 eller flere spillere i live, skal du stemme på hver nominering.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
+ },
+ {
+  "id": "zombuul",
+  "name": "Zombuul",
+  "ability": "Hver nat*, hvis ingen døde i dag, vælg en spiller: de dør. 1. gang du dør, lever du, men registrerer dig som død.\n",
+  "firstNightReminder": null,
+  "otherNightReminder": "Hvis ingen døde i løbet af dagen: Zombuul peger på en spiller. Den spiller dør.\n",
+  "remindersGlobal": null,
+  "reminders": "Døde idag,Død"
+ }
+]

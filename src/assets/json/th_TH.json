@@ -28,8 +28,8 @@
  },
  {
   "id": "alsaahir",
-  "name": "Alsaahir",
-  "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+  "name": "อัลซาเฮีย",
+  "ability": "ในทุกวัน ถ้าคุณประกาศเดาว่าผู้เล่นคนไหนเป็นปีศาจคนไหนเป็นลูกสมุนได้ถูกต้องทุกคน, ฝ่ายดีชนะทันที",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
@@ -151,6 +151,15 @@
   "otherNightReminder": null,
   "remindersGlobal": null,
   "reminders": "เสนอฝ่ายดี,เสนอฝ่ายร้าย"
+ },
+ {
+  "id": "boffin",
+  "name": "Boffin",
+  "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability. You both know which.",
+  "firstNightReminder": "Wake the Boffin and show them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+  "otherNightReminder": null,
+  "remindersGlobal": null,
+  "reminders": null
  },
  {
   "id": "bonecollector",
@@ -774,6 +783,15 @@
   "reminders": "ตาย,ติดพิษ"
  },
  {
+  "id": "lordoftyphon",
+  "name": "Lord of Typhon",
+  "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? To +? Outsiders]",
+  "firstNightReminder": "Wake the players on either side of the Demon. Show them the 'You Are' card, the token of the Minion they now are, and a thumbs down to indicate they are evil.",
+  "otherNightReminder": "The Lord of Typhon points to a player. That player dies.",
+  "remindersGlobal": null,
+  "reminders": "Dead"
+ },
+ {
   "id": "lunatic",
   "name": "คนบ้า",
   "ability": "คุณคิดว่าคุณคือปีศาจ แต่คุณไม่ใช่ ปีศาจรู้ว่าคุณเป็นใครและคุณเลือกจะฆ่าใครคืนนี้",
@@ -968,7 +986,7 @@
   "ability": "(ใช้ได้ครั้งเดียว) ในตอนกลางคืน เลือกตัวละครฝ่ายดีหนึ่งตัว คุณจะกลายเป็นตัวละคนนี้ ถ้าตัวละครนี้มีคนอื่นใช้อยู่แล้ว เขาจะเมา",
   "firstNightReminder": "พหูสูตส่ายหน้าถ้าไม่ใช้พลัง หรือชี้ไปที่ตัวละครหนึ่งตัวบนใบตัวละคร ถ้าเขาเลือกตัวละคร: สลับโทเคนตัวละครที่ไม่ถูกใช้กับโทเคนพหูสูตแล้ววางป้ายเตือนความจำ 'เป็นพหูสูต' ถ้าตัวละครนี้ถูกใช้อยู่, วางโทเคน 'เมา' ที่ผู้เล่นคนนั้น",
   "otherNightReminder": "ถ้าพหูสูตยังไม่ได้ใช่พลัง: พหูสูตส่ายหน้าถ้าไม่ใช้พลัง หรือชี้ไปที่ตัวละครหนึ่งตัวบนใบตัวละคร ถ้าเขาเลือกตัวละคร: สลับโทเคนตัวละครที่ไม่ถูกใช้กับโทเคนพหูสูตแล้ววางป้ายเตือนความจำ 'เป็นพหูสูต' ถ้าตัวละครนี้ถูกใช้อยู่, วางโทเคน 'เมา' ที่ผู้เล่นคนนั้น",
-  "remindersGlobal": "เมา,เป็นพหูสูต",
+  "remindersGlobal": "เป็นพหูสูต,เมา",
   "reminders": null
  },
  {
@@ -1441,8 +1459,8 @@
  },
  {
   "id": "zealot",
-  "name": "Zealot",
-  "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+  "name": "หัวรุนแรง",
+  "ability": "ถ้าตอนนี้มีผู้เล่นที่ยังมีชีวิตมากกว่าหรือเท่ากับห้าคน คุณจะต้องโหวตทุกครั้งที่มีการเสนอชื่อประหาร",
   "firstNightReminder": null,
   "otherNightReminder": null,
   "remindersGlobal": null,
