@@ -2453,5 +2453,13 @@
         "name": "Zealot",
         "team": "outsider",
         "ability": "If there are 5 or more players alive, you must vote for every nomination."
+    },
+    {
+        "id": "gnome",
+        "image": "https://github.com/WellingtonWritesCode/botc-script-translator/blob/main/src/assets/icons/gnome.png?raw=true",
+        "reminders": ["Amigo"],
+        "name": "Gnome",
+        "team": "traveler",
+        "ability": "All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
     }
 ]
